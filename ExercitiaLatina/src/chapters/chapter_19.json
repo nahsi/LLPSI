@@ -1,0 +1,1280 @@
+{
+    "id": 18,
+    "name": "CAPITVLVM XIX",
+    "exercises": [
+        {
+            "id": 0,
+            "name": "Exercise 1",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Magister: \"Sextus bonus discipulus est; nēmō discipulōrum meōrum # est quam ille: Sextus discipulus meus # est.\"",
+                    "a": [
+                        "melior",
+                        "optimus"
+                    ]
+                },
+                {
+                    "q": "2. Magister: \"Mārcus malus discipulus est; nēmō discipulōrum meōrum # est quam ille: Mārcus discipulus meus # est.\"",
+                    "a": [
+                        "pēior",
+                        "pessimus"
+                    ]
+                },
+                {
+                    "q": "3. Sicilia īnsula magna est, # quam Corsica et Sardinia; Sicilia # hārum īnsulārum est.",
+                    "a": [
+                        "māior",
+                        "māxima"
+                    ]
+                },
+                {
+                    "q": "4. Melita īnsula parva est, multō # quam Sicilia et Sardinia; Melita # hārum īnsulārum est.",
+                    "a": [
+                        "minor",
+                        "minima"
+                    ]
+                },
+                {
+                    "q": "5. Digitus quārtus # est quam digitus medius et # quam digitus quīntus, quī # est ex quīnque digitīs.",
+                    "a": [
+                        "minor",
+                        "māior",
+                        "minimus"
+                    ]
+                },
+                {
+                    "q": "6. Ōstia est magnum oppidum, # quam Tūsculum, sed # quam Rōma.",
+                    "a": [
+                        "māius",
+                        "minus"
+                    ]
+                },
+                {
+                    "q": "7. Iūlius multōs servōs habet, # quam Cornēlius aut Fabius; ex tribus dominīs Iūlius # servōs habet.",
+                    "a": [
+                        "plūrēs",
+                        "plūrimōs"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Exercise 2",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Aemilia # Iūliī est; Iūlius # Aemiliae est.",
+                    "a": [
+                        "uxor",
+                        "marītus"
+                    ]
+                },
+                {
+                    "q": "2. Marītus et uxor sub eōdem # habitant.",
+                    "a": [
+                        "tēctō"
+                    ]
+                },
+                {
+                    "q": "3. Inter altās #, quae tēctum sustinent, tria # stant.",
+                    "a": [
+                        "columnās",
+                        "signa"
+                    ]
+                },
+                {
+                    "q": "4. Iūnō, # [= uxor] Iovis, est # mātrōnārum.",
+                    "a": [
+                        "coniūnx|coniux",
+                        "dea"
+                    ]
+                },
+                {
+                    "q": "5. Venus dea # ac # est, neque # alia dea pulchrior est quam illa; # Veneris ab omnibus laudātur.",
+                    "a": [
+                        "amōris",
+                        "pulchritūdinis",
+                        "ūlla",
+                        "pulchritūdō"
+                    ]
+                },
+                {
+                    "q": "6. Venus et Cupīdō ab # invocantur.",
+                    "a": [
+                        "amantibus"
+                    ]
+                },
+                {
+                    "q": "7. Ante decem annōs Aemilia nōn #, sed # erat, quae apud parentēs suōs in # Rōmānā habitābat.",
+                    "a": [
+                        "mātrōna",
+                        "virgō",
+                        "domō"
+                    ]
+                },
+                {
+                    "q": "8. Tunc Iūlius # vigintī duōrum annōrum erat.",
+                    "a": [
+                        "adulēscēns"
+                    ]
+                },
+                {
+                    "q": "9. Iuppiter 'Optimus Māximus' # [= appellātur].",
+                    "a": [
+                        "vocātur"
+                    ]
+                },
+                {
+                    "q": "10. In Capitōliō est # Iovis Optimī Māximī.",
+                    "a": [
+                        "templum"
+                    ]
+                },
+                {
+                    "q": "11. In Palātiō sunt domūs # [= magnae et pulchrae].",
+                    "a": [
+                        "magnificae"
+                    ]
+                },
+                {
+                    "q": "12. In # Rōmānum multī hominēs #.",
+                    "a": [
+                        "forum",
+                        "conveniunt"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Exercise 3",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Cuius marītus est Iūlius? ...",
+                    "a": [
+                        "Iūlius est marītus Aemiliae"
+                    ]
+                },
+                {
+                    "q": "2. Ubi sunt marītus et uxor et quid agunt? ...",
+                    "a": [
+                        "in peristȳlō ambulant"
+                    ]
+                },
+                {
+                    "q": "3. Quōmodo sustinētur tēctum peristȳlī? ...",
+                    "a": [
+                        "columnīs sustinētur tēctum peristȳlī"
+                    ]
+                },
+                {
+                    "q": "4. Quibus signīs peristȳlum ōrnātur? ...",
+                    "a": [
+                        "peristȳlum ōrnātur signīs Iūnōnis, Cupīdinis, Veneris"
+                    ]
+                },
+                {
+                    "q": "5. Quae sunt Venus et Iūnō? ...",
+                    "a": [
+                        "Venus dea amōris et pulchritūdinis est, Iūnō est dea mātrōnārum"
+                    ]
+                },
+                {
+                    "q": "6. Cuius uxor est Iūnō? ...",
+                    "a": [
+                        "Iūnō uxor Iovis est"
+                    ]
+                },
+                {
+                    "q": "7. Num Iuppiter bonus marītus est? ...",
+                    "a": [
+                        "immō malus marītus est Iuppiter"
+                    ]
+                },
+                {
+                    "q": "8. Cūr amantēs Venerem et Cupīdinem invocant? ...",
+                    "a": [
+                        "... quia Venus et Cupīdō amōrem in cordibus hominum excitāre possunt"
+                    ]
+                },
+                {
+                    "q": "9. Quot līberōs habent Iūlius et Aemilia? ...",
+                    "a": [
+                        "duōs līberōs habent"
+                    ]
+                },
+                {
+                    "q": "10. Uter fīlius minor est, Mārcusne an Quīntus? ...",
+                    "a": [
+                        "Quīntus est fīlius minor"
+                    ]
+                },
+                {
+                    "q": "11. Quis est māximus līberōrum? ...",
+                    "a": [
+                        "māximus līberōrum est Mārcus"
+                    ]
+                },
+                {
+                    "q": "12. Quot annōs habet Iūlia? ...",
+                    "a": [
+                        "Iūlia quīnque annōs habet"
+                    ]
+                },
+                {
+                    "q": "13. Ante decem annōs ubi habitābat Aemilia? ...",
+                    "a": [
+                        "tunc Aemilia Rōmae habitābat"
+                    ]
+                },
+                {
+                    "q": "14. Ubi est templum Iovis Optimī Māximī? ...",
+                    "a": [
+                        "templum Iovis Optimī Māximī est in Capitōliō"
+                    ]
+                },
+                {
+                    "q": "15. Estne Tūsculum oppidum māius quam Ōstia? ...",
+                    "a": [
+                        "Tūsculum est oppidum minus quam Ōstia"
+                    ]
+                },
+                {
+                    "q": "16. Quae est urbs māxima imperiī Rōmānī? ...",
+                    "a": [
+                        "Rōma est urbs māxima imperiī Rōmānī"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Exercise 4",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Iūlius nōn du# fīliās, sed ūn# fīliam habet.",
+                    "a": [
+                        "ās",
+                        "am"
+                    ]
+                },
+                {
+                    "q": "2. Cornēlius nōn du# fīliōs, sed ūn# fīlium habet.",
+                    "a": [
+                        "ōs|o",
+                        "um"
+                    ]
+                },
+                {
+                    "q": "3. Cornēliō ūn# fīlius est, nōn du#, neque eī du# fīliae sunt, sed ūn# tantum.",
+                    "a": [
+                        "us",
+                        "o",
+                        "ae",
+                        "a"
+                    ]
+                },
+                {
+                    "q": "4. Iūliō sunt tr# līberī: du# fīliī et ūn# fīlia.",
+                    "a": [
+                        "ēs",
+                        "o",
+                        "a"
+                    ]
+                },
+                {
+                    "q": "5. Iūlius est pater tr# līberōrum: du# fīliōrum et ūn# fīliae.",
+                    "a": [
+                        "ium",
+                        "ōrum",
+                        "īus"
+                    ]
+                },
+                {
+                    "q": "6. Māter in ātriō est cum tr# līberīs et du# ancillīs.",
+                    "a": [
+                        "ibus",
+                        "ābus"
+                    ]
+                },
+                {
+                    "q": "7. Iūlius ā du# servīs vehitur.",
+                    "a": [
+                        "ōbus"
+                    ]
+                },
+                {
+                    "q": "8. In peristȳlō sunt tr# signa: ūn# Cupīdinis, du# altera Iūnōnis et Veneris.",
+                    "a": [
+                        "ia",
+                        "um",
+                        "o"
+                    ]
+                },
+                {
+                    "q": "9. In peristȳlō sunt signa du# deārum et ūn# deī.",
+                    "a": [
+                        "ārum",
+                        "īus"
+                    ]
+                },
+                {
+                    "q": "10. Signum Cupīdinis est minimum hōrum tr# signōrum (= ex hīs tr# signīs).",
+                    "a": [
+                        "ium",
+                        "ibus"
+                    ]
+                },
+                {
+                    "q": "11. Via Aurēlia, Flāminia, Appia sunt tr# viae Italiae.",
+                    "a": [
+                        "ēs"
+                    ]
+                },
+                {
+                    "q": "12. Via Appia longissima est hārum tr# viārum (= ex hīs tr# viīs).",
+                    "a": [
+                        "ium",
+                        "ibus"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Exercise 5",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Sextus, fīlius Cornēliī, est discipulus probus, quī magistrō pār#, bene comput#, pulchrē scrīb# neque in lūdō dorm#.",
+                    "a": [
+                        "et",
+                        "at",
+                        "it",
+                        "it"
+                    ]
+                },
+                {
+                    "q": "2. Itaque Sextus saepe ā magistrō laud#, numquam reprehend#.",
+                    "a": [
+                        "ātur",
+                        "itur"
+                    ]
+                },
+                {
+                    "q": "3. Ante vīgintī annōs Cornēlius, pater Sextī, ipse puer #, quī Rōmae habit#.",
+                    "a": [
+                        "erat",
+                        "ābat"
+                    ]
+                },
+                {
+                    "q": "4. Tunc is discipulus tam probus # quam fīlius eius nunc #.",
+                    "a": [
+                        "erat",
+                        "est"
+                    ]
+                },
+                {
+                    "q": "5. Cornēlius magistrō pār#, bene comput#, pulchrē scrīb# neque in lūdō dorm#.",
+                    "a": [
+                        "ēbat",
+                        "ābat",
+                        "ēbat",
+                        "iēbat"
+                    ]
+                },
+                {
+                    "q": "6. Omnia verba magistrī ā discipulō industriō aud#.",
+                    "a": [
+                        "iēbantur"
+                    ]
+                },
+                {
+                    "q": "7. Itaque Cornēlius saepe ā magistrō laud#, numquam reprehend#.",
+                    "a": [
+                        "ābātur",
+                        "ēbātur"
+                    ]
+                },
+                {
+                    "q": "8. Mārcus et Titus discipulī improbī sunt, quī in lūdō dorm#, male comput#, foedē scrīb# nec magistrō pār#.",
+                    "a": [
+                        "iunt",
+                        "ant",
+                        "unt",
+                        "ent"
+                    ]
+                },
+                {
+                    "q": "9. Itaque saepe ā magistrō reprehend# ac verber#.",
+                    "a": [
+                        "untur",
+                        "antur"
+                    ]
+                },
+                {
+                    "q": "10. Ante vīgintī annōs Iūlius, pater Mārcī, et Fabius, pater Titī, ipsī puerī #, quī Rōmae habit#.",
+                    "a": [
+                        "erant",
+                        "ābant"
+                    ]
+                },
+                {
+                    "q": "11. Tunc iī discipulī tam improbī # quam fīliī eōrum nunc #.",
+                    "a": [
+                        "erant",
+                        "sunt"
+                    ]
+                },
+                {
+                    "q": "12. Iūlius et Fabius male comput#, foedē scrīb#, nec magistrō pār#.",
+                    "a": [
+                        "ābant",
+                        "ēbant",
+                        "ēbant"
+                    ]
+                },
+                {
+                    "q": "13.In lūdō Iūlius et Fabius aut dorm# aut clām# et rīd#.",
+                    "a": [
+                        "iēbant",
+                        "ābant",
+                        "ēbant"
+                    ]
+                },
+                {
+                    "q": "14. Vōx magistrī ab illīs discipulīs nōn aud#.",
+                    "a": [
+                        "iēbātur"
+                    ]
+                },
+                {
+                    "q": "15. Iūlius et Fabius magistrum suum nōn tim#, quamquam saepe ab eō reprehend# ac verber#.",
+                    "a": [
+                        "ēbant",
+                        "ēbantur",
+                        "ābantur"
+                    ]
+                },
+                {
+                    "q": "16. In illō lūdō magister ā discipulīs nōn tim#, sed discipulī improbissimī ā magistrō tim#!",
+                    "a": [
+                        "ēbātur",
+                        "ēbantur"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Exercise 6",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Pater Iūliī homō # [= pecūniōsus] erat.",
+                    "a": [
+                        "dīves"
+                    ]
+                },
+                {
+                    "q": "2. Pater Aemiliae homō # erat, quī ūnam domum exiguam #. \t",
+                    "a": [
+                        "pauper",
+                        "possidēbat"
+                    ]
+                },
+                {
+                    "q": "3. Aemilia Iūlium nōn amābat, sed # Iūlius multa # eī dabat et # [= omnī diē] epistulās ad eam scrībēbat.",
+                    "a": [
+                        "tamen",
+                        "dōna",
+                        "cotīdiē|cottīdiē"
+                    ]
+                },
+                {
+                    "q": "4. Aemilia dōna eius nōn accipiēbat, sed omnia #.",
+                    "a": [
+                        "remittēbat"
+                    ]
+                },
+                {
+                    "q": "5. Quī fēminam amat nec ab eā amātur nōn #, sed # est.",
+                    "a": [
+                        "beātus",
+                        "miser"
+                    ]
+                },
+                {
+                    "q": "6. Virī epistulās et rosās aliōsque # ad amīcās suās # solent.",
+                    "a": [
+                        "flōrēs",
+                        "mittere"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Exercise 7",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Vīvitne pater Iūliī? ...",
+                    "a": [
+                        "pater Iūliī iam mortuus est"
+                    ]
+                },
+                {
+                    "q": "2. Ubi habitābat pater Aemiliae? ...",
+                    "a": [
+                        "pater Aemiliae Rōmae habitābat in domō exiguā"
+                    ]
+                },
+                {
+                    "q": "3. Num Iūlius propter pecūniam Aemiliam amābat? ...",
+                    "a": [
+                        "nōn propter pecūniam Aemiliam amābat, nam ea virgō pauper erat"
+                    ]
+                },
+                {
+                    "q": "4. Cūr tunc miser erat Iūlius? ...",
+                    "a": [
+                        "... quia Aemilia eum nōn amābat"
+                    ]
+                },
+                {
+                    "q": "5. Quem virum Aemilia amābat? ...",
+                    "a": [
+                        "Aemilia Crassum, virum dīvitem, amābat"
+                    ]
+                },
+                {
+                    "q": "6. Cūr misera erat Aemilia? ...",
+                    "a": [
+                        "... quia Crassus eam nōn amābat"
+                    ]
+                },
+                {
+                    "q": "7. Cūr Crassus Aemiliam nōn amābat? ...",
+                    "a": [
+                        "Crassus eam nōn amābat quia virgō pauper erat"
+                    ]
+                },
+                {
+                    "q": "8. Quid Iūlius ad Aemiliam mittēbat? ...",
+                    "a": [
+                        "Iūlius litterās cum flōribus ad Aemiliam mittēbat"
+                    ]
+                },
+                {
+                    "q": "9. Omniane dōna Iūliī ab Aemiliā remittēbantur? ...",
+                    "a": [
+                        "initiō omnia dōna remittēbantur, paulō post remittēbantur nūlla"
+                    ]
+                },
+                {
+                    "q": "10. Cūr Iūlius et Aemilia hodiē beātī sunt? ...",
+                    "a": [
+                        "beātī sunt coniugēs quia Aemilia Iūlium amat et ab eō amātur"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Exercise 8",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Ante XX annōs Iūlius ipse malus discipulus erat, quī in lūdō aut dormi# aut clāmā# et rīdē# et aliās rēs ag#.",
+                    "a": [
+                        "ēbat",
+                        "bat",
+                        "bat",
+                        "ēbat"
+                    ]
+                },
+                {
+                    "q": "2. Ergō Iūlius ā magistrō nōn laudā#, sed reprehend# ac pūni#.",
+                    "a": [
+                        "bātur",
+                        "ēbātur",
+                        "ēbātur"
+                    ]
+                },
+                {
+                    "q": "3. Iūlius nihil disc#, quamquam ā bonō magistrō docē#.",
+                    "a": [
+                        "ēbat",
+                        "bātur"
+                    ]
+                },
+                {
+                    "q": "4. Mārcus: \"Num tū melior discipulus #, pater, quam ego sum?\"",
+                    "a": [
+                        "erās"
+                    ]
+                },
+                {
+                    "q": "5. Iūlius: \"Ego discipulus multō melior # quam tū nunc es!\"",
+                    "a": [
+                        "eram"
+                    ]
+                },
+                {
+                    "q": "6. Mārcus: \"Nōnne tū in lūdō dormi# aut clāmā# et rīdē# et aliās rēs ag#?\"",
+                    "a": [
+                        "ēbās",
+                        "bās",
+                        "bās",
+                        "ēbās"
+                    ]
+                },
+                {
+                    "q": "7. Iūlius: \"Ego numquam in lūdō dormi# aut clāmā# et rīdē# aut aliās rēs ag#.\"",
+                    "a": [
+                        "ēbam",
+                        "bam",
+                        "bam",
+                        "ēbam"
+                    ]
+                },
+                {
+                    "q": "8. Iūlius: \"Ego multum disc#, quia ā bonō magistrō docē#, neque ab eō reprehend# aut pūni#, sed semper laudā#.\"",
+                    "a": [
+                        "ēbam",
+                        "bar",
+                        "ēbar",
+                        "ēbar",
+                        "bar"
+                    ]
+                },
+                {
+                    "q": "9. Mārcus: \"Sī numquam reprehend# aut pūni#, sed semper laudā#, certē ā malō magistrō docē#!\"",
+                    "a": [
+                        "ēbāris",
+                        "ēbāris",
+                        "bāris",
+                        "bāris"
+                    ]
+                },
+                {
+                    "q": "10. Ante XX annōs Iūlius et Fabius malī discipulī #, quī in lūdō dormi# aut clāmā# et rīdē# et aliās rēs ag#.",
+                    "a": [
+                        "erant",
+                        "ēbant",
+                        "bant",
+                        "bant",
+                        "ēbant"
+                    ]
+                },
+                {
+                    "q": "11. Itaque Iūlius et Fabius ā magistrō suō nōn laudā#, sed reprehend# ac pūni#.",
+                    "a": [
+                        "bantur",
+                        "ēbantur",
+                        "ēbantur"
+                    ]
+                },
+                {
+                    "q": "12. Iī discipulī nihil disc#, quamquam ā bonō magistrō docē#.",
+                    "a": [
+                        "ēbant",
+                        "bantur"
+                    ]
+                },
+                {
+                    "q": "13. Quīntus: \"Num vōs meliōrēs discipulī # quam nōs sumus?\"",
+                    "a": [
+                        "erātis"
+                    ]
+                },
+                {
+                    "q": "14. Iūlius: \"Nōs discipulī multō meliōrēs # quam vōs nunc estis!\"",
+                    "a": [
+                        "erāmus"
+                    ]
+                },
+                {
+                    "q": "15. Quīntus: \"Nōnne vōs in lūdō dormi# aut clāmā# et rīdē# et aliās rēs ag#?\"",
+                    "a": [
+                        "ēbātis",
+                        "bātis",
+                        "bātis",
+                        "ēbātis"
+                    ]
+                },
+                {
+                    "q": "16. Iūlius: \"Nōs numquam in lūdō dormi# aut clāmā# et rīdē# aut aliās rēs ag#.\"",
+                    "a": [
+                        "ēbāmus",
+                        "bāmus",
+                        "bāmus",
+                        "ēbāmus"
+                    ]
+                },
+                {
+                    "q": "17. Iūlius: \"Nōs multum disc#, quia ā bonō magistrō docē#, neque ab eō reprehend# aut pūni#, sed semper laudā#.\"",
+                    "a": [
+                        "ēbāmus",
+                        "bāmur",
+                        "ēbāmur",
+                        "ēbāmur",
+                        "bāmur"
+                    ]
+                },
+                {
+                    "q": "18. Quīntus: \"Sī vōs numquam reprehend# aut pūni#, sed semper laudā#, certē ā malō magistrō docē#!\"",
+                    "a": [
+                        "ēbāminī",
+                        "ēbāminī",
+                        "bāminī",
+                        "bāminī"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Exercise 9",
+            "info": "Exemplum: \nFabius suum Lūcium fīlium vocat: \"Venī, Lūcī, fīlī mī!\"\n",
+            "questions": [
+                {
+                    "q": "1. Iūlius Cornēlium salūtat: \"Salvē, Cornēl#!\"",
+                    "a": [
+                        "ī"
+                    ]
+                },
+                {
+                    "q": "2. Aemilia virō suō \"Ō Iūl#\" inquit, \"m# optime vir!\"",
+                    "a": [
+                        "ī",
+                        "ī"
+                    ]
+                },
+                {
+                    "q": "3. Aemilia, cum frātrī Aemiliō epistulam scrībit, sīc fīnem facit: \"Valē, Aemil#, m# frāter optime!\"",
+                    "a": [
+                        "ī",
+                        "ī"
+                    ]
+                },
+                {
+                    "q": "4. Aemilia: \"Ō Quīnte, m# fīl#, doletne pēs?\"",
+                    "a": [
+                        "ī",
+                        "ī"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Exercise 10",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Iūlius Aemiliae ōsculum dat = Iūlius Aemiliam #.",
+                    "a": [
+                        "ōsculātur"
+                    ]
+                },
+                {
+                    "q": "2. Aemilia: \"Amor meus # tē tempore nōn # [= minor fit], immō vērō #.\" \t",
+                    "a": [
+                        "ergā",
+                        "minuitur",
+                        "augētur"
+                    ]
+                },
+                {
+                    "q": "3. Iūlius semper # Aemiliā cōgitābat.",
+                    "a": [
+                        "dē"
+                    ]
+                },
+                {
+                    "q": "4. Aemilia: \"Tū sōlus amōre meō # es, Iūlī.\"",
+                    "a": [
+                        "dignus"
+                    ]
+                },
+                {
+                    "q": "5. Aemilia mātrōna # # [= tenuis] est quam virgō erat.",
+                    "a": [
+                        "minus",
+                        "gracilis"
+                    ]
+                },
+                {
+                    "q": "6. Aemilia nec minus nec # ēst quam # est [= necesse est].",
+                    "a": [
+                        "plūs",
+                        "opus"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Exercise 11",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Amorne coniugum tempore minuitur? ...",
+                    "a": [
+                        "amor eōrum tempore nōn minuitur"
+                    ]
+                },
+                {
+                    "q": "2. Quid Aemilia dīcit? ...",
+                    "a": [
+                        "dīcit 'amōrem suum hodiē māiōrem esse quam tunc'"
+                    ]
+                },
+                {
+                    "q": "3. Cūr rīdet Iūlius? ...",
+                    "a": [
+                        "Iūlius rīdet quia tunc Aemilia eum nōn amābat"
+                    ]
+                },
+                {
+                    "q": "4. Cūr Crassus amōre Aemiliae dignus nōn erat? ...",
+                    "a": [
+                        "... quia Aemiliam, virginem pauperem, nōn amābat"
+                    ]
+                },
+                {
+                    "q": "5. Cūr Aemilia hodiē fēmina beāta est? ...",
+                    "a": [
+                        "... quod cum bonō marītō in vīllā magnificā habitat"
+                    ]
+                },
+                {
+                    "q": "6. Quibus rēbus Aemilia cotīdiē dēlectātur? ...",
+                    "a": [
+                        "cotīdiē dēlectātur pulchrō peristȳlō, columnīs, signīs, flōribus"
+                    ]
+                },
+                {
+                    "q": "7. Quōmodo Iūlius pulchritūdinem Aemiliae laudat? ...",
+                    "a": [
+                        "Iūlius dīcit 'uxōrem suam prope tam pulchram esse quam Venerem'"
+                    ]
+                },
+                {
+                    "q": "8. Cūr Aemilia signum Veneris aspicit? ...",
+                    "a": [
+                        "Aemilia sē cum Venere comparat"
+                    ]
+                },
+                {
+                    "q": "9. Estne Aemilia tam gracilis quam Venus? ...",
+                    "a": [
+                        "hodiē Aemilia minus gracilis est quam Venus"
+                    ]
+                },
+                {
+                    "q": "10. Cūr Aemilia Iūlium virum stultum vocat? ...",
+                    "a": [
+                        "... quia Iūlius nōn intellegit uxōrem suam novum īnfantem exspectāre"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Exercise 12",
+            "info": "Āctīvum\n____________Sing.\t\tPlūr.\t\t\tSing.\t\tPlūr.\n____________Sing.\t\tPlūr.\t\t\tSing.\t\tPlūr.\nPassīvum\n____________Sing.\t\tPlūr.\t\t\tSing.\t\tPlūr.\n",
+            "questions": [
+                {
+                    "q": "1. 'Voca|t', 'vide|t', 'dīc|it', 'audi|t' tempus # est.",
+                    "a": [
+                        "praesēns"
+                    ]
+                },
+                {
+                    "q": "2. 'Vocā|bat', 'vidē|bat', 'dīc|ēbat', 'audi|ēbat' est tempus #.",
+                    "a": [
+                        "praeteritum"
+                    ]
+                },
+                {
+                    "q": "3. Praeteritum: pers. 3: [1, 2] -bat, -bant, [3, 4] -ēbat, -ēbant;",
+                    "a": []
+                },
+                {
+                    "q": "pers. 2: [1, 2] -#, -#, [3, 4] -#, -#; pers. 1: [1, 2] -#, -#, [3, 4] -#, -#.",
+                    "a": [
+                        "bās",
+                        "bātis",
+                        "ēbās",
+                        "ēbātis",
+                        "bam",
+                        "bāmus",
+                        "ēbam",
+                        "ēbāmus"
+                    ]
+                },
+                {
+                    "q": "4. Pers.1\tvocā|#  \tvocā|#\t\tvidē|#\tvidē|#",
+                    "a": [
+                        "bam",
+                        "bāmus",
+                        "bam",
+                        "bāmus"
+                    ]
+                },
+                {
+                    "q": "5. Pers.2\tvocā|#\tvocā|#\t\tvidē|#\tvidē|#",
+                    "a": [
+                        "bās",
+                        "bātis",
+                        "bās",
+                        "bātis"
+                    ]
+                },
+                {
+                    "q": "6. Pers.3\tvocā|#\tvocā|#\t\tvidē|#\t\tvidē|#",
+                    "a": [
+                        "bat",
+                        "bant",
+                        "bat",
+                        "bant"
+                    ]
+                },
+                {
+                    "q": "7. Pers.1\tdūc|#\tdūc|#\t\taudi|#\taudi|#",
+                    "a": [
+                        "ēbam",
+                        "ēbāmus",
+                        "ēbam",
+                        "ēbāmus"
+                    ]
+                },
+                {
+                    "q": "8. Pers.2\tdūc|#\tdūc|#\t\taudi|#\taudi|#",
+                    "a": [
+                        "ēbās",
+                        "ēbātis",
+                        "ēbās",
+                        "ēbātis"
+                    ]
+                },
+                {
+                    "q": "9. Pers.3\tdūc|#\tdūc|#\t\taudi|#\taudi|#",
+                    "a": [
+                        "ēbat",
+                        "ēbant",
+                        "ēbat",
+                        "ēbant"
+                    ]
+                },
+                {
+                    "q": "10. Praeteritum verbī 'esse': singulāris: pers. 1 eram, 2 er#, 3 er#; plūrālis: pers. 1 er#, 2 er#, 3 er#.",
+                    "a": [
+                        "ās",
+                        "at",
+                        "āmus",
+                        "ātis",
+                        "ant"
+                    ]
+                },
+                {
+                    "q": "11. 'Vocā|bātur', 'vidē|bātur', 'dūc|ēbātur', 'audi|ēbātur' tempus # passīvī est.",
+                    "a": [
+                        "praeteritum"
+                    ]
+                },
+                {
+                    "q": "12. Praeteritum passīvī: pers. 3: [1, 2] -bātur, -bantur, [3, 4] -ēbātur, -ēbantur; pers. 2: [1, 2] -#, -#, [3, 4] -#, -#; pers. 1: [1, 2] -#, -#, [3, 4] -#, -#.",
+                    "a": [
+                        "bāris",
+                        "bāminī",
+                        "ēbāris",
+                        "ēbāminī",
+                        "bar",
+                        "bāmur",
+                        "ēbar",
+                        "ēbāmur"
+                    ]
+                },
+                {
+                    "q": "13. Pers.1\tvocā|#\tvocā|#\t\tvidē|#\tvidē|#",
+                    "a": [
+                        "bar",
+                        "bāmur",
+                        "bar",
+                        "bāmur"
+                    ]
+                },
+                {
+                    "q": "14. Pers.2\tvocā|#\tvocā|#\t\tvidē|#\tvidē|#",
+                    "a": [
+                        "bāris",
+                        "bāminī",
+                        "bāris",
+                        "bāminī"
+                    ]
+                },
+                {
+                    "q": "15. Pers.3\tvocā|#\tvocā|#\t\tvidē|#\tvidē|#",
+                    "a": [
+                        "bātur",
+                        "bantur",
+                        "bātur",
+                        "bantur"
+                    ]
+                },
+                {
+                    "q": "16. Pers.1\tdūc|#\tdūc|#\t\taudi|#\taudi|#",
+                    "a": [
+                        "ēbar",
+                        "ēbāmur",
+                        "ēbar",
+                        "ēbāmur"
+                    ]
+                },
+                {
+                    "q": "17. Pers.2\tdūc|#\tdūc|#\t\taudi|#\taudi|#",
+                    "a": [
+                        "ēbāris",
+                        "ēbāminī",
+                        "ēbāris",
+                        "ēbāminī"
+                    ]
+                },
+                {
+                    "q": "18. Pers.3\tdūc|#\tdūc|#\t\taudi|#\taudi|#",
+                    "a": [
+                        "ēbātur",
+                        "ēbantur",
+                        "ēbātur",
+                        "ēbantur"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "PENSVM A",
+            "info": "",
+            "questions": [
+                {
+                    "a": [
+                        "ābat",
+                        "ēbat"
+                    ],
+                    "q": "Ante X annōs Iūlius apud parentēs suōs habit# nec uxōrem hab#."
+                },
+                {
+                    "a": [
+                        "ābant"
+                    ],
+                    "q": "Iūlius et Aemilia Rōmae habit#."
+                },
+                {
+                    "a": [
+                        "ābat",
+                        "ābātur"
+                    ],
+                    "q": "Iūlius Aemiliam am# nec ab eā am#."
+                },
+                {
+                    "a": [
+                        "ābat",
+                        "ēbat",
+                        "ābātur"
+                    ],
+                    "q": "Ea numquam Iūlium salūt# cum eum vid#, quamquam ipsa ab eō salūt#."
+                },
+                {
+                    "a": [
+                        "ēbat",
+                        "ēbat",
+                        "ēbat"
+                    ],
+                    "q": "Aemilia epistulās Iūliī nōn leg# nec dōna eius accipi#, sed omnia remitt#."
+                },
+                {
+                    "a": [
+                        "ābam",
+                        "ābar",
+                        "ābās",
+                        "ābāris"
+                    ],
+                    "q": "Iūlius: \"Tunc ego tē am# nec ā tē am#, nam tū alium virum am# nec ab eō am#."
+                },
+                {
+                    "a": [
+                        "am",
+                        "ās"
+                    ],
+                    "q": "Ego miser er# et tū misera er#."
+                },
+                {
+                    "a": [
+                        "ābāmus"
+                    ],
+                    "q": "Tunc apud parentēs nostrōs habit#."
+                },
+                {
+                    "a": [
+                        "ābātis"
+                    ],
+                    "q": "Tū et parentēs tuī in parvā domō habit#."
+                },
+                {
+                    "a": [
+                        "ābāminī",
+                        "ātis"
+                    ],
+                    "q": "Vōs ā mē salūt#, quamquam pauperēs er#.\""
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "PENSVM B",
+            "info": "",
+            "questions": [
+                {
+                    "a": [
+                        "marītus",
+                        "uxōrem",
+                        "ūllam"
+                    ],
+                    "q": "Iūlius, quī # Aemiliae est, # suam nec # aliam fēminam amat."
+                },
+                {
+                    "a": [
+                        "minor",
+                        "māior"
+                    ],
+                    "q": "Quīntus # quam Mārcus et # quam Iūlia est."
+                },
+                {
+                    "a": [
+                        "Tēctum",
+                        "columnīs"
+                    ],
+                    "q": "# peristȳlī XVI altīs # sustinētur. "
+                },
+                {
+                    "a": [
+                        "signa"
+                    ],
+                    "q": "Inter columnās III # stant."
+                },
+                {
+                    "a": [
+                        "coniūnx",
+                        "dea"
+                    ],
+                    "q": "Iūnō, # [= uxor] Iovis, # mātrōnārum est."
+                },
+                {
+                    "a": [
+                        "pēior"
+                    ],
+                    "q": "Nēmō deōrum # marītus est quam Iuppiter."
+                },
+                {
+                    "a": [
+                        "pessimus"
+                    ],
+                    "q": "Inter omnēs deōs Iuppiter # marītus est."
+                },
+                {
+                    "a": [
+                        "virgō"
+                    ],
+                    "q": "Ante X annōs Aemilia nōn mātrōna, sed # erat. "
+                },
+                {
+                    "a": [
+                        "adulēscēns"
+                    ],
+                    "q": "Tunc Iūlius # XXII annōrum erat."
+                },
+                {
+                    "a": [
+                        "dīves"
+                    ],
+                    "q": "Pater Iūliī vir # [= pecūniōsus] erat."
+                },
+                {
+                    "a": [
+                        "pauper",
+                        "domō"
+                    ],
+                    "q": "Quī nōn dīves, sed # est, in parvā # habitat."
+                },
+                {
+                    "a": [
+                        "plūrēs"
+                    ],
+                    "q": "Rōmae multī hominēs habitant, # quam in ūllā aliā urbe. "
+                },
+                {
+                    "a": [
+                        "māxima"
+                    ],
+                    "q": "Rōma est urbs # imperiī Rōmānī."
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "PENSVM C",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Quae est coniūnx Iovis? ",
+                    "a": []
+                },
+                {
+                    "q": "2. Num Iuppiter bonus marītus est? ",
+                    "a": []
+                },
+                {
+                    "q": "3. Cuius fīlius est Cupīdō? ",
+                    "a": []
+                },
+                {
+                    "q": "4. Estne Quīntus māior quam Mārcus? ",
+                    "a": []
+                },
+                {
+                    "q": "5. Ubi parentēs Iūliī habitābant? ",
+                    "a": []
+                },
+                {
+                    "q": "6. Cūr Iūlius tunc miser erat? ",
+                    "a": []
+                },
+                {
+                    "q": "7. Cūr Aemilia Iūlium nōn amābat? ",
+                    "a": []
+                },
+                {
+                    "q": "8. Num Iūlius Aemiliam propter pecūniam amābat? ",
+                    "a": []
+                },
+                {
+                    "q": "9. Cūr Aemilia nunc beāta est? ",
+                    "a": []
+                },
+                {
+                    "q": "10. Hodiēne Aemilia minus pulchra est quam tunc? ",
+                    "a": []
+                }
+            ]
+        }
+    ]
+}

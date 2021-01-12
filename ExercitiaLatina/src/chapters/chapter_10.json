@@ -1,0 +1,1253 @@
+{
+    "id": 9,
+    "name": "CAPITVLVM X",
+    "exercises": [
+        {
+            "id": 0,
+            "name": "Exercise 1",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Lupus et canis et ovis # sunt.",
+                    "a": [
+                        "bēstiae"
+                    ]
+                },
+                {
+                    "q": "2. Virī et fēminae # sunt.",
+                    "a": [
+                        "hominēs"
+                    ]
+                },
+                {
+                    "q": "3. Lupus est bēstia #; etiam # bestia fera est.",
+                    "a": [
+                        "fera",
+                        "leō"
+                    ]
+                },
+                {
+                    "q": "4. In Āfricā sunt multī leōnēs et aliae # [= bēstiae ferae].",
+                    "a": [
+                        "ferae"
+                    ]
+                },
+                {
+                    "q": "5. # sunt bēstiae quae in aquā #.",
+                    "a": [
+                        "Piscēs",
+                        "natant"
+                    ]
+                },
+                {
+                    "q": "6. # sunt bēstiae quae in āere #.",
+                    "a": [
+                        "Avēs",
+                        "volant"
+                    ]
+                },
+                {
+                    "q": "7. # est magna avis fera quae parvās avēs # et ēst.",
+                    "a": [
+                        "Aquila",
+                        "capit"
+                    ]
+                },
+                {
+                    "q": "8. Avis quae volat ālās #; piscis quī natat # movet.",
+                    "a": [
+                        "movet",
+                        "caudam"
+                    ]
+                },
+                {
+                    "q": "9. Homō quī ambulat # movet.",
+                    "a": [
+                        "pedēs"
+                    ]
+                },
+                {
+                    "q": "10. # homō ambulat, pedēs moventur.",
+                    "a": [
+                        "Cum"
+                    ]
+                },
+                {
+                    "q": "11. Cum avis in # volat, # moventur.",
+                    "a": [
+                        "āere",
+                        "ālae"
+                    ]
+                },
+                {
+                    "q": "12. Avis ālās habet, itaque avis volāre #.",
+                    "a": [
+                        "potest"
+                    ]
+                },
+                {
+                    "q": "13. Leō volāre nōn potest, # [= quia] ālās nōn habet.",
+                    "a": [
+                        "quod"
+                    ]
+                },
+                {
+                    "q": "14. Hominēs, quī pedēs habent, ambulāre #. ",
+                    "a": [
+                        "possunt"
+                    ]
+                },
+                {
+                    "q": "15. Quī ambulat vestīgia in terrā #.",
+                    "a": [
+                        "facit"
+                    ]
+                },
+                {
+                    "q": "16. Nōn sōlum equus, sed etiam # hominem vehere potest. ",
+                    "a": [
+                        "asinus"
+                    ]
+                },
+                {
+                    "q": "17. Mercurius est # mercātōrum et # deōrum.",
+                    "a": [
+                        "deus",
+                        "nūntius"
+                    ]
+                },
+                {
+                    "q": "18. # est homō quī emit et vēndit.",
+                    "a": [
+                        "Mercātor"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Exercise 2",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Quid est leō? ...",
+                    "a": [
+                        "leō est bēstia fera"
+                    ]
+                },
+                {
+                    "q": "2. Quid bēstiae ferae edunt? ...",
+                    "a": [
+                        "bēstiae ferae aliās bēstiās edunt"
+                    ]
+                },
+                {
+                    "q": "3. Cūr leōnēs ab hominibus timentur? ...",
+                    "a": [
+                        "... quia leōnēs hominēs edunt"
+                    ]
+                },
+                {
+                    "q": "4. Quae bēstiae in aquā natant? ...",
+                    "a": [
+                        "piscēs sunt bēstiae quae natant"
+                    ]
+                },
+                {
+                    "q": "5. Quae bēstiae volant? ...",
+                    "a": [
+                        "bēstiae quae volant sunt avēs"
+                    ]
+                },
+                {
+                    "q": "6. Quid movētur cum avis volat? ...",
+                    "a": [
+                        "ālae moventur"
+                    ]
+                },
+                {
+                    "q": "7. Quot pedēs habet homō? ...",
+                    "a": [
+                        "homō duōs pedēs habet"
+                    ]
+                },
+                {
+                    "q": "8. Equus quot pedēs habet? ...",
+                    "a": [
+                        "equus habet quattuor pedēs"
+                    ]
+                },
+                {
+                    "q": "9. Cūr equus volāre nōn potest? ...",
+                    "a": [
+                        "... quia ālās nōn habet"
+                    ]
+                },
+                {
+                    "q": "10. Cūr piscēs ambulāre nōn possunt? ...",
+                    "a": [
+                        "... quod pedēs nōn habent"
+                    ]
+                },
+                {
+                    "q": "11. Hominēsne natāre possunt? ...",
+                    "a": [
+                        "multī hominēs natāre possunt"
+                    ]
+                },
+                {
+                    "q": "12. Quis est Mercurius? ...",
+                    "a": [
+                        "Mercurius deus Rōmānus est"
+                    ]
+                },
+                {
+                    "q": "13. In pedibus et in petasō Mercuriī quid est? ...",
+                    "a": [
+                        "in pedibus et in petasō eius ālae sunt"
+                    ]
+                },
+                {
+                    "q": "14. Quōrum deus est Mercurius? ...",
+                    "a": [
+                        "Mercurius est deus mercātōrum"
+                    ]
+                },
+                {
+                    "q": "15. Quid est mercātor? ...",
+                    "a": [
+                        "est homō quī emit et vēndit"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Exercise 3",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. In Āfricā sunt multī leō#.",
+                    "a": [
+                        "nēs"
+                    ]
+                },
+                {
+                    "q": "2. In Āfricā magnus numerus leō# est.",
+                    "a": [
+                        "num"
+                    ]
+                },
+                {
+                    "q": "3. Multī hom# Rōmae habitant.",
+                    "a": [
+                        "inēs"
+                    ]
+                },
+                {
+                    "q": "4. Rōmae habitat magnus numerus hom#.",
+                    "a": [
+                        "inum"
+                    ]
+                },
+                {
+                    "q": "5. Leō nōn est amīcus hom#, neque homō amīcus leō# est.",
+                    "a": [
+                        "inis",
+                        "nis"
+                    ]
+                },
+                {
+                    "q": "6. Homō leō# timet, et hom# timet leō.",
+                    "a": [
+                        "nem",
+                        "inem"
+                    ]
+                },
+                {
+                    "q": "7. Leō ab hom# timētur, et hom# timētur ā leō#.",
+                    "a": [
+                        "ine",
+                        "ō",
+                        "ne"
+                    ]
+                },
+                {
+                    "q": "8. Leō# timentur ab hom#, et hom# ā leō# timentur.",
+                    "a": [
+                        "nēs",
+                        "inibus",
+                        "inēs",
+                        "nibus"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Exercise 4",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Avēs vol# possunt; piscēs nat# possunt.",
+                    "a": [
+                        "āre",
+                        "āre"
+                    ]
+                },
+                {
+                    "q": "2. Equus ambul# et curr# potest.",
+                    "a": [
+                        "āre",
+                        "ere"
+                    ]
+                },
+                {
+                    "q": "3. Ovēs lupum aud# possunt, neque eum vid# possunt.",
+                    "a": [
+                        "īre",
+                        "ēre"
+                    ]
+                },
+                {
+                    "q": "4. Iūlia centum numer# nōn potest.",
+                    "a": [
+                        "āre"
+                    ]
+                },
+                {
+                    "q": "5. Homō mortuus sē mov# nōn potest.",
+                    "a": [
+                        "ēre"
+                    ]
+                },
+                {
+                    "q": "6. Sub aquā homō nōn potest spīr#.",
+                    "a": [
+                        "āre"
+                    ]
+                },
+                {
+                    "q": "7. Sine animā nēmō potest vīv#.",
+                    "a": [
+                        "ere"
+                    ]
+                },
+                {
+                    "q": "8. Animam dūc# necesse est hominī.",
+                    "a": [
+                        "ere"
+                    ]
+                },
+                {
+                    "q": "9. Necesse nōn est gemmās hab#.",
+                    "a": [
+                        "ēre"
+                    ]
+                },
+                {
+                    "q": "10. Quī gemmās vēndit pecūniam fac# potest.",
+                    "a": [
+                        "ere"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Exercise 5",
+            "info": "Exempla: \nIūlius Iūliam portāre/vehere potest. \nIūlia ā Iūliō portārī/vehī potest.\n",
+            "questions": [
+                {
+                    "q": "1. Iūlia magnum saccum port# nōn potest.",
+                    "a": [
+                        "āre"
+                    ]
+                },
+                {
+                    "q": "2. Magnus saccus ā parvā puellā port# nōn potest.",
+                    "a": [
+                        "ārī"
+                    ]
+                },
+                {
+                    "q": "3. Hominēs deōs neque vid# neque aud# possunt.",
+                    "a": [
+                        "ēre",
+                        "īre"
+                    ]
+                },
+                {
+                    "q": "4. Deī neque vid# neque aud# possunt ab hominibus. \t",
+                    "a": [
+                        "ērī",
+                        "īrī"
+                    ]
+                },
+                {
+                    "q": "5. Nēmō piscēs numer# potest: piscēs numer# nōn possunt.",
+                    "a": [
+                        "āre",
+                        "ārī"
+                    ]
+                },
+                {
+                    "q": "6. Quī pecūniam habet cibum em# potest.",
+                    "a": [
+                        "ere"
+                    ]
+                },
+                {
+                    "q": "7. Sine pecūniā cibus em# nōn potest.",
+                    "a": [
+                        "ī"
+                    ]
+                },
+                {
+                    "q": "8. Mārcus et Quīntus nōn possunt lectīcam veh#.",
+                    "a": [
+                        "ere"
+                    ]
+                },
+                {
+                    "q": "9. Ā parvīs puerīs lectīca veh# nōn potest.",
+                    "a": [
+                        "ī"
+                    ]
+                },
+                {
+                    "q": "10. Canis ōstium neque aper# neque claud# potest.",
+                    "a": [
+                        "īre",
+                        "ere"
+                    ]
+                },
+                {
+                    "q": "11. Ōstium ā cane neque aper# neque claud# potest.",
+                    "a": [
+                        "īrī",
+                        "ī"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Exercise 6",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Magnum # est Nīlus.",
+                    "a": [
+                        "flūmen"
+                    ]
+                },
+                {
+                    "q": "2. Ōceanus Atlanticus magnum # est.",
+                    "a": [
+                        "mare"
+                    ]
+                },
+                {
+                    "q": "3. Piscēs nōn in terrā, sed in aquā #.",
+                    "a": [
+                        "vīvunt"
+                    ]
+                },
+                {
+                    "q": "4. Cum homō #, anima in # intrat et rūrsus exit.",
+                    "a": [
+                        "spīrat",
+                        "pulmōnēs"
+                    ]
+                },
+                {
+                    "q": "5. # est āēr quī in pulmōnēs dūcitur.",
+                    "a": [
+                        "Anima"
+                    ]
+                },
+                {
+                    "q": "6. Quī spīrat # est, quī nōn spīrat est #.",
+                    "a": [
+                        "vīvus",
+                        "mortuus"
+                    ]
+                },
+                {
+                    "q": "7. Sine animā et cibō # vīvere potest.",
+                    "a": [
+                        "nēmō"
+                    ]
+                },
+                {
+                    "q": "8. Spīrāre et ēsse hominibus # est.",
+                    "a": [
+                        "necesse"
+                    ]
+                },
+                {
+                    "q": "9. Hominēs et bēstiae # sunt.",
+                    "a": [
+                        "animālia"
+                    ]
+                },
+                {
+                    "q": "10. Avēs in arboribus # faciunt.",
+                    "a": [
+                        "nīdōs"
+                    ]
+                },
+                {
+                    "q": "11. Nīdī sunt inter # et # arborum.",
+                    "a": [
+                        "rāmōs",
+                        "folia"
+                    ]
+                },
+                {
+                    "q": "12. In nīdīs sunt # aut pullī.",
+                    "a": [
+                        "ōva"
+                    ]
+                },
+                {
+                    "q": "13. Avēs ōva #, ex quibus # exeunt.",
+                    "a": [
+                        "pariunt",
+                        "pullī"
+                    ]
+                },
+                {
+                    "q": "14. Ovis nōn ōva, sed pullōs vīvōs #.",
+                    "a": [
+                        "parit"
+                    ]
+                },
+                {
+                    "q": "15. Fēminae quae pecūniam facere # ōrnāmenta sua vēndunt.",
+                    "a": [
+                        "volunt"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Exercise 7",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Nīlus magn# flūm# est.",
+                    "a": [
+                        "um",
+                        "en"
+                    ]
+                },
+                {
+                    "q": "2. Nīlus et Rhēnus magn# flūm# sunt.",
+                    "a": [
+                        "a",
+                        "ina"
+                    ]
+                },
+                {
+                    "q": "3. Mārcus et Quīntus in parvō flūm# natant.",
+                    "a": [
+                        "ine"
+                    ]
+                },
+                {
+                    "q": "4. Puerī in aquā flūm# natant.",
+                    "a": [
+                        "inis"
+                    ]
+                },
+                {
+                    "q": "5. Parva flūm# magnō flūm# aquam dant.",
+                    "a": [
+                        "ina",
+                        "inī"
+                    ]
+                },
+                {
+                    "q": "6. Ōceanus magn# mar# est.",
+                    "a": [
+                        "um",
+                        "e"
+                    ]
+                },
+                {
+                    "q": "7. Inter Eurōpam et Āfricam mult# mar# sunt.",
+                    "a": [
+                        "a",
+                        "ia"
+                    ]
+                },
+                {
+                    "q": "8. In Ōceanō et in cēterīs mar# multī sunt piscēs.",
+                    "a": [
+                        "ibus"
+                    ]
+                },
+                {
+                    "q": "9. In flūm# quoque magnus numerus piscium est.",
+                    "a": [
+                        "inibus"
+                    ]
+                },
+                {
+                    "q": "10. Nēmō piscēs mar# et flūm# numerāre potest.",
+                    "a": [
+                        "ium",
+                        "inum"
+                    ]
+                },
+                {
+                    "q": "11. Piscēs sunt animāl# quae vīvunt in mar#.",
+                    "a": [
+                        "ia",
+                        "ī"
+                    ]
+                },
+                {
+                    "q": "12. Leō est animal qu# in terrā vīvit.",
+                    "a": [
+                        "od"
+                    ]
+                },
+                {
+                    "q": "13. Magnus numerus animāl# in terrā vīvunt.",
+                    "a": [
+                        "ium"
+                    ]
+                },
+                {
+                    "q": "14. Parv# animāl# ā magnīs animāl# eduntur.",
+                    "a": [
+                        "a",
+                        "ia",
+                        "ibus"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Exercise 8",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Iūlia cum puerīs lūdere #, neque iī cum puellā # volunt. ",
+                    "a": [
+                        "vult",
+                        "lūdere"
+                    ]
+                },
+                {
+                    "q": "2. Puerī Iūliam # [= cantāre] audiunt.",
+                    "a": [
+                        "canere"
+                    ]
+                },
+                {
+                    "q": "3. Iūlia # pulchram habet: # Iūliae pulchra est.",
+                    "a": [
+                        "vōcem",
+                        "vōx"
+                    ]
+                },
+                {
+                    "q": "4. Avēs # sunt neque canunt; puerī # [= nam puerī] nīdōs quaerunt.",
+                    "a": [
+                        "perterritae",
+                        "enim"
+                    ]
+                },
+                {
+                    "q": "5. Avēs perterritae inter folia arborum sē #.",
+                    "a": [
+                        "occultant"
+                    ]
+                },
+                {
+                    "q": "6. Quīntus in arborem # ; Mārcus eum aspicit neque ipse in arborem ascendere #.",
+                    "a": [
+                        "ascendit",
+                        "audet"
+                    ]
+                },
+                {
+                    "q": "7. Nōn #, sed tenuis est rāmus quō nīdus #. \t",
+                    "a": [
+                        "crassus",
+                        "sustinētur"
+                    ]
+                },
+                {
+                    "q": "8. Rāmus # puerum crassum sustinēre nōn potest.",
+                    "a": [
+                        "tenuis"
+                    ]
+                },
+                {
+                    "q": "9. Quīntus ad terram #.",
+                    "a": [
+                        "cadit"
+                    ]
+                },
+                {
+                    "q": "10. Puer spīrat; # vīvit, nam quī spīrat mortuus # nōn potest.",
+                    "a": [
+                        "ergō",
+                        "esse"
+                    ]
+                },
+                {
+                    "q": "11. Pater fīlium in vīllam portat et in # pōnit.",
+                    "a": [
+                        "lectō"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Exercise 9",
+            "info": "Exempla: \nAlbīnus clāmat. Lȳdia Albīnum clāmāre audit.\nSaccus ā Syrō aperītur. Puer saccum ā Syrō aperīrī videt.\nSaccus plēnus est. Puer saccum plēnum esse videt.\n",
+            "questions": [
+                {
+                    "q": "1. Iūlia canit. Puerī Iūli# can# audiunt.",
+                    "a": [
+                        "am",
+                        "ere"
+                    ]
+                },
+                {
+                    "q": "2. Iūlia ā Mārcō pulsātur. Quīntus Iūli# ā Mārcō puls# videt.",
+                    "a": [
+                        "am",
+                        "ārī"
+                    ]
+                },
+                {
+                    "q": "3. Iūlia plōrat et Mārcus rīdet. Quīntus Iūli# plōr# et Mārc# rīd# audit.",
+                    "a": [
+                        "am",
+                        "āre",
+                        "um",
+                        "ēre"
+                    ]
+                },
+                {
+                    "q": "4. Aemilia venit. Puerī Aemili# ven# vident.",
+                    "a": [
+                        "am",
+                        "īre"
+                    ]
+                },
+                {
+                    "q": "5. Aemilia īrāta est. Mārcus Aemili# īrāt# es# videt.",
+                    "a": [
+                        "am",
+                        "am",
+                        "se"
+                    ]
+                },
+                {
+                    "q": "6. Pullī mortuī sunt. Iūlia pull# mortu# es# videt.",
+                    "a": [
+                        "ōs",
+                        "ōs",
+                        "se"
+                    ]
+                },
+                {
+                    "q": "7. Dāvus ā Iūliō interrogātur et ā Mēdō accūsātur. Aemilia Dāv# ā Iūliō interrog# et ā Mēdō accūs# audit.",
+                    "a": [
+                        "um",
+                        "ārī",
+                        "ārī"
+                    ]
+                },
+                {
+                    "q": "8. Mēdus ā Iūliō vocātur neque venit. Aemilia Mēd# ā Iūliō voc# audit neque e# ven# videt.",
+                    "a": [
+                        "um",
+                        "ārī",
+                        "um",
+                        "īre"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Exercise 10",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Quid puerī in hortō agunt? ...",
+                    "a": [
+                        "puerī nīdōs quaerunt"
+                    ]
+                },
+                {
+                    "q": "2. Quid agit Iūlia? ...",
+                    "a": [
+                        "Iūlia canit"
+                    ]
+                },
+                {
+                    "q": "3. Cūr avēs hortī nōn canunt? ...",
+                    "a": [
+                        "nōn canunt quia puerōs timent"
+                    ]
+                },
+                {
+                    "q": "4. Cūr Mārcus Quīntum vocat? ...",
+                    "a": [
+                        "... quia nīdum in arbore reperit"
+                    ]
+                },
+                {
+                    "q": "5. Mārcusne in arborem ascendit? ...",
+                    "a": [
+                        "nōn Mārcus sed Quīntus ascendit"
+                    ]
+                },
+                {
+                    "q": "6. Quid est in nīdō ad quem Quīntus ascendit? ...",
+                    "a": [
+                        "in nīdō sunt quattuor pullī"
+                    ]
+                },
+                {
+                    "q": "7. Cūr rāmus tenuis Quīntum sustinēre nōn potest? ...",
+                    "a": [
+                        "... quod Quīntus puer crassus est"
+                    ]
+                },
+                {
+                    "q": "8. Quid Mārcus perterritus videt? ...",
+                    "a": [
+                        "Mārcus Quīntum cadere videt"
+                    ]
+                },
+                {
+                    "q": "9. Estne mortuus Quīntus? ...",
+                    "a": [
+                        "puer spīrat, ergō mortuus nōn est"
+                    ]
+                },
+                {
+                    "q": "10. Pullīne mortuī sunt? ...",
+                    "a": [
+                        "mortuī sunt pullī"
+                    ]
+                },
+                {
+                    "q": "11. Quid facit Mārcus? ...",
+                    "a": [
+                        "ad vīllam currit et Iūlium vocat"
+                    ]
+                },
+                {
+                    "q": "12. Quō pater currit et quid videt? ...",
+                    "a": [
+                        "pater ad Quīntum currit et eum oculōs aperīre videt"
+                    ]
+                },
+                {
+                    "q": "13. Quō Iūlius fīlium suum portat? ...",
+                    "a": [
+                        "fīlium in vīllam portat"
+                    ]
+                },
+                {
+                    "q": "14. Quid videt Aemilia? ...",
+                    "a": [
+                        "puerum ā Iūliō portārī videt"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Exercise 11",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. 'Vocā' imperātīvus est. 'Vocā|re' est #.",
+                    "a": [
+                        "īnfīnītīvus"
+                    ]
+                },
+                {
+                    "q": "2. 'Vidē|re', 'pōn|ere', 'audī|re' nōn imperātīvus, sed # est.",
+                    "a": [
+                        "īnfīnītīvus"
+                    ]
+                },
+                {
+                    "q": "3. Imperātīvus: intrā. Īnfīnītīvus: intr#.",
+                    "a": [
+                        "āre"
+                    ]
+                },
+                {
+                    "q": "4. Imperātīvus: tacē. Īnfīnītīvus: tac#.",
+                    "a": [
+                        "ēre"
+                    ]
+                },
+                {
+                    "q": "5. Imperātīvus: discēde. Īnfīnītīvus: discēd#. ",
+                    "a": [
+                        "ere"
+                    ]
+                },
+                {
+                    "q": "6. Imperātīvus: venī. Īnfīnītīvus: ven#. ",
+                    "a": [
+                        "īre"
+                    ]
+                },
+                {
+                    "q": "7. 'Vocā|re' est īnfīnītīvus āctīvī. 'Vocā|rī' # passīvī est.",
+                    "a": [
+                        "īnfīnītīvus"
+                    ]
+                },
+                {
+                    "q": "8. 'Vidē|rī', 'pōn|ī', 'audī|rī' nōn īnfīnītīvus āctīvī, sed # # est.",
+                    "a": [
+                        "īnfīnītīvus",
+                        "passīvī"
+                    ]
+                },
+                {
+                    "q": "9. Īnfīnītīvus: āctīvum: voc#, passīvum: voc#.",
+                    "a": [
+                        "āre",
+                        "ārī"
+                    ]
+                },
+                {
+                    "q": "10. Īnfīnītīvus: āctīvum: vid#, passīvum vid#.",
+                    "a": [
+                        "ēre",
+                        "ērī"
+                    ]
+                },
+                {
+                    "q": "11. Īnfīnītīvus: āctīvum: pōn#, passīvum: pōn#.",
+                    "a": [
+                        "ere",
+                        "ī"
+                    ]
+                },
+                {
+                    "q": "12. Īnfīnītīvus: āctīvum: aud#, passīvum: aud#.",
+                    "a": [
+                        "īre",
+                        "īrī"
+                    ]
+                },
+                {
+                    "q": "13. Īnfīnītīvus: āctīvum: [1, 2, 4] -#, [3] -#.",
+                    "a": [
+                        "re",
+                        "ere"
+                    ]
+                },
+                {
+                    "q": "14. Īnfīnītīvus: āctīvum: [1, 2, 4] -#, [3] -#.",
+                    "a": [
+                        "rī",
+                        "ī"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "PENSVM A",
+            "info": "",
+            "questions": [
+                {
+                    "a": [
+                        "ēs",
+                        "e"
+                    ],
+                    "q": "Av# in āer# volant."
+                },
+                {
+                    "a": [
+                        "ēs"
+                    ],
+                    "q": "Pisc# in aquā natant."
+                },
+                {
+                    "a": [
+                        "āre",
+                        "āre"
+                    ],
+                    "q": "Iūlia neque vol# neque nat# potest."
+                },
+                {
+                    "a": [
+                        "ēs",
+                        "āre"
+                    ],
+                    "q": "Homō duōs ped# habet, itaque homō ambul# potest."
+                },
+                {
+                    "a": [
+                        "ēre"
+                    ],
+                    "q": "Homō mortuus sē mov# nōn potest."
+                },
+                {
+                    "a": [
+                        "āre",
+                        "ere"
+                    ],
+                    "q": "Spīr# necesse est hominī, nam sine animā nēmō vīv# potest."
+                },
+                {
+                    "a": [
+                        "ēs",
+                        "ibus"
+                    ],
+                    "q": "Cum homō spīrat, anima in pulmōn# intrat et ex pulmōn# exit."
+                },
+                {
+                    "a": [
+                        "se"
+                    ],
+                    "q": "Homō quī spīrat mortuus es# nōn potest."
+                },
+                {
+                    "a": [
+                        "ēs",
+                        "ēre",
+                        "ibus",
+                        "ērī"
+                    ],
+                    "q": "Homin# deōs vid# nōn possunt. Deī ab homin# vid# nōn possunt."
+                },
+                {
+                    "a": [
+                        "āre",
+                        "ārī"
+                    ],
+                    "q": "Nēmō piscēs numer# potest. Piscēs numer# nōn possunt."
+                },
+                {
+                    "a": [
+                        "ī"
+                    ],
+                    "q": "Sine pecūniā cibus em# nōn potest."
+                },
+                {
+                    "a": [
+                        "ere"
+                    ],
+                    "q": "Puerī Iūliam can# audiunt."
+                },
+                {
+                    "a": [
+                        "ere"
+                    ],
+                    "q": "Mārcus Quīntum ad terram cad# videt."
+                },
+                {
+                    "a": [
+                        "āre"
+                    ],
+                    "q": "Iūlius Mārcum clām# audit."
+                },
+                {
+                    "a": [
+                        "ī",
+                        "īrī"
+                    ],
+                    "q": "Puerī sacculum ā Iūliō in mēnsā pōn# et aper# vident."
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "PENSVM B",
+            "info": "",
+            "questions": [
+                {
+                    "a": [
+                        "bēstiae",
+                        "hominēs"
+                    ],
+                    "q": "Leō et aquila # sunt. Virī et fēminae # sunt."
+                },
+                {
+                    "a": [
+                        "deus"
+                    ],
+                    "q": "Mercurius nōn homō, sed # est."
+                },
+                {
+                    "a": [
+                        "piscēs",
+                        "avēs"
+                    ],
+                    "q": "In aquā sunt #. In āere sunt #."
+                },
+                {
+                    "a": [
+                        "natant",
+                        "volant"
+                    ],
+                    "q": "Quid agunt piscēs et avēs? Piscēs in aquā #, avēs in āere #."
+                },
+                {
+                    "a": [
+                        "ālās",
+                        "potest"
+                    ],
+                    "q": "Avis duās # habet, itaque avis volāre #."
+                },
+                {
+                    "a": [
+                        "movet"
+                    ],
+                    "q": "Avis quae volat ālās #."
+                },
+                {
+                    "a": [
+                        "pedēs"
+                    ],
+                    "q": "Cum homō ambulat, # moventur."
+                },
+                {
+                    "a": [
+                        "spīrat",
+                        "pulmōnēs"
+                    ],
+                    "q": "Cum homō #, anima in # intrat."
+                },
+                {
+                    "a": [
+                        "vīvus",
+                        "mortuus"
+                    ],
+                    "q": "Homō quī spīrat # est, quī nōn spīrat # est."
+                },
+                {
+                    "a": [
+                        "nēmō",
+                        "necesse"
+                    ],
+                    "q": "Nam sine animā # vīvere potest. Spīrāre hominī # est."
+                },
+                {
+                    "a": [
+                        "canit",
+                        "vōcem"
+                    ],
+                    "q": "Iūlia # [= cantat]. Iūlia # pulchram habet."
+                },
+                {
+                    "a": [
+                        "nīdōs",
+                        "rāmōs"
+                    ],
+                    "q": "Puerī # quaerunt. Nīdī sunt inter # et folia arborum."
+                },
+                {
+                    "a": [
+                        "ōva"
+                    ],
+                    "q": "In nīdīs avium sunt # aut pullī."
+                },
+                {
+                    "a": [
+                        "pariunt"
+                    ],
+                    "q": "Avēs nōn pullōs vīvōs, sed ōva #."
+                },
+                {
+                    "a": [
+                        "ascendit",
+                        "pullōs"
+                    ],
+                    "q": "Quīntus in arborem # et IV # videt in nīdō."
+                },
+                {
+                    "a": [
+                        "sustinet",
+                        "crassum",
+                        "cadit"
+                    ],
+                    "q": "Rāmus quī nīdum # tenuis est. Rāmus tenuis puerum # sustinēre nōn potest: Quīntus ad terram #."
+                },
+                {
+                    "a": [
+                        "perterritus"
+                    ],
+                    "q": "Mārcus eum cadere videt et # est."
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "PENSVM C",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Num Neptūnus homō est? ",
+                    "a": []
+                },
+                {
+                    "q": "2. Quis est Mercurius? ",
+                    "a": []
+                },
+                {
+                    "q": "3. Quid agunt mercātōrēs? ",
+                    "a": []
+                },
+                {
+                    "q": "4. Num necesse est margarītās habēre? .",
+                    "a": []
+                },
+                {
+                    "q": "5. Quid est ōceanus Atlanticus? ",
+                    "a": []
+                },
+                {
+                    "q": "6. Cūr aquila ā parvīs avibus timētur? ",
+                    "a": []
+                },
+                {
+                    "q": "7. Ubi sunt nīdī avium? ",
+                    "a": []
+                },
+                {
+                    "q": "8. Quid est in nīdīs? ",
+                    "a": []
+                },
+                {
+                    "q": "9. Quae bēstiae ōva pariunt? ",
+                    "a": []
+                },
+                {
+                    "q": "10. Quid agunt puerī in hortō? ",
+                    "a": []
+                },
+                {
+                    "q": "11. Cūr rāmus Quīntum sustinēre nōn potest? ",
+                    "a": []
+                }
+            ]
+        }
+    ]
+}

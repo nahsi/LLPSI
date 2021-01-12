@@ -1,0 +1,1047 @@
+{
+    "id": 33,
+    "name": "CAPITVLVM XXXIV",
+    "exercises": [
+        {
+            "id": 0,
+            "name": "Exercise 1",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Mārcus prōmittit ‘sē bonum puerum #’ (= futūr# esse).",
+                    "a": [
+                        "fore",
+                        "um"
+                    ]
+                },
+                {
+                    "q": "2. Omnēs patriam salvam # (= futūr# esse) spērāmus.",
+                    "a": [
+                        "fore",
+                        "am"
+                    ]
+                },
+                {
+                    "q": "3. Nautae ventōs secundōs # (= futūr# esse) spērant.",
+                    "a": [
+                        "fore",
+                        "ōs"
+                    ]
+                },
+                {
+                    "q": "4. Mēdus id # (= futūrum esse) spērābat ut salvus in patriam reverterētur. ",
+                    "a": [
+                        "fore"
+                    ]
+                },
+                {
+                    "q": "5. Ariadna spērābat # (= futūrum esse) ut Mīnōtaurus ā Thēseō occīderētur. ",
+                    "a": [
+                        "fore"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Exercise 2",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Quī hominī surdō fābulam nārrat, # suam perdit.",
+                    "a": [
+                        "operam"
+                    ]
+                },
+                {
+                    "q": "2. Medicus # suō # [= miserum] puerum # [= vulnerāvit], cum eī sanguinem mitteret.",
+                    "a": [
+                        "scalpellō",
+                        "misellum",
+                        "laesit"
+                    ]
+                },
+                {
+                    "q": "3. Puerīs lūdentibus paulum interest inter # et # [= pugnam].",
+                    "a": [
+                        "lūdum",
+                        "certāmen"
+                    ]
+                },
+                {
+                    "q": "4. Sextus facile vincit, # cum singulīs # [= pugnet].",
+                    "a": [
+                        "dummodo",
+                        "certet"
+                    ]
+                },
+                {
+                    "q": "5. In amphitheātrō # armātī pugnant, dum # dēlectātī clāmant et manibus #.",
+                    "a": [
+                        "gladiātōrēs",
+                        "spectātōrēs",
+                        "plaudunt"
+                    ]
+                },
+                {
+                    "q": "6. Quīdam gladiātōrēs # gerunt tamquam piscātōrēs.",
+                    "a": [
+                        "rētia"
+                    ]
+                },
+                {
+                    "q": "7. Alter gladiātor alterum in rēte # cōnātur.",
+                    "a": [
+                        "implicāre"
+                    ]
+                },
+                {
+                    "q": "8. Gladiātor victus # [= prope semper] occīditur, nisi spectātōrēs eī # [= bene volunt]; victor # accipit.",
+                    "a": [
+                        "plērumque",
+                        "favent",
+                        "palmam"
+                    ]
+                },
+                {
+                    "q": "9. Iūliō nōn # [= placet] gladiātōrēs spectāre; cursūs equōrum in # aut lūdōs # in # spectāre māvult.",
+                    "a": [
+                        "libet",
+                        "circō",
+                        "scaenicōs",
+                        "theātrō"
+                    ]
+                },
+                {
+                    "q": "10. # est vir quī lūdīs # [< circus] equōs regit.",
+                    "a": [
+                        "Aurīga",
+                        "circēnsibus"
+                    ]
+                },
+                {
+                    "q": "11. Fīliō mortuō, parentēs # [= maerent].",
+                    "a": [
+                        "lūgent"
+                    ]
+                },
+                {
+                    "q": "12. Fabia spectāvit Plautī # dē Amphitryōne, duce # [= impigrō] et fortī, cuius uxor # peperit.",
+                    "a": [
+                        "cōmoediam",
+                        "ācrī",
+                        "geminōs"
+                    ]
+                },
+                {
+                    "q": "13. Ovidius, quī # mulierum bene nōverat, # [= causam] reddit cūr mulierēs # [= dēlectet] spectātum īre.",
+                    "a": [
+                        "ingenium",
+                        "ratiōnem",
+                        "iuvet"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Exercise 3",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Quid Aemilia Fabiae nārrat? ...",
+                    "a": [
+                        "Aemilia Fabiae nārrat dē cāsū Quīntī"
+                    ]
+                },
+                {
+                    "q": "2. Num Aemilia medicum prūdentem esse cēnset? ...",
+                    "a": [
+                        "Aemilia medicum stultum esse cēnset"
+                    ]
+                },
+                {
+                    "q": "3. Quid Fabia nārrat Aemiliae? ...",
+                    "a": [
+                        "Fabia eī nārrat 'suum Sextum fīlium ab aliīs puerīs laesum esse'"
+                    ]
+                },
+                {
+                    "q": "4. Cum quibus puerīs pugnāvit Sextus? ...",
+                    "a": [
+                        "Sextus pugnāvit cum Mārcō et Titō"
+                    ]
+                },
+                {
+                    "q": "5. Quōmodo Sextus, puer validus, vincī potuit? ...",
+                    "a": [
+                        "Sextus victus est cum sōlus cum duōbus pugnāret"
+                    ]
+                },
+                {
+                    "q": "6. Iīsdemne rēbus student Mārcus et Sextus? ...",
+                    "a": [
+                        "Sextus litterīs studet, Mārcus potius lūdīs et certāminibus"
+                    ]
+                },
+                {
+                    "q": "7. Dē quā rē Cornēlius loquī incipit? ...",
+                    "a": [
+                        "Cornēlius dē lūdīs gladiātōriīs loquī incipit"
+                    ]
+                },
+                {
+                    "q": "8. Quid Aemilia quaerit ā Cornēliō? ...",
+                    "a": [
+                        "Aemilia quaerit ‘quōmodo rētibus certent gladiātōrēs?’"
+                    ]
+                },
+                {
+                    "q": "9. Semperne occīditur gladiātor victus? ...",
+                    "a": [
+                        "gladiātor victus occīditur, nisi spectātōrēs eum vīvere iubent"
+                    ]
+                },
+                {
+                    "q": "10. Quid Rōmānī in circum spectātum eunt? ...",
+                    "a": [
+                        "Rōmānī in circum eunt ut cursūs equōrum spectent"
+                    ]
+                },
+                {
+                    "q": "11. Quid Fabia spectāre māvult? ...",
+                    "a": [
+                        "Fabia lūdōs scaenicōs spectāre māvult"
+                    ]
+                },
+                {
+                    "q": "12. Quis est Plautus? ...",
+                    "a": [
+                        "Plautus est poēta Rōmānus quī cōmoediās scrīpsit"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Exercise 4",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Syra: “Nesciō quōmodo Mēdus fēminam Rōmānam nōscere potuerit; tantum sciō eum fēminam Rōmānam nōv#.”",
+                    "a": [
+                        "isse"
+                    ]
+                },
+                {
+                    "q": "2. Quīntus dīcit ‘sē fābulam dē Rōmulō iam nōv#’: “Illam fābulam iam nōv#.”",
+                    "a": [
+                        "isse",
+                        "ī"
+                    ]
+                },
+                {
+                    "q": "3. Canis Quīntum bene nōv#, tabellārium ignōrat.",
+                    "a": [
+                        "it"
+                    ]
+                },
+                {
+                    "q": "4. Ovidius ingenium mulierum bene nōv#.",
+                    "a": [
+                        "erat"
+                    ]
+                },
+                {
+                    "q": "5. “Ōd# et amō!” incipit versus Catullī.",
+                    "a": [
+                        "ī"
+                    ]
+                },
+                {
+                    "q": "6. Quōmodo poēta eandem fēminam amāre et ōd# poterat?",
+                    "a": [
+                        "isse"
+                    ]
+                },
+                {
+                    "q": "7. Iūlius: “Servī mē metuunt, nec vērō ōd#.”",
+                    "a": [
+                        "ērunt"
+                    ]
+                },
+                {
+                    "q": "8. Mēdus dominum nōn modo timēbat, sed etiam ōd#.",
+                    "a": [
+                        "erat"
+                    ]
+                },
+                {
+                    "q": "9. Gubernātor: “Tūne nōmen eius poētae memin#?”",
+                    "a": [
+                        "istī"
+                    ]
+                },
+                {
+                    "q": "10. Virī versūs Ovidiī memin# et ē memoriā dīcunt.",
+                    "a": [
+                        "ērunt"
+                    ]
+                },
+                {
+                    "q": "11. Difficile est beneficia aliōrum memin#.",
+                    "a": [
+                        "isse"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Exercise 5",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Iūlius, quī artis # studiōsus est, # [= initium] carminis Ovidiī # [= cum gaudiō] recitat.",
+                    "a": [
+                        "poēticae",
+                        "prīncipium",
+                        "libenter"
+                    ]
+                },
+                {
+                    "q": "2. Ovidius carmen scrīpsit dē puellā # [= bellā] quae in # poētae sedēns mīlle # [= ōscula] eī dedit.",
+                    "a": [
+                        "venustā",
+                        "gremiō",
+                        "bāsia"
+                    ]
+                },
+                {
+                    "q": "3. Puella eum prohibēbat carmen scrībere dē # rēgis Priamī.",
+                    "a": [
+                        "fātō"
+                    ]
+                },
+                {
+                    "q": "4. Vesperī, postquam # factae sunt, servī lucernās #.",
+                    "a": [
+                        "tenebrae",
+                        "accendunt"
+                    ]
+                },
+                {
+                    "q": "5. # accēnsīs, Iūlius carmen recitat dē # Lesbiae: “Passer mortuus est meae puellae, passer, # meae puellae...”",
+                    "a": [
+                        "Lucernīs",
+                        "passere",
+                        "dēliciae"
+                    ]
+                },
+                {
+                    "q": "6. Catullus dīcit ‘Orcum omnia # # [= vorāre].’",
+                    "a": [
+                        "bella",
+                        "dēvorāre"
+                    ]
+                },
+                {
+                    "q": "7. Versūs # [= postrēmī] sunt dē # [= oculīs] Lesbiae # rubentibusque.",
+                    "a": [
+                        "ultimī",
+                        "ocellīs",
+                        "turgidīs"
+                    ]
+                },
+                {
+                    "q": "8. Catullus, quī ‘amōrem suum # fore’ #, Lesbiam uxōrem # cupiēbat, illa vērō nōlēbat Catullō #.",
+                    "a": [
+                        "perpetuum",
+                        "affīrmābat",
+                        "dūcere",
+                        "nūbere"
+                    ]
+                },
+                {
+                    "q": "9. “Ōdī et amō!” Hīs verbīs dēmōnstrātur # [= animus] poētae # [= incerta] inter amōrem et #.",
+                    "a": [
+                        "mēns",
+                        "dubia",
+                        "odium"
+                    ]
+                },
+                {
+                    "q": "10. Catullus carmina scrīpsit et # et iocōsa, ut carmen illud ad Fabullum dē sacculō suō plēnō #.",
+                    "a": [
+                        "sēria",
+                        "arāneārum"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Exercise 6",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Quārē Ovidius in circum vēnerat? ...",
+                    "a": [
+                        "Ovidius in circum vēnerat ut cum amīcā suā loquerētur"
+                    ]
+                },
+                {
+                    "q": "2. Cūr equōs nōn spectābat? ...",
+                    "a": [
+                        "... quia amīcam suam spectāre mālēbat"
+                    ]
+                },
+                {
+                    "q": "3. Num Ovidius bellum Trōiānum cecinit? ...",
+                    "a": [
+                        "puella Ovidium prohibēbat nē bellum Trōiānum caneret"
+                    ]
+                },
+                {
+                    "q": "4. Cuius poētae carmina Fabia audīre cupit? ...",
+                    "a": [
+                        "Fabia carmina Catullī audīre cupit"
+                    ]
+                },
+                {
+                    "q": "5. Quod carmen Iūlius prīmum recitat? ...",
+                    "a": [
+                        "Iūlius incipit ā carmine Catullī dē Lesbiae passere mortuō"
+                    ]
+                },
+                {
+                    "q": "6. Quamobrem ocellī Lesbiae turgidī rubēbant? ...",
+                    "a": [
+                        "ocellī Lesbiae turgidī rubēbant quia lacrimāverat"
+                    ]
+                },
+                {
+                    "q": "7. In Catullī carmine quid significat ‘nox perpetua’? ...",
+                    "a": [
+                        "‘nox perpetua’ significat ‘mortem’"
+                    ]
+                },
+                {
+                    "q": "8. Cūr Catullus Lesbiam uxōrem nōn dūxit? ...",
+                    "a": [
+                        "... quod Lesbia Catullō nūbere nōluit"
+                    ]
+                },
+                {
+                    "q": "9. Quālis fēmina erat Lesbia? ...",
+                    "a": [
+                        "Lesbia erat fēmina īnfīda"
+                    ]
+                },
+                {
+                    "q": "10. Versibus recitātīs quid faciunt convīvae? ...",
+                    "a": [
+                        "convīvae Iūliō diū plaudunt"
+                    ]
+                },
+                {
+                    "q": "11. Quālēs versūs Paula audīre māvult? ...",
+                    "a": [
+                        "Paula versūs iocōsōs audīre māvult"
+                    ]
+                },
+                {
+                    "q": "12. Quōmodo Catullus Fabullum ad cēnam vocāvit? ...",
+                    "a": [
+                        "Catullus Fabullum hortātus est ut ipse cēnam afferret"
+                    ]
+                },
+                {
+                    "q": "13. Cūr hospitem suum rogāvit ut ipse cēnam afferret? ...",
+                    "a": [
+                        "... quia sacculus Catullī vacuus erat"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Exercise 7",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Dominus mult# serv# imperat, servī domin# su# pārent.",
+                    "a": [
+                        "īs",
+                        "īs",
+                        "ō",
+                        "ō"
+                    ]
+                },
+                {
+                    "q": "2. Mēdus domin# sevēr# serviēbat neque e# oboediēbat.",
+                    "a": [
+                        "ō",
+                        "ō",
+                        "ī"
+                    ]
+                },
+                {
+                    "q": "3. Operā suā medicus puer# nōn prōfuit, sed potius e# nocuit.",
+                    "a": [
+                        "ō",
+                        "ī"
+                    ]
+                },
+                {
+                    "q": "4. Mēdus Lȳdi# persuāsit ut sēcum proficīscerētur.",
+                    "a": [
+                        "ae"
+                    ]
+                },
+                {
+                    "q": "5. Sī perīcula naut# impendent, Neptūnus i# adest.",
+                    "a": [
+                        "īs",
+                        "īs"
+                    ]
+                },
+                {
+                    "q": "6. Nautae Arīon# invidēbant e#que mortem minātī sunt, sed Arīōn ōrāvit ut s# parcerent: “Parcite m#! Permittite m# domum redīre!”",
+                    "a": [
+                        "ī",
+                        "ī",
+                        "ibi",
+                        "ihi",
+                        "ihi"
+                    ]
+                },
+                {
+                    "q": "7. Hostēs castr# Rōmān# appropinquant, sed dux quī castr# praeest mīlit# su# (cōn)fīdit.",
+                    "a": [
+                        "īs",
+                        "īs",
+                        "īs",
+                        "ibus",
+                        "īs"
+                    ]
+                },
+                {
+                    "q": "8. Difficile est amīc#, quī t# dēfuit, ignōscere.",
+                    "a": [
+                        "ō",
+                        "ibi"
+                    ]
+                },
+                {
+                    "q": "9. Gubernātor Mēd# suāsit nē praedōn# resisteret.",
+                    "a": [
+                        "ō",
+                        "ibus"
+                    ]
+                },
+                {
+                    "q": "10. Spectātōrēs gladiātōr# qu# favent plaudunt.",
+                    "a": [
+                        "ibus",
+                        "ibus"
+                    ]
+                },
+                {
+                    "q": "11. Iūlius litter# studet neque e# libet gladiātōrēs spectāre.",
+                    "a": [
+                        "īs",
+                        "ī"
+                    ]
+                },
+                {
+                    "q": "12. Idem nōn omn# placet, neque idem omn# licet.",
+                    "a": [
+                        "ibus",
+                        "ibus"
+                    ]
+                },
+                {
+                    "q": "13. Lesbia dīxit ‘sē Catull# nūbere velle’, neque Catullus amīc# su# crēdidit.",
+                    "a": [
+                        "ō",
+                        "ae",
+                        "ae"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Exercise 8",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Versūs # sunt quī # [< rīdēre] movent.",
+                    "a": [
+                        "iocōsī",
+                        "rīsum"
+                    ]
+                },
+                {
+                    "q": "2. Mārtiālis versūs iocōsōs, # quae vocantur, scrīpsit.",
+                    "a": [
+                        "epigrammata"
+                    ]
+                },
+                {
+                    "q": "3. Cornēlius semper libellōs Mārtiālis in # fert.",
+                    "a": [
+                        "sinū"
+                    ]
+                },
+                {
+                    "q": "4. Quī fessus est audiendō, # incipit.",
+                    "a": [
+                        "ōscitāre"
+                    ]
+                },
+                {
+                    "q": "5. Nēmō # [= parvōs versūs] Cinnae legit.",
+                    "a": [
+                        "versiculōs"
+                    ]
+                },
+                {
+                    "q": "6. “Quod petō # [= nihil] est” inquit Cinna.",
+                    "a": [
+                        "nīl"
+                    ]
+                },
+                {
+                    "q": "7. # dīcitur rēs quae tam candida est quam nix.",
+                    "a": [
+                        "Nivea"
+                    ]
+                },
+                {
+                    "q": "8. Paula, quae nūbere cupiēbat, nōn puella, sed # erat.",
+                    "a": [
+                        "anus"
+                    ]
+                },
+                {
+                    "q": "9. Ille # [= sapiēns est] cui paulum satis est.",
+                    "a": [
+                        "sapit"
+                    ]
+                },
+                {
+                    "q": "10. Versibus dē Bassā recitātīs, Paula # [= rubēre incipit].",
+                    "a": [
+                        "ērubēscit"
+                    ]
+                },
+                {
+                    "q": "11. Sine # Gellia patrem mortuum nōn flet; sī quis adest, lacrimae #.",
+                    "a": [
+                        "testibus|teste",
+                        "prōsiliunt"
+                    ]
+                },
+                {
+                    "q": "12. Poētae pauperī # [= dīvitiae] nōn dantur.",
+                    "a": [
+                        "opēs"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Exercise 9",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Quālēs versūs scrīpsit Mārtiālis? ...",
+                    "a": [
+                        "Mārtiālis epigrammata scrīpsit"
+                    ]
+                },
+                {
+                    "q": "2. Num omnēs Rōmānī libellōs eius laudābant? ...",
+                    "a": [
+                        "nōn omnibus placēbant libellī Mārtiālis"
+                    ]
+                },
+                {
+                    "q": "3. Cūr Mārtiālis Pontiliānō libellōs suōs nōn mīsit? ...",
+                    "a": [
+                        "Pontiliānō libellōs nōn mīsit, nē ille suōs libellōs mitteret Mārtiālī"
+                    ]
+                },
+                {
+                    "q": "4. Cūr nēmō carmina Cinnae legēbat? ...",
+                    "a": [
+                        "... quia Cinna malus poēta fuit"
+                    ]
+                },
+                {
+                    "q": "5. Num Sabidius amīcus Mārtiālis erat? ...",
+                    "a": [
+                        "Mārtiālis Sabidium nōn amābat"
+                    ]
+                },
+                {
+                    "q": "6. Quid tū Faustum puellīs scrībere putās? ...",
+                    "a": [
+                        "putō Faustum puellīs scrībere dē amōre"
+                    ]
+                },
+                {
+                    "q": "7. Cūr dentēs niveōs, nōn nigrōs habēbat Laecānia? ...",
+                    "a": [
+                        "Laecānia dentēs niveōs habēbat, quia ēmptī erant"
+                    ]
+                },
+                {
+                    "q": "8. Cūr Prīscus Paulam uxōrem dūcere nōlēbat? ...",
+                    "a": [
+                        "crēdō Prīscum virum dīvitem esse, Paulam virginem pauperem"
+                    ]
+                },
+                {
+                    "q": "9. Quālis fēmina ‘sē fōrmōsam et puellam esse’ dīcit? ...",
+                    "a": [
+                        "id dīcere solet quae nec fōrmōsa nec puella est"
+                    ]
+                },
+                {
+                    "q": "10. Num Gellia patrem mortuum vērē lūgēbat? ...",
+                    "a": [
+                        "sine teste Gellia patrem nōn lūgēbat"
+                    ]
+                },
+                {
+                    "q": "11. Quamobrem vir pauper numquam dīves erit? ...",
+                    "a": [
+                        "... quod hodiē dīvitiae nūllīs dantur nisi dīvitibus"
+                    ]
+                },
+                {
+                    "q": "12. Quot epigrammata recitat Cornēlius? ...",
+                    "a": [
+                        "Cornēlius centum ferē epigrammata recitat"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Exercise 10",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. \"Nōn amo tē, Sabidī, nec possum dīcere quārē.\" Hic versus ex XV # cōnstat: nō-n'a-mo-tē-sa-bi-dī-nec-pos-sum-dī-ce-re-quā-rē. Syllabae sunt aut # aut longae.",
+                    "a": [
+                        "syllabīs",
+                        "brevēs"
+                    ]
+                },
+                {
+                    "q": "2. Syllaba brevis est quae in # brevem (a, e, i, o, u, y) dēsinit.",
+                    "a": [
+                        "vōcālem"
+                    ]
+                },
+                {
+                    "q": "3. Syllaba # est quae dēsinit in vōcālem longam (ā, ē, ī ō, ū, ȳ) aut in # (ae, oe, au, eu, ui) aut in #.",
+                    "a": [
+                        "longa",
+                        "diphthongum",
+                        "cōnsonantem"
+                    ]
+                },
+                {
+                    "q": "4. Ex XV syllabīs 'nō-na-mo-tē-sa-bi-dī-nec-pos-sum-dī-ce-re-quā-rē' brevēs sunt VI: #, #, #, #, #, #,",
+                    "a": [
+                        "na",
+                        "mo",
+                        "sa",
+                        "bi",
+                        "ce",
+                        "re"
+                    ]
+                },
+                {
+                    "q": "longae IX: #, #, #, #, #, #, #, #, #.",
+                    "a": [
+                        "nō",
+                        "tē",
+                        "dī",
+                        "nec",
+                        "pos",
+                        "sum",
+                        "dī",
+                        "quā",
+                        "rē"
+                    ]
+                },
+                {
+                    "q": "8. Īdem versus in sex # dīviditur hōc modō: nō-n'a-mo| tē Sa-bi|dī nec| pos-sum| dī-ce-re| quārē.",
+                    "a": [
+                        "pedēs"
+                    ]
+                },
+                {
+                    "q": "10. Pēs # cōnstat ex syllabā longā et duābus brevibus, ut 'dī-ce-re'.",
+                    "a": [
+                        "dactylus"
+                    ]
+                },
+                {
+                    "q": "11. Pēs quī ē duābus syllabīs longīs cōnstat dicitur #, ut 'pos-sum', 'quā-rē'.",
+                    "a": [
+                        "spondēus"
+                    ]
+                },
+                {
+                    "q": "12. Quī cōnstat ex syllabā longā et brevī dīcitur pēs #, ut 'nā-ta'.",
+                    "a": [
+                        "trochaeus"
+                    ]
+                },
+                {
+                    "q": "13. Versus # cōnstat ex VI pedibus, quōrum IV sunt dactylī aut #, quīntus #, sextus # aut trochaeus.",
+                    "a": [
+                        "hexameter",
+                        "spondēī",
+                        "dactylus",
+                        "spondēus"
+                    ]
+                },
+                {
+                    "q": "14. Versus ūnō pede brevior quī hexametrum sequitur # vocātur.",
+                    "a": [
+                        "pentameter"
+                    ]
+                },
+                {
+                    "q": "15. Versus XI syllabārum # appellātur, ut 'pas-ser dē-li-ci-ae me-ae pu-el-lae'.",
+                    "a": [
+                        "hendecasyllabus"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Exercise 11",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. accendere, #isse, #um esse.",
+                    "a": [
+                        "accend",
+                        "accēns"
+                    ]
+                },
+                {
+                    "q": "2. dēlēre, #isse, #um esse.",
+                    "a": [
+                        "dēlēv",
+                        "dēlēt"
+                    ]
+                },
+                {
+                    "q": "3. implicāre, #isse, #um esse.",
+                    "a": [
+                        "implicu",
+                        "implicit"
+                    ]
+                },
+                {
+                    "q": "4. laedere, #isse, #um esse.",
+                    "a": [
+                        "laes",
+                        "laes"
+                    ]
+                },
+                {
+                    "q": "5. parere, #isse, #um esse.",
+                    "a": [
+                        "peper",
+                        "part"
+                    ]
+                },
+                {
+                    "q": "6. plaudere, #isse.",
+                    "a": [
+                        "plaus"
+                    ]
+                },
+                {
+                    "q": "7. retinēre, re#isse, re#um esse.",
+                    "a": [
+                        "tinu",
+                        "tent"
+                    ]
+                },
+                {
+                    "q": "8. sapere, #isse.",
+                    "a": [
+                        "sapi"
+                    ]
+                },
+                {
+                    "q": "9. sedēre, #isse.",
+                    "a": [
+                        "sēd"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "PENSVM A",
+            "info": "",
+            "questions": []
+        },
+        {
+            "id": 12,
+            "name": "PENSVM B",
+            "info": "",
+            "questions": [
+                {
+                    "a": [
+                        "certant",
+                        "spectātōrēs",
+                        "plaudunt"
+                    ],
+                    "q": "Dum gladiātōrēs # [= pugnant], # dēlectātī manibus #."
+                },
+                {
+                    "a": [
+                        "libet"
+                    ],
+                    "q": "Fēminīs nōn # gladiātōrēs spectāre."
+                },
+                {
+                    "a": [
+                        "circō",
+                        "favēbat"
+                    ],
+                    "q": "Ovidius in # sedēns ōrābat ut vinceret ille cui amīca eius #."
+                },
+                {
+                    "a": [
+                        "prīncipiō"
+                    ],
+                    "q": "Hoc nārrātur in # [= initiō] carminis."
+                },
+                {
+                    "a": [
+                        "fātum",
+                        "gremiō",
+                        "bāsia"
+                    ],
+                    "q": "Cum poēta # [= fortūnam] Priamī canere vellet, puella in # eius sēdit eīque mīlle # dedit."
+                },
+                {
+                    "a": [
+                        "ingenium"
+                    ],
+                    "q": "Ovidius # mulierum bene nōverat."
+                },
+                {
+                    "a": [
+                        "accēnsīs",
+                        "bellum",
+                        "passere",
+                        "Lūgēte"
+                    ],
+                    "q": "Lucernīs #, Iūlius recitat carmen # [= pulchrum] dē # Lesbiae mortuō: \"#, ō Venerēs...!\""
+                },
+                {
+                    "a": [
+                        "ultimīs",
+                        "ratiō"
+                    ],
+                    "q": "Versibus # [= postrēmīs] dēmōnstrātur # [= causa] dolōris."
+                },
+                {
+                    "a": [
+                        "dūcere",
+                        "nūbere"
+                    ],
+                    "q": "Catullus Lesbiam uxōrem # cupiēbat, at illa Catullō # nōluit."
+                },
+                {
+                    "a": [
+                        "Mēns",
+                        "odium"
+                    ],
+                    "q": "# poētae inter amōrem et # dīvidēbātur."
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "PENSVM C",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Quid Rōmānī in amphitheātrō spectant? ",
+                    "a": []
+                },
+                {
+                    "q": "2. Quid Fabia in theātrō spectāvit? ",
+                    "a": []
+                },
+                {
+                    "q": "3. Quis fuit Ovidius? ",
+                    "a": []
+                },
+                {
+                    "q": "4. Quārē Ovidius in circum vēnerat? ",
+                    "a": []
+                },
+                {
+                    "q": "5. Quae carmina recitat Iūlius? ",
+                    "a": []
+                },
+                {
+                    "q": "6. Cūr ocellī Lesbiae turgidī rubēbant? ",
+                    "a": []
+                },
+                {
+                    "q": "7. Cūr poēta Lesbiam et amābat et ōderat? ",
+                    "a": []
+                },
+                {
+                    "q": "8. Num sacculus Catullī plēnus erat nummōrum? ",
+                    "a": []
+                },
+                {
+                    "q": "9. Quid scrīpsit Mārtiālis? ",
+                    "a": []
+                },
+                {
+                    "q": "10. Cūr librōs suōs nōn mīsit Pontiliānō? ",
+                    "a": []
+                },
+                {
+                    "q": "11. Tūne Cinnam bonum poētam fuisse putās? ",
+                    "a": []
+                },
+                {
+                    "q": "12. Cūr Laecāniae dentēs niveī erant? ",
+                    "a": []
+                },
+                {
+                    "q": "13. Ex quibus syllabīs cōnstat pēs dactylus? ",
+                    "a": []
+                },
+                {
+                    "q": "14. Ex quibus pedibus cōnstat hexameter? ",
+                    "a": []
+                }
+            ]
+        }
+    ]
+}

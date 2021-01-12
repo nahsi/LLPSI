@@ -1,0 +1,1258 @@
+{
+    "id": 12,
+    "name": "CAPITVLVM XIII",
+    "exercises": [
+        {
+            "id": 0,
+            "name": "Exercise 1",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. # mēnsis # [I] est.",
+                    "a": [
+                        "Iānuārius",
+                        "prīmus"
+                    ]
+                },
+                {
+                    "q": "2. # mēnsis # [II].",
+                    "a": [
+                        "Februārius",
+                        "secundus"
+                    ]
+                },
+                {
+                    "q": "3. # mēnsis # [III].",
+                    "a": [
+                        "Mārtius",
+                        "tertius"
+                    ]
+                },
+                {
+                    "q": "4. # mēnsis # [IV].",
+                    "a": [
+                        "Aprīlis",
+                        "quārtus"
+                    ]
+                },
+                {
+                    "q": "5. # mēnsis # [V].",
+                    "a": [
+                        "Māius",
+                        "quīntus"
+                    ]
+                },
+                {
+                    "q": "6. # mēnsis # [VI].",
+                    "a": [
+                        "Iūnius",
+                        "sextus"
+                    ]
+                },
+                {
+                    "q": "7. # mēnsis # [VII].",
+                    "a": [
+                        "Iūlius",
+                        "septimus"
+                    ]
+                },
+                {
+                    "q": "8. # mēnsis # [VIII].",
+                    "a": [
+                        "Augustus",
+                        "octāvus"
+                    ]
+                },
+                {
+                    "q": "9. # mēnsis # [IX].",
+                    "a": [
+                        "September",
+                        "nōnus"
+                    ]
+                },
+                {
+                    "q": "10. # mēnsis # [X].",
+                    "a": [
+                        "Octōber",
+                        "decimus"
+                    ]
+                },
+                {
+                    "q": "11. # mēnsis # [XI].",
+                    "a": [
+                        "November",
+                        "ūndecimus"
+                    ]
+                },
+                {
+                    "q": "12. # mēnsis # [XII].",
+                    "a": [
+                        "December",
+                        "duodecimus"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Exercise 2",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. # dīviditur in duodecim mēnsēs.",
+                    "a": [
+                        "Annus"
+                    ]
+                },
+                {
+                    "q": "2. Iānuārius # annī prīmus est.",
+                    "a": [
+                        "mēnsis"
+                    ]
+                },
+                {
+                    "q": "3. December est mēnsis annī #.",
+                    "a": [
+                        "postrēmus"
+                    ]
+                },
+                {
+                    "q": "4. In annō sunt # # quīnque [CCCLXV] #.",
+                    "a": [
+                        "trecentī",
+                        "sexāgintā",
+                        "diēs"
+                    ]
+                },
+                {
+                    "q": "5. # est centum annī; duo saecula sunt # [CC] annī.",
+                    "a": [
+                        "Saeculum",
+                        "ducentī"
+                    ]
+                },
+                {
+                    "q": "6. Centum annī # saeculum est longum #.",
+                    "a": [
+                        "vel",
+                        "tempus"
+                    ]
+                },
+                {
+                    "q": "7. Mēnsis Iānuārius ā deō Iānō # [= nōmen habet].",
+                    "a": [
+                        "nōminātur"
+                    ]
+                },
+                {
+                    "q": "8. Iānus est deus Rōmānus cui duae # sunt.",
+                    "a": [
+                        "faciēs"
+                    ]
+                },
+                {
+                    "q": "9. Tempore antīquō Mārtius mēnsis prīmus #.",
+                    "a": [
+                        "erat"
+                    ]
+                },
+                {
+                    "q": "10. # [= illō tempore] Octōber mēnsis octāvus erat.",
+                    "a": [
+                        "Tunc"
+                    ]
+                },
+                {
+                    "q": "11. # autem Iānuārius est mēnsis prīmus; Octōber # [= ergō Octōber] mēnsis decimus est.",
+                    "a": [
+                        "Nunc",
+                        "igitur"
+                    ]
+                },
+                {
+                    "q": "12. Februārius # [XXVIII] aut # [XXIX] diēs habet.",
+                    "a": [
+                        "duodētrīgintā",
+                        "ūndētrīgintā"
+                    ]
+                },
+                {
+                    "q": "13. Cēterī # [XI] mēnsēs longiōrēs sunt.",
+                    "a": [
+                        "ūndecim"
+                    ]
+                },
+                {
+                    "q": "14. Aprīlis # [XXX] diēs habet; # Iūnius XXX diēs habet. ",
+                    "a": [
+                        "trīgintā",
+                        "item"
+                    ]
+                },
+                {
+                    "q": "15. Sex mēnsēs sunt # pars annī.",
+                    "a": [
+                        "dīmidia"
+                    ]
+                },
+                {
+                    "q": "16. Prīma pars diēī est #.",
+                    "a": [
+                        "māne"
+                    ]
+                },
+                {
+                    "q": "17. Diēs est tempus ā māne ad #.",
+                    "a": [
+                        "vesperum"
+                    ]
+                },
+                {
+                    "q": "18. # est tempus ā vesperō ad māne.",
+                    "a": [
+                        "Nox"
+                    ]
+                },
+                {
+                    "q": "19. Māne est # diēī, vesper # diēī est.",
+                    "a": [
+                        "initium",
+                        "fīnis"
+                    ]
+                },
+                {
+                    "q": "20. Diēs in duodecim # dīviditur.",
+                    "a": [
+                        "hōrās"
+                    ]
+                },
+                {
+                    "q": "21. Hōra sexta, quae # nōminātur, diem dīvidit in duās # partēs.",
+                    "a": [
+                        "merīdiēs",
+                        "aequās"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Exercise 3",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Quot mēnsēs sunt in annō? ...",
+                    "a": [
+                        "in annō sunt duodecim mēnsēs"
+                    ]
+                },
+                {
+                    "q": "2. Quī mēnsis annī prīmus est? ...",
+                    "a": [
+                        "Iānuārius est mēnsis annī prīmus"
+                    ]
+                },
+                {
+                    "q": "3. Quis est mēnsis annī postrēmus? ...",
+                    "a": [
+                        "mēnsis postrēmus est December"
+                    ]
+                },
+                {
+                    "q": "4. Quot diēs habet annus? ...",
+                    "a": [
+                        "annus CCCLXV diēs habet"
+                    ]
+                },
+                {
+                    "q": "5. Num homō ducentōs annōs vīvere potest? ...",
+                    "a": [
+                        "nēmō ducentōs annōs vīvere potest"
+                    ]
+                },
+                {
+                    "q": "6. Ā quō nōminātur mēnsis Iānuārius? ...",
+                    "a": [
+                        "Iānuārius ā deō Iānō nōminātur"
+                    ]
+                },
+                {
+                    "q": "7. Quot oculōs et quot ōra habet deus Iānus? ...",
+                    "a": [
+                        "quattuor oculōs et duo ōra habet"
+                    ]
+                },
+                {
+                    "q": "8. Cūr mēnsis nōnus September nōminātur? ...",
+                    "a": [
+                        "... quia antīquīs temporibus Mārtius mēnsis prīmus erat"
+                    ]
+                },
+                {
+                    "q": "9. Quot diēs habet mēnsis September? ...",
+                    "a": [
+                        "September trīgintā diēs habet"
+                    ]
+                },
+                {
+                    "q": "10. Quam longus est mēnsis Octōber? ...",
+                    "a": [
+                        "ūnum et trīgintā diēs longus est"
+                    ]
+                },
+                {
+                    "q": "11. Estne mēnsis Februārius longior quam Mārtius? ...",
+                    "a": [
+                        "Februārius brevior est quam Mārtius"
+                    ]
+                },
+                {
+                    "q": "12. Quae est pars diēī postrēma? ...",
+                    "a": [
+                        "pars diēī postrēma est vesper"
+                    ]
+                },
+                {
+                    "q": "13. In quot hōrās dīviditur diēs? ...",
+                    "a": [
+                        "diēs in duodecim hōrās dīviditur"
+                    ]
+                },
+                {
+                    "q": "14. Quot mēnsēs sunt dīmidia pars annī? ...",
+                    "a": [
+                        "sex mēnsēs"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Exercise 4",
+            "info": "Exemplum: \nIūlia duās hōrās dormit.\n",
+            "questions": [
+                {
+                    "q": "1. Homō sānus centum ann# vīvere potest.",
+                    "a": [
+                        "ōs"
+                    ]
+                },
+                {
+                    "q": "2. Nēmō ducent# ann# vīvit.",
+                    "a": [
+                        "ōs",
+                        "ōs"
+                    ]
+                },
+                {
+                    "q": "3. Canis duodecim ann# vīvere potest.",
+                    "a": [
+                        "ōs"
+                    ]
+                },
+                {
+                    "q": "4. Mēdus mult# hōr# in sōle ambulat.",
+                    "a": [
+                        "ās",
+                        "ās"
+                    ]
+                },
+                {
+                    "q": "5. Aemilius sex mēns# mīlitat in Germāniā.",
+                    "a": [
+                        "ēs"
+                    ]
+                },
+                {
+                    "q": "6. Quīntus trēs di# et trēs noct# in lectō iacet.",
+                    "a": [
+                        "ēs",
+                        "ēs"
+                    ]
+                },
+                {
+                    "q": "7. Mīlitēs pauc# hōr# dormiunt.",
+                    "a": [
+                        "ās",
+                        "ās"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Exercise 5",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Nūllus mēnsis brev# est quam Februārius: is mēnsis annī brev# est.",
+                    "a": [
+                        "ior",
+                        "issimus"
+                    ]
+                },
+                {
+                    "q": "2. Sōl est stēlla clār# quam cēterae stēllae: sōl stēlla caelī clār# est.",
+                    "a": [
+                        "ior",
+                        "issima"
+                    ]
+                },
+                {
+                    "q": "3. Nīlus flūmen long# et lāt# est quam cētera flūmina Āfricae: id flūmen Āfricae long# et lāt# est.",
+                    "a": [
+                        "ius",
+                        "ius",
+                        "issimum",
+                        "issimum"
+                    ]
+                },
+                {
+                    "q": "4. Nūllī mīlitēs fort# sunt quam Rōmānī: Rōmānī mīlitēs fort# sunt.",
+                    "a": [
+                        "iōrēs",
+                        "issimī"
+                    ]
+                },
+                {
+                    "q": "5. Tiberius praenōmen long# est quam cētera praenōmina: id praenōmen Latīnum long# est.",
+                    "a": [
+                        "ius",
+                        "issimum"
+                    ]
+                },
+                {
+                    "q": "6. Verba 'īre' et 'dare' brev# sunt quam cētera verba Latīna: ea verba Latīna brev# sunt.",
+                    "a": [
+                        "iōra",
+                        "issima"
+                    ]
+                },
+                {
+                    "q": "7. Merīdiē sōl alt# in caelō est quam ante et post merīdiem: merīdiē sōl alt# est in caelō.",
+                    "a": [
+                        "ior",
+                        "issimus"
+                    ]
+                },
+                {
+                    "q": "8. Mēdus: \"Nūlla fēmina tam fōrmōsa aut tam proba est quam Lȳdia: ea fēmina fōrmōs# ac prob# est!\"",
+                    "a": [
+                        "issima",
+                        "issima"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Exercise 6",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Di# est tempus ā māne ad vesperum.",
+                    "a": [
+                        "ēs"
+                    ]
+                },
+                {
+                    "q": "2. Hōra sexta di# dīvidit in duās aequās partēs.",
+                    "a": [
+                        "em"
+                    ]
+                },
+                {
+                    "q": "3. Vesper est fīnis di#.",
+                    "a": [
+                        "ēī"
+                    ]
+                },
+                {
+                    "q": "4. Di# prīmō mēnsis Septembris nōmen est kalendae Septembrēs.",
+                    "a": [
+                        "ēī"
+                    ]
+                },
+                {
+                    "q": "5, Di# quīntō decimō post lūnam novam lūna plēna est.",
+                    "a": [
+                        "ē"
+                    ]
+                },
+                {
+                    "q": "6. Aestāte di# longiōrēs sunt quam noctēs.",
+                    "a": [
+                        "ēs"
+                    ]
+                },
+                {
+                    "q": "7. Annus CCCLXV di# habet; numerus di# magnus est.",
+                    "a": [
+                        "ēs",
+                        "ērum"
+                    ]
+                },
+                {
+                    "q": "8. Prīmīs mēnsium di# nōmina sunt kalendae Iānuāriae, Februāriae, Mārtiae, Aprīlēs, cētera.",
+                    "a": [
+                        "ēbus"
+                    ]
+                },
+                {
+                    "q": "9. Mēnsēs incipiunt ab iīs di# quī kalendae dīcuntur.",
+                    "a": [
+                        "ēbus"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Exercise 7",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Nōn sōl, sed # et # lūcent nocte.",
+                    "a": [
+                        "lūna",
+                        "stēllae"
+                    ]
+                },
+                {
+                    "q": "2. # lūnae ā sōle venit; itaque lūna nōn tam # est quam sōl.",
+                    "a": [
+                        "Lūx",
+                        "clāra"
+                    ]
+                },
+                {
+                    "q": "3. Sōl terram et lūnam lūce suā #.",
+                    "a": [
+                        "illūstrat"
+                    ]
+                },
+                {
+                    "q": "4. Nōn # lūna lūce sōlis illūstrātur; ea pars lūnae quae nōn illūstrātur # est.",
+                    "a": [
+                        "tōta",
+                        "obscūra"
+                    ]
+                },
+                {
+                    "q": "5. Cum lūna nova est, # [= parva] pars eius vidētur.",
+                    "a": [
+                        "exigua"
+                    ]
+                },
+                {
+                    "q": "6. Lūna dīmidia # habet litterae D.",
+                    "a": [
+                        "fōrmam"
+                    ]
+                },
+                {
+                    "q": "7. Diēs mēnsis I dīcitur #, V aut VII #, VIII aut XV #.",
+                    "a": [
+                        "kalendae",
+                        "nōnae",
+                        "īdūs"
+                    ]
+                },
+                {
+                    "q": "8. A. d. VIII kal. Apr. et a. d. VIII kal. Oct. # dīcuntur, nam iīs diēbus nox aequa est # diēs. ",
+                    "a": [
+                        "aequinoctia",
+                        "atque|ac"
+                    ]
+                },
+                {
+                    "q": "9. Tempora annī sunt vēr, #, autumnus, #.",
+                    "a": [
+                        "aestās",
+                        "hiems"
+                    ]
+                },
+                {
+                    "q": "10. # ā Mārtiō, # ā Septembrī # [= initium facit].",
+                    "a": [
+                        "Vēr",
+                        "autumnus",
+                        "incipit"
+                    ]
+                },
+                {
+                    "q": "11. Aestās nōn tempus #, sed tempus # est.",
+                    "a": [
+                        "frīgidum",
+                        "calidum"
+                    ]
+                },
+                {
+                    "q": "12. Eō tempore multī Rōmānī # [: Rōmam] relinquunt.",
+                    "a": [
+                        "urbem"
+                    ]
+                },
+                {
+                    "q": "13. Hieme nōn sōlum #, sed etiam # dē nūbibus cadit.",
+                    "a": [
+                        "imber",
+                        "nix"
+                    ]
+                },
+                {
+                    "q": "14. Hieme # Germāniae glaciē #. ",
+                    "a": [
+                        "lacūs",
+                        "operiuntur"
+                    ]
+                },
+                {
+                    "q": "15. Germānī puerī super # lacuum lūdunt.",
+                    "a": [
+                        "glaciem"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Exercise 8",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Unde venit lūx lūnae? ...",
+                    "a": [
+                        "lūx lūnae ā sōle venit"
+                    ]
+                },
+                {
+                    "q": "2. Num tōta lūna sōle illūstrātur? ...",
+                    "a": [
+                        "pars lūnae tantum sōle illūstrātur."
+                    ]
+                },
+                {
+                    "q": "3. Quis dīcitur diēs tertius decimus mēnsis Aprīlis? ...",
+                    "a": [
+                        "is diēs dīcitur 'nōnae Aprīlēs'"
+                    ]
+                },
+                {
+                    "q": "4. Quō mēnse longissimī sunt diēs? ...",
+                    "a": [
+                        "mēnse Iūniō diēs longissimī sunt"
+                    ]
+                },
+                {
+                    "q": "5. Quae sunt quattuor tempora annī? ...",
+                    "a": [
+                        "sunt aestās, hiems, vēr, autumnus"
+                    ]
+                },
+                {
+                    "q": "6. Ā quō mēnse incipit annus? ...",
+                    "a": [
+                        "annus ā mēnse Iānuāriō incipit"
+                    ]
+                },
+                {
+                    "q": "7. Quod annī tempus incipit ā mēnse Decembrī? ...",
+                    "a": [
+                        "ā Decembrī incipit hiems"
+                    ]
+                },
+                {
+                    "q": "8. Quī mēnsis annī frīgidissimus est? ...",
+                    "a": [
+                        "mēnsis frīgidissimus est Iānuārius"
+                    ]
+                },
+                {
+                    "q": "9. Cūr multī hominēs urbem relinquunt aestāte? ...",
+                    "a": [
+                        "... quia aestās tempus calidissimum est"
+                    ]
+                },
+                {
+                    "q": "10. Quandō folia dē arboribus cadunt? ...",
+                    "a": [
+                        "autumnō folia dē arboribus cadunt"
+                    ]
+                },
+                {
+                    "q": "11. Quandō arborēs novīs foliīs ōrnantur? ...",
+                    "a": [
+                        "vēre arborēs novīs foliīs ōrnantur"
+                    ]
+                },
+                {
+                    "q": "12. Quī diēs annī brevissimus est? ...",
+                    "a": [
+                        "diēs brevissimus est ante diem octāvum kalendās Iānuāriās"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Exercise 9",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Antīquīs temporibus Mārtius mēnsis prīmus #.",
+                    "a": [
+                        "erat"
+                    ]
+                },
+                {
+                    "q": "2. September, quī nunc mēnsis nōnus #, tunc mēnsis septimus #.",
+                    "a": [
+                        "est",
+                        "erat"
+                    ]
+                },
+                {
+                    "q": "3. Tunc Rōma urbs nōn tam pulchra # quam nunc #.",
+                    "a": [
+                        "erat",
+                        "est"
+                    ]
+                },
+                {
+                    "q": "4. Tunc Rōmānī pauciōres # quam nunc #.",
+                    "a": [
+                        "erant",
+                        "sunt"
+                    ]
+                },
+                {
+                    "q": "5. Ante tempora Iūliī Caesaris mēnsī septimō nōmen # Quīntīlis.",
+                    "a": [
+                        "erat"
+                    ]
+                },
+                {
+                    "q": "6. In Galliā Iūlius Caesar dux exercitūs Rōmānī #.",
+                    "a": [
+                        "erat"
+                    ]
+                },
+                {
+                    "q": "7. Tunc Gallī hostēs Rōmānōrum #, neque enim prōvincia Rōmāna # Gallia.",
+                    "a": [
+                        "erant",
+                        "erat"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Exercise 10",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Aestāt# diēs longiōrēs sunt quam hiem#.",
+                    "a": [
+                        "e",
+                        "e"
+                    ]
+                },
+                {
+                    "q": "2. Mēns# Mārti# et mēns# Septembr# diēs aequī sunt ac noctēs.",
+                    "a": [
+                        "e",
+                        "ō",
+                        "e",
+                        "ī"
+                    ]
+                },
+                {
+                    "q": "3. Hōr# sext# vel merīdi# sōl altissimus est.",
+                    "a": [
+                        "ā",
+                        "ā",
+                        "ē"
+                    ]
+                },
+                {
+                    "q": "4. Quandō lūcet lūna? Lūna noct# lūcet.",
+                    "a": [
+                        "e|ū"
+                    ]
+                },
+                {
+                    "q": "5. Di# octāv# post lūnam novam lūna dīmidia est.",
+                    "a": [
+                        "ē",
+                        "ō"
+                    ]
+                },
+                {
+                    "q": "6. Vēr# arborēs novīs foliīs ōrnantur.",
+                    "a": [
+                        "e"
+                    ]
+                },
+                {
+                    "q": "7. E# tempor# avēs nīdōs faciunt.",
+                    "a": [
+                        "ō",
+                        "e"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Exercise 11",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Estne Quīntus in cubiculō suō? ...",
+                    "a": [
+                        "Quīntus in cubiculō suō est"
+                    ]
+                },
+                {
+                    "q": "2. Estne obscūrum cubiculum Quīntī? ...",
+                    "a": [
+                        "obscūrum nōn est, lūce sōlis illūstrātur cubiculum"
+                    ]
+                },
+                {
+                    "q": "3. Cūr Aemilia fenestram claudit? ...",
+                    "a": [
+                        "... quod sōl lūcet et āēr calidus est"
+                    ]
+                },
+                {
+                    "q": "4 Cūr Quīntus hōrās longās esse putat? ...",
+                    "a": [
+                        "... quia tōtum diem in lectō iacet"
+                    ]
+                },
+                {
+                    "q": "5 Quod tempus est annī? ...",
+                    "a": [
+                        "vēr est"
+                    ]
+                },
+                {
+                    "q": "6. Ā quō nōminātur mēnsis Iūlius? ...",
+                    "a": [
+                        "mēnsis Iūlius nōminātur ā Iūliō Caesare"
+                    ]
+                },
+                {
+                    "q": "7. Quod nōmen eī mēnsī erat ante tempus Caesaris? ...",
+                    "a": [
+                        "tunc eī mēnsī nōmen erat Quīntīlis"
+                    ]
+                },
+                {
+                    "q": "8. Num Iūlius vel Quīntīlis mēnsis quīntus est? ...",
+                    "a": [
+                        "nōn quīntus sed septimus est mēnsis Iūlius"
+                    ]
+                },
+                {
+                    "q": "9. Cūr Quīntus dormīre nōn potest? ...",
+                    "a": [
+                        "... quia aeger est et pēs dolet"
+                    ]
+                },
+                {
+                    "q": "10. Ubi sōl lūcet cum nox est in Italiā? ...",
+                    "a": [
+                        "nocte sōl in aliīs terrīs lūcet"
+                    ]
+                },
+                {
+                    "q": "11. Quandō hominēs dormiunt? ...",
+                    "a": [
+                        "hominēs dormiunt nocte"
+                    ]
+                },
+                {
+                    "q": "12. Quae urbs est caput imperiī Rōmānī? ...",
+                    "a": [
+                        "caput imperiī est urbs Rōma"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Exercise 12",
+            "info": "Dēclīnātiō quīnta\nExemplum: di|ēs, gen. sing. -ēī, m.\n____________Sing.\tPlūr.\n",
+            "questions": [
+                {
+                    "q": "1. Nōm.\tdi#\tdi#",
+                    "a": [
+                        "ēs",
+                        "ēs"
+                    ]
+                },
+                {
+                    "q": "2. Acc.\t\tdi#\tdi#",
+                    "a": [
+                        "em",
+                        "ēs"
+                    ]
+                },
+                {
+                    "q": "3. Gen.\t\tdi#\tdi#",
+                    "a": [
+                        "ēī",
+                        "ērum"
+                    ]
+                },
+                {
+                    "q": "4. Dat.\t\tdi#\tdi#",
+                    "a": [
+                        "ēī",
+                        "ēbus"
+                    ]
+                },
+                {
+                    "q": "5. Abl.\t\tdi#\tdi#",
+                    "a": [
+                        "ē",
+                        "ēbus"
+                    ]
+                },
+                {
+                    "q": "6. 'Diē' est # singulāris.",
+                    "a": [
+                        "ablātīvus"
+                    ]
+                },
+                {
+                    "q": "7. 'Diēbus' # aut # plūrālis est.",
+                    "a": [
+                        "datīvus",
+                        "ablātīvus"
+                    ]
+                },
+                {
+                    "q": "8. 'Diēī' est # aut # singulāris.",
+                    "a": [
+                        "genetīvus",
+                        "datīvus"
+                    ]
+                },
+                {
+                    "q": "9. 'Diem' # # est.",
+                    "a": [
+                        "accūsātīvus",
+                        "singulāris"
+                    ]
+                },
+                {
+                    "q": "10. 'Diērum' # # est.",
+                    "a": [
+                        "genetīvus",
+                        "plūrālis"
+                    ]
+                },
+                {
+                    "q": "11. 'Diēs' est # singulāris aut # aut # plūrālis.",
+                    "a": [
+                        "nōminātīvus",
+                        "nōminātīvus",
+                        "accūsātīvus"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Exercise 13",
+            "info": "Exempla: \nFebruārius mēnsis brevis est, brevior quam cēterī mēnsēs: \nFebruārius mēnsis annī brevissimus est. \n____________Masc.\t\t\tFēm.\t\t\tNeutr.\n",
+            "questions": [
+                {
+                    "q": "1. Brev|is -e positīvus est; brevior -ius # est; brevissim|us",
+                    "a": [
+                        "comparātīvus"
+                    ]
+                },
+                {
+                    "q": " -a -um est #.",
+                    "a": [
+                        "superlātīvus"
+                    ]
+                },
+                {
+                    "q": "2. Pos.\t\talt#\t\t\talt#\t\t\talt#",
+                    "a": [
+                        "us",
+                        "a",
+                        "um"
+                    ]
+                },
+                {
+                    "q": "3. Comp.\talt#\t\t\talt#\t\t\talt#",
+                    "a": [
+                        "ior",
+                        "ior",
+                        "ius"
+                    ]
+                },
+                {
+                    "q": "4. Sup.\t\talt#\t\talt#\t\talt#\t",
+                    "a": [
+                        "issimus",
+                        "issima",
+                        "issimum"
+                    ]
+                },
+                {
+                    "q": "5. Pos.\t\tbrev# \t\t\tbrev#\t\t\tbrev#",
+                    "a": [
+                        "is",
+                        "is",
+                        "e"
+                    ]
+                },
+                {
+                    "q": "6. Comp.\tbrev#\t\t\tbrev#\t\t\tbrev#",
+                    "a": [
+                        "ior",
+                        "ior",
+                        "ius"
+                    ]
+                },
+                {
+                    "q": "7. Sup.\t\tbrev#\t\tbrev#\t\tbrev#",
+                    "a": [
+                        "issimus",
+                        "issima",
+                        "issimum"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "PENSVM A",
+            "info": "",
+            "questions": [
+                {
+                    "a": [
+                        "ēī"
+                    ],
+                    "q": "Hōrae di# sunt XII."
+                },
+                {
+                    "a": [
+                        "em",
+                        "em",
+                        "em"
+                    ],
+                    "q": "Hōra sexta di# dīvidit in duās partēs: ante merīdi# et post merīdi#."
+                },
+                {
+                    "a": [
+                        "ēī"
+                    ],
+                    "q": "Sex hōrae sunt dīmidia pars di#."
+                },
+                {
+                    "a": [
+                        "ēs",
+                        "ērum"
+                    ],
+                    "q": "Mēnsis Iūnius XXX di# habet: numerus di# est XXX."
+                },
+                {
+                    "a": [
+                        "ē"
+                    ],
+                    "q": "Novus annus incipit ab eō di# quī dīcitur kalendae Iānuāriae."
+                },
+                {
+                    "a": [
+                        "issimus",
+                        "issimus"
+                    ],
+                    "q": "Iūlius mēnsis annī calid# est; Iānuārius est mēnsis annī frīgid#."
+                },
+                {
+                    "a": [
+                        "issimus"
+                    ],
+                    "q": "Mēnsis annī brev# est Februārius."
+                },
+                {
+                    "a": [
+                        "issimum",
+                        "issimum"
+                    ],
+                    "q": "Padus est flūmen Italiae long# et lāt#."
+                },
+                {
+                    "a": [
+                        "issima"
+                    ],
+                    "q": "Sōl stēlla clār# est."
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "PENSVM B",
+            "info": "",
+            "questions": [
+                {
+                    "a": [
+                        "mēnsis",
+                        "duodecimus",
+                        "postrēmus"
+                    ],
+                    "q": "Iānuārius # prīmus est. December est mēnsis # ac #."
+                },
+                {
+                    "a": [
+                        "erat",
+                        "tunc"
+                    ],
+                    "q": "Tempore antīquō September mēnsis septimus #, nam # [= illō tempore] mēnsis prīmus erat Mārtius."
+                },
+                {
+                    "a": [
+                        "nōnus"
+                    ],
+                    "q": "Nunc September mēnsis # est."
+                },
+                {
+                    "a": [
+                        "māne",
+                        "vesperum"
+                    ],
+                    "q": "Diēs est tempus ā # ad #."
+                },
+                {
+                    "a": [
+                        "initium",
+                        "fīnis",
+                        "noctis"
+                    ],
+                    "q": "Māne est # diēī, vesper # diēī est et initium #."
+                },
+                {
+                    "a": [
+                        "hōrās"
+                    ],
+                    "q": "Diēs in XII # dīviditur."
+                },
+                {
+                    "a": [
+                        "lūna",
+                        "stēllae",
+                        "clārae"
+                    ],
+                    "q": "Nocte # et # lūcent, neque eae tam # sunt quam sōl."
+                },
+                {
+                    "a": [
+                        "lūce",
+                        "illūstrat"
+                    ],
+                    "q": "Sōl lūnam # suā #."
+                },
+                {
+                    "a": [
+                        "obscūra"
+                    ],
+                    "q": "Ea lūnae pars quae sōle nōn illūstrātur # est."
+                },
+                {
+                    "a": [
+                        "autumnus",
+                        "hiems",
+                        "tempora"
+                    ],
+                    "q": "Vēr et #, aestās et # sunt quattuor # annī."
+                },
+                {
+                    "a": [
+                        "Aestās",
+                        "incipit"
+                    ],
+                    "q": "# ā mēnse Iūniō #."
+                },
+                {
+                    "a": [
+                        "imber",
+                        "nix",
+                        "operiuntur"
+                    ],
+                    "q": "Hieme nōn sōlum #, sed etiam # dē nūbibus cadit: montēs et campī nive #."
+                },
+                {
+                    "a": [
+                        "frīgida"
+                    ],
+                    "q": "Aqua nōn tam # est quam nix."
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "PENSVM C",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Quot sunt mēnsēs annī? ",
+                    "a": []
+                },
+                {
+                    "q": "2. Ā quō Iānuārius nōmen habet? ",
+                    "a": []
+                },
+                {
+                    "q": "3. Quam longus est mēnsis Aprīlis? ",
+                    "a": []
+                },
+                {
+                    "q": "4. Ā quō mēnsis Iūlius nōmen habet? ",
+                    "a": []
+                },
+                {
+                    "q": "5. Cūr mēnsis decimus Octōber nōminātur? ",
+                    "a": []
+                },
+                {
+                    "q": "6. Cūr lūna nōn tam clāra est quam sōl? ",
+                    "a": []
+                },
+                {
+                    "q": "7. Quī diēs annī brevissimus est? ",
+                    "a": []
+                },
+                {
+                    "q": "8. Quī diēs aequinoctia dīcuntur? ",
+                    "a": []
+                },
+                {
+                    "q": "9. Quod tempus annī calidissimum est? ",
+                    "a": []
+                },
+                {
+                    "q": "10. Quandō nix dē nūbibus cadit? .",
+                    "a": []
+                },
+                {
+                    "q": "11. Quid est imber? ",
+                    "a": []
+                },
+                {
+                    "q": "12. Ā quō diē incipit novus annus? ",
+                    "a": []
+                }
+            ]
+        }
+    ]
+}

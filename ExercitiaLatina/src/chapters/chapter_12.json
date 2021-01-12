@@ -1,0 +1,2043 @@
+{
+    "id": 11,
+    "name": "CAPITVLVM XII",
+    "exercises": [
+        {
+            "id": 0,
+            "name": "Exercise 1",
+            "info": "Exemplum: \nMārcus ūnam sorōrem habet = Mārcō [dat.] ūna soror est.\n",
+            "questions": [
+                {
+                    "q": "1. Iūlius trēs līberōs habet = Iūliō # # #\t",
+                    "a": [
+                        "trēs",
+                        "līberī",
+                        "sunt"
+                    ]
+                },
+                {
+                    "q": "2. Aemiliae ūnus frāter est = # # # #",
+                    "a": [
+                        "Aemilia",
+                        "ūnum",
+                        "frātrem",
+                        "habet"
+                    ]
+                },
+                {
+                    "q": "3. Dāvus multōs amīcōs habet = # # # #",
+                    "a": [
+                        "Dāvō",
+                        "multī",
+                        "amīcī",
+                        "sunt"
+                    ]
+                },
+                {
+                    "q": "4. Hominī improbō paucī sunt amīcī = # # # # #",
+                    "a": [
+                        "homō",
+                        "improbus",
+                        "paucōs",
+                        "habet",
+                        "amīcōs"
+                    ]
+                },
+                {
+                    "q": "5. Homō duōs oculōs et duās aurēs habet = # # # # # # #",
+                    "a": [
+                        "hominī",
+                        "duo",
+                        "oculī",
+                        "et",
+                        "duae",
+                        "aurēs",
+                        "sunt"
+                    ]
+                },
+                {
+                    "q": "6. Corporī hūmānō quattuor membra sunt = # # # # #",
+                    "a": [
+                        "corpus",
+                        "hūmānum",
+                        "quattuor",
+                        "membra",
+                        "habet"
+                    ]
+                },
+                {
+                    "q": "7. Hominēs ālās nōn habent = # # # # ",
+                    "a": [
+                        "hominibus",
+                        "ālae",
+                        "nōn",
+                        "sunt"
+                    ]
+                },
+                {
+                    "q": "8. Mercuriō ālae in pedibus sunt = # # # # #",
+                    "a": [
+                        "Mercurius",
+                        "ālās",
+                        "in",
+                        "pedibus",
+                        "habet"
+                    ]
+                },
+                {
+                    "q": "9. Vir Rōmānus tria nōmina habet = # # # # #",
+                    "a": [
+                        "virō",
+                        "Rōmānō",
+                        "tria",
+                        "nōmina",
+                        "sunt"
+                    ]
+                },
+                {
+                    "q": "10. Rōmānīs multī deī sunt = # # # #",
+                    "a": [
+                        "Rōmānī",
+                        "multōs",
+                        "deōs",
+                        "habent"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Exercise 2",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Mārcō pat# et māt#, frāt# et soror sunt. ",
+                    "a": [
+                        "er",
+                        "er",
+                        "er"
+                    ]
+                },
+                {
+                    "q": "2. Mārcus pat# et māt#, frāt# et sorōrem habet.",
+                    "a": [
+                        "rem",
+                        "rem",
+                        "rem"
+                    ]
+                },
+                {
+                    "q": "3. Iūliae duo frāt# sunt: Iūlia duōs frāt# habet.",
+                    "a": [
+                        "rēs",
+                        "rēs"
+                    ]
+                },
+                {
+                    "q": "4. Nōmina frāt# sunt Mārcus et Quīntus.",
+                    "a": [
+                        "rum"
+                    ]
+                },
+                {
+                    "q": "5. Iūlia māt# et frāt# suīs rosās ostendit.",
+                    "a": [
+                        "rī",
+                        "ribus"
+                    ]
+                },
+                {
+                    "q": "6. Iūlia ā māt# et ā frāt# suīs discēdit.",
+                    "a": [
+                        "re",
+                        "ribus"
+                    ]
+                },
+                {
+                    "q": "7. Iūlia rosam dat pat#, pat# fīliae ōsculum dat.",
+                    "a": [
+                        "rī",
+                        "er"
+                    ]
+                },
+                {
+                    "q": "8. Iūlia pat# suum amat et ā pat# suō amātur.",
+                    "a": [
+                        "rem",
+                        "re"
+                    ]
+                },
+                {
+                    "q": "9. Avunculus nōn est frāt# pat#, sed māt#.",
+                    "a": [
+                        "er",
+                        "ris",
+                        "ris"
+                    ]
+                },
+                {
+                    "q": "10. Puerī Rōmānī nōn ā māt#, sed ā pat# suīs nōmina habent.",
+                    "a": [
+                        "ribus",
+                        "ribus"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Exercise 3",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Mārcō et Quīntō ūna # est: Iūlia.",
+                    "a": [
+                        "soror"
+                    ]
+                },
+                {
+                    "q": "2. Iūliae duo # sunt: Mārcus et Quīntus.",
+                    "a": [
+                        "frātrēs"
+                    ]
+                },
+                {
+                    "q": "3. Frāter Aemiliae, cui # est 'Aemilius', # līberōrum est.",
+                    "a": [
+                        "nōmen",
+                        "avunculus"
+                    ]
+                },
+                {
+                    "q": "4. 'Pūblius' # est; alia # sunt 'Lūcius', 'Mārcus', 'Quīntus', 'Sextus', 'Titus'.",
+                    "a": [
+                        "praenōmen",
+                        "praenōmina"
+                    ]
+                },
+                {
+                    "q": "5. 'Paulus' nōn praenōmen, sed # est.",
+                    "a": [
+                        "cognōmen"
+                    ]
+                },
+                {
+                    "q": "6. Aemilia # est quod frāter eius procul ab eā abest.",
+                    "a": [
+                        "trīstis"
+                    ]
+                },
+                {
+                    "q": "7. Līberī: \"Ubi est avunculus noster?\" Iūlius: \"Avunculus # est in Germāniā.\"",
+                    "a": [
+                        "vester"
+                    ]
+                },
+                {
+                    "q": "8. # Rōmānus pīlum et # et scūtum # [= portat].",
+                    "a": [
+                        "Mīles",
+                        "gladium",
+                        "fert"
+                    ]
+                },
+                {
+                    "q": "9. # et gladius et # sunt # mīlitis Rōmānī.",
+                    "a": [
+                        "Scūtum",
+                        "pīlum",
+                        "arma"
+                    ]
+                },
+                {
+                    "q": "10. Mīles est vir # [= quī arma fert].",
+                    "a": [
+                        "armātus"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Exercise 4",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Quis est frāter Mārcī? ...",
+                    "a": [
+                        "Quīntus est frāter Mārcī"
+                    ]
+                },
+                {
+                    "q": "2. Quae soror Mārcī est? ...",
+                    "a": [
+                        "soror Mārcī est Iūlia"
+                    ]
+                },
+                {
+                    "q": "3. Quot frātrēs sunt Iūliae? ...",
+                    "a": [
+                        "Iūliae duo frātrēs sunt"
+                    ]
+                },
+                {
+                    "q": "4. Mārcō quot sorōrēs sunt? ...",
+                    "a": [
+                        "Mārcō ūna soror est"
+                    ]
+                },
+                {
+                    "q": "5. Quot fīliī et quot fīliae Iūliō sunt? ...",
+                    "a": [
+                        "Iūliō sunt duo fīliī et ūna fīlia"
+                    ]
+                },
+                {
+                    "q": "6. Quod nōmen est fīliae? ...",
+                    "a": [
+                        "Fīliae nōmen est Iūlia"
+                    ]
+                },
+                {
+                    "q": "7. Fīliīs quae nōmina sunt? ...",
+                    "a": [
+                        "fīliīs nōmina sunt Mārcus et Quīntus"
+                    ]
+                },
+                {
+                    "q": "8. Quod nōmen mātrī est? ...",
+                    "a": [
+                        "mātrī nōmen est Aemilia"
+                    ]
+                },
+                {
+                    "q": "9. Quod cognōmen est Iūliō? ...",
+                    "a": [
+                        "eī cognōmen est Balbus"
+                    ]
+                },
+                {
+                    "q": "10. Num 'Quīntus' cognōmen est? ...",
+                    "a": [
+                        "'Quīntus' nōn cognōmen, sed praenōmen est"
+                    ]
+                },
+                {
+                    "q": "11. Quot nōmina virō Rōmanō sunt? ...",
+                    "a": [
+                        "virō Rōmānō tria nōmina sunt"
+                    ]
+                },
+                {
+                    "q": "12. Quid est praenōmen? ...",
+                    "a": [
+                        "praenōmen est nōmen prīmum"
+                    ]
+                },
+                {
+                    "q": "13. Quis est avunculus Mārcī? ...",
+                    "a": [
+                        "Aemilius avunculus Mārcī est"
+                    ]
+                },
+                {
+                    "q": "14. Quot frātrēs sunt Aemiliae? ...",
+                    "a": [
+                        "Aemiliae ūnus frāter est"
+                    ]
+                },
+                {
+                    "q": "15. Cūr Aemilia trīstis est? ...",
+                    "a": [
+                        "trīstis est quod frāter eius abest"
+                    ]
+                },
+                {
+                    "q": "16. Ubi est frāter Aemiliae? ...",
+                    "a": [
+                        "frāter eius in Germāniā est"
+                    ]
+                },
+                {
+                    "q": "17. Estne Aemilius mercātor Rōmānus? ...",
+                    "a": [
+                        "nōn mercātor, sed mīles est"
+                    ]
+                },
+                {
+                    "q": "18. Quid mīles Rōmānus fert? ...",
+                    "a": [
+                        "mīles Rōmānus arma fert"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Exercise 5",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Mīl# Rōmānus bona arma fert. ",
+                    "a": [
+                        "es"
+                    ]
+                },
+                {
+                    "q": "2. Bona arma ā mīl# Rōmānō feruntur.",
+                    "a": [
+                        "ite"
+                    ]
+                },
+                {
+                    "q": "3. Arma mīl# Rōmānī sunt gladius, scūtum, pīlum.",
+                    "a": [
+                        "itis"
+                    ]
+                },
+                {
+                    "q": "4. In Germāniā multī mīl# sunt, et ped# et equ#.",
+                    "a": [
+                        "itēs",
+                        "itēs",
+                        "itēs"
+                    ]
+                },
+                {
+                    "q": "5. In Germānia magnus numerus mīl# est, et ped# et equ#.",
+                    "a": [
+                        "itum",
+                        "itum",
+                        "itum"
+                    ]
+                },
+                {
+                    "q": "6. Equ# est mīl# quī equō vehitur; quī pedibus it ped# est.",
+                    "a": [
+                        "es",
+                        "es",
+                        "es"
+                    ]
+                },
+                {
+                    "q": "7. Pīlum ped# Rōmānī nōn tam longum est quam hasta equ#.",
+                    "a": [
+                        "itis",
+                        "itis"
+                    ]
+                },
+                {
+                    "q": "8. Pīlum ā ped# Rōmānō fertur, hasta ab equ# fertur.",
+                    "a": [
+                        "ite",
+                        "ite"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Exercise 6",
+            "info": "Exempla: \nGladius longus. Gladius brevis. \nHasta longa. Hasta brevis.\n",
+            "questions": [
+                {
+                    "q": "1. Gladius long# nōn tam lev# est quam gladius brev#.",
+                    "a": [
+                        "us",
+                        "is",
+                        "is"
+                    ]
+                },
+                {
+                    "q": "2. Hasta brev# nōn tam grav# est quam hasta long#.",
+                    "a": [
+                        "is",
+                        "is",
+                        "a"
+                    ]
+                },
+                {
+                    "q": "3. Saccus Lēandrī magn# et grav# est, saccus Syrī est parv# et lev#.",
+                    "a": [
+                        "us",
+                        "is",
+                        "us",
+                        "is"
+                    ]
+                },
+                {
+                    "q": "4. Quīntus est puer crass#, Mārcus puer tenu# est.",
+                    "a": [
+                        "us",
+                        "is"
+                    ]
+                },
+                {
+                    "q": "5. Aemilia nōn laet#, sed trīst# est.",
+                    "a": [
+                        "a",
+                        "is"
+                    ]
+                },
+                {
+                    "q": "6. Capillus Aemiliae nōn brev#, sed long# est.",
+                    "a": [
+                        "is",
+                        "us"
+                    ]
+                },
+                {
+                    "q": "7. Haec līnea long# et tenu# est: ",
+                    "a": [
+                        "a",
+                        "is"
+                    ]
+                },
+                {
+                    "q": "8. Haec līnea brev# est: ",
+                    "a": [
+                        "is"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Exercise 7",
+            "info": "Exemplum: \nMārcus nōn tam crassus nec tam gravis est quam Quīntus \n= Quīntus crassior et gravior est quam Mārcus.\n",
+            "questions": [
+                {
+                    "q": "1. Via Latīna nōn tam longa est quam via Appia = # # # # # # #",
+                    "a": [
+                        "via",
+                        "Appia",
+                        "longior",
+                        "est",
+                        "quam",
+                        "via",
+                        "Latīna"
+                    ]
+                },
+                {
+                    "q": "2. Cornēlius nōn tam pecūniōsus est quam Iūlius = # # # # #",
+                    "a": [
+                        "Iūlius",
+                        "pecūniōsior",
+                        "est",
+                        "quam",
+                        "Cornēlius"
+                    ]
+                },
+                {
+                    "q": "3. Syra nōn tam fōrmōsa est quam Aemilia = # # # # # \t",
+                    "a": [
+                        "Aemilia",
+                        "fōrmōsior",
+                        "est",
+                        "quam",
+                        "Syra"
+                    ]
+                },
+                {
+                    "q": "4. Quīntus nōn tam levis est quam Mārcus = # # # # #",
+                    "a": [
+                        "Mārcus",
+                        "levior",
+                        "est",
+                        "quam",
+                        "Quīntus"
+                    ]
+                },
+                {
+                    "q": "5. Saccus Syrī nōn tam gravis est quam Lēandrī = # # # # # #",
+                    "a": [
+                        "saccus",
+                        "Lēandrī",
+                        "gravior",
+                        "est",
+                        "quam",
+                        "Syrī"
+                    ]
+                },
+                {
+                    "q": "6. Capillus Iūliae nōn tam brevis est quam Mārcī = # # # # # #",
+                    "a": [
+                        "capillus",
+                        "Mārcī",
+                        "brevior",
+                        "est",
+                        "quam",
+                        "Iūliae"
+                    ]
+                },
+                {
+                    "q": "7. Mēdus nōn tam probus est quam Dāvus = # # # # #",
+                    "a": [
+                        "Dāvus",
+                        "probior",
+                        "est",
+                        "quam",
+                        "Mēdus"
+                    ]
+                },
+                {
+                    "q": "8. Digitus quārtus nōn tam longus neque tam crassus est quam digitus medius = # # # # # # # # #",
+                    "a": [
+                        "digitus",
+                        "medius",
+                        "longior",
+                        "et",
+                        "crassior",
+                        "est",
+                        "quam",
+                        "digitus",
+                        "quārtus"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Exercise 8",
+            "info": "Exemplum: \nPrōvincia est pars imperiī Rōmānī.\n",
+            "questions": [
+                {
+                    "q": "1. Littera est pars vocābul#.",
+                    "a": [
+                        "ī"
+                    ]
+                },
+                {
+                    "q": "2. Umerī et pectus partēs corpor# hūmān# sunt.",
+                    "a": [
+                        "is",
+                        "ī"
+                    ]
+                },
+                {
+                    "q": "3. Manus pars bracchi# est ut pēs pars crūr# est.",
+                    "a": [
+                        "ī",
+                        "is"
+                    ]
+                },
+                {
+                    "q": "4. Ātrium et peristȳlum partēs vīll# Rōmān# sunt.",
+                    "a": [
+                        "ae",
+                        "ae"
+                    ]
+                },
+                {
+                    "q": "5. Praenōmen est pars prīma nōmin# Rōmān#.",
+                    "a": [
+                        "is",
+                        "ī"
+                    ]
+                },
+                {
+                    "q": "6. Aegyptus pars Āfric# est.",
+                    "a": [
+                        "ae"
+                    ]
+                },
+                {
+                    "q": "7. Magna pars Eurōp# est in imperiō Rōmānō.",
+                    "a": [
+                        "ae"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Exercise 9",
+            "info": "Exempla: \nPater fīliō et fīliae imperat; līberī patrī suō pārent.\n",
+            "questions": [
+                {
+                    "q": "1. Dominus serv# suō imperat; servus domin# su# pāret.",
+                    "a": [
+                        "ō",
+                        "ō",
+                        "ō"
+                    ]
+                },
+                {
+                    "q": "2. Domina ancill# suae imperat; ancilla domin# su# pāret.",
+                    "a": [
+                        "ae",
+                        "ae",
+                        "ae"
+                    ]
+                },
+                {
+                    "q": "3. Iūlius Mēd# imperat: \"Venī!\" nec Mēdus e# pāret.",
+                    "a": [
+                        "ō",
+                        "ī"
+                    ]
+                },
+                {
+                    "q": "4. Mārcus sorōr# su# imperat: \"Tacē, Iūlia!\" neque ea frātr# su# pāret.",
+                    "a": [
+                        "ī",
+                        "ae",
+                        "ī",
+                        "ō"
+                    ]
+                },
+                {
+                    "q": "5. Dux mīlit# imperat, mīlitēs duc# su# pārent.",
+                    "a": [
+                        "ibus",
+                        "ī",
+                        "ō"
+                    ]
+                },
+                {
+                    "q": "6. Rōmānī Gall# imperant, Gallī Rōmān# pārent.",
+                    "a": [
+                        "īs",
+                        "īs"
+                    ]
+                },
+                {
+                    "q": "7. C# dominō Dāvus pāret? Dominus c# Dāvus pāret est Iūlius.",
+                    "a": [
+                        "ui",
+                        "ui"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Exercise 10",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. In Germāniā magnus exercit# Rōmānus est.",
+                    "a": [
+                        "us"
+                    ]
+                },
+                {
+                    "q": "2. In exercit# Rōmānō multī mīlitēs sunt.",
+                    "a": [
+                        "ū"
+                    ]
+                },
+                {
+                    "q": "3. Dux exercit# est quī exercit# dūcit.",
+                    "a": [
+                        "ūs",
+                        "um"
+                    ]
+                },
+                {
+                    "q": "4. Dux Rōmānus magnō exercit# imperat.",
+                    "a": [
+                        "uī"
+                    ]
+                },
+                {
+                    "q": "5. In Germāniā et in Britanniā magnī exercit# Rōmānī sunt, quī contrā magnōs hostium exercit# pugnant.",
+                    "a": [
+                        "ūs",
+                        "ūs"
+                    ]
+                },
+                {
+                    "q": "6. Graecī et Gallī iam exercit# Rōmānīs pārent.",
+                    "a": [
+                        "ibus"
+                    ]
+                },
+                {
+                    "q": "7. Multī Graecī et Gallī in exercit# Rōmānīs mīlitant.",
+                    "a": [
+                        "ibus"
+                    ]
+                },
+                {
+                    "q": "8. Ducēs exercit# Rōmānōrum ā mīlitibus suīs nōn discēdunt.",
+                    "a": [
+                        "uum"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Exercise 11",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Mīlitēs pīlīs et gladiīs #. ",
+                    "a": [
+                        "pugnant"
+                    ]
+                },
+                {
+                    "q": "2. Puerī nōn armīs, sed # pugnant.",
+                    "a": [
+                        "pugnīs"
+                    ]
+                },
+                {
+                    "q": "3. # est mīles quī ex equō pugnat.",
+                    "a": [
+                        "Eques"
+                    ]
+                },
+                {
+                    "q": "4. Aemilius nōn eques, sed # est.",
+                    "a": [
+                        "pedes"
+                    ]
+                },
+                {
+                    "q": "5. Gladius quī ā pedite # nōn est longus et #, sed # et levis.",
+                    "a": [
+                        "fertur",
+                        "gravis",
+                        "brevis"
+                    ]
+                },
+                {
+                    "q": "6. Gladius brevis nōn gravis, sed # est.",
+                    "a": [
+                        "levis"
+                    ]
+                },
+                {
+                    "q": "7. Pedes hastam longam et gravem # [= portāre] nōn potest.",
+                    "a": [
+                        "ferre"
+                    ]
+                },
+                {
+                    "q": "8. Graecī et Rōmānī nōn sunt hominēs # ut Germānī # [= atque] Britannī, quī Germāniam et Britanniam #.",
+                    "a": [
+                        "barbarī",
+                        "ac",
+                        "incolunt"
+                    ]
+                },
+                {
+                    "q": "9. Prōvincia est # imperiī Rōmānī. ",
+                    "a": [
+                        "pars"
+                    ]
+                },
+                {
+                    "q": "10. Dānuvius flūmen Germāniam ab imperiō Rōmānō #.",
+                    "a": [
+                        "dīvidit"
+                    ]
+                },
+                {
+                    "q": "11. Dānuvius est # imperiī Rōmānī.",
+                    "a": [
+                        "fīnis"
+                    ]
+                },
+                {
+                    "q": "12. Graecia # Graecōrum est.",
+                    "a": [
+                        "patria"
+                    ]
+                },
+                {
+                    "q": "13. Rōmānī # Germānōs pugnant; Germānī enim # Rōmānōrum sunt, ac # est inter Rōmānōs et Germānōs.",
+                    "a": [
+                        "contrā",
+                        "hostēs",
+                        "bellum"
+                    ]
+                },
+                {
+                    "q": "14. Hostēs exercitum Rōmānum # [= timent].",
+                    "a": [
+                        "metuunt"
+                    ]
+                },
+                {
+                    "q": "15. Quī exercituī imperat # exercitūs est.",
+                    "a": [
+                        "dux"
+                    ]
+                },
+                {
+                    "q": "16. Hispānī, quī in # Rōmānō # [= mīlitēs sunt], nōn modo gladiōs et pīla, sed etiam # #que ferunt.",
+                    "a": [
+                        "exercitū",
+                        "mīlitant",
+                        "arcūs",
+                        "sagittās"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Exercise 12",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Quid agunt mīlitēs Rōmānī in Germāniā? ...",
+                    "a": [
+                        "mīlitēs in Germāniā pugnant"
+                    ]
+                },
+                {
+                    "q": "2. Quibus armīs mīlitēs Rōmānī pugnant? ...",
+                    "a": [
+                        "mīlitēs pīlīs et gladiīs pugnant"
+                    ]
+                },
+                {
+                    "q": "3. Quid est eques? ...",
+                    "a": [
+                        "est mīles quī ex equite pugnat"
+                    ]
+                },
+                {
+                    "q": "4. Aemiliusne eques est? ...",
+                    "a": [
+                        "Aemilius pedes est, nōn eques"
+                    ]
+                },
+                {
+                    "q": "5. Quam longum est pīlum Aemiliī? ...",
+                    "a": [
+                        "pīlum eius sex pedēs longum est"
+                    ]
+                },
+                {
+                    "q": "6. Estne longus gladius eius? ...",
+                    "a": [
+                        "gladius eius brevis est"
+                    ]
+                },
+                {
+                    "q": "7. Suntne Graecī hominēs barbarī? ...",
+                    "a": [
+                        "Graecī hominēs barbarī nōn sunt"
+                    ]
+                },
+                {
+                    "q": "8. Estne Germānia prōvincia Rōmāna? ...",
+                    "a": [
+                        "prōvincia Rōmāna nōn est"
+                    ]
+                },
+                {
+                    "q": "9. Quid est prōvincia? ...",
+                    "a": [
+                        "prōvincia est pars imperiī Rōmānī"
+                    ]
+                },
+                {
+                    "q": "10. Quam prōvinciam Gallī incolunt? ...",
+                    "a": [
+                        "Gallī Galliam incolunt"
+                    ]
+                },
+                {
+                    "q": "11. Quod flūmen Germāniam ā Galliā dīvidit? ...",
+                    "a": [
+                        "flūmen Rhēnus Galliam ā Germāniā dīvidit"
+                    ]
+                },
+                {
+                    "q": "12. Quae flūmina fīnēs sunt imperiī Rōmānī? ...",
+                    "a": [
+                        "Rhēnus et Dānuvius"
+                    ]
+                },
+                {
+                    "q": "13. Quae est patria Germānōrum? ...",
+                    "a": [
+                        "eōrum patria est Germānia"
+                    ]
+                },
+                {
+                    "q": "14. Cūr Rōmānī contrā Germānōs pugnant? ...",
+                    "a": [
+                        "... quia Germānī hostēs Rōmānōrum sunt"
+                    ]
+                },
+                {
+                    "q": "15. Cui exercitus Rōmānus pāret? ...",
+                    "a": [
+                        "exercitus ducī suō pāret"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Exercise 13",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Aemilius, quī mīles fort# est, gladium brev# et lev# fert.",
+                    "a": [
+                        "is",
+                        "em",
+                        "em"
+                    ]
+                },
+                {
+                    "q": "2. Mīlitī fort# Rōmān# est gladius brev# et lev#. ",
+                    "a": [
+                        "ī",
+                        "ō",
+                        "is",
+                        "is"
+                    ]
+                },
+                {
+                    "q": "3. Mīles Rōmān# gladiō brev# et lev# armātus est.",
+                    "a": [
+                        "us",
+                        "ī",
+                        "ī"
+                    ]
+                },
+                {
+                    "q": "4. Rōmānī, mīlitēs fort#, gladiōs brev# et lev# ferunt. ",
+                    "a": [
+                        "ēs",
+                        "ēs",
+                        "ēs"
+                    ]
+                },
+                {
+                    "q": "5. Mīlitibus fort# Rōmān# sunt gladiī brev# et lev#.",
+                    "a": [
+                        "ibus",
+                        "īs",
+                        "ēs",
+                        "ēs"
+                    ]
+                },
+                {
+                    "q": "6. Mīlitēs Rōmān# gladiīs brev# et lev# armātī sunt.",
+                    "a": [
+                        "ī",
+                        "ibus",
+                        "ibus"
+                    ]
+                },
+                {
+                    "q": "7. In ānulō Aemiliae est gemma magn# et grav#.",
+                    "a": [
+                        "a",
+                        "is"
+                    ]
+                },
+                {
+                    "q": "8. Aemilia gemmam habet magn# et grav#.",
+                    "a": [
+                        "am",
+                        "em"
+                    ]
+                },
+                {
+                    "q": "9. Aemilia gemmā magn# et grav# ōrnātur.",
+                    "a": [
+                        "ā",
+                        "ī"
+                    ]
+                },
+                {
+                    "q": "10. Pretium gemmae magn# et grav# est sēstertiī centum.",
+                    "a": [
+                        "ae",
+                        "is"
+                    ]
+                },
+                {
+                    "q": "11. Aemilia mult# gemmās grav# habet.",
+                    "a": [
+                        "ās",
+                        "ēs"
+                    ]
+                },
+                {
+                    "q": "12. Magnum est pretium gemmārum grav#.",
+                    "a": [
+                        "ium"
+                    ]
+                },
+                {
+                    "q": "13. 'Ōs' vocābulum nōn long#, sed brev# est; in hōc vocābulō brev# duae litterae sunt.",
+                    "a": [
+                        "um",
+                        "e",
+                        "ī"
+                    ]
+                },
+                {
+                    "q": "14. 'Ōs' et 'pēs' vocābula nōn long#, sed brev# sunt.",
+                    "a": [
+                        "a",
+                        "ia"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Exercise 14",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Via Appia long# et lāt# est quam via Latīna.",
+                    "a": [
+                        "ior",
+                        "ior"
+                    ]
+                },
+                {
+                    "q": "2. Multae viae long# et lāt# sunt quam via Latīna.",
+                    "a": [
+                        "iōrēs",
+                        "iōrēs"
+                    ]
+                },
+                {
+                    "q": "3. Saccus Syrī lev# est quam saccus Lēandrī.",
+                    "a": [
+                        "ior"
+                    ]
+                },
+                {
+                    "q": "4. Syrus saccum lev# portat quam Lēander.",
+                    "a": [
+                        "iōrem"
+                    ]
+                },
+                {
+                    "q": "5. In saccō lev# sunt pira. \t",
+                    "a": [
+                        "iōre"
+                    ]
+                },
+                {
+                    "q": "6. 'Iūlius' nōmen brev# est quam 'Cornēlius'.",
+                    "a": [
+                        "ius"
+                    ]
+                },
+                {
+                    "q": "7. Litterae Graecae nōmina long# habent quam Latīnae.",
+                    "a": [
+                        "iōra"
+                    ]
+                },
+                {
+                    "q": "8. Rōmānī pīlīs brev# et lev# pugnant quam Germānī.",
+                    "a": [
+                        "iōribus",
+                        "iōribus"
+                    ]
+                },
+                {
+                    "q": "9. Mīlitēs Rōmānī fort# sunt quam Germānī et ducī fort# pārent quam illī.",
+                    "a": [
+                        "iōrēs",
+                        "iōrī"
+                    ]
+                },
+                {
+                    "q": "10. Dux Rōmānus fort# est quam dux Germānōrum et mīlitibus fort# imperat quam ille.",
+                    "a": [
+                        "ior",
+                        "iōribus"
+                    ]
+                },
+                {
+                    "q": "11. Cornēlius equum fōrmōs# habet quam Iūlius; Cornēlius dominus equī fōrmōs# est.",
+                    "a": [
+                        "iōrem",
+                        "iōris"
+                    ]
+                },
+                {
+                    "q": "12. Ōrnāmenta fēminam pulchram pulchr# facere possunt.",
+                    "a": [
+                        "iōrem"
+                    ]
+                },
+                {
+                    "q": "13. Quod ōrnāmentum pulchr# est quam ānulus gemmātus?",
+                    "a": [
+                        "ius"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Exercise 15",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Mīlitēs Rōmānī in # habitant.",
+                    "a": [
+                        "castrīs"
+                    ]
+                },
+                {
+                    "q": "2. Circum castra vāllum et # est.",
+                    "a": [
+                        "fossa"
+                    ]
+                },
+                {
+                    "q": "3. Vāllum prope X pedēs # est et duo # [MM] # longum.",
+                    "a": [
+                        "altum",
+                        "mīlia",
+                        "passuum"
+                    ]
+                },
+                {
+                    "q": "4. Via quae castra in duās partēs # centum pedēs # est.",
+                    "a": [
+                        "dīvidit",
+                        "lāta"
+                    ]
+                },
+                {
+                    "q": "5. Cum hostēs castra #, Rōmānī # ascendunt.",
+                    "a": [
+                        "oppugnant",
+                        "vāllum"
+                    ]
+                },
+                {
+                    "q": "6. Hostēs castra # nōn possunt, quia Rōmānī castra #. ",
+                    "a": [
+                        "expugnāre",
+                        "dēfendunt"
+                    ]
+                },
+                {
+                    "q": "7. Hostēs pīla in castra # nōn possunt.",
+                    "a": [
+                        "iacere"
+                    ]
+                },
+                {
+                    "q": "8. # [= equitēs] in hostēs # facit.",
+                    "a": [
+                        "Equitātus",
+                        "impetum"
+                    ]
+                },
+                {
+                    "q": "9. Hostēs arma ad terram iaciunt ac #.",
+                    "a": [
+                        "fugiunt"
+                    ]
+                },
+                {
+                    "q": "10. Mīles # nōn fugit et sine # [= timōre] hostēs oppugnat.",
+                    "a": [
+                        "fortis",
+                        "metū"
+                    ]
+                },
+                {
+                    "q": "11. Rhēnus est flūmen longum et lātum et #.",
+                    "a": [
+                        "altum"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Exercise 16",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Ubi habitant mīlitēs Rōmānī? ...",
+                    "a": [
+                        "mīlitēs in castrīs habitant"
+                    ]
+                },
+                {
+                    "q": "2. Ubi sunt castra in quibus Aemilius habitat? ...",
+                    "a": [
+                        "castra eius sunt prope fīnem imperiī Rōmānī"
+                    ]
+                },
+                {
+                    "q": "3. Cūr nūllī puerī in castrīs habitant? ...",
+                    "a": [
+                        "... quia puerī mīlitāre nōn possunt"
+                    ]
+                },
+                {
+                    "q": "4. Quid est circum castra Rōmāna? ...",
+                    "a": [
+                        "circum castra est vāllum et fossa"
+                    ]
+                },
+                {
+                    "q": "5. Quam altum et quam longum est vāllum castrōrum? ...",
+                    "a": [
+                        "vāllum est decem pedēs altum et duo mīlia passuum longum"
+                    ]
+                },
+                {
+                    "q": "6. Quot portae in castra dūcunt? ...",
+                    "a": [
+                        "duae portae in castra dūcunt"
+                    ]
+                },
+                {
+                    "q": "7. Quam lāta via est inter duās portās? ...",
+                    "a": [
+                        "ea via centum pedēs lāta est"
+                    ]
+                },
+                {
+                    "q": "8. Cum castra oppugnantur, quid agunt Rōmānī? ...",
+                    "a": [
+                        "Rōmānī castra dēfendunt"
+                    ]
+                },
+                {
+                    "q": "9. Quibus armīs vāllum dēfenditur? ...",
+                    "a": [
+                        "vāllum pīlīs et gladiīs dēfenditur"
+                    ]
+                },
+                {
+                    "q": "10. Quid facit mīles fortis quī ab hoste petitur? ...",
+                    "a": [
+                        "mīles fortis sē dēfendit et impetum in hostem facit"
+                    ]
+                },
+                {
+                    "q": "11. Quō fugiunt Germānī? ...",
+                    "a": [
+                        "Germānī in silvās fugiunt"
+                    ]
+                },
+                {
+                    "q": "12. Cūr pīla Germānōrum procul iacī nōn possunt? ...",
+                    "a": [
+                        "... quod nimis longa et gravia sunt"
+                    ]
+                },
+                {
+                    "q": "13. Cūr Germānia ā Rōmānīs nōn expugnātur? ...",
+                    "a": [
+                        "nōn modo armīs, sed etiam flūminibus et montibus dēfenditur Germānia"
+                    ]
+                },
+                {
+                    "q": "14. Num Rōma ab hostibus expugnārī potest? ...",
+                    "a": [
+                        "Rōma ab hostibus expugnārī nōn potest"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Exercise 17",
+            "info": "Dēclīnātiō quārta\nExemplum: man|us, gen. sing. -ūs, fēm.\n____________Sing.\t\tPlūr.\n",
+            "questions": [
+                {
+                    "q": "1. Nōm. \tman|#\t\tman|#",
+                    "a": [
+                        "us",
+                        "ūs"
+                    ]
+                },
+                {
+                    "q": "2. Acc.\t\tman|#\t\tman|#",
+                    "a": [
+                        "um",
+                        "ūs"
+                    ]
+                },
+                {
+                    "q": "3. Gen. \tman|#\t\tman|#",
+                    "a": [
+                        "ūs",
+                        "uum"
+                    ]
+                },
+                {
+                    "q": "4. Dat. \t\tman|#\t\tman|#",
+                    "a": [
+                        "uī",
+                        "ibus"
+                    ]
+                },
+                {
+                    "q": "5. Abl.\t\tman|#\t\tman|#\t",
+                    "a": [
+                        "ū",
+                        "ibus"
+                    ]
+                },
+                {
+                    "q": "6. 'Manibus' est # aut # plūrālis. \t",
+                    "a": [
+                        "datīvus",
+                        "ablātīvus"
+                    ]
+                },
+                {
+                    "q": "7. 'Manū' # singulāris est.",
+                    "a": [
+                        "ablātīvus"
+                    ]
+                },
+                {
+                    "q": "8. 'Manuī' # # est.",
+                    "a": [
+                        "datīvus",
+                        "singulāris"
+                    ]
+                },
+                {
+                    "q": "9. 'Manum' # # est.",
+                    "a": [
+                        "accūsātīvus",
+                        "singulāris"
+                    ]
+                },
+                {
+                    "q": "10. 'Manus' # # est.",
+                    "a": [
+                        "nōminātīvus",
+                        "singulāris"
+                    ]
+                },
+                {
+                    "q": "11. 'Manūs' est # singulāris aut # aut # plūrālis.",
+                    "a": [
+                        "genetīvus",
+                        "nōminātīvus",
+                        "accūsātīvus"
+                    ]
+                },
+                {
+                    "q": "12. 'Manuum' # # est.",
+                    "a": [
+                        "genetīvus",
+                        "plūrālis"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Exercise 18",
+            "info": "Exemplum: Mūrus altus. Porta alta. Vāllum altum.\n____________Singulāris\t\t\tPlūrālis\n____________Masc.\tFēm.\tNeutr.\t\tMasc.\t\tFēm.\t\tNeutr.\n",
+            "questions": [
+                {
+                    "q": "1. 'Alt|us -a -um' est # prīmae et secundae dēclīnātiōnis.",
+                    "a": [
+                        "adiectīvum"
+                    ]
+                },
+                {
+                    "q": "2. Nōm.\talt|#\talt|#\talt|#\t\talt|#\t\talt|#\t\talt|#",
+                    "a": [
+                        "us",
+                        "a",
+                        "um",
+                        "i",
+                        "ae",
+                        "a"
+                    ]
+                },
+                {
+                    "q": "3. Acc.\t\talt|#\talt|#\talt|#\t\talt|#\t\talt|#\t\talt|#",
+                    "a": [
+                        "um",
+                        "am",
+                        "um",
+                        "ōs",
+                        "ās",
+                        "a"
+                    ]
+                },
+                {
+                    "q": "4. Gen.\t\talt|#\talt|#\talt|#\t\talt|#\talt|#\talt|#",
+                    "a": [
+                        "ī",
+                        "ae",
+                        "ī",
+                        "ōrum",
+                        "ārum",
+                        "ōrum"
+                    ]
+                },
+                {
+                    "q": "5. Dat. \t\talt|#\talt|#\talt|#\t\talt|#\t\talt|#\t\talt|#",
+                    "a": [
+                        "ō",
+                        "ae",
+                        "ō",
+                        "īs",
+                        "īs",
+                        "īs"
+                    ]
+                },
+                {
+                    "q": "6. Abl. \t\talt|#\talt|#\talt|#\t\talt|#\t\talt|#\t\talt|#",
+                    "a": [
+                        "ō",
+                        "ā",
+                        "ō",
+                        "īs",
+                        "īs",
+                        "īs"
+                    ]
+                },
+                {
+                    "q": "7. Voc. \talt|#",
+                    "a": [
+                        "e"
+                    ]
+                },
+                {
+                    "q": "8. Masculīnum: 'alt|us' est # # , 'alt|um' # #, 'alt|ōs' # plūrālis, 'alt|ī' # singulāris aut # plūrālis, 'alt|e' # #.",
+                    "a": [
+                        "nōminātīvus",
+                        "singulāris",
+                        "accūsātīvus",
+                        "singulāris",
+                        "accūsātīvus",
+                        "genetīvus",
+                        "nōminātīvus",
+                        "vocātīvus",
+                        "singulāris"
+                    ]
+                },
+                {
+                    "q": "9. Fēminīnum: 'alt|a' est # singulāris, 'alt|am' # #, 'alt|ās' # #, 'alt|ae' # aut # singulāris aut # plūrālis, 'alt|ā' # #, 'alt|ārum' # #.",
+                    "a": [
+                        "nōminātīvus",
+                        "accūsātīvus",
+                        "singulāris",
+                        "accūsātīvus",
+                        "plūrālis",
+                        "genetīvus",
+                        "datīvus",
+                        "singulāris",
+                        "nōminātīvus",
+                        "plūrālis",
+                        "ablātīvus",
+                        "singulāris"
+                    ]
+                },
+                {
+                    "q": "10. Neutrum: 'alt|um' est # aut # singulāris, 'alt|a' # aut # plūrālis.",
+                    "a": [
+                        "genetīvus",
+                        "plūrālis",
+                        "nōminātīvus",
+                        "accūsātīvus"
+                    ]
+                },
+                {
+                    "q": "11. Masculīnum et neutrum: ''alt|ī est # singulāris, 'alt|ō' # aut # singulāris, 'alt|ōrum' # #.",
+                    "a": [
+                        "nōminātīvus",
+                        "accūsātīvus",
+                        "genenetīvus",
+                        "datīvus",
+                        "genetīvus"
+                    ]
+                },
+                {
+                    "q": "12. 'Alt|īs' # aut # plūrālis est.",
+                    "a": [
+                        "genetīvus",
+                        "plūrālis"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Exercise 19",
+            "info": "Exemplum: \nSaccus gravis. Gemma gravis. Scūtum grave.\n____________Singulāris\t\t\tPlūrālis\n____________Masc./Fēm.\tNeutr.\t\tMasc./Fēm.\tNeutr.\n",
+            "questions": [
+                {
+                    "q": "1. 'Grav|is -e' est adiectīvum # dēclīnātiōnis.",
+                    "a": [
+                        "tertiae"
+                    ]
+                },
+                {
+                    "q": "2. Nōm.\tgrav|#\t\tgrav|#\t\tgrav|#\t\tgrav|#",
+                    "a": [
+                        "is",
+                        "e",
+                        "ēs",
+                        "ia"
+                    ]
+                },
+                {
+                    "q": "3. Acc. \t\tgrav|#\t\tgrav|#\t\tgrav|#\t\tgrav|#",
+                    "a": [
+                        "em",
+                        "e",
+                        "ēs",
+                        "ia"
+                    ]
+                },
+                {
+                    "q": "4. Gen.\t\tgrav|#\t\tgrav|#\t\tgrav|#\tgrav|#",
+                    "a": [
+                        "is",
+                        "is",
+                        "ium",
+                        "ium"
+                    ]
+                },
+                {
+                    "q": "5. Dat.\t\tgrav|#\t\tgrav|#\t\tgrav|#\tgrav|#",
+                    "a": [
+                        "ī",
+                        "ī",
+                        "ibus",
+                        "ibus"
+                    ]
+                },
+                {
+                    "q": "6. Abl.\t\tgrav|#\t\tgrav|#\t\tgrav|#\tgrav|#",
+                    "a": [
+                        "ī",
+                        "ī",
+                        "ibus",
+                        "ibus"
+                    ]
+                },
+                {
+                    "q": "7. Masculīnum et fēminīnum: 'grav|is' est # aut # singulāris, 'grav|em' # #, 'grav|ēs' # aut # plūrālis.",
+                    "a": [
+                        "nōminātīvus",
+                        "genetīvus",
+                        "accūsātīvus",
+                        "singulāris",
+                        "nōminātīvus",
+                        "accūsātīvus"
+                    ]
+                },
+                {
+                    "q": "8. Neutrum: 'grav|e' est # aut # singulāris, 'grav|ia' # aut # plūrālis, 'grav|is' # singulāris.",
+                    "a": [
+                        "nōminātīvus",
+                        "accūsātīvus",
+                        "nōminātīvus",
+                        "accūsātīvus",
+                        "genetīvus"
+                    ]
+                },
+                {
+                    "q": "9. Grav|ī # aut # singulāris est.",
+                    "a": [
+                        "datīvus",
+                        "ablātīvus"
+                    ]
+                },
+                {
+                    "q": "10. 'Grav|ibus' # aut # plūrālis est.",
+                    "a": [
+                        "datīvus",
+                        "ablātīvus"
+                    ]
+                },
+                {
+                    "q": "11. 'Grav|ium' # # est.",
+                    "a": [
+                        "genetīvus",
+                        "plūrālis"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "name": "Exercise 20",
+            "info": "Comparātīvus. \nExemplum: Gladius longior. Via longior. Pīlum longius.\n____________Singulāris\t\t\tPlūrālis\n____________Masc./Fēm.\tNeutr.\t\tMasc./Fēm.\tNeutr.\n",
+            "questions": [
+                {
+                    "q": "1. 'Longior -ius -iōr|is' est # adiectīvī.",
+                    "a": [
+                        "comparātīvus"
+                    ]
+                },
+                {
+                    "q": "2. Nōm.\tlongior\t\tlongius\t\tlongiōr#\tlongiōr#",
+                    "a": [
+                        "ēs",
+                        "a"
+                    ]
+                },
+                {
+                    "q": "3. Acc.\t\tlongiōr#\tlongius\t\tlongiōr#\tlongiōr#",
+                    "a": [
+                        "em",
+                        "ēs",
+                        "a"
+                    ]
+                },
+                {
+                    "q": "4. Gen. \tlongiōr#\tlongiōr#\tlongiōr#\tlongiōr#",
+                    "a": [
+                        "is",
+                        "is",
+                        "um",
+                        "um"
+                    ]
+                },
+                {
+                    "q": "5. Dat.\t\tlongiōr#\tlongiōr#\tlongiōr#\tlongiōr#",
+                    "a": [
+                        "ī",
+                        "ī",
+                        "ibus",
+                        "ibus"
+                    ]
+                },
+                {
+                    "q": "6. Abl.\t\tlongiōr#\tlongiōr#\tlongiōr#\tlongiōr#",
+                    "a": [
+                        "e",
+                        "e",
+                        "ibus",
+                        "ibus"
+                    ]
+                },
+                {
+                    "q": "7. Masculīnum et fēminīnum: 'longior' est # singulāris, 'longiōr|em' # #, 'longiōr|ēs' # aut # plūrālis.",
+                    "a": [
+                        "nōminātīvus",
+                        "accūsātīvus",
+                        "singulāris",
+                        "nōminātīvus",
+                        "accūsātīvus"
+                    ]
+                },
+                {
+                    "q": "8. Neutrum: 'longius' est # aut # singulāris, 'longiōr|a' # aut # plūrālis.",
+                    "a": [
+                        "nōminātīvus",
+                        "accūsātīvus",
+                        "nōminātīvus",
+                        "accūsātīvus"
+                    ]
+                },
+                {
+                    "q": "9. 'Longiōr|e' # singulāris est.",
+                    "a": [
+                        "ablātīvus"
+                    ]
+                },
+                {
+                    "q": "10. 'Longiōr|ī' # # est.",
+                    "a": [
+                        "datīvus",
+                        "singulāris"
+                    ]
+                },
+                {
+                    "q": "11. 'Longiōr|ibus' est # aut # plūrālis.",
+                    "a": [
+                        "datīvus",
+                        "ablātīvus"
+                    ]
+                },
+                {
+                    "q": "12. 'Longiōr|is' # # est.",
+                    "a": [
+                        "genetīvus",
+                        "singulāris"
+                    ]
+                },
+                {
+                    "q": "13. 'Longiōr|um' est # #.",
+                    "a": [
+                        "genetīvus",
+                        "plūrālis"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "name": "PENSVM A",
+            "info": "",
+            "questions": [
+                {
+                    "a": [
+                        "ū",
+                        "ū"
+                    ],
+                    "q": "Pīlum ē man# iacitur, sagitta ex arc#."
+                },
+                {
+                    "a": [
+                        "ibus",
+                        "ūs"
+                    ],
+                    "q": "In exercit# Rōmānīs multī Gallī mīlitant, quī arc# ferunt."
+                },
+                {
+                    "a": [
+                        "us",
+                        "ū",
+                        "um",
+                        "um",
+                        "ūs"
+                    ],
+                    "q": "Equitāt# sine met# impet# in hostēs facit, neque hostēs impet# equitāt# sustinēre possunt."
+                },
+                {
+                    "a": [
+                        "ūs"
+                    ],
+                    "q": "Mīlle pass# sunt quīnque mīlia pedum."
+                },
+                {
+                    "a": [
+                        "uum",
+                        "a"
+                    ],
+                    "q": "Via Latīna CL [150: centum quīnquāgintā] mīlia pass# long# est."
+                },
+                {
+                    "a": [
+                        "is",
+                        "um",
+                        "us",
+                        "is"
+                    ],
+                    "q": "Rāmus tenu# puerum crass# sustinēre nōn potest, nam puer crass# grav# est."
+                },
+                {
+                    "a": [
+                        "e",
+                        "ia",
+                        "us",
+                        "is"
+                    ],
+                    "q": "Ūnum mālum grav# nōn est, nec duo māla grav# sunt, sed saccus plēn# mālōrum grav# est."
+                },
+                {
+                    "a": [
+                        "um",
+                        "em",
+                        "ī"
+                    ],
+                    "q": "Lēander saccum magn# et grav# portat. In saccō grav# sunt māla."
+                },
+                {
+                    "a": [
+                        "ēs",
+                        "ibus"
+                    ],
+                    "q": "Servī saccōs grav# portant. In saccīs grav# sunt māla et pira."
+                },
+                {
+                    "a": [
+                        "ior",
+                        "iōra"
+                    ],
+                    "q": "Saccus Lēandrī grav# est quam Syrī, nam māla grav# sunt quam pira."
+                },
+                {
+                    "a": [
+                        "ior"
+                    ],
+                    "q": "Via Appia long# est quam via Latīna."
+                },
+                {
+                    "a": [
+                        "iōrēs"
+                    ],
+                    "q": "Via Appia et via Aurēlia long# sunt quam via Latīna."
+                },
+                {
+                    "a": [
+                        "ior"
+                    ],
+                    "q": "Quīntus crass# est quam Mārcus."
+                },
+                {
+                    "a": [
+                        "iōrem",
+                        "iōre"
+                    ],
+                    "q": "Lēander saccum grav# quam Syrus portat; in saccō grav# māla sunt."
+                },
+                {
+                    "a": [
+                        "ius",
+                        "ius"
+                    ],
+                    "q": "Hoc pīlum long# et grav# est quam illud."
+                },
+                {
+                    "a": [
+                        "iōra",
+                        "iōra"
+                    ],
+                    "q": "Haec pīla long# et grav# sunt quam illa."
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "name": "PENSVM B",
+            "info": "",
+            "questions": [
+                {
+                    "a": [
+                        "frāter"
+                    ],
+                    "q": "Mārcus # Quīntī est."
+                },
+                {
+                    "a": [
+                        "sorōrem",
+                        "nōmen"
+                    ],
+                    "q": "Quīntus ūnum frātrem et ūnam # habet. 'Iūlia' # sorōris est."
+                },
+                {
+                    "a": [
+                        "avunculus"
+                    ],
+                    "q": "Frāter Aemiliae est # līberōrum."
+                },
+                {
+                    "a": [
+                        "vester"
+                    ],
+                    "q": "Quīntus: \"Ubi est avunculus noster?\" Iūlius: \"Avunculus # est in Germāniā.\""
+                },
+                {
+                    "a": [
+                        "pars"
+                    ],
+                    "q": "Prōvincia est # imperiī Rōmānī."
+                },
+                {
+                    "a": [
+                        "dīvidit",
+                        "fīnis"
+                    ],
+                    "q": "Rhēnus Germāniam ab imperiō Rōmānō # ; Rhēnus # imperiī est."
+                },
+                {
+                    "a": [
+                        "mīlitēs",
+                        "pugnant",
+                        "hostēs"
+                    ],
+                    "q": "In Germāniā multī # Rōmānī sunt, quī contrā Germānōs # ; Germānī enim # Rōmānōrum sunt."
+                },
+                {
+                    "a": [
+                        "gladiōs",
+                        "ferunt"
+                    ],
+                    "q": "Mīlitēs Rōmānī scūta et # et pīla #."
+                },
+                {
+                    "a": [
+                        "castrīs"
+                    ],
+                    "q": "Mīlitēs in # habitant."
+                },
+                {
+                    "a": [
+                        "fossa",
+                        "vāllum",
+                        "altum"
+                    ],
+                    "q": "Circum castra est # et #, quod X pedēs # est."
+                },
+                {
+                    "a": [
+                        "dēfendunt"
+                    ],
+                    "q": "Mīlitēs patriam ab hostibus #."
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "name": "PENSVM C",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Num 'Mārcus' cognōmen est? ",
+                    "a": []
+                },
+                {
+                    "q": "2. Quot frātrēs habet Aemilia? ",
+                    "a": []
+                },
+                {
+                    "q": "3. Quid agit Aemilius in Germāniā? ",
+                    "a": []
+                },
+                {
+                    "q": "4. Quae arma pedes Rōmānus fert? ",
+                    "a": []
+                },
+                {
+                    "q": "5. Quam longum est pīlum Aemiliī? ",
+                    "a": []
+                },
+                {
+                    "q": "6. Ubi habitant mīlitēs Rōmānī? ",
+                    "a": []
+                },
+                {
+                    "q": "7. Quī sunt Germānī et Gallī? ",
+                    "a": []
+                },
+                {
+                    "q": "8. Estne Germānia prōvincia Rōmāna? ",
+                    "a": []
+                },
+                {
+                    "q": "9. Quod flūmen Germāniam ā Galliā dīvidit? ",
+                    "a": []
+                },
+                {
+                    "q": "10. Cūr hostēs castra expugnāre nōn possunt? ",
+                    "a": []
+                },
+                {
+                    "q": "11. Num mīles fortis ab hoste fugit? ",
+                    "a": []
+                },
+                {
+                    "q": "12. Cūr hasta procul iacī nōn potest? ",
+                    "a": []
+                }
+            ]
+        }
+    ]
+}

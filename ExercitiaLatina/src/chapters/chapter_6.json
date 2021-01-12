@@ -1,0 +1,1236 @@
+{
+    "id": 5,
+    "name": "CAPITVLVM VI",
+    "exercises": [
+        {
+            "id": 0,
+            "name": "Exercise 1",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. # Flāminia est # Rōmam et Arīminum.",
+                    "a": [
+                        "Via",
+                        "inter"
+                    ]
+                },
+                {
+                    "q": "2. Vīlla Iūliī # Tūsculum est, neque # ā Rōmā.",
+                    "a": [
+                        "prope",
+                        "procul"
+                    ]
+                },
+                {
+                    "q": "3. Ab oppidō # vīllam nōn longa via est.",
+                    "a": [
+                        "ad"
+                    ]
+                },
+                {
+                    "q": "4. Iūlius ab oppidō ad vīllam #.",
+                    "a": [
+                        "it"
+                    ]
+                },
+                {
+                    "q": "5. Vīlla est # eum, oppidum # eum est.",
+                    "a": [
+                        "ante",
+                        "post"
+                    ]
+                },
+                {
+                    "q": "6. Dominus et quattuor servī ad vīllam #.",
+                    "a": [
+                        "eunt"
+                    ]
+                },
+                {
+                    "q": "7. Servī in viā #; dominus in # est neque ambulat.",
+                    "a": [
+                        "ambulant",
+                        "lectīcā"
+                    ]
+                },
+                {
+                    "q": "8. Duo servī lectīcam cum dominō #.",
+                    "a": [
+                        "portant"
+                    ]
+                },
+                {
+                    "q": "9. Syrus et Lēander duōs # in # portant.",
+                    "a": [
+                        "saccōs",
+                        "umerīs"
+                    ]
+                },
+                {
+                    "q": "10. # venit Iūlius? Ab oppidō venit. ",
+                    "a": [
+                        "Unde"
+                    ]
+                },
+                {
+                    "q": "11. # it Iūlius? Ad vīllam it.",
+                    "a": [
+                        "Quō"
+                    ]
+                },
+                {
+                    "q": "12. Duo servī dominum ab oppidō ad vīllam # [= portant].",
+                    "a": [
+                        "vehunt"
+                    ]
+                },
+                {
+                    "q": "13. Dominus sōlus nōn est, # quattuor servī # eum sunt.",
+                    "a": [
+                        "nam",
+                        "apud"
+                    ]
+                },
+                {
+                    "q": "14. Mēdus nummōs Iūliī habet; # is nōn est cum dominō.",
+                    "a": [
+                        "itaque"
+                    ]
+                },
+                {
+                    "q": "15. Mēdus dominum īrātum #.",
+                    "a": [
+                        "timet"
+                    ]
+                },
+                {
+                    "q": "16. Mēdus servus # est. Dāvus # [= sed D.] servus bonus est.",
+                    "a": [
+                        "malus",
+                        "autem"
+                    ]
+                },
+                {
+                    "q": "17. Dāvus Mēdum nōn amat: Dāvus # Mēdī nōn est.",
+                    "a": [
+                        "amīcus"
+                    ]
+                },
+                {
+                    "q": "18. Dāvus et Mēdus nōn amīcī, sed # sunt.",
+                    "a": [
+                        "inimīcī"
+                    ]
+                },
+                {
+                    "q": "19. Via Latīna nōn tam # est quam via Appia.",
+                    "a": [
+                        "longa"
+                    ]
+                },
+                {
+                    "q": "20. In # Rōmānō antīquō sunt # [XII] #.",
+                    "a": [
+                        "mūrō",
+                        "duodecim",
+                        "portae"
+                    ]
+                },
+                {
+                    "q": "21. # Tūsculum mūrus nōn # longus est # circum Rōmam.",
+                    "a": [
+                        "Circum",
+                        "tam",
+                        "quam"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Exercise 2",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Ubi est via Latīna? ...",
+                    "a": [
+                        "Via Latīna est inter Rōmam et Capuam"
+                    ]
+                },
+                {
+                    "q": "2. Quid est Capua? ...",
+                    "a": [
+                        "Capua est oppidum Rōmānum"
+                    ]
+                },
+                {
+                    "q": "3. Num fluvius Tiberis tam longus est quam Nīlus? ...",
+                    "a": [
+                        "Tiberis nōn tam longus est quam Nīlus"
+                    ]
+                },
+                {
+                    "q": "4. Estne Tūsculum procul ā Rōmā? ...",
+                    "a": [
+                        "Tūsculum prope Rōmam est"
+                    ]
+                },
+                {
+                    "q": "5. Ubi est vīlla Iūliī? ...",
+                    "a": [
+                        "Vīlla Iūliī est prope Tūsculum"
+                    ]
+                },
+                {
+                    "q": "6. Ubi est Iūlius? ...",
+                    "a": [
+                        "Iūlius inter vīllam et oppidum est"
+                    ]
+                },
+                {
+                    "q": "7. Ambulatne Iūlius? ...",
+                    "a": [
+                        "nōn ambulat, servī eum vehunt"
+                    ]
+                },
+                {
+                    "q": "8. Quot servī apud dominum sunt? ...",
+                    "a": [
+                        "quattuor servī apud eum sunt"
+                    ]
+                },
+                {
+                    "q": "9. Quī lectīcam portant? ...",
+                    "a": [
+                        "Ursus et Dāvus lectīcam portant"
+                    ]
+                },
+                {
+                    "q": "10. Quid portant Syrus et Lēander? ...",
+                    "a": [
+                        "Syrus et Lēander saccōs portant"
+                    ]
+                },
+                {
+                    "q": "11. Quō it Iūlius? ...",
+                    "a": [
+                        "Iūlius ad vīllam suam it"
+                    ]
+                },
+                {
+                    "q": "12. Unde venit Iūlius? ...",
+                    "a": [
+                        "Iūlius ab oppidō Tūsculō venit"
+                    ]
+                },
+                {
+                    "q": "13. Cūr Mēdus apud dominum nōn est? ...",
+                    "a": [
+                        "... quia Mēdus dominum timet"
+                    ]
+                },
+                {
+                    "q": "14. Suntne amīcī Mēdus et Dāvus? ...",
+                    "a": [
+                        "nōn amīcī, sed inimīcī sunt"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Exercise 3",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Iūlius nōn # vīllā, sed # oppidō venit.",
+                    "a": [
+                        "ā|ab",
+                        "ab"
+                    ]
+                },
+                {
+                    "q": "2. Iūlia # Aemiliā et # puerīs discēdit.",
+                    "a": [
+                        "ab",
+                        "ā|ab"
+                    ]
+                },
+                {
+                    "q": "3. Iūlius # ūnō ad decem numerat, neque # decem ad centum.",
+                    "a": [
+                        "ab",
+                        "ā|ab"
+                    ]
+                },
+                {
+                    "q": "4. Mēdus # dominō discēdit, Dāvus # eō nōn discēdit.",
+                    "a": [
+                        "ā|ab",
+                        "ab"
+                    ]
+                },
+                {
+                    "q": "5. Britannia est procul # Italiā et # Rōmā.",
+                    "a": [
+                        "ab",
+                        "ā|ab"
+                    ]
+                },
+                {
+                    "q": "6. Imperium Rōmānum est # Hispāniā ad Arabiam et # Britanniā ad Āfricam.",
+                    "a": [
+                        "ab",
+                        "ā|ab"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Exercise 4",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Via Appia est inter Rōm# et Brundisi#.",
+                    "a": [
+                        "am",
+                        "um"
+                    ]
+                },
+                {
+                    "q": "2. Inter oppid# sunt viae. Circum multa oppid# sunt mūrī.",
+                    "a": [
+                        "a",
+                        "a"
+                    ]
+                },
+                {
+                    "q": "3. Vīlla Iūliī est prope oppid# Tūscul#.",
+                    "a": [
+                        "um",
+                        "um"
+                    ]
+                },
+                {
+                    "q": "4. Inter oppid# et vīll# nōn longa via est. ",
+                    "a": [
+                        "um",
+                        "am"
+                    ]
+                },
+                {
+                    "q": "5. Iūlius ab oppid# Tūscul# ad vīll# su# it.",
+                    "a": [
+                        "ō",
+                        "ō",
+                        "am",
+                        "am"
+                    ]
+                },
+                {
+                    "q": "6. Dominus in lectīc# est inter du# serv#.",
+                    "a": [
+                        "ā",
+                        "ōs|o",
+                        "ōs"
+                    ]
+                },
+                {
+                    "q": "7. Ursus est ante domin#, Dāvus post e# est.",
+                    "a": [
+                        "um",
+                        "um"
+                    ]
+                },
+                {
+                    "q": "8. Quattuor servī apud domin# (= cum domin#) sunt.",
+                    "a": [
+                        "um",
+                        "ō"
+                    ]
+                },
+                {
+                    "q": "9, Aemilia in vīll# est sine vir# su# Iūli#.",
+                    "a": [
+                        "ā",
+                        "ō",
+                        "ō",
+                        "ō"
+                    ]
+                },
+                {
+                    "q": "10. Puerī apud Aemili# sunt neque ab e# discēdunt.",
+                    "a": [
+                        "am",
+                        "ā"
+                    ]
+                },
+                {
+                    "q": "11. Iūlia ex hort# ad Aemili# venit cum quīnque ros#.",
+                    "a": [
+                        "ō",
+                        "am",
+                        "īs"
+                    ]
+                },
+                {
+                    "q": "12. 'Ab', nōn 'ā', ante litter# a-, e-, i-, o-, u-, h-!",
+                    "a": [
+                        "ās"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Exercise 5",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Servī # saccōs portant sunt Syrus et Lēander.",
+                    "a": [
+                        "quī"
+                    ]
+                },
+                {
+                    "q": "2. Saccī # servī portant nōn parvī sunt.",
+                    "a": [
+                        "quōs"
+                    ]
+                },
+                {
+                    "q": "3. Saccus # Lēander portat est magnus.",
+                    "a": [
+                        "quem"
+                    ]
+                },
+                {
+                    "q": "4. Servus # magnum saccum portat laetus nōn est.",
+                    "a": [
+                        "quī"
+                    ]
+                },
+                {
+                    "q": "5. Dominus # servī vehunt est Iūlius.",
+                    "a": [
+                        "quem"
+                    ]
+                },
+                {
+                    "q": "6. Servī # Iūlium vehunt sunt Ursus et Dāvus.",
+                    "a": [
+                        "quī"
+                    ]
+                },
+                {
+                    "q": "7. Servī # dominus vocat ad eum veniunt.",
+                    "a": [
+                        "quōs"
+                    ]
+                },
+                {
+                    "q": "8. Dominus verberat servōs # nōn pārent.",
+                    "a": [
+                        "quī"
+                    ]
+                },
+                {
+                    "q": "9. Servī # dominus verberat improbī sunt.",
+                    "a": [
+                        "quōs"
+                    ]
+                },
+                {
+                    "q": "10. Nummī # Mēdus in sacculō suō habet Iūliī sunt.",
+                    "a": [
+                        "quōs"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Exercise 6",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Quō it Mēdus? Mēdus Rōm# it, nam amīca eius Rōm# habitat.",
+                    "a": [
+                        "am",
+                        "ae"
+                    ]
+                },
+                {
+                    "q": "2. Unde venit Cornēlius? Cornēlius Rōm# venit.",
+                    "a": [
+                        "ā"
+                    ]
+                },
+                {
+                    "q": "3. Quō it Cornēlius? Cornēlius Tūscul# it, nam is Tūscul# habitat.",
+                    "a": [
+                        "um",
+                        "ī"
+                    ]
+                },
+                {
+                    "q": "4. Unde venit Mēdus? Mēdus Tūscul# venit.",
+                    "a": [
+                        "ō"
+                    ]
+                },
+                {
+                    "q": "5. Mēdus Tūscul# Rōm# it.",
+                    "a": [
+                        "ō",
+                        "am"
+                    ]
+                },
+                {
+                    "q": "6. Cornēlius Rōm# Tūscul# it.",
+                    "a": [
+                        "ā",
+                        "um"
+                    ]
+                },
+                {
+                    "q": "7. Iam Mēdus Rōm# apud amīcam suam est.",
+                    "a": [
+                        "ae"
+                    ]
+                },
+                {
+                    "q": "8. Ubi est Cornēlius? Tūscul# est apud familiam suam.",
+                    "a": [
+                        "ī"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Exercise 7",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Dominus nōn ambul#, sed ā servīs port#.",
+                    "a": [
+                        "at",
+                        "ātur"
+                    ]
+                },
+                {
+                    "q": "2. Iūlius Aemiliam am# et ab Aemiliā am#.",
+                    "a": [
+                        "at",
+                        "ātur"
+                    ]
+                },
+                {
+                    "q": "3. Iūlius et Aemilia līberōs suōs am# et ab iīs am#.",
+                    "a": [
+                        "ant",
+                        "antur"
+                    ]
+                },
+                {
+                    "q": "4. Servī malī dominum tim# neque ā dominō tim#.",
+                    "a": [
+                        "ent",
+                        "entur"
+                    ]
+                },
+                {
+                    "q": "5. Quīntus Mārcum vid# neque ab eō vid#.",
+                    "a": [
+                        "et",
+                        "ētur"
+                    ]
+                },
+                {
+                    "q": "6. Quīntus Mārcum puls# et ab eō puls#.",
+                    "a": [
+                        "at",
+                        "ātur"
+                    ]
+                },
+                {
+                    "q": "7. Quīntus Iūlium voc# neque ab eō aud#.",
+                    "a": [
+                        "at",
+                        "ītur"
+                    ]
+                },
+                {
+                    "q": "8. Puerī Iūliam voc# neque ab eā aud#.",
+                    "a": [
+                        "ant",
+                        "iuntur"
+                    ]
+                },
+                {
+                    "q": "9.Equus Cornēlium veh#; Iūlius nōn equō, sed lectīcā veh#.",
+                    "a": [
+                        "it",
+                        "itur"
+                    ]
+                },
+                {
+                    "q": "10. Dominī veh#, servī ambul#.",
+                    "a": [
+                        "untur",
+                        "ant"
+                    ]
+                },
+                {
+                    "q": "11. Fēminae rosīs dēlect#.",
+                    "a": [
+                        "antur"
+                    ]
+                },
+                {
+                    "q": "12. Iūlius nummōs in mēnsā pōn# et numer#.",
+                    "a": [
+                        "it",
+                        "at"
+                    ]
+                },
+                {
+                    "q": "13. Nummī ā Iūliō in mēnsā pōn# et numer#.",
+                    "a": [
+                        "untur",
+                        "antur"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Exercise 8",
+            "info": "Exemplum: \nDominus servum vocat = servus ā dominō vocātur.\n",
+            "questions": [
+                {
+                    "q": "1. Ancilla dominum salūtat = dominus # # #",
+                    "a": [
+                        "ab",
+                        "ancillā",
+                        "salūtātur"
+                    ]
+                },
+                {
+                    "q": "2. Dominus ā servīs salūtātur = servī # # ",
+                    "a": [
+                        "dominum",
+                        "salūtant"
+                    ]
+                },
+                {
+                    "q": "3. Dominus servōs interrogat = # # # #",
+                    "a": [
+                        "servī",
+                        "ā|ab",
+                        "dominō",
+                        "interrogantur"
+                    ]
+                },
+                {
+                    "q": "4. Dāvus accūsātur ā Mēdō = # # #",
+                    "a": [
+                        "Mēdus",
+                        "Dāvum",
+                        "accūsat"
+                    ]
+                },
+                {
+                    "q": "5. Dāvus sacculum in mēnsā pōnit = # # # # # # ",
+                    "a": [
+                        "sacculus",
+                        "in",
+                        "mēnsā",
+                        "pōnitur",
+                        "ā|ab",
+                        "Dāvō"
+                    ]
+                },
+                {
+                    "q": "6. Iūlius ā Mēdō timētur = # # #",
+                    "a": [
+                        "Mēdus",
+                        "Iūlium",
+                        "timet"
+                    ]
+                },
+                {
+                    "q": "7. Iūlius Mēdum vocat = # # # #",
+                    "a": [
+                        "Mēdus",
+                        "ā|ab",
+                        "Iūliō",
+                        "vocātur"
+                    ]
+                },
+                {
+                    "q": "8. Iūlia ā puerīs vocātur = # # #",
+                    "a": [
+                        "puerī",
+                        "Iūliam",
+                        "vocant"
+                    ]
+                },
+                {
+                    "q": "9. Iūlia puerōs nōn audit = # # # # #",
+                    "a": [
+                        "puerī",
+                        "ā|ab",
+                        "Iūliā",
+                        "nōn",
+                        "audiuntur"
+                    ]
+                },
+                {
+                    "q": "10. Puerī vocantur ā Iūliā = # # #",
+                    "a": [
+                        "Iūlia",
+                        "puerōs",
+                        "vocat"
+                    ]
+                },
+                {
+                    "q": "11. Servī improbī dominum īrātum timent = # # # # # #",
+                    "a": [
+                        "dominus",
+                        "īrātus",
+                        "ā|ab",
+                        "servīs",
+                        "improbīs",
+                        "timētur"
+                    ]
+                },
+                {
+                    "q": "12. Servī improbī ā dominō īrātō verberantur = # # # # #",
+                    "a": [
+                        "dominus",
+                        "īrātus",
+                        "servōs",
+                        "improbōs",
+                        "verberat"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Exercise 9",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Cornēlius equ# vehitur.",
+                    "a": [
+                        "ō"
+                    ]
+                },
+                {
+                    "q": "2. Iūlius lectīc# vehitur.",
+                    "a": [
+                        "ā"
+                    ]
+                },
+                {
+                    "q": "3. Iūlia verb# Aemiliae dēlectātur.",
+                    "a": [
+                        "īs"
+                    ]
+                },
+                {
+                    "q": "4. Dominus servum improbum bacul# verberat.",
+                    "a": [
+                        "ō"
+                    ]
+                },
+                {
+                    "q": "5. Servī saccōs umer# portant.",
+                    "a": [
+                        "īs"
+                    ]
+                },
+                {
+                    "q": "6. Servī dominum lectīc# vehunt.",
+                    "a": [
+                        "ā"
+                    ]
+                },
+                {
+                    "q": "7. Mēdus vi# Latīn# Tūsculō Rōmam it.",
+                    "a": [
+                        "ā",
+                        "ā"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Exercise 10",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Cornēlius nōn ambulat, sed # vehitur.",
+                    "a": [
+                        "equō"
+                    ]
+                },
+                {
+                    "q": "2. Tūsculum, # Cornēlius habitat, prope Rōmam est.",
+                    "a": [
+                        "ubi"
+                    ]
+                },
+                {
+                    "q": "3. Servī quī magnam lectīcam portant # sunt.",
+                    "a": [
+                        "fessī"
+                    ]
+                },
+                {
+                    "q": "4. Lȳdia est # Mēdī, quae Rōmae habitat.",
+                    "a": [
+                        "amīca"
+                    ]
+                },
+                {
+                    "q": "5. Mēdus ōstium Lȳdiae #. Lȳdia: \"#!\" ",
+                    "a": [
+                        "pulsat",
+                        "Intrā"
+                    ]
+                },
+                {
+                    "q": "6. Mēdus # ōstium intrat et amīcam suam salūtat.",
+                    "a": [
+                        "per"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Exercise 11",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Ubi habitat Cornēlius? ...",
+                    "a": [
+                        "Cornēlius Tūsculī habitat"
+                    ]
+                },
+                {
+                    "q": "2. Unde Cornēlius venit et quō it? ...",
+                    "a": [
+                        "Rōmā venit et Tūsculum it"
+                    ]
+                },
+                {
+                    "q": "3. Ambulatne Cornēlius? ...",
+                    "a": [
+                        "Cornēlius equō vehitur"
+                    ]
+                },
+                {
+                    "q": "4. Cūr Mēdus equō nōn vehitur? ...",
+                    "a": [
+                        "... quia servus est neque equum habet"
+                    ]
+                },
+                {
+                    "q": "5. Cūr laetus est Mēdus? ...",
+                    "a": [
+                        "... quia ad amīcam suam it"
+                    ]
+                },
+                {
+                    "q": "6. Quae est Lȳdia? ...",
+                    "a": [
+                        "Lȳdia est amīca Mēdī"
+                    ]
+                },
+                {
+                    "q": "7. Ubi Lȳdia habitat? ...",
+                    "a": [
+                        "Lȳdia Rōmae habitat"
+                    ]
+                },
+                {
+                    "q": "8. Cūr Ursus et Dāvus fessī sunt? ...",
+                    "a": [
+                        "... quia magnōs saccōs portant"
+                    ]
+                },
+                {
+                    "q": "9. Cūr Iūlius fessus nōn est? ...",
+                    "a": [
+                        "... quia lectīcā vehitur"
+                    ]
+                },
+                {
+                    "q": "10. Quī Iūlium salūtant? ...",
+                    "a": [
+                        "līberī eum salūtant"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Exercise 12",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. 'Amā|tur', 'ama|ntur' nōn verbum āctīvum, sed # est.",
+                    "a": [
+                        "passīvum"
+                    ]
+                },
+                {
+                    "q": "2. 'Ama|t', 'ama|nt' nōn verbum passīvum, sed # est.",
+                    "a": [
+                        "āctīvum"
+                    ]
+                },
+                {
+                    "q": "3. 'Vide|t', 'vide|nt' quoque verbum # est; 'vidē|tur', 'vide|ntur' est verbum #.",
+                    "a": [
+                        "āctīvum",
+                        "passīvum"
+                    ]
+                },
+                {
+                    "q": "4. 'Pōn|it', 'pōn|unt' āctīvum est; 'pōn|itur', 'pōn|untur' # est.",
+                    "a": [
+                        "passīvum"
+                    ]
+                },
+                {
+                    "q": "5. 'Audi|t', 'audi|unt' # est; 'audī|tur', 'audi|untur' est #.",
+                    "a": [
+                        "āctīvum",
+                        "passīvum"
+                    ]
+                },
+                {
+                    "q": "6. Āctīvum: singulāris: voc#, tim#, veh#, aud#; plūrālis: voc#, tim#, veh#, aud#.",
+                    "a": [
+                        "at",
+                        "et",
+                        "it",
+                        "it",
+                        "ant",
+                        "ent",
+                        "unt",
+                        "iunt"
+                    ]
+                },
+                {
+                    "q": "7. Passīvum: singulāris: voc#, tim#, veh#, aud#; plūrālis: voc#, tim#, veh#, aud#.",
+                    "a": [
+                        "ātur",
+                        "ētur",
+                        "itur",
+                        "ītur",
+                        "antur",
+                        "entur",
+                        "untur",
+                        "iuntur"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "PENSVM A",
+            "info": "",
+            "questions": [
+                {
+                    "a": [
+                        "ō",
+                        "am",
+                        "am"
+                    ],
+                    "q": "Iūlius ab oppid# Tūsculō ad vīll# su# it."
+                },
+                {
+                    "a": [
+                        "um"
+                    ],
+                    "q": "Vīlla eius prope Tūscul# est."
+                },
+                {
+                    "a": [
+                        "um",
+                        "um"
+                    ],
+                    "q": "Iūlius in lectīcā est inter Urs# et Dāv#."
+                },
+                {
+                    "a": [
+                        "ātur"
+                    ],
+                    "q": "Dominus ā servīs port#."
+                },
+                {
+                    "a": [
+                        "ant",
+                        "ī",
+                        "antur"
+                    ],
+                    "q": "Ursus et Dāvus nōn saccōs port#, sacc# ā Syrō et Lēandrō port#."
+                },
+                {
+                    "a": [
+                        "at",
+                        "ō",
+                        "ātur"
+                    ],
+                    "q": "Saccus quem Lēander port# nōn tam parvus est quam saccus quī ā Syr# port#."
+                },
+                {
+                    "a": [
+                        "um",
+                        "et",
+                        "ō",
+                        "ō",
+                        "ētur"
+                    ],
+                    "q": "Mēdus nōn est apud domin#, nam servus malus dominum tim#. Dominus ā serv# mal# tim#."
+                },
+                {
+                    "a": [
+                        "um",
+                        "um",
+                        "at",
+                        "ītur"
+                    ],
+                    "q": "Dominus serv# mal# voc# neque ab eō aud#."
+                },
+                {
+                    "a": [
+                        "us",
+                        "us",
+                        "ō",
+                        "ātur",
+                        "it"
+                    ],
+                    "q": "Serv# mal# ā domin# voc# neque eum aud#."
+                },
+                {
+                    "a": [
+                        "am",
+                        "ō"
+                    ],
+                    "q": "Quō it Mēdus? Rōm# it. Unde venit? Mēdus Tūscul# venit."
+                },
+                {
+                    "a": [
+                        "um",
+                        "um"
+                    ],
+                    "q": "Ante Mēd# est Rōma, Tūsculum post e# est."
+                },
+                {
+                    "a": [
+                        "ā",
+                        "um",
+                        "ī"
+                    ],
+                    "q": "Cornēlius nōn Tūsculō Rōmam, sed Rōm# Tūscul# it, nam is Tūscul# habitat."
+                },
+                {
+                    "a": [
+                        "ō",
+                        "itur"
+                    ],
+                    "q": "Cornēlius nōn ambulat, sed equ# veh#."
+                },
+                {
+                    "a": [
+                        "ae"
+                    ],
+                    "q": "Lȳdia, amīca Mēdī, Rōm# habitat."
+                },
+                {
+                    "a": [
+                        "ae",
+                        "am"
+                    ],
+                    "q": "Iam Mēdus Rōm# apud Lȳdi# est."
+                },
+                {
+                    "a": [
+                        "am",
+                        "am",
+                        "at",
+                        "ā",
+                        "ā",
+                        "ātur",
+                        "um",
+                        "at",
+                        "ō",
+                        "ātur"
+                    ],
+                    "q": "Mēdus amīc# su# salūt# et ab amīc# su# salūt#, nam Lȳdia Mēd# am# et ab e# am#."
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "PENSVM B",
+            "info": "",
+            "questions": [
+                {
+                    "a": [
+                        "procul",
+                        "prope"
+                    ],
+                    "q": "Ōstia nōn # ā Rōmā, sed # Rōmam est."
+                },
+                {
+                    "a": [
+                        "Unde",
+                        "ad",
+                        "portant"
+                    ],
+                    "q": "# venit Iūlius? Tūsculō venit et # vīllam it. Duo servī eum #."
+                },
+                {
+                    "a": [
+                        "post",
+                        "saccōs"
+                    ],
+                    "q": "Syrus et Lēander, quī # lectīcam ambulant, duōs # portant."
+                },
+                {
+                    "a": [
+                        "tam",
+                        "quam",
+                        "ā",
+                        "itaque",
+                        "fessus"
+                    ],
+                    "q": "Saccus Syrī nōn # magnus est # saccus quī # Lēandrō portātur, # Syrus nōn tam # est quam Lēander."
+                },
+                {
+                    "a": [
+                        "apud",
+                        "timet"
+                    ],
+                    "q": "Mēdus # dominum nōn est, nam Mēdus dominum īrātum #."
+                },
+                {
+                    "a": [
+                        "malus",
+                        "itaque",
+                        "amīcī"
+                    ],
+                    "q": "Mēdus servus # [= improbus] est; # Mēdus et Iūlius nōn #, sed inimīcī sunt."
+                },
+                {
+                    "a": [
+                        "inter",
+                        "longa",
+                        "via"
+                    ],
+                    "q": "Via Latīna, quae est # Rōmam et Capuam, nōn tam # est quam # Appia."
+                },
+                {
+                    "a": [
+                        "Quō",
+                        "nam"
+                    ],
+                    "q": "# ambulat Mēdus? Is Rōmam ambulat, # amīca eius Rōmae habitat."
+                },
+                {
+                    "a": [
+                        "autem",
+                        "it"
+                    ],
+                    "q": "Cornēlius # [= sed C.] Rōmā Tūsculum #."
+                },
+                {
+                    "a": [
+                        "ante",
+                        "post"
+                    ],
+                    "q": "Tūsculum est # eum, # eum est Rōma."
+                },
+                {
+                    "a": [
+                        "vehitur",
+                        "ambulat"
+                    ],
+                    "q": "Cornēlius equō #, is nōn #."
+                },
+                {
+                    "a": [
+                        "eunt"
+                    ],
+                    "q": "Iūlius et Cornēlius ad vīllās suās #."
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "PENSVM C",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Ambulatne Iūlius? ",
+                    "a": []
+                },
+                {
+                    "q": "2. Quī Iūlium portant? ",
+                    "a": []
+                },
+                {
+                    "q": "3. Quid portant Syrus et Lēander? ",
+                    "a": []
+                },
+                {
+                    "q": "4. Unde venit Iūlius et quō it? ",
+                    "a": []
+                },
+                {
+                    "q": "5. Quō it Mēdus? ",
+                    "a": []
+                },
+                {
+                    "q": "6. Etiamne Cornēlius Tūsculō Rōmam it? ",
+                    "a": []
+                },
+                {
+                    "q": "7. Ubi habitat Cornēlius? ",
+                    "a": []
+                },
+                {
+                    "q": "8. Cūr Mēdus laetus est? ",
+                    "a": []
+                },
+                {
+                    "q": "9. Quae est Lȳdia? ",
+                    "a": []
+                },
+                {
+                    "q": "10. Quid habet Mēdus in sacculō suō? ",
+                    "a": []
+                },
+                {
+                    "q": "11. Suntne amīcī Iūlius et Mēdus? ",
+                    "a": []
+                },
+                {
+                    "q": "12. Num 'portat' verbum passīvum est? ",
+                    "a": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1043 @@
+{
+    "id": 25,
+    "name": "CAPITVLVM XXVI",
+    "exercises": [
+        {
+            "id": 0,
+            "name": "Exercise 1",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Asinus nōn tam cel# est quam equus.",
+                    "a": [
+                        "er"
+                    ]
+                },
+                {
+                    "q": "2. Aquila est avis magna et cel#.",
+                    "a": [
+                        "eris"
+                    ]
+                },
+                {
+                    "q": "3. Nūllus deus tam cel# est quam Mercurius.",
+                    "a": [
+                        "er"
+                    ]
+                },
+                {
+                    "q": "4. Fuga cel# hostēs perterritōs servāvit.",
+                    "a": [
+                        "eris"
+                    ]
+                },
+                {
+                    "q": "5. Ventus cel# et subitus mare turbāvit.",
+                    "a": [
+                        "er"
+                    ]
+                },
+                {
+                    "q": "6. Nihil tam cel# est quam fulgur.",
+                    "a": [
+                        "ere"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Exercise 2",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Rēx Mīnōs Thēseum fugientem # est.",
+                    "a": [
+                        "persecūtus"
+                    ]
+                },
+                {
+                    "q": "2. Nāvis Mīnōis nōn tam # fuit quam Thēseī.",
+                    "a": [
+                        "celeris"
+                    ]
+                },
+                {
+                    "q": "3. Itaque rēx Thēseum # nōn potuit.",
+                    "a": [
+                        "cōnsequī"
+                    ]
+                },
+                {
+                    "q": "4. Daedalus, quī fīlum # et Ariadnae dederat, ā rēge in labyrinthum inclūsus est sīcut in #.",
+                    "a": [
+                        "cōnfēcerat",
+                        "carcerem"
+                    ]
+                },
+                {
+                    "q": "5. Hīc Syra, quae # [= nōn] paulum temporis iam # in nārrandō, fīnem facere vult.",
+                    "a": [
+                        "haud",
+                        "cōnsūmpsit"
+                    ]
+                },
+                {
+                    "q": "6. # [= sed] Quīntus, quī magnam fābulae partem iam audīvit, partem # quoque audīre cupit.",
+                    "a": [
+                        "Vērum",
+                        "reliquam"
+                    ]
+                },
+                {
+                    "q": "7. Syra igitur dē # Daedalī et Īcarī nārrat.",
+                    "a": [
+                        "fugā"
+                    ]
+                },
+                {
+                    "q": "8. Daedalus exitum labyrinthī # [= reperīre] nōn potuit, neque # [= et nēmō] eum # [= eī auxilium tulit].",
+                    "a": [
+                        "invenīre",
+                        "quisquam",
+                        "iūvit"
+                    ]
+                },
+                {
+                    "q": "9. # igitur aliā viā exīre nōn potuit, vir # [= audēns] per āera # cōnstituit.",
+                    "a": [
+                        "Quoniam",
+                        "audāx",
+                        "effugere"
+                    ]
+                },
+                {
+                    "q": "10. Hoc # adhūc ab Īcarō ignōrābātur.",
+                    "a": [
+                        "cōnsilium"
+                    ]
+                },
+                {
+                    "q": "11. Puer fessus ‘sē # [= prope] mortuum esse’ dīxit.",
+                    "a": [
+                        "paene"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Exercise 3",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Cūr rēx Thēseum fugientem cōnsequī nōn potuit? ...",
+                    "a": [
+                        "... quia nāvis Thēseī celerior fuit"
+                    ]
+                },
+                {
+                    "q": "2. Quō Mīnōs Daedalum inclūdī iussit? ...",
+                    "a": [
+                        "Mīnōs eum in labyrinthum inclūdī iussit"
+                    ]
+                },
+                {
+                    "q": "3. Quid Daedalus cōnfēcerat et Ariadnae dederat? ...",
+                    "a": [
+                        "Daedalus cōnfēcerat fīlum illud quod Ariadna Thēseō dedit"
+                    ]
+                },
+                {
+                    "q": "4. Quis cum Daedalō in labyrinthum inclūsus est? ...",
+                    "a": [
+                        "Īcarus cum patre suō in labyrinthum inclūsus est"
+                    ]
+                },
+                {
+                    "q": "5. Cūr Syra hīc fīnem facere vult? ...",
+                    "a": [
+                        "... quia iam hōram cōnsūmpsit in nārrandō"
+                    ]
+                },
+                {
+                    "q": "6. Quā viā Daedalus effugere cōnstituit? ...",
+                    "a": [
+                        "Daedalus per āera effugere cōnstituit"
+                    ]
+                },
+                {
+                    "q": "7. Cūr Īcarus labyrinthum ‘carcerem’ appellāvit? ...",
+                    "a": [
+                        "... quia exitum invenīre nōn potuit"
+                    ]
+                },
+                {
+                    "q": "8. Quārē fessus erat Īcarus? ...",
+                    "a": [
+                        "... quia iam multās hōrās in labyrinthō errāverat"
+                    ]
+                },
+                {
+                    "q": "9. Multumne cibī iīs reliquum erat? ...",
+                    "a": [
+                        "cibus eōrum paene cōnsūmptus erat"
+                    ]
+                },
+                {
+                    "q": "10. Quōrum auxilium Īcarus opperiēbātur? ...",
+                    "a": [
+                        "Īcarus auxilium deōrum opperiēbātur"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Exercise 4",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Nautae parātī sunt ad nāvig#.",
+                    "a": [
+                        "andum"
+                    ]
+                },
+                {
+                    "q": "2. Syra fīnem nārr# facit quia fessa est nārr#.",
+                    "a": [
+                        "andī",
+                        "andō"
+                    ]
+                },
+                {
+                    "q": "3. Puer autem cupidus est aud# neque parātus ad dorm#.",
+                    "a": [
+                        "iendī",
+                        "iendum"
+                    ]
+                },
+                {
+                    "q": "4. Stilus necessārius est ad scrīb#.",
+                    "a": [
+                        "endum"
+                    ]
+                },
+                {
+                    "q": "5. Sextus industrius est in scrīb# et in leg# et in comput#; is enim cupidus disc# est.",
+                    "a": [
+                        "endō",
+                        "endō",
+                        "andō",
+                        "endī"
+                    ]
+                },
+                {
+                    "q": "6. Puerī scrībere discunt scrīb#; ars scrīb# haud facilis est.",
+                    "a": [
+                        "endō",
+                        "endī"
+                    ]
+                },
+                {
+                    "q": "7. Capitulum XVI est dē marī et dē nāvig#.",
+                    "a": [
+                        "andō"
+                    ]
+                },
+                {
+                    "q": "8. Iūlia dēlectātur in hortō ambul# et flōrēs aspici#.",
+                    "a": [
+                        "andō",
+                        "endō"
+                    ]
+                },
+                {
+                    "q": "9. Mēdus cōnsilium ā dominō fugi# excōgitāverat.",
+                    "a": [
+                        "endī"
+                    ]
+                },
+                {
+                    "q": "10. Daedalus fīlium, quī vol# studiōsus erat, artem vol# docuit.",
+                    "a": [
+                        "andī",
+                        "andī"
+                    ]
+                },
+                {
+                    "q": "11. Paulum satis est ad beātē vīv#.",
+                    "a": [
+                        "endum"
+                    ]
+                },
+                {
+                    "q": "12. Quōmodo loquī discimus? Loquī discimus aliōs loquentēs aud# et imit#.",
+                    "a": [
+                        "iendō",
+                        "andō"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Exercise 5",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Quī in carcere inclūsus est nōn est #.",
+                    "a": [
+                        "līber"
+                    ]
+                },
+                {
+                    "q": "2. Avis # montēs et flūmina volāre potest.",
+                    "a": [
+                        "trāns"
+                    ]
+                },
+                {
+                    "q": "3. Aquila circum labyrinthum in magnum # volābat.",
+                    "a": [
+                        "orbem"
+                    ]
+                },
+                {
+                    "q": "4. Daedalus cōnsilium fugae iam #: ālās facere cōnstituerat atque ē labyrinthō #.",
+                    "a": [
+                        "excōgitāverat",
+                        "ēvolāre"
+                    ]
+                },
+                {
+                    "q": "5. Ālās cōnficere # difficile est, sed Daedalus ālās # [= māximās] cōnfēcit ex #, quās cērā in lacertīs #.",
+                    "a": [
+                        "opus",
+                        "ingentēs",
+                        "pennīs",
+                        "fīxit"
+                    ]
+                },
+                {
+                    "q": "6. Ille # [= certē] deus nōn erat, sed tamen arte suā ipsam # mūtāre poterat.",
+                    "a": [
+                        "quidem",
+                        "nātūram"
+                    ]
+                },
+                {
+                    "q": "7. “Opus iam # est” inquit Daedalus, “Ecce exemplum # meae novissimum. Iam avēs in volandō # possumus.”",
+                    "a": [
+                        "perfectum",
+                        "artis",
+                        "imitārī"
+                    ]
+                },
+                {
+                    "q": "8. Puer, etsī # erat volandī, sē suprā humum # nōn potuit.",
+                    "a": [
+                        "studiōsus",
+                        "levāre"
+                    ]
+                },
+                {
+                    "q": "9. Pater fīlium ālās # # movēre docuit # [= sīcut] avis.",
+                    "a": [
+                        "sūrsum",
+                        "deorsum",
+                        "tamquam"
+                    ]
+                },
+                {
+                    "q": "10. Tum fīlium sīc monuit: “Nōlī volāre in # āere prope mare neque in # āere prope sōlem, nam # sōlis cēram # ac pennās # poterit. # estō!”",
+                    "a": [
+                        "īnfimō",
+                        "summō",
+                        "ignis",
+                        "mollīre",
+                        "ūrere",
+                        "Cautus"
+                    ]
+                },
+                {
+                    "q": "11. # est pars bracchiī superior.",
+                    "a": [
+                        "Lacertus"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Exercise 6",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Quid Daedalus excōgitāverat? ...",
+                    "a": [
+                        "cōnsilium fugae excōgitāverat"
+                    ]
+                },
+                {
+                    "q": "2. Quae via sōla iīs patēbat ad fugiendum? ...",
+                    "a": [
+                        "sōla via per āera iīs patēbat"
+                    ]
+                },
+                {
+                    "q": "3. Quid Daedalus suprā sē vīdit? ...",
+                    "a": [
+                        "Daedalus aquilam volantem vīdit"
+                    ]
+                },
+                {
+                    "q": "4. Quae animālia nātūrā volāre possunt? ...",
+                    "a": [
+                        "avēs sunt animālia quae volāre possunt"
+                    ]
+                },
+                {
+                    "q": "5. Cūr homō volāre nōn potest? ...",
+                    "a": [
+                        "... quia gravis est neque ālās habet"
+                    ]
+                },
+                {
+                    "q": "6. Quās rēs mīrābilēs Daedalus iam cōnfēcerat? ...",
+                    "a": [
+                        "Daedalus iam signa quae sē ipsa movēre poterant cōnfēcerat"
+                    ]
+                },
+                {
+                    "q": "7. Quōmodo Daedalus ālās cōnfēcit? ...",
+                    "a": [
+                        "ālās cōnfēcit ex pennīs quās cērā iūnxit"
+                    ]
+                },
+                {
+                    "q": "8. Ubi fīxae sunt ālae? ...",
+                    "a": [
+                        "ālae in lacertīs fīxae sunt"
+                    ]
+                },
+                {
+                    "q": "9. Cūr Īcarus nōn statim volāre potuit? ...",
+                    "a": [
+                        "Īcarus ālās nōn rēctē mōvit"
+                    ]
+                },
+                {
+                    "q": "10. Quid Daedalus fīlium suum docuit? ...",
+                    "a": [
+                        "Daedalus fīlium suum ālās sūrsum deorsum movēre docuit"
+                    ]
+                },
+                {
+                    "q": "11. Ubi pater Īcarum volāre iussit? ...",
+                    "a": [
+                        "iussit eum volāre in mediō āere"
+                    ]
+                },
+                {
+                    "q": "12. Cūr eī nōn licēbat in summum caelum ascendere? ...",
+                    "a": [
+                        "... quod ignis sōlis cēram mollīre poterat"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Exercise 7",
+            "info": "Exempla:  \nThēseus, postquam ē Crētā profectus est, Naxum vēnit \n= Thēseus ē Crētā profectus Naxum vēnit.\nQuīntus, quī cultrum medicī verēbātur, oculōs clausit \n= Quīntus cultrum medicī veritus oculōs clausit.\n",
+            "questions": [
+                {
+                    "q": "1. Mīnōs Thēseum # [= postquam Thēseum persecūtus est] domum revertit.",
+                    "a": [
+                        "persecūtus"
+                    ]
+                },
+                {
+                    "q": "2. Daedalus fīlium # [= postquam fīlium ōsculātus est] “Iam sequere mē!” inquit.",
+                    "a": [
+                        "ōsculātus"
+                    ]
+                },
+                {
+                    "q": "3. Ita # [ = Postquam ita locūtus est] Daedalus cum fīliō ēvolāvit. ",
+                    "a": [
+                        "locūtus"
+                    ]
+                },
+                {
+                    "q": "4. Fīlum Ariadnae # [= Postquam fīlum Ariadnae secūtus est] Thēseus exitum labyrinthī repperit.",
+                    "a": [
+                        "secūtus"
+                    ]
+                },
+                {
+                    "q": "5. Tabellārius canem #  [= quī canem verēbātur] intrāre nōluit.",
+                    "a": [
+                        "veritus"
+                    ]
+                },
+                {
+                    "q": "6. Aegeus fīlium mortuum esse # [= quī fīlium mortuum esse arbitrābātur] in mare sē iēcit.",
+                    "a": [
+                        "arbitrātus"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Exercise 8",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Peloponnēsus nōn īnsula, sed # est.",
+                    "a": [
+                        "paenīnsula"
+                    ]
+                },
+                {
+                    "q": "2. Daedalus et Īcarus ē labyrinthō ēvolantēs novā # gaudēbant ac # [= magnum numerum] īnsulārum mīrābantur.",
+                    "a": [
+                        "lībertāte",
+                        "multitūdinem"
+                    ]
+                },
+                {
+                    "q": "3. Īcarus # [= deorsum aspiciēns] paene tōtum # terrārum vidēre poterat, # [= sūrsum aspiciēns] sōlem lūcentem vīdit.",
+                    "a": [
+                        "dēspiciēns",
+                        "orbem",
+                        "suspiciēns"
+                    ]
+                },
+                {
+                    "q": "4. Puer # [= nimis audāx] in summum caelum ascendit.",
+                    "a": [
+                        "temerārius"
+                    ]
+                },
+                {
+                    "q": "5. Tum # [= factum est] id quod pater timuerat: sōl # [< prope] cēram mollīvit et pennās ussit.",
+                    "a": [
+                        "accidit",
+                        "propinquus"
+                    ]
+                },
+                {
+                    "q": "6. Puer, lacertōs nūdōs #, in mare cecidit.",
+                    "a": [
+                        "quatiēns"
+                    ]
+                },
+                {
+                    "q": "7. Haec fābula nōn sōlum dēlectandī, # [= sed] etiam monendī # nārrātur.",
+                    "a": [
+                        "vērum",
+                        "causā"
+                    ]
+                },
+                {
+                    "q": "8. Ex omnibus fābulīs haec dē # [< cadere] Īcarī Quīntum # dēlectat.",
+                    "a": [
+                        "cāsū",
+                        "māximē"
+                    ]
+                },
+                {
+                    "q": "9. Puer fessus Syram abeuntem nōn #.",
+                    "a": [
+                        "revocat"
+                    ]
+                },
+                {
+                    "q": "10. Rēs quae procul absunt parvae esse #.",
+                    "a": [
+                        "videntur"
+                    ]
+                },
+                {
+                    "q": "11. In somnīs Quīntus volāre sibi # [= sē volāre putat].",
+                    "a": [
+                        "vidētur"
+                    ]
+                },
+                {
+                    "q": "12. Sī industrius es, multum discis, # [= sī autem] piger es, nihil discis.",
+                    "a": [
+                        "sīn"
+                    ]
+                },
+                {
+                    "q": "13. Nōlī ā rēctā viā #!",
+                    "a": [
+                        "aberrāre"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Exercise 9",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Quis fugam Daedalī et Īcarī animadvertit? ...",
+                    "a": [
+                        "aliquī pāstor eōs volantēs vīdit"
+                    ]
+                },
+                {
+                    "q": "2. Quid arbitrātus est pāstor quī eōs volāre vīdit? ...",
+                    "a": [
+                        "pāstor eōs deōs esse arbitrātus est"
+                    ]
+                },
+                {
+                    "q": "3. Cūr pater et fīlius nōn rēctā viā Athēnās volāvērunt? ...",
+                    "a": [
+                        "... quod multās īnsulās vidēre voluērunt"
+                    ]
+                },
+                {
+                    "q": "4. Quid volantēs sub sē vīdērunt? ...",
+                    "a": [
+                        "īnsulās maris Aegaeī vīdērunt"
+                    ]
+                },
+                {
+                    "q": "5. Quid est Peloponnēsus? ...",
+                    "a": [
+                        "magna paenīnsula est"
+                    ]
+                },
+                {
+                    "q": "6. Quōmodo Peloponnēsus cum reliquā Graeciā coniungitur? ...",
+                    "a": [
+                        "Peloponnēsus terrā angustā cum reliquā Graeciā coniungitur"
+                    ]
+                },
+                {
+                    "q": "7. Quid est Corinthus? ...",
+                    "a": [
+                        "Corinthus est urbs Graeca prope Isthmum sita"
+                    ]
+                },
+                {
+                    "q": "8. Quārē Īcarus ad sōlem ascendit? ...",
+                    "a": [
+                        "... quia sōlem propius aspicere cupiēbat"
+                    ]
+                },
+                {
+                    "q": "9. Quid tum puerō temerāriō accidit? ...",
+                    "a": [
+                        "ignis sōlis cēram mollīvit et pennās ussit"
+                    ]
+                },
+                {
+                    "q": "10. Quid appellātur id mare quō Īcarus cecidit? ...",
+                    "a": [
+                        "mare Īcarium appellātur"
+                    ]
+                },
+                {
+                    "q": "11. In quā īnsulā inventum est corpus puerī? ...",
+                    "a": [
+                        "corpus puerī inventum est in īnsulā quae ‘Īcaria’ appellātur"
+                    ]
+                },
+                {
+                    "q": "12. Cūr Quīntus fessus nōn est fābulās audiendō? ...",
+                    "a": [
+                        "... quod puer fābulās audiendō dēlectātur"
+                    ]
+                },
+                {
+                    "q": "13. Quārē nārrātur haec fābula? ...",
+                    "a": [
+                        "haec fābula et dēlectandī et monendī causā nārrātur"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Exercise 10",
+            "info": "Exempla:\nNāvigāre necesse est. Nautae nāvigāre cupiunt.\nNāvēs necessāriae sunt ad nāvigandum. \nNautae cupidī sunt nāvigandī. \nNautae pecūniam faciunt nāvigandō.\n",
+            "questions": [
+                {
+                    "q": "1. 'Nāvigā|re' īnfīnītīvus est. 'Nāviga|ndum' nōn īnfīnītīvus, sed # est.",
+                    "a": [
+                        "gerundium"
+                    ]
+                },
+                {
+                    "q": "2. 'Nāviga|nd|um' accūsātīvus gerundiī est; 'nāviga|nd|ī' est #, 'nāviga|nd|ō' # gerundiī.",
+                    "a": [
+                        "genetīvus",
+                        "ablātīvus"
+                    ]
+                },
+                {
+                    "q": "3. Īnfīnītīvus: vocāre. Gerundium: accūsātīvus voca#, genetīvus voca#, ablātīvus voca#.",
+                    "a": [
+                        "ndum",
+                        "ndī",
+                        "ndō"
+                    ]
+                },
+                {
+                    "q": "4. Īnfīnītīvus: vidēre. Gerundium: accūsātīvus vide#, genetīvus vide#, ablātīvus vide#.",
+                    "a": [
+                        "ndum",
+                        "ndī",
+                        "ndō"
+                    ]
+                },
+                {
+                    "q": "5. Īnfīnītīvus: legere. Gerundium: accūsātīvus leg#, genetīvus leg#, ablātīvus leg#.",
+                    "a": [
+                        "endum",
+                        "endī",
+                        "endō"
+                    ]
+                },
+                {
+                    "q": "6. Īnfīnītīvus: audīre. Gerundium: accūsātīvus audi#, genetīvus audi#, ablātīvus audi#.",
+                    "a": [
+                        "endum",
+                        "endī",
+                        "endō"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Exercise 11",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. accidere, ac#isse",
+                    "a": [
+                        "cid"
+                    ]
+                },
+                {
+                    "q": "2. capere, #isse, #um esse",
+                    "a": [
+                        "cēp",
+                        "capt"
+                    ]
+                },
+                {
+                    "q": "3. cōnsīdere, cōn#isse",
+                    "a": [
+                        "sēd"
+                    ]
+                },
+                {
+                    "q": "4. -ficere, -#isse, -#um esse",
+                    "a": [
+                        "fēc",
+                        "fect"
+                    ]
+                },
+                {
+                    "q": "5. fīgere, #isse, #um esse",
+                    "a": [
+                        "fīx",
+                        "fīx"
+                    ]
+                },
+                {
+                    "q": "6. invenīre, in#isse, in#um esse",
+                    "a": [
+                        "vēn",
+                        "vent"
+                    ]
+                },
+                {
+                    "q": "7. iungere, #isse, #um esse",
+                    "a": [
+                        "iūnx",
+                        "iūnct"
+                    ]
+                },
+                {
+                    "q": "8. iuvāre, #isse, #um esse",
+                    "a": [
+                        "iūv",
+                        "iūt"
+                    ]
+                },
+                {
+                    "q": "9. mergere, #isse, #um esse",
+                    "a": [
+                        "mers",
+                        "mers"
+                    ]
+                },
+                {
+                    "q": "10. movēre, #isse, #um esse",
+                    "a": [
+                        "mōv",
+                        "mōt"
+                    ]
+                },
+                {
+                    "q": "11. -spicere, -#isse, -#um esse",
+                    "a": [
+                        "spex",
+                        "spect"
+                    ]
+                },
+                {
+                    "q": "12. ūrere, #isse, #um esse",
+                    "a": [
+                        "uss",
+                        "ust"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "PENSVM A",
+            "info": "",
+            "questions": [
+                {
+                    "a": [
+                        "andum"
+                    ],
+                    "q": "Nāvēs necessāriae sunt ad nāvig#."
+                },
+                {
+                    "a": [
+                        "andō",
+                        "endō"
+                    ],
+                    "q": "Iūlia dēlectātur in hortō ambul# et flōrēs carp#."
+                },
+                {
+                    "a": [
+                        "endī",
+                        "endō"
+                    ],
+                    "q": "Mēdus cōnsilium fugi# excōgitāvit; Lȳdia eum iūvit in fugi#."
+                },
+                {
+                    "a": [
+                        "endum"
+                    ],
+                    "q": "Paulum satis est ad beātē vīv#."
+                },
+                {
+                    "a": [
+                        "iūnx",
+                        "iūnct"
+                    ],
+                    "q": "Verba: iungere, #isse, #um;"
+                },
+                {
+                    "a": [
+                        "fīx",
+                        "fīx"
+                    ],
+                    "q": "fīgere, #isse, #um;"
+                },
+                {
+                    "a": [
+                        "mers",
+                        "mers"
+                    ],
+                    "q": "mergere, #isse, #um;"
+                },
+                {
+                    "a": [
+                        "uss",
+                        "ust"
+                    ],
+                    "q": "ūrere, #isse, #um;"
+                },
+                {
+                    "a": [
+                        "mōv",
+                        "mōt"
+                    ],
+                    "q": "movēre, #isse, #um;"
+                },
+                {
+                    "a": [
+                        "cēp",
+                        "capt"
+                    ],
+                    "q": "capere, #isse, #um;"
+                },
+                {
+                    "a": [
+                        "vēn",
+                        "vent"
+                    ],
+                    "q": "invenīre, in#isse, in#um;"
+                },
+                {
+                    "a": [
+                        "sēd"
+                    ],
+                    "q": "cōnsīdere, cōn#isse;"
+                },
+                {
+                    "a": [
+                        "iūv"
+                    ],
+                    "q": "iuvāre, #isse;"
+                },
+                {
+                    "a": [
+                        "accid"
+                    ],
+                    "q": "accidere, #isse."
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "PENSVM B",
+            "info": "",
+            "questions": [
+                {
+                    "a": [
+                        "invenīre",
+                        "quisquam",
+                        "iuvāre"
+                    ],
+                    "q": "Daedalus exitum labyrinthī # [= reperīre] nōn poterat nec # [= ūllus homō] eum in fugiendō # poterat."
+                },
+                {
+                    "a": [
+                        "Quoniam",
+                        "audāx",
+                        "effugere",
+                        "Cōnsilium"
+                    ],
+                    "q": "# igitur aliae viae clausae erant, vir # [= audēns] per āera # cōnstituit. # patris fīlium dēlectāvit."
+                },
+                {
+                    "a": [
+                        "pennīs",
+                        "fīxit"
+                    ],
+                    "q": "Tum Daedalus ālās cōnfēcit ex # quās cērā iūnxit et in lacertīs #."
+                },
+                {
+                    "a": [
+                        "opus",
+                        "artem",
+                        "Imitāre",
+                        "sūrsum",
+                        "deorsum",
+                        "haud"
+                    ],
+                    "q": "Postquam hoc # perfēcit, Daedalus fīlium suum # volandī docuit: \"# mē! Movē ālās # # hōc modō! Ars volandī # [= nōn] difficilis est."
+                },
+                {
+                    "a": [
+                        "ēvolāmus",
+                        "īnfimō",
+                        "summō"
+                    ],
+                    "q": "Sed antequam hinc #, hoc tē moneō: nōlī volāre in # āere prope mare nec in # āere prope sōlem."
+                },
+                {
+                    "a": [
+                        "Carcerem",
+                        "līberī"
+                    ],
+                    "q": "Iam sequere mē! # nostrum relinquimus, # sumus!\""
+                },
+                {
+                    "a": [
+                        "vērum",
+                        "paene",
+                        "orbem"
+                    ],
+                    "q": "Īcarus in summum caelum ascendēns nōn sōlum Graeciam, # [= sed] etiam Asiam ac # tōtum # terrārum dēspiciēbat."
+                },
+                {
+                    "a": [
+                        "accidit",
+                        "ignis",
+                        "mollīvit",
+                        "ussit"
+                    ],
+                    "q": "Tum vērō id quod pater timuerat # [= factum est]: # sōlis propinquī cēram # atque pennās #."
+                },
+                {
+                    "a": [
+                        "temerāriō",
+                        "lībertātem"
+                    ],
+                    "q": "Ecce fābula mīrābilis dē puerō # quī # quaerēns mortem invēnit."
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "PENSVM C",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Quis Daedalum in labyrinthum inclūdī iussit? ",
+                    "a": []
+                },
+                {
+                    "q": "2. Quōmodo Daedalus effugere cōnstituit? ",
+                    "a": []
+                },
+                {
+                    "q": "3. Cūr hominēs volāre nōn possunt? ",
+                    "a": []
+                },
+                {
+                    "q": "4. Ex quibus rēbus Daedalus ālās cōnfēcit? ",
+                    "a": []
+                },
+                {
+                    "q": "5. Cūr ālae Īcarum sustinēre nōn poterant? ",
+                    "a": []
+                },
+                {
+                    "q": "6. Quid pater et fīlius volantēs vīdērunt? ",
+                    "a": []
+                },
+                {
+                    "q": "7. Estne Peloponnēsus magna īnsula? ",
+                    "a": []
+                },
+                {
+                    "q": "8. Quārē Īcarus in summum caelum ascendit? ",
+                    "a": []
+                },
+                {
+                    "q": "9. Quid tum puerō accidit? ",
+                    "a": []
+                },
+                {
+                    "q": "10. Ubi corpus puerī inventum est? ",
+                    "a": []
+                },
+                {
+                    "q": "11. Num haec fābula dēlectandī causā modo nārrātur? ",
+                    "a": []
+                }
+            ]
+        }
+    ]
+}

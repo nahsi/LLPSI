@@ -1,0 +1,1260 @@
+{
+    "id": 13,
+    "name": "CAPITVLVM XIV",
+    "exercises": [
+        {
+            "id": 0,
+            "name": "Exercise 1",
+            "info": "Exempla: \nUter servus, Dāvusne an Mēdus? \nUterque servus: et Dāvus et Mēdus. \nAlter servus: aut Dāvus aut Mēdus. \nNeuter servus: nec Dāvus nec Mēdus.\n",
+            "questions": [
+                {
+                    "q": "1. Duo puerī in hortum eunt, # puer ambulat, # currit.",
+                    "a": [
+                        "alter",
+                        "alter"
+                    ]
+                },
+                {
+                    "q": "2. # ē duōbus puerīs currit? Quīntus currit. # ambulat? Mārcus ambulat. ",
+                    "a": [
+                        "Uter",
+                        "Uter"
+                    ]
+                },
+                {
+                    "q": "3. Iūlius: \"Curre, Mārce!\" Iam # puer currit, et Mārcus et Quīntus; # puer ambulat, nec Mārcus nec Quīntus.",
+                    "a": [
+                        "uterque",
+                        "neuter"
+                    ]
+                },
+                {
+                    "q": "4. Aemilia et Lȳdia sunt duae fēminae: # fēmina Rōmāna est, # Graeca.",
+                    "a": [
+                        "altera",
+                        "altera"
+                    ]
+                },
+                {
+                    "q": "5. # ē duābus fēminīs est Graeca? Lȳdia est Graeca.",
+                    "a": [
+                        "Utra"
+                    ]
+                },
+                {
+                    "q": "6. # fēmina pulchra est, et Aemilia et Lȳdia; # fēmina foeda est, nec Aemilia nec Lȳdia.",
+                    "a": [
+                        "Utraque",
+                        "neutra"
+                    ]
+                },
+                {
+                    "q": "7. Nīlus et Rhēnus sunt duo flūmina: # flūmen in Āfricā est, # in Eurōpā.",
+                    "a": [
+                        "alterum",
+                        "alterum"
+                    ]
+                },
+                {
+                    "q": "8. # ē duōbus flūminibus in Āfricā est, Nīlusne an Rhēnus? Nīlus in Āfricā est.",
+                    "a": [
+                        "Utrum"
+                    ]
+                },
+                {
+                    "q": "9. # flūmen magnum est, et Nīlus et Rhēnus; # flūmen parvum est, nec Nīlus nec Rhēnus.",
+                    "a": [
+                        "Utrumque",
+                        "neutrum"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Exercise 2",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Uterque puer in lectō # [= iacet].",
+                    "a": [
+                        "cubat"
+                    ]
+                },
+                {
+                    "q": "2. Uter puer dormit, Mārcusne # Quīntus?",
+                    "a": [
+                        "an"
+                    ]
+                },
+                {
+                    "q": "3. Mārcus dormit, sed Quīntus #.",
+                    "a": [
+                        "vigilat"
+                    ]
+                },
+                {
+                    "q": "4. Mārcus nōn aegrōtat, sed #.",
+                    "a": [
+                        "valet"
+                    ]
+                },
+                {
+                    "q": "5. Āēr frīgidus per fenestram # intrat.",
+                    "a": [
+                        "apertam"
+                    ]
+                },
+                {
+                    "q": "6. Fenestra Quīntī nōn aperta, sed # est.",
+                    "a": [
+                        "clausa"
+                    ]
+                },
+                {
+                    "q": "7. Puer vigilāns # canere audit: \"Cucurrū!\"",
+                    "a": [
+                        "gallum"
+                    ]
+                },
+                {
+                    "q": "8. Dāvus: \"# pēs tuus sē habet # [= hōc diē]?\"",
+                    "a": [
+                        "Quōmodo",
+                        "hodiē"
+                    ]
+                },
+                {
+                    "q": "9. Quīntus: \"Pēs male sē #. Dā # aquam, Dāve!\" Dāvus eī aquam dat.",
+                    "a": [
+                        "habet",
+                        "mihi"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Exercise 3",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Cūr Mārcus quiētus in lectō suō cubat? ...",
+                    "a": [
+                        "... quia bene dormit"
+                    ]
+                },
+                {
+                    "q": "2. Cūr alter puer vigilat nec dormīre potest? ...",
+                    "a": [
+                        "... quod pēs eī dolet"
+                    ]
+                },
+                {
+                    "q": "3. Uter ē duōbus puerīs aegrōtat? ...",
+                    "a": [
+                        "Quīntus est puer quī aegrōtat"
+                    ]
+                },
+                {
+                    "q": "4. Pēsne sōlum dolet Quīntō? ...",
+                    "a": [
+                        "nōn sōlum pēs, sed etiam caput et bracchium dolet"
+                    ]
+                },
+                {
+                    "q": "5. Suntne magna cubicula puerōrum? ...",
+                    "a": [
+                        "cubicula eōrum parva sunt"
+                    ]
+                },
+                {
+                    "q": "6. Uter puer fenestrā apertā dormit? ...",
+                    "a": [
+                        "Mārcus fenestrā apertā dormit"
+                    ]
+                },
+                {
+                    "q": "7. Quid per fenestram apertam intrat? ...",
+                    "a": [
+                        "āēr frīgidus per fenestram intrat"
+                    ]
+                },
+                {
+                    "q": "8. Cūr fenestra Quīntī clausa est? ...",
+                    "a": [
+                        "... quia puer aegrōtat"
+                    ]
+                },
+                {
+                    "q": "9 . Quid audit Quīntus? ...",
+                    "a": [
+                        "Quīntus gallum canentem audit"
+                    ]
+                },
+                {
+                    "q": "10. Cūr Mārcus gallum nōn audit? ...",
+                    "a": [
+                        "is gallum nōn audit quia dormit"
+                    ]
+                },
+                {
+                    "q": "11. Quid gallus canēns salūtat? ...",
+                    "a": [
+                        "gallus canēns novum diem salūtat"
+                    ]
+                },
+                {
+                    "q": "12. Quem vocat Quīntus? ...",
+                    "a": [
+                        "Quīntus Dāvum vocat"
+                    ]
+                },
+                {
+                    "q": "13. Quōmodo sē habet pēs Quīntī hodiē? ...",
+                    "a": [
+                        "pēs eius male sē habet"
+                    ]
+                },
+                {
+                    "q": "14. Cūr Quīntus noctem longam esse putat? ...",
+                    "a": [
+                        "quia tōtam noctem vigilat"
+                    ]
+                },
+                {
+                    "q": "15. Quid Dāvus puerō aegrō dat? ...",
+                    "a": [
+                        "Dāvus eī aquam dat"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Exercise 4",
+            "info": "Exempla: \nServus ambulāns = quī ambulat; servī ambulantēs = quī ambulant. \nMembrum dolēns = quod dolet; membra dolentia = quae dolent. \nPuella canēns = quae canit; puellae canentēs = quae canunt.\nPuer dormiēns = quī dormit; puerī dormientēs = quī dormiunt.\n",
+            "questions": [
+                {
+                    "q": "1. Puella plōr# [= quae plōrat]; puellae plōr# [= quae plōrant].",
+                    "a": [
+                        "āns",
+                        "antēs"
+                    ]
+                },
+                {
+                    "q": "2. Puer rīd# [= quī rīdet]; puerī rīd# [= quī rīdent]. ",
+                    "a": [
+                        "ēns",
+                        "entēs"
+                    ]
+                },
+                {
+                    "q": "3. Cor palpit# [= quod palpitat]; corda palpit# [= quae palpitant]. ",
+                    "a": [
+                        "āns",
+                        "antia"
+                    ]
+                },
+                {
+                    "q": "4. Equus curr# [= quī currit]; equī curr# [= quī currunt].",
+                    "a": [
+                        "ēns",
+                        "entēs"
+                    ]
+                },
+                {
+                    "q": "5. Pāstor dorm# [= quī dormit]; pāstōrēs dorm# [= quī dormiunt].",
+                    "a": [
+                        "iēns",
+                        "ientēs"
+                    ]
+                },
+                {
+                    "q": "6. Ovis err# [= quae errat]; ovēs err# [= quae errant].",
+                    "a": [
+                        "āns",
+                        "antēs"
+                    ]
+                },
+                {
+                    "q": "7. Canis lātr# [= quī lātrat]; canēs lātr# [= quī lātrant].",
+                    "a": [
+                        "āns",
+                        "antēs"
+                    ]
+                },
+                {
+                    "q": "8. Animal vol# [= quod volat]; animālia vol# [= quae volant].",
+                    "a": [
+                        "āns",
+                        "antia"
+                    ]
+                },
+                {
+                    "q": "9. Stēlla lūc# [= quae lūcet]; stēllae lūc# [= quae lūcent].",
+                    "a": [
+                        "ēns",
+                        "entēs"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Exercise 5",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Iam hōra prīma est, sed Mārcus # dormit.",
+                    "a": [
+                        "adhūc"
+                    ]
+                },
+                {
+                    "q": "2. Servus clāmāns puerum dormientem #.",
+                    "a": [
+                        "excitat"
+                    ]
+                },
+                {
+                    "q": "3. Mārcus ē lectō # ac servum aquam # iubet.",
+                    "a": [
+                        "surgit",
+                        "afferre"
+                    ]
+                },
+                {
+                    "q": "4. Servus eī aquam # et Mārcus manūs #.",
+                    "a": [
+                        "affert",
+                        "lavat"
+                    ]
+                },
+                {
+                    "q": "5. Iam manūs eius nōn #, sed # sunt.",
+                    "a": [
+                        "sordidae",
+                        "pūrae"
+                    ]
+                },
+                {
+                    "q": "6. Mārcus prīmum manūs, # faciem lavat.",
+                    "a": [
+                        "deinde"
+                    ]
+                },
+                {
+                    "q": "7. Dāvus eum caput tōtum in aquam # iubet.",
+                    "a": [
+                        "mergere"
+                    ]
+                },
+                {
+                    "q": "8. # [= hōrā prīmā] puer manūs et faciem aquā frīgidā lavat.",
+                    "a": [
+                        "Māne"
+                    ]
+                },
+                {
+                    "q": "9. Quīntus, quī ante Mārcum surgere #, hodiē nōn surgit, quod pēs et caput eī dolet.",
+                    "a": [
+                        "solet"
+                    ]
+                },
+                {
+                    "q": "10. \"Mihi quoque caput dolet\" # Mārcus, et Dāvus \"# caput nōn dolet!\" inquit.",
+                    "a": [
+                        "inquit",
+                        "Tibi"
+                    ]
+                },
+                {
+                    "q": "11. Mārcus #, quia āēr frīgidus est et corpus eius # est.",
+                    "a": [
+                        "frīget",
+                        "nūdum"
+                    ]
+                },
+                {
+                    "q": "12. Tunica et toga sunt # Mārcī.",
+                    "a": [
+                        "vestīmenta"
+                    ]
+                },
+                {
+                    "q": "13. Mārcus vestīmenta sua ā servō #: \"Dā mihi # et #, Dāve! # mē!\"",
+                    "a": [
+                        "poscit",
+                        "tunicam",
+                        "togam",
+                        "Vestī"
+                    ]
+                },
+                {
+                    "q": "14. Mārcus # tunicam, deinde togam #.",
+                    "a": [
+                        "prīmum",
+                        "induit"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Exercise 6",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Quō it Dāvus Quīntum relinquēns? ...",
+                    "a": [
+                        "Dāvus ad Mārcum adit"
+                    ]
+                },
+                {
+                    "q": "2. Vigilatne Mārcus? ...",
+                    "a": [
+                        "Mārcus dormit, nōn vigilat"
+                    ]
+                },
+                {
+                    "q": "3. Quōmodo Dāvus puerum excitat? ...",
+                    "a": [
+                        "Dāvus magnā vōce clāmat"
+                    ]
+                },
+                {
+                    "q": "4. Quid Mārcus Dāvum afferre iubet? ...",
+                    "a": [
+                        "Mārcus eum aquam afferre iubet"
+                    ]
+                },
+                {
+                    "q": "5. Estne calida aqua quam Dāvus affert? ...",
+                    "a": [
+                        "aqua nōn calida, sed frīgida est"
+                    ]
+                },
+                {
+                    "q": "6. Quid Mārcus prīmum lavat? ...",
+                    "a": [
+                        "Mārcus prīmum manūs lavat"
+                    ]
+                },
+                {
+                    "q": "7. Tōtumne corpus lavat Mārcus? ...",
+                    "a": [
+                        "faciem et manūs sōlum lavat"
+                    ]
+                },
+                {
+                    "q": "8. Estne frīgida aqua quā Rōmānī post merīdiem lavantur? ...",
+                    "a": [
+                        "post merīdiem Rōmānī aquā calidā lavantur"
+                    ]
+                },
+                {
+                    "q": "9. Cūr nōn surgit Quīntus? ...",
+                    "a": [
+                        "nōn surgit quia pede aegrōtat"
+                    ]
+                },
+                {
+                    "q": "10. Doletne caput Mārcō? ...",
+                    "a": [
+                        "Mārcō caput nōn dolet"
+                    ]
+                },
+                {
+                    "q": "11. Cūr Mārcus frīget? ...",
+                    "a": [
+                        "Mārcus frīget quod nūdus est"
+                    ]
+                },
+                {
+                    "q": "12. Quid Mārcus ā Dāvō poscit? ...",
+                    "a": [
+                        "vestīmenta sua ā servō poscit"
+                    ]
+                },
+                {
+                    "q": "13. Quae sunt vestīmenta Mārcī? ... ",
+                    "a": [
+                        "vestīmenta sunt tunica et toga"
+                    ]
+                },
+                {
+                    "q": "14. Num Dāvus Mārcum vestit? ...",
+                    "a": [
+                        "Mārcus ipse sē vestit"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Exercise 7",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Ancilla can# et rīd# ā puellā dormi# nōn audītur.",
+                    "a": [
+                        "ēns",
+                        "ēns",
+                        "ente|entī"
+                    ]
+                },
+                {
+                    "q": "2. Puella dormi# ancillam can# et rīd# nōn audit, sed servum clām# audit. ",
+                    "a": [
+                        "ēns",
+                        "entem",
+                        "entem",
+                        "antem"
+                    ]
+                },
+                {
+                    "q": "3. Servus clām# puellam dormi# excitat.",
+                    "a": [
+                        "āns",
+                        "entem"
+                    ]
+                },
+                {
+                    "q": "4. Puella dormi# nōn ab ancillā can# et rīd#, sed ā servō clām# excitātur.",
+                    "a": [
+                        "ēns",
+                        "ente|entī",
+                        "ente|entī",
+                        "ante|antī"
+                    ]
+                },
+                {
+                    "q": "5. Puella vōcem ancillae can# et rīd# nōn audit, sed vōcem servī clām# audit.",
+                    "a": [
+                        "entis",
+                        "entis",
+                        "antis"
+                    ]
+                },
+                {
+                    "q": "6. Ancillae can# et rīd# ā puellīs dormi# nōn audiuntur.",
+                    "a": [
+                        "entēs",
+                        "entēs",
+                        "entibus"
+                    ]
+                },
+                {
+                    "q": "7. Puellae dormi# ancillās can# et rīd# nōn audiunt, sed servōs clām# audiunt.",
+                    "a": [
+                        "entēs",
+                        "entēs",
+                        "entēs",
+                        "antēs"
+                    ]
+                },
+                {
+                    "q": "8. Servī clām# puellās dormi# excitant.",
+                    "a": [
+                        "antēs",
+                        "entēs"
+                    ]
+                },
+                {
+                    "q": "9. Puellae dormi# nōn ab ancillīs can# et rīd#, sed ā servīs clām# excitantur.",
+                    "a": [
+                        "entēs",
+                        "entibus",
+                        "entibus",
+                        "antibus"
+                    ]
+                },
+                {
+                    "q": "10. Puellae vōcēs ancillārum can# et rīd# nōn audiunt, sed vōcēs servōrum clām# audiunt.",
+                    "a": [
+                        "entium",
+                        "entium",
+                        "antium"
+                    ]
+                },
+                {
+                    "q": "11. Dāvus nōn puerō val#, sed puerō aegrōt# aquam dat.",
+                    "a": [
+                        "entī",
+                        "antī"
+                    ]
+                },
+                {
+                    "q": "12. Servus dominō imper# pāret. Servī dominīs imper# pārent.",
+                    "a": [
+                        "antī",
+                        "antibus"
+                    ]
+                },
+                {
+                    "q": "13. Quīntus nec crūs dol# nec bracchium dol# movet.",
+                    "a": [
+                        "ēns",
+                        "ēns"
+                    ]
+                },
+                {
+                    "q": "14. Puer aegrōt# membra dol# nōn movet.",
+                    "a": [
+                        "āns",
+                        "entia"
+                    ]
+                },
+                {
+                    "q": "15. Avēs animālia vol# sunt; ovis nōn est animal vol#.",
+                    "a": [
+                        "antia",
+                        "āns"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Exercise 8",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Virī Rōmānī togam #.",
+                    "a": [
+                        "gerunt"
+                    ]
+                },
+                {
+                    "q": "2. Mīles gladium gerit manū #, scūtum manū #.",
+                    "a": [
+                        "dextrā|dexterā",
+                        "sinistrā"
+                    ]
+                },
+                {
+                    "q": "3. Vir # [= togam gerēns] mīlitāre nōn potest.",
+                    "a": [
+                        "togātus"
+                    ]
+                },
+                {
+                    "q": "4. Mārcus, cui pedēs frīgent, # induit.",
+                    "a": [
+                        "calceōs"
+                    ]
+                },
+                {
+                    "q": "5. Dāvus puerum #cum venīre iubet: \"Venī mē#!\"",
+                    "a": [
+                        "sē",
+                        "cum"
+                    ]
+                },
+                {
+                    "q": "6. In ātriō # līberōs suōs exspectant.",
+                    "a": [
+                        "parentēs"
+                    ]
+                },
+                {
+                    "q": "7. Quīntus, quī # ēsse solet, hodiē # ēsse potest.",
+                    "a": [
+                        "multum",
+                        "nihil"
+                    ]
+                },
+                {
+                    "q": "8. Dāvus Mārcō librum et # et # et rēgulam affert.",
+                    "a": [
+                        "tabulam",
+                        "stilum"
+                    ]
+                },
+                {
+                    "q": "9. Iūlius: \"Hodiē Mēdus #cum īre nōn potest, Mārce.\"",
+                    "a": [
+                        "tē"
+                    ]
+                },
+                {
+                    "q": "10. Mēdus librum et tabulam et cēterās # Mārcī ferre solet.",
+                    "a": [
+                        "rēs"
+                    ]
+                },
+                {
+                    "q": "11. Mārcus ipse nihil ferre solet # mālum.",
+                    "a": [
+                        "praeter"
+                    ]
+                },
+                {
+                    "q": "12. Fīlius discēdēns \"#, pater!\" inquit.",
+                    "a": [
+                        "Valē"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Exercise 9",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Sine pecūniā nūlla r# [= nihil] emī potest.",
+                    "a": [
+                        "ēs"
+                    ]
+                },
+                {
+                    "q": "2. Mēdus Lȳdiae r# pulchram emit.",
+                    "a": [
+                        "em"
+                    ]
+                },
+                {
+                    "q": "3. Pretium eius r# est centum sēstertiī.",
+                    "a": [
+                        "eī"
+                    ]
+                },
+                {
+                    "q": "4. Eī r# nōmen est 'ānulus gemmātus'.",
+                    "a": [
+                        "eī"
+                    ]
+                },
+                {
+                    "q": "5. Eā r# ōrnātur digitus.",
+                    "a": [
+                        "ē"
+                    ]
+                },
+                {
+                    "q": "6. In tabernīs Rōmānīs multae r# emī possunt.",
+                    "a": [
+                        "ēs"
+                    ]
+                },
+                {
+                    "q": "7. Quī magnam pecūniam habet multās r# emere potest.",
+                    "a": [
+                        "ēs"
+                    ]
+                },
+                {
+                    "q": "8. Magnus est numerus eārum r# quae Rōmae emī possunt.",
+                    "a": [
+                        "ērum"
+                    ]
+                },
+                {
+                    "q": "9. Vīlla Iūliī multīs r# pulchrīs ōrnātur.",
+                    "a": [
+                        "ēbus"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Exercise 10",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Quid est toga? ...",
+                    "a": [
+                        "toga est vestīmentum Rōmānum"
+                    ]
+                },
+                {
+                    "q": "2. Utrum bracchium virō togātō nūdum est? ... \t",
+                    "a": [
+                        "bracchium dextrum eī nūdum est"
+                    ]
+                },
+                {
+                    "q": "3. Cūr mīles Rōmānus togam nōn gerit? ...",
+                    "a": [
+                        "... quia vir togātus mīlitāre nōn potest"
+                    ]
+                },
+                {
+                    "q": "4. Quid mīles manū sinistrā gerit? ...",
+                    "a": [
+                        "manū sinistrā mīles scūtum gerit"
+                    ]
+                },
+                {
+                    "q": "5. Cūr Mārcus calceōs poscit? ...",
+                    "a": [
+                        "calceōs poscit quia pedēs eī frīgent"
+                    ]
+                },
+                {
+                    "q": "6. Quō eunt Dāvus et Mārcus? ...",
+                    "a": [
+                        "Dāvus et Mārcus in ātrium eunt"
+                    ]
+                },
+                {
+                    "q": "7. Quī sunt in ātriō? ...",
+                    "a": [
+                        "illīc sunt parentēs Mārcī"
+                    ]
+                },
+                {
+                    "q": "8. Quid est ante parentēs? ...",
+                    "a": [
+                        "ante eōs pānis et māla sunt"
+                    ]
+                },
+                {
+                    "q": "9. Quō it Aemilia? ...",
+                    "a": [
+                        "Aemilia ad Quīntum it"
+                    ]
+                },
+                {
+                    "q": "10. Quid māter fīliō aegrōtantī dat? ...",
+                    "a": [
+                        "fīliō aegrō pānem et mālum dat"
+                    ]
+                },
+                {
+                    "q": "11. Quid pater dat fīliō valentī? ...",
+                    "a": [
+                        "eī pater pānem et duo māla dat"
+                    ]
+                },
+                {
+                    "q": "12. Quās rēs Mārcus sēcum fert? ...",
+                    "a": [
+                        "librum, tabulam, stilum sēcum fert"
+                    ]
+                },
+                {
+                    "q": "13. Quis cum puerīs īre solet? ...",
+                    "a": [
+                        "Mēdus cum iīs īre solet"
+                    ]
+                },
+                {
+                    "q": "14. Quid dīcit puer discēdēns? ...",
+                    "a": [
+                        "puer discēdēns \"Valē!\" inquit"
+                    ]
+                },
+                {
+                    "q": "15. Quid pater respondet? ...",
+                    "a": [
+                        "\"valē, Mārce!\" respondet pater"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Exercise 11",
+            "info": "____________Singulāris\t\t\t\tPlūrālis\n____________Masc./Fēm.\tNeutr.\t\t\tMasc./Fēm. \tNeutr.\n____________Singulāris\t\t\t\tPlūrālis\n____________Masc./Fēm.\tNeutr.\t\t\tMasc./Fēm.\tNeutr.\n",
+            "questions": [
+                {
+                    "q": "1. 'Vocā|re' īnfīnītīvus est. 'Vocā|ns' est #.",
+                    "a": [
+                        "participium"
+                    ]
+                },
+                {
+                    "q": "2. 'Vidē|ns', 'pōn|ēns', 'audi|ēns' # sunt.",
+                    "a": [
+                        "participia"
+                    ]
+                },
+                {
+                    "q": "3. Īnfīnītīvus: volā|re, participium: vol#.",
+                    "a": [
+                        "āns"
+                    ]
+                },
+                {
+                    "q": "4. Īnfīnītīvus: sedē|re, participium: sed#.",
+                    "a": [
+                        "ēns"
+                    ]
+                },
+                {
+                    "q": "5. Participium: dūc|ēns, īnfīnītīvus: dūc#.",
+                    "a": [
+                        "ere"
+                    ]
+                },
+                {
+                    "q": "6. Participium: veni|ēns, īnfīnītīvus: ven#.",
+                    "a": [
+                        "īre"
+                    ]
+                },
+                {
+                    "q": "7. Participium: faciēns, īnfīnītīvus: fac#; item participium: capiēns, iaciēns, fugiēns, pariēns, accipiēns, aspiciēns; īnfīnītivus: cap#, iac#, fug#, par#, accip#, aspic#.",
+                    "a": [
+                        "ere",
+                        "ere",
+                        "ere",
+                        "ere",
+                        "ere",
+                        "ere",
+                        "ere"
+                    ]
+                },
+                {
+                    "q": "8. Nōm.\tvolāns\t\tvol#\t\t\tvol#\tvol#\t",
+                    "a": [
+                        "āns",
+                        "antēs",
+                        "antia"
+                    ]
+                },
+                {
+                    "q": "9. Acc.\t\tvol#\tvol#\t\t\tvol#\tvol#",
+                    "a": [
+                        "antem",
+                        "āns",
+                        "antēs",
+                        "antia"
+                    ]
+                },
+                {
+                    "q": "10. Gen.\tvol#\tvol#\t\tvol#\tvol#",
+                    "a": [
+                        "antis",
+                        "antis",
+                        "antium",
+                        "antium"
+                    ]
+                },
+                {
+                    "q": "11. Dat.\tvol#\t\tvol#\t\t\tvol#\tvol#",
+                    "a": [
+                        "antī",
+                        "antī",
+                        "antibus",
+                        "antibus"
+                    ]
+                },
+                {
+                    "q": "12. Abl.\tvol#\t\tvol#\t\t\tvol#\tvol#",
+                    "a": [
+                        "ante|antī",
+                        "ante|antī",
+                        "antibus",
+                        "antibus"
+                    ]
+                },
+                {
+                    "q": "13. Nōm.\tcanēns\t\tcan#\t\t\tcan#\tcan#\t",
+                    "a": [
+                        "ēns",
+                        "entēs",
+                        "entia"
+                    ]
+                },
+                {
+                    "q": "14. Acc.\tcan#\tcan#\t\t\tcan#\tcan#",
+                    "a": [
+                        "entem",
+                        "ēns",
+                        "entēs",
+                        "entia"
+                    ]
+                },
+                {
+                    "q": "15. Gen.\tcan#\tcan#\t\tcan#\tcan#\t",
+                    "a": [
+                        "entis",
+                        "entis",
+                        "entium",
+                        "entium"
+                    ]
+                },
+                {
+                    "q": "16. Dat.\tcan#\t\tcan#\t\t\tcan#\tcan#",
+                    "a": [
+                        "entī",
+                        "entī",
+                        "entibus",
+                        "entibus"
+                    ]
+                },
+                {
+                    "q": "17. Abl.\tcan#\t\tcan#\t\t\tcan#\tcan#",
+                    "a": [
+                        "ente|entī",
+                        "ente|entī",
+                        "entibus",
+                        "entibus"
+                    ]
+                },
+                {
+                    "q": "18. Masculīnum et fēminīnum: 'volāns', 'canēns' est # singulāris, 'volant|em', 'canent|em' # #, 'volant|ēs', 'canent|ēs' # aut # plūrālis.",
+                    "a": [
+                        "nōminātīvus",
+                        "accūsātīvus",
+                        "singulāris",
+                        "nōminātīvus",
+                        "accūsātīvus"
+                    ]
+                },
+                {
+                    "q": "19. Neutrum: 'volāns', 'canēns' # aut # singulāris est, volantia, 'canentia' # aut # plūrālis.",
+                    "a": [
+                        "nōminātīvus",
+                        "accūsātīvus",
+                        "nōminātīvus",
+                        "accūsātīvus"
+                    ]
+                },
+                {
+                    "q": "20. 'Volante', 'canente' # # est.",
+                    "a": [
+                        "ablātīvus",
+                        "singulāris"
+                    ]
+                },
+                {
+                    "q": "21. 'Volantī' # (aut #) singulāris est, 'volantibus' # aut # #.",
+                    "a": [
+                        "datīvus",
+                        "ablātīvus",
+                        "datīvus",
+                        "ablātīvus",
+                        "plūrālis"
+                    ]
+                },
+                {
+                    "q": "22. 'Volantis', 'canentis' est # #, 'volantium', 'canentium' # plūrālis.",
+                    "a": [
+                        "genetīvus",
+                        "singulāris",
+                        "genetīvus"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "PENSVM A",
+            "info": "",
+            "questions": [
+                {
+                    "a": [
+                        "iēns"
+                    ],
+                    "q": "Puer dorm# nihil audit."
+                },
+                {
+                    "a": [
+                        "ientem",
+                        "ientis"
+                    ],
+                    "q": "Dāvus puerum dorm# excitat: in aurem puerī dorm# clāmat: \"Mārce!\""
+                },
+                {
+                    "a": [
+                        "iēns",
+                        "antem"
+                    ],
+                    "q": "Mārcus oculōs aper# servum apud lectum st# videt."
+                },
+                {
+                    "a": [
+                        "entī"
+                    ],
+                    "q": "Servus puerō frīg# vestīmenta dat."
+                },
+                {
+                    "a": [
+                        "antem",
+                        "ante"
+                    ],
+                    "q": "Parentēs fīlium intr# salūtant et ā fīliō intr# salūtantur."
+                },
+                {
+                    "a": [
+                        "ēns"
+                    ],
+                    "q": "Fīlius discēd# \"Valē!\" inquit."
+                },
+                {
+                    "a": [
+                        "ēns"
+                    ],
+                    "q": "Corpus val# nōn dolet."
+                },
+                {
+                    "a": [
+                        "ēns"
+                    ],
+                    "q": "Medicus caput dol# sānāre nōn potest."
+                },
+                {
+                    "a": [
+                        "antia"
+                    ],
+                    "q": "Piscēs sunt animālia nat#."
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "PENSVM B",
+            "info": "",
+            "questions": [
+                {
+                    "a": [
+                        "cubant"
+                    ],
+                    "q": "Puerī in lectīs # [= iacent]."
+                },
+                {
+                    "a": [
+                        "Alter",
+                        "vigilat",
+                        "valet"
+                    ],
+                    "q": "# puer dormit, alter #; alter #, alter aegrōtat."
+                },
+                {
+                    "a": [
+                        "Uter",
+                        "an"
+                    ],
+                    "q": "# puer aegrōtat, Mārcusne # Quīntus? Quīntus aegrōtat."
+                },
+                {
+                    "a": [
+                        "excitat",
+                        "affert"
+                    ],
+                    "q": "Servus puerum dormientem # et eī aquam #."
+                },
+                {
+                    "a": [
+                        "surgit",
+                        "lavat",
+                        "deinde"
+                    ],
+                    "q": "Mārcus ē lectō # et prīmum manūs #, # faciem."
+                },
+                {
+                    "a": [
+                        "poscit",
+                        "induit",
+                        "togam"
+                    ],
+                    "q": "Puer vestīmenta ā servō #, et prīmum tunicam #, deinde #."
+                },
+                {
+                    "a": [
+                        "nūdus"
+                    ],
+                    "q": "Iam puer # nōn est."
+                },
+                {
+                    "a": [
+                        "togātō",
+                        "dextrum"
+                    ],
+                    "q": "Virō # [= togam gerentī] bracchium # nūdum est."
+                },
+                {
+                    "a": [
+                        "mēcum"
+                    ],
+                    "q": "Dāvus Mārcum sēcum venīre iubet: \"Venī #!\""
+                },
+                {
+                    "a": [
+                        "solet"
+                    ],
+                    "q": "Mārcus Mēdum, quī cum eō īre #, nōn videt."
+                },
+                {
+                    "a": [
+                        "rēs",
+                        "nihil",
+                        "praeter"
+                    ],
+                    "q": "Mēdus librōs et cēterās # Mārcī portāre solet, Mārcus ipse # portāre solet # mālum."
+                },
+                {
+                    "a": [
+                        "inquit",
+                        "tēcum"
+                    ],
+                    "q": "\"Hodiē\" # Iūlius \"Mēdus # īre nōn potest.\""
+                },
+                {
+                    "a": [
+                        "tabulam",
+                        "sēcum"
+                    ],
+                    "q": "Mārcus sōlus abit librum et # et stilum # ferēns."
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "PENSVM C",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Quīntusne bene dormit? ",
+                    "a": []
+                },
+                {
+                    "q": "2. Uter puer aegrōtat? ",
+                    "a": []
+                },
+                {
+                    "q": "3. Estne clausa fenestra Mārcī? ",
+                    "a": []
+                },
+                {
+                    "q": "4. Uter ē duōbus puerīs gallum canentem audit? ",
+                    "a": []
+                },
+                {
+                    "q": "5. Quōmodo servus Mārcum excitat? ",
+                    "a": []
+                },
+                {
+                    "q": "6. Tōtumne corpus lavat Mārcus? ",
+                    "a": []
+                },
+                {
+                    "q": "7. Cūr Mārcus frīget? ",
+                    "a": []
+                },
+                {
+                    "q": "8. Quid Mārcus ā servō poscit? ",
+                    "a": []
+                },
+                {
+                    "q": "9. Utrum bracchium togā operītur? ",
+                    "a": []
+                },
+                {
+                    "q": "10. Utrā manū mīles scūtum gerit? ",
+                    "a": []
+                },
+                {
+                    "q": "11. Quās rēs Mārcus sēcum fert? ",
+                    "a": []
+                }
+            ]
+        }
+    ]
+}

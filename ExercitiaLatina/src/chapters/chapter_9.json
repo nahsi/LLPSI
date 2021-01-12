@@ -1,0 +1,1339 @@
+{
+    "id": 8,
+    "name": "CAPITVLVM IX",
+    "exercises": [
+        {
+            "id": 0,
+            "name": "Exercise 1",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Ecce pāstor cum can# et centum ov#.",
+                    "a": [
+                        "e",
+                        "ibus"
+                    ]
+                },
+                {
+                    "q": "2. Pāstor ūnum can# et centum ov# habet.",
+                    "a": [
+                        "em",
+                        "ēs"
+                    ]
+                },
+                {
+                    "q": "3. Pāstor est dominus can# et ov#.",
+                    "a": [
+                        "is",
+                        "ium"
+                    ]
+                },
+                {
+                    "q": "4. Pāstor can# et ov# cibum dat.",
+                    "a": [
+                        "ī",
+                        "ibus"
+                    ]
+                },
+                {
+                    "q": "5. Can# et ov# ā pāstōr# cibum accipiunt.",
+                    "a": [
+                        "is",
+                        "ēs",
+                        "e"
+                    ]
+                },
+                {
+                    "q": "6. Dominus huius pāstōr# est Iūlius.",
+                    "a": [
+                        "is"
+                    ]
+                },
+                {
+                    "q": "7. Iūlius pāstōr# suō pānem dat.",
+                    "a": [
+                        "ī"
+                    ]
+                },
+                {
+                    "q": "8. Iūlius nōn ūnum pāstōr#, sed multōs pāstōr# habet.",
+                    "a": [
+                        "em",
+                        "ēs"
+                    ]
+                },
+                {
+                    "q": "9. Iūlius est dominus multōrum pāstōr#.",
+                    "a": [
+                        "um"
+                    ]
+                },
+                {
+                    "q": "10. Iūlius pāstōr# suīs pānem dat.",
+                    "a": [
+                        "ibus"
+                    ]
+                },
+                {
+                    "q": "11. Pāstōr# pānem accipiunt ā dominō suō.",
+                    "a": [
+                        "ēs"
+                    ]
+                },
+                {
+                    "q": "12. Ovēs ā pāstōr# suīs nōn abeunt.",
+                    "a": [
+                        "ibus"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Exercise 2",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Pāstor in # est cum # et centum #.",
+                    "a": [
+                        "campō",
+                        "cane",
+                        "ovibus"
+                    ]
+                },
+                {
+                    "q": "2. Ūna ovis # est, cēterae sunt #.",
+                    "a": [
+                        "nigra",
+                        "albae"
+                    ]
+                },
+                {
+                    "q": "3. # ovibus suīs aquam et # dat.",
+                    "a": [
+                        "Pāstor",
+                        "cibum"
+                    ]
+                },
+                {
+                    "q": "4. Cibus ovium est #; ovēs herbam #, et aquam # ē #.",
+                    "a": [
+                        "herba",
+                        "edunt",
+                        "bibunt",
+                        "rīvō"
+                    ]
+                },
+                {
+                    "q": "5. Cibus pāstōris est #; pāstor pānem #.",
+                    "a": [
+                        "pānis",
+                        "ēst"
+                    ]
+                },
+                {
+                    "q": "6. Post campum # sunt; inter montēs sunt #.",
+                    "a": [
+                        "montēs",
+                        "vallēs"
+                    ]
+                },
+                {
+                    "q": "7. In campō est parvus #, in quō ūna # est.",
+                    "a": [
+                        "collis",
+                        "arbor"
+                    ]
+                },
+                {
+                    "q": "8. In # multae arborēs sunt.",
+                    "a": [
+                        "silvā"
+                    ]
+                },
+                {
+                    "q": "9. In silvīs et in montibus sunt #, quī ovēs edunt.",
+                    "a": [
+                        "lupī"
+                    ]
+                },
+                {
+                    "q": "10. # lūcet; nūlla nūbēs in # est.",
+                    "a": [
+                        "Sōl",
+                        "caelō"
+                    ]
+                },
+                {
+                    "q": "11. Caelum est # terram.",
+                    "a": [
+                        "suprā"
+                    ]
+                },
+                {
+                    "q": "12. In # sunt campī et silvae, montēs et vallēs.",
+                    "a": [
+                        "terrā"
+                    ]
+                },
+                {
+                    "q": "13. Sōl #; nūlla # ante sōlem est.",
+                    "a": [
+                        "lūcet",
+                        "nūbēs"
+                    ]
+                },
+                {
+                    "q": "14. # arbore nōn sōl, sed # est.",
+                    "a": [
+                        "Sub",
+                        "umbra"
+                    ]
+                },
+                {
+                    "q": "15. Pāstor ad arborem it: pāstor umbram #.",
+                    "a": [
+                        "petit"
+                    ]
+                },
+                {
+                    "q": "16. Pāstor ovēs suās ad arborem #.",
+                    "a": [
+                        "dūcit"
+                    ]
+                },
+                {
+                    "q": "17. Iam pāstor et ovēs sub arbore #.",
+                    "a": [
+                        "iacent"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Exercise 3",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Ubi est pāstor? ...",
+                    "a": [
+                        "pāstor in campō est"
+                    ]
+                },
+                {
+                    "q": "2. Quot ovēs apud eum sunt? ...",
+                    "a": [
+                        "centum ovēs"
+                    ]
+                },
+                {
+                    "q": "3. Quid inest in saccō pāstōris? ...",
+                    "a": [
+                        "in saccō eius pānis inest"
+                    ]
+                },
+                {
+                    "q": "4. Ovēsne pānem edunt? ...",
+                    "a": [
+                        "ovēs herbam edunt, nōn pānem"
+                    ]
+                },
+                {
+                    "q": "5. Cūr canis pāstōrem amat? ...",
+                    "a": [
+                        "... quia pāstor canī cibum dat"
+                    ]
+                },
+                {
+                    "q": "6. Quis est dominus pāstōris? ...",
+                    "a": [
+                        "dominus pāstōris est Iūlius"
+                    ]
+                },
+                {
+                    "q": "7. Quid vidētur post campum? ...",
+                    "a": [
+                        "post campum montēs videntur"
+                    ]
+                },
+                {
+                    "q": "8. Inter montēs quid est? ...",
+                    "a": [
+                        "inter montēs sunt vallēs"
+                    ]
+                },
+                {
+                    "q": "9. Quot arborēs in colle sunt? ...",
+                    "a": [
+                        "ūna arbor in colle est"
+                    ]
+                },
+                {
+                    "q": "10. Cūr pāstor et ovēs in silvam nōn intrant? ...",
+                    "a": [
+                        "... quia lupōs timent"
+                    ]
+                },
+                {
+                    "q": "11. Quid est in caelō? ...",
+                    "a": [
+                        "in caelō est sōl"
+                    ]
+                },
+                {
+                    "q": "12. Quō pāstor ovēs dūcit? ...",
+                    "a": [
+                        "pāstor ovēs in umbram dūcit"
+                    ]
+                },
+                {
+                    "q": "13. Cūr pāstor umbram petit? ...",
+                    "a": [
+                        "... quia sōl lūcet"
+                    ]
+                },
+                {
+                    "q": "14. Ubi iacet pāstor? ... ",
+                    "a": [
+                        "sub arbore in umbrā iacet"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Exercise 4",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Pāstor bon# ab ovibus nōn abit.",
+                    "a": [
+                        "us"
+                    ]
+                },
+                {
+                    "q": "2. Ovēs pāstōrem bon# amant.",
+                    "a": [
+                        "um"
+                    ]
+                },
+                {
+                    "q": "3. Iūlius est dominus pāstōris bon#.",
+                    "a": [
+                        "ī"
+                    ]
+                },
+                {
+                    "q": "4. Iūlius pāstōrī bon# pānem dat ",
+                    "a": [
+                        "ō"
+                    ]
+                },
+                {
+                    "q": "5. Ovēs ā pāstōre bon# nōn abeunt.",
+                    "a": [
+                        "ō"
+                    ]
+                },
+                {
+                    "q": "6. Pāstōrēs bon# ab ovibus su# nōn abeunt.",
+                    "a": [
+                        "ī",
+                        "īs"
+                    ]
+                },
+                {
+                    "q": "7. Iūlius mult# pāstōrēs habet.",
+                    "a": [
+                        "ōs"
+                    ]
+                },
+                {
+                    "q": "8. Iūlius est dominus mult# pāstōrum.",
+                    "a": [
+                        "ōrum"
+                    ]
+                },
+                {
+                    "q": "9. Iūlius pāstōribus su# pānem dat.",
+                    "a": [
+                        "īs"
+                    ]
+                },
+                {
+                    "q": "10. Ovēs ā pāstōribus su# nōn abeunt.",
+                    "a": [
+                        "īs"
+                    ]
+                },
+                {
+                    "q": "11. In campō sunt mult# ovēs alb# et ūn# ovis nigr#.",
+                    "a": [
+                        "ae",
+                        "ae",
+                        "a",
+                        "a"
+                    ]
+                },
+                {
+                    "q": "12. Pāstor mult# ovēs alb# et ūn# ovem nigr# habet.",
+                    "a": [
+                        "ās",
+                        "ās",
+                        "am",
+                        "am"
+                    ]
+                },
+                {
+                    "q": "13. Pāstor est dominus ovium alb# et ovis nigr#.",
+                    "a": [
+                        "ārum",
+                        "ae"
+                    ]
+                },
+                {
+                    "q": "14. Pāstor ovibus alb# et ovī nigr# cibum dat.",
+                    "a": [
+                        "īs",
+                        "ae"
+                    ]
+                },
+                {
+                    "q": "15. Pāstor in campō est cum mult# ovibus alb# et ūn# ove nigr#.",
+                    "a": [
+                        "īs",
+                        "īs",
+                        "ā",
+                        "ā"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Exercise 5",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. In caelō nūllae nūb# sunt.",
+                    "a": [
+                        "ēs"
+                    ]
+                },
+                {
+                    "q": "2. Nūll# nūb# ante sōlem est.",
+                    "a": [
+                        "a",
+                        "ēs"
+                    ]
+                },
+                {
+                    "q": "3. Pāstor nūll# nūbem in caelō videt.",
+                    "a": [
+                        "am"
+                    ]
+                },
+                {
+                    "q": "4. In campō est coll# parv# cum magn# arbor#.",
+                    "a": [
+                        "is",
+                        "us",
+                        "ā",
+                        "e"
+                    ]
+                },
+                {
+                    "q": "5. Coll# est mōns parv#.",
+                    "a": [
+                        "is",
+                        "us"
+                    ]
+                },
+                {
+                    "q": "6. Post campum sunt magn# mont#.",
+                    "a": [
+                        "ī",
+                        "ēs"
+                    ]
+                },
+                {
+                    "q": "7. In parv# coll# ūn# arbor est.",
+                    "a": [
+                        "ō",
+                        "e",
+                        "a"
+                    ]
+                },
+                {
+                    "q": "8. In magnā silvā mult# arbor# sunt.",
+                    "a": [
+                        "ae",
+                        "ēs"
+                    ]
+                },
+                {
+                    "q": "9. Pāstor ov# su# ad parv# coll# dūcit.",
+                    "a": [
+                        "ēs",
+                        "ās",
+                        "um",
+                        "em"
+                    ]
+                },
+                {
+                    "q": "10. Pāstor fess# cum ov# su# in umbrā magn# arbor# iacet.",
+                    "a": [
+                        "us",
+                        "ibus",
+                        "īs",
+                        "ae",
+                        "is"
+                    ]
+                },
+                {
+                    "q": "11. Arbor pāstōr# fess# et ov# fess# umbram dat.",
+                    "a": [
+                        "ī",
+                        "ō",
+                        "ibus",
+                        "īs"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Exercise 6",
+            "info": "Exemplum: \nMēdus ā Iūliō abit = Mēdus Iūlium relinquit.\n",
+            "questions": [
+                {
+                    "q": "1. Servus improbus ā dominō suō abit = Servus improbus # # #",
+                    "a": [
+                        "dominum",
+                        "suum",
+                        "relinquit"
+                    ]
+                },
+                {
+                    "q": "2. Servī probī dominōs suōs nōn relinquunt = Servī probī # # # # #",
+                    "a": [
+                        "ā|ab",
+                        "dominīs",
+                        "suīs",
+                        "nōn",
+                        "abeunt"
+                    ]
+                },
+                {
+                    "q": "3. Mēdus et Lȳdia ā tabernā abeunt = Mēdus et Lȳdia # #",
+                    "a": [
+                        "tabernam",
+                        "relinquunt"
+                    ]
+                },
+                {
+                    "q": "4. Iūlia ab Aemiliā et puerīs abit = Iūlia # # # #",
+                    "a": [
+                        "Aemiliam",
+                        "et",
+                        "puerōs",
+                        "relinquit"
+                    ]
+                },
+                {
+                    "q": "5. Ovis nigra pāstōrem suum relinquit = Ovis nigra # # # #",
+                    "a": [
+                        "ā",
+                        "pāstōre",
+                        "suō",
+                        "abit"
+                    ]
+                },
+                {
+                    "q": "6. Canis ā pāstōre nōn abit = Canis # # #",
+                    "a": [
+                        "pāstōrem",
+                        "nōn",
+                        "relinquit"
+                    ]
+                },
+                {
+                    "q": "7. Pāstor ovēs albās relinquit = Pāstor # # # #",
+                    "a": [
+                        "ab",
+                        "ovibus",
+                        "albīs",
+                        "abit"
+                    ]
+                },
+                {
+                    "q": "8. Lupus ab ove et cane abit = Lupus # # # #",
+                    "a": [
+                        "ovem",
+                        "et",
+                        "canem",
+                        "relinquit"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Exercise 7",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. # pāstor dormit, ovis nigra abit.",
+                    "a": [
+                        "Dum"
+                    ]
+                },
+                {
+                    "q": "2. Canis ovem videt et #: \"Baubau!\"",
+                    "a": [
+                        "lātrat"
+                    ]
+                },
+                {
+                    "q": "3. Pāstor ovēs albās # et silvam petit.",
+                    "a": [
+                        "relinquit"
+                    ]
+                },
+                {
+                    "q": "4. Ovis nigra in magnā silvā #.",
+                    "a": [
+                        "errat"
+                    ]
+                },
+                {
+                    "q": "5. In terrā sunt # lupī; lupus # nōn procul abest.",
+                    "a": [
+                        "vestīgia",
+                        "ipse"
+                    ]
+                },
+                {
+                    "q": "6. Lupus in silvā cibum #.",
+                    "a": [
+                        "quaerit"
+                    ]
+                },
+                {
+                    "q": "7. Pāstor ovem quaerit, neque eam #.",
+                    "a": [
+                        "reperit"
+                    ]
+                },
+                {
+                    "q": "8. Lupus #: \"Uhuhū!\" Ovis #: \"Bābā!\"",
+                    "a": [
+                        "ululat",
+                        "bālat"
+                    ]
+                },
+                {
+                    "q": "9. Ovis cōnsistit et exspectat # lupus venit.",
+                    "a": [
+                        "dum"
+                    ]
+                },
+                {
+                    "q": "10. Oculī lupī in umbrā lūcent # gemmae.",
+                    "a": [
+                        "ut"
+                    ]
+                },
+                {
+                    "q": "11. Lupus # suōs albōs ostendit!",
+                    "a": [
+                        "dentēs"
+                    ]
+                },
+                {
+                    "q": "12. Sed ecce canis # et sine # [< timēre] lupum #!",
+                    "a": [
+                        "accurrit",
+                        "timōre",
+                        "petit"
+                    ]
+                },
+                {
+                    "q": "13. Pāstor clāmat; canis # eius audit.",
+                    "a": [
+                        "clāmōrem"
+                    ]
+                },
+                {
+                    "q": "14. Pāstor parvam ovem in umerōs #.",
+                    "a": [
+                        "impōnit"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Exercise 8",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Quō abit ovis nigra? ...",
+                    "a": [
+                        "ovis nigra in silvam abit"
+                    ]
+                },
+                {
+                    "q": "2. Dormitne canis? ...",
+                    "a": [
+                        "canis nōn dormit"
+                    ]
+                },
+                {
+                    "q": "3. Quid agit pāstor? ...",
+                    "a": [
+                        "pāstor ovēs relinquit"
+                    ]
+                },
+                {
+                    "q": "4. Ubi ovis nigra errat? ...",
+                    "a": [
+                        "ovis nigra in magnā silvā errat"
+                    ]
+                },
+                {
+                    "q": "5. Quid ovis videt in terrā? ...",
+                    "a": [
+                        "vestīgia lupī in terrā videt"
+                    ]
+                },
+                {
+                    "q": "6. Quid lupus in silvā quaerit? ...",
+                    "a": [
+                        "lupus cibum quaerit in silvā"
+                    ]
+                },
+                {
+                    "q": "7. Quid pāstor et canis quaerunt? ...",
+                    "a": [
+                        "pāstor et canis ovem quaerunt"
+                    ]
+                },
+                {
+                    "q": "8. Ululatne canis? ...",
+                    "a": [
+                        "nōn canis, sed lupus ululat"
+                    ]
+                },
+                {
+                    "q": "9. Quid ovis ante sē in umbrā videt? ...",
+                    "a": [
+                        "ovis oculōs et dentēs lupī videt"
+                    ]
+                },
+                {
+                    "q": "10. Cūr lupus ovem relinquit? ...",
+                    "a": [
+                        "... quia canis accurrit"
+                    ]
+                },
+                {
+                    "q": "11. Quō pāstor ovem nigram portat? ...",
+                    "a": [
+                        "ovem ad cēterās ovēs portat"
+                    ]
+                },
+                {
+                    "q": "12. Cēterae ovēs quid agunt? ...",
+                    "a": [
+                        "in campō errant sine pāstōre"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Exercise 9",
+            "info": "Dēclīnātiō prīma\nExemplum: vīll|a, gen. sing. -ae, fēm.\n____________Sing.\t\tPlūr.\n",
+            "questions": [
+                {
+                    "q": "1. Nōm.\tvīll|#\t\tvīll|#",
+                    "a": [
+                        "a",
+                        "ae"
+                    ]
+                },
+                {
+                    "q": "2. Acc. \t\tvīll|#\t\tvīll|#",
+                    "a": [
+                        "am",
+                        "ās"
+                    ]
+                },
+                {
+                    "q": "3. Gen. \tvīll|#  \t\tvīll|#",
+                    "a": [
+                        "ae",
+                        "ārum"
+                    ]
+                },
+                {
+                    "q": "4. Dat.\t\tvīll|#\t\tvīll|#",
+                    "a": [
+                        "ae",
+                        "īs"
+                    ]
+                },
+                {
+                    "q": "5. Abl. \t\tvīll|#\t\tvīll|#",
+                    "a": [
+                        "ā",
+                        "īs"
+                    ]
+                },
+                {
+                    "q": "6. 'Vīll|a' # singulāris est.",
+                    "a": [
+                        "nōminātīvus"
+                    ]
+                },
+                {
+                    "q": "7. 'Vīll|ā' # singulāris est.",
+                    "a": [
+                        "ablātīvus"
+                    ]
+                },
+                {
+                    "q": "8. 'Vīll|ae' # aut # singulāris est aut # plūrālis.",
+                    "a": [
+                        "genetīvus",
+                        "datīvus",
+                        "nōminātīvus"
+                    ]
+                },
+                {
+                    "q": "9. 'Vīll|am' # # est.",
+                    "a": [
+                        "accūsātīvus",
+                        "singulāris"
+                    ]
+                },
+                {
+                    "q": "10. 'Vīll|ārum' # # est.",
+                    "a": [
+                        "genetīvus",
+                        "plūrālis"
+                    ]
+                },
+                {
+                    "q": "11. 'Vīll|ās' # # est.",
+                    "a": [
+                        "accūsātīvus",
+                        "plūrālis"
+                    ]
+                },
+                {
+                    "q": "12. 'Vīll|īs' # aut # # est.",
+                    "a": [
+                        "datīvus",
+                        "ablātīvus",
+                        "plūrālis"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Exercise 10",
+            "info": "Dēclīnātiō secunda\nExempla: \ndomin|us, gen. sing. -ī, masc.; verb|um, gen. sing. -ī, neutr.\n____________Sing.\t \tPlūr.\t  \t\tSing.\t\tPlūr.\n",
+            "questions": [
+                {
+                    "q": "1. Nōm. \tdomin|#\tdomin|#\t\t\tverb|#\tverb|#",
+                    "a": [
+                        "us",
+                        "ī",
+                        "um",
+                        "a"
+                    ]
+                },
+                {
+                    "q": "2. Acc. \t\tdomin|#\tdomin|#\t\tverb|#\tverb|#",
+                    "a": [
+                        "um",
+                        "ōs",
+                        "um",
+                        "a"
+                    ]
+                },
+                {
+                    "q": "3. Gen. \tdomin|#\t \tdomin|#\t\tverb|#\t\tverb|#",
+                    "a": [
+                        "ī",
+                        "ōrum",
+                        "ī",
+                        "ōrum"
+                    ]
+                },
+                {
+                    "q": "4. Dat. \t\tdomin|#\tdomin|#\t\tverb|#\t\tverb|#",
+                    "a": [
+                        "ō",
+                        "īs",
+                        "ō",
+                        "īs"
+                    ]
+                },
+                {
+                    "q": "5. Abl. \t\tdomin|#\tdomin|#\t\tverb|#\t\tverb|#",
+                    "a": [
+                        "ō",
+                        "īs",
+                        "ō",
+                        "īs"
+                    ]
+                },
+                {
+                    "q": "6. Voc. \tdomin|#",
+                    "a": [
+                        "e"
+                    ]
+                },
+                {
+                    "q": "7. 'Domin|e' # singulāris est.",
+                    "a": [
+                        "vocātīvus"
+                    ]
+                },
+                {
+                    "q": "8. 'Domin|ī' # singulāris est aut # plūrālis. ",
+                    "a": [
+                        "genetīvus",
+                        "nōminātīvus"
+                    ]
+                },
+                {
+                    "q": "9. 'Domin|īs' et 'verb|īs' # aut # plūrālis est.",
+                    "a": [
+                        "datīvus",
+                        "ablātīvus"
+                    ]
+                },
+                {
+                    "q": "10. 'Domin|ō' et 'verb|ō' # aut # singulāris est.",
+                    "a": [
+                        "datīvus",
+                        "ablātīvus"
+                    ]
+                },
+                {
+                    "q": "11. 'Domin|ōrum' et 'verb|ōrum' # # est.",
+                    "a": [
+                        "genetīvus",
+                        "plūrālis"
+                    ]
+                },
+                {
+                    "q": "12. 'Domin|ōs' # # est.",
+                    "a": [
+                        "accūsātīvus",
+                        "plūrālis"
+                    ]
+                },
+                {
+                    "q": "13. 'Domin|um' # # est.",
+                    "a": [
+                        "accūsātīvus",
+                        "singulāris"
+                    ]
+                },
+                {
+                    "q": "14. 'Domin|us' # # est.",
+                    "a": [
+                        "nōminātīvus",
+                        "singulāris"
+                    ]
+                },
+                {
+                    "q": "15. 'Verb|a' # aut # plūrālis est.",
+                    "a": [
+                        "nōminātīvus",
+                        "accūsātīvus"
+                    ]
+                },
+                {
+                    "q": "16. 'Verb|ī' # singulāris est.",
+                    "a": [
+                        "genetīvus"
+                    ]
+                },
+                {
+                    "q": "17. 'Verb|um' # aut # # est.",
+                    "a": [
+                        "nōminātīvus",
+                        "accūsātīvus",
+                        "singulāris"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Exercise 11",
+            "info": "Dēclīnātiō tertia\nExempla:\npāstor, gen, sing -ōr|is, masc.\nov|is, gen. sing. -is, fēm.\n____________Sing.\t\tPlūr.\t\t\tSing.\tPlūr.\n",
+            "questions": [
+                {
+                    "q": "1. Nōm.\tpāstor\t\tpāstōr|#\t\tov|#\tov|#",
+                    "a": [
+                        "ēs",
+                        "is",
+                        "ēs"
+                    ]
+                },
+                {
+                    "q": "2. Acc.\t \tpāstōr|#\tpāstōr|#\t\tov|#\tov|#",
+                    "a": [
+                        "em",
+                        "ēs",
+                        "em",
+                        "ēs"
+                    ]
+                },
+                {
+                    "q": "3. Gen. \tpāstōr|#\tpāstōr|#\t\tov|#\tov|#",
+                    "a": [
+                        "is",
+                        "um",
+                        "is",
+                        "ium"
+                    ]
+                },
+                {
+                    "q": "4. Dat. \t\tpāstōr|#\t\tpāstōr|#\t\tov|#\tov|#",
+                    "a": [
+                        "ī",
+                        "ibus",
+                        "ī",
+                        "ibus"
+                    ]
+                },
+                {
+                    "q": "5. Abl.  \tpāstōr|#\t\tpāstōr|#\t\tov|#\tov|#",
+                    "a": [
+                        "e",
+                        "ibus",
+                        "e",
+                        "ibus"
+                    ]
+                },
+                {
+                    "q": "6. 'Pāstor' # singulāris est.",
+                    "a": [
+                        "nōminātīvus"
+                    ]
+                },
+                {
+                    "q": "7. 'Pāstōr|e' et 'ov|e' # # est.",
+                    "a": [
+                        "ablātīvus",
+                        "singulāris"
+                    ]
+                },
+                {
+                    "q": "8. 'Pāstōr|em' et 'ov|em' # # est.",
+                    "a": [
+                        "accūsātīvus",
+                        "singulāris"
+                    ]
+                },
+                {
+                    "q": "9. 'Pāstōr|ēs' et 'ov|ēs' # aut # plūrālis est.",
+                    "a": [
+                        "nōminātīvus",
+                        "accūsātīvus"
+                    ]
+                },
+                {
+                    "q": "10. 'Pāstōr|ī' et 'ov|ī' # # est.",
+                    "a": [
+                        "datīvus",
+                        "singulāris"
+                    ]
+                },
+                {
+                    "q": "11. 'Pāstōr|ibus' et 'ov|ibus' # aut # plūrālis est.",
+                    "a": [
+                        "datīvus",
+                        "ablātīvus"
+                    ]
+                },
+                {
+                    "q": "12. 'Pāstōr|is' # # est.",
+                    "a": [
+                        "genetīvus",
+                        "singulāris"
+                    ]
+                },
+                {
+                    "q": "13. 'Ov|is' # aut # singulāris est.",
+                    "a": [
+                        "nōminātīvus",
+                        "genetīvus"
+                    ]
+                },
+                {
+                    "q": "14. 'Pāstōr|um' et 'ov|ium' # # est.",
+                    "a": [
+                        "genetīvus",
+                        "plūrālis"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "PENSVM A",
+            "info": "",
+            "questions": [
+                {
+                    "a": [
+                        "ēs"
+                    ],
+                    "q": "In Italiā sunt multī pāstōr#."
+                },
+                {
+                    "a": [
+                        "um"
+                    ],
+                    "q": "Numerus pāstōr# magnus est."
+                },
+                {
+                    "a": [
+                        "em",
+                        "ēs"
+                    ],
+                    "q": "Pāstor Iūliī ūnum can# et multās ov# habet."
+                },
+                {
+                    "a": [
+                        "is",
+                        "ium"
+                    ],
+                    "q": "Pastor est dominus can# et ov#."
+                },
+                {
+                    "a": [
+                        "is",
+                        "ēs",
+                        "em"
+                    ],
+                    "q": "Can# et ov# pāstōr# amant."
+                },
+                {
+                    "a": [
+                        "ium",
+                        "is",
+                        "is"
+                    ],
+                    "q": "Cibus ov# est herba, cibus pāstōr# est pān#."
+                },
+                {
+                    "a": [
+                        "em"
+                    ],
+                    "q": "Pāstor pān# ēst."
+                },
+                {
+                    "a": [
+                        "e"
+                    ],
+                    "q": "In coll# ūna arbor est."
+                },
+                {
+                    "a": [
+                        "e",
+                        "ibus",
+                        "em"
+                    ],
+                    "q": "Pāstor cum can# et ov# ad arbor# it."
+                },
+                {
+                    "a": [
+                        "is"
+                    ],
+                    "q": "Iam pāstor in umbrā arbor# iacet."
+                },
+                {
+                    "a": [
+                        "ī",
+                        "ī",
+                        "ibus",
+                        "is",
+                        "e"
+                    ],
+                    "q": "Arbor pāstōr# et can# et ov# umbram dat, sed ov# nigra in sōl# iacet."
+                },
+                {
+                    "a": [
+                        "ēs",
+                        "em"
+                    ],
+                    "q": "Nūllae nūb# ante sōl# sunt."
+                },
+                {
+                    "a": [
+                        "ēs",
+                        "ibus"
+                    ],
+                    "q": "In silvā multae arbor# sunt, sub arbor# umbra est."
+                },
+                {
+                    "a": [
+                        "is",
+                        "e",
+                        "ibus"
+                    ],
+                    "q": "Ov# nigra ā pāstōr# cēterīsque ov# discēdit."
+                },
+                {
+                    "a": [
+                        "em"
+                    ],
+                    "q": "Canis ov# videt."
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "PENSVM B",
+            "info": "",
+            "questions": [
+                {
+                    "a": [
+                        "ovēs",
+                        "campō"
+                    ],
+                    "q": "Pāstor et centum # in # sunt."
+                },
+                {
+                    "a": [
+                        "cibum"
+                    ],
+                    "q": "Pāstor ovibus aquam et # dat."
+                },
+                {
+                    "a": [
+                        "herba",
+                        "pānis"
+                    ],
+                    "q": "Cibus ovium est #, cibus pāstōris est #."
+                },
+                {
+                    "a": [
+                        "ēst",
+                        "edunt",
+                        "bibunt",
+                        "rīvō"
+                    ],
+                    "q": "Pāstor pānem #. Ovēs herbam # et aquam # ē #."
+                },
+                {
+                    "a": [
+                        "lūcet",
+                        "nūbēs",
+                        "suprā"
+                    ],
+                    "q": "Sōl #, nūlla # in caelō # hunc campum vidētur."
+                },
+                {
+                    "a": [
+                        "arbor",
+                        "silvā",
+                        "Sub"
+                    ],
+                    "q": "In colle ūna # est, in # multae arborēs sunt. # arboribus umbra est."
+                },
+                {
+                    "a": [
+                        "dūcit"
+                    ],
+                    "q": "Pāstor ovēs suās ad arborem #."
+                },
+                {
+                    "a": [
+                        "Dum",
+                        "umbrā",
+                        "relinquit",
+                        "petit"
+                    ],
+                    "q": "# pāstor in # arboris iacet, ovis nigra cēterās ovēs # et silvam #."
+                },
+                {
+                    "a": [
+                        "vestīgia",
+                        "ipse"
+                    ],
+                    "q": "In terrā sunt # lupī; lupus # nōn procul abest."
+                },
+                {
+                    "a": [
+                        "quaerit",
+                        "canis"
+                    ],
+                    "q": "Lupus in silvā cibum #, dum pāstor et # ovem quaerunt."
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "PENSVM C",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Num pāstor sōlus in campō est? ",
+                    "a": []
+                },
+                {
+                    "q": "2. Quot ovēs habet pāstor? ",
+                    "a": []
+                },
+                {
+                    "q": "3. Ā quō canis cibum accipit? ",
+                    "a": []
+                },
+                {
+                    "q": "4. Suntne montēs prope pāstōrem? ",
+                    "a": []
+                },
+                {
+                    "q": "5. Ubi sunt vallēs? ",
+                    "a": []
+                },
+                {
+                    "q": "6. Quid est collis? ",
+                    "a": []
+                },
+                {
+                    "q": "7. Quō it pāstor? ",
+                    "a": []
+                },
+                {
+                    "q": "8. Cūr pāstor umbram petit? ",
+                    "a": []
+                },
+                {
+                    "q": "9. Quō it ovis nigra? ",
+                    "a": []
+                },
+                {
+                    "q": "10. Quid ovis in terrā videt? ",
+                    "a": []
+                },
+                {
+                    "q": "11. Cūr lupus ovem nigram nōn ēst? ",
+                    "a": []
+                }
+            ]
+        }
+    ]
+}

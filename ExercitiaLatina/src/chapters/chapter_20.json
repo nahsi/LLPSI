@@ -1,0 +1,1149 @@
+{
+    "id": 19,
+    "name": "CAPITVLVM XX",
+    "exercises": [
+        {
+            "id": 0,
+            "name": "Exercise 1",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. In Italiā Mēdus miser er#, quia dominum timē# ac procul ab amīcā suā habitā#.",
+                    "a": [
+                        "at",
+                        "bat",
+                        "bat"
+                    ]
+                },
+                {
+                    "q": "2. In Graeciā Mēdus beātus er#, quia cum amīcā suā habitā# nec dominum timē#.",
+                    "a": [
+                        "it",
+                        "bit",
+                        "bit"
+                    ]
+                },
+                {
+                    "q": "3. In Italiā Mēdus et Lȳdia miserī er#, quia dominum Mēdī timē# nec in eādem urbe habitā#.",
+                    "a": [
+                        "ant",
+                        "bant",
+                        "bant"
+                    ]
+                },
+                {
+                    "q": "4. In Graeciā Mēdus et Lȳdia beātī er#, quia in eādem domō habitā# nec dominum Rōmānum timē#.",
+                    "a": [
+                        "unt",
+                        "bunt",
+                        "bunt"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Exercise 2",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Crās Mārcus rūrsus in lūdō pugnā# nec magistrō pārē#, aut dormi# nec verba magistrī audi#.",
+                    "a": [
+                        "bit",
+                        "bit",
+                        "et",
+                        "et"
+                    ]
+                },
+                {
+                    "q": "2. Crās Mārcus tam male computā# ac scrīb# quam hodiē.",
+                    "a": [
+                        "bit",
+                        "et"
+                    ]
+                },
+                {
+                    "q": "3. Ergō Mārcus rūrsus ā magistrō reprehend# ac verberā# aut aliō modō pūni#.",
+                    "a": [
+                        "ētur",
+                        "bitur",
+                        "ētur"
+                    ]
+                },
+                {
+                    "q": "4. Crās discipulī pigrī rūrsus in lūdō pugnā# nec magistrō pārē#, aut dormi# nec verba magistrī audi#. ",
+                    "a": [
+                        "bunt",
+                        "bunt",
+                        "ent",
+                        "ent"
+                    ]
+                },
+                {
+                    "q": "5. Crās discipulī tam male computā# ac scrīb# quam hodiē.\t ",
+                    "a": [
+                        "bunt",
+                        "ent"
+                    ]
+                },
+                {
+                    "q": "6. Ergō discipulī rūrsus ā magistrō reprehend# ac verberā# aut aliō modō pūni#.",
+                    "a": [
+                        "entur",
+                        "buntur",
+                        "entur"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Exercise 3",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Puer quī nōndum # [= loquī] potest # dīcitur.",
+                    "a": [
+                        "fārī",
+                        "īnfāns"
+                    ]
+                },
+                {
+                    "q": "2. Īnfāns quī ambulāre nōndum potest in # iacet.",
+                    "a": [
+                        "cūnīs"
+                    ]
+                },
+                {
+                    "q": "3. # [= parvus] īnfāns multās hōrās dormit; # enim īnfantī nōn minus # est quam cibus.",
+                    "a": [
+                        "Parvulus",
+                        "somnus",
+                        "necessārius"
+                    ]
+                },
+                {
+                    "q": "4. Īnfāns quī cibō # magnā vōce #; ita parvulus īnfāns cibum # [= poscit].",
+                    "a": [
+                        "caret",
+                        "vāgit",
+                        "postulat"
+                    ]
+                },
+                {
+                    "q": "5. Parvulus īnfāns nōn pāne, sed # vīvit.",
+                    "a": [
+                        "lacte"
+                    ]
+                },
+                {
+                    "q": "6. Nōn omnēs mātrēs īnfantēs suōs ipsae # volunt.",
+                    "a": [
+                        "alere"
+                    ]
+                },
+                {
+                    "q": "7. Multī īnfantēs nōn ā mātribus suīs, sed ā # aluntur. ",
+                    "a": [
+                        "nūtrīcibus"
+                    ]
+                },
+                {
+                    "q": "8. Nūtrīx est # [= fēmina] quae nōn suum, sed # īnfantem alit.",
+                    "a": [
+                        "mulier",
+                        "aliēnum"
+                    ]
+                },
+                {
+                    "q": "9. Īnfāns prīma verba discit antequam prīmōs # facere potest.",
+                    "a": [
+                        "gradūs"
+                    ]
+                },
+                {
+                    "q": "10. Iūlius et Aemilia # novum īnfantem habēbunt.",
+                    "a": [
+                        "mox"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Exercise 4",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Quid est īnfāns? ...",
+                    "a": [
+                        "īnfāns est puer parvulus quī nōndum fārī potest"
+                    ]
+                },
+                {
+                    "q": "2. Estne Quīntus īnfāns? ...",
+                    "a": [
+                        "Quīntus īnfāns nōn est, sed puer septem annōrum"
+                    ]
+                },
+                {
+                    "q": "3. Num īnfāns in magnō lectō dormit? ...",
+                    "a": [
+                        "īnfāns in cūnīs dormit"
+                    ]
+                },
+                {
+                    "q": "4. Quōmodo parvulus īnfāns cibum postulat? ...",
+                    "a": [
+                        "īnfāns quī cibum vult magnā vōce vāgit"
+                    ]
+                },
+                {
+                    "q": "5. Quid tum facit māter? ...",
+                    "a": [
+                        "māter accurrit atque īnfantem ad pectus appōnit"
+                    ]
+                },
+                {
+                    "q": "6. Quō cibō alitur īnfāns parvulus? ...",
+                    "a": [
+                        "īnfāns parvulus lacte alitur"
+                    ]
+                },
+                {
+                    "q": "7. Quid est nūtrīx? ...",
+                    "a": [
+                        "nūtrīx est mulier quae aliēnum īnfantem alit"
+                    ]
+                },
+                {
+                    "q": "8. Cūr tot īnfantēs Rōmānī ā nūtrīcibus aluntur? ...",
+                    "a": [
+                        "... quia multae mātrēs suōs īnfantēs alere nōlunt"
+                    ]
+                },
+                {
+                    "q": "9. Iūliane parvula īnfāns est? ...",
+                    "a": [
+                        "nōn īnfāns, sed puella quīnque annōrum est Iūlia"
+                    ]
+                },
+                {
+                    "q": "10. Cūr vacuae sunt cūnae Aemiliae? ...",
+                    "a": [
+                        "cūnae vacuae sunt quod Aemilia īnfantem nōn habet"
+                    ]
+                },
+                {
+                    "q": "11. Quandō Aemilia rūrsus īnfantem habēbit? ...",
+                    "a": [
+                        "post paucōs mēnsēs"
+                    ]
+                },
+                {
+                    "q": "12. Quot līberī tum erunt Iūliō et Aemiliae? ...",
+                    "a": [
+                        "tum quattuor līberī iīs erunt"
+                    ]
+                },
+                {
+                    "q": "13. Quae verba īnfāns prīmum dīcere solet? ...",
+                    "a": [
+                        "prīma verba īnfantis sunt 'mamma' et 'tata'"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Exercise 5",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Post decem annōs Mārcus mīles er# et arma ger# ut avunculus suus.",
+                    "a": [
+                        "it",
+                        "et"
+                    ]
+                },
+                {
+                    "q": "2. Tum Mārcus fortiter pugnā#, hostem nōn timē# nec ab eō fugi#.",
+                    "a": [
+                        "bit",
+                        "bit",
+                        "et"
+                    ]
+                },
+                {
+                    "q": "3. Mārcus cum magnō exercitū in Italiam reveni#.",
+                    "a": [
+                        "et"
+                    ]
+                },
+                {
+                    "q": "4. Mārcus: \"Ego mīles er# ut avunculus meus; bona arma ger#, fortiter pugnā#, hostem nōn timē# nec ab eō fugi#; cum magnō exercitū in Italiam reveni#.\"",
+                    "a": [
+                        "ō",
+                        "am",
+                        "bō",
+                        "bō",
+                        "am",
+                        "am"
+                    ]
+                },
+                {
+                    "q": "5. Mārcus: \"At tū numquam mīles fortis er#, Sexte. Etiam sī bona arma ger#, nōn fortiter pugnā#, nam hostem timē# atque ab eō fugi# et ad mātrem tuam reveni#!\"",
+                    "a": [
+                        "is",
+                        "ēs",
+                        "bis",
+                        "bis",
+                        "ēs",
+                        "ēs"
+                    ]
+                },
+                {
+                    "q": "6. Mārcus et Quīntus mīlitēs er# et arma ger# ut avunculus suus: fortiter pugnā#, hostem nōn timē# nec ab eō fugi#; cum magnō exercitū in Italiam reveni#. ",
+                    "a": [
+                        "unt",
+                        "ent",
+                        "bunt",
+                        "bunt",
+                        "ent",
+                        "ent"
+                    ]
+                },
+                {
+                    "q": "7. Mārcus: \"Ego et frāter meus mīlitēs er# ut avunculus noster; bona arma ger#, fortiter pugnā#, hostem nōn timē# nec ab eō fugi#; cum magnō exercitū in Italiam reveni#.\"",
+                    "a": [
+                        "imus",
+                        "ēmus",
+                        "bimus",
+                        "bimus",
+                        "ēmus",
+                        "ēmus"
+                    ]
+                },
+                {
+                    "q": "8. Mārcus: \"At vōs numquam mīlitēs fortēs er#, Sexte et Tite! Etiam sī bona arma ger#, nōn fortiter pugnā#, nam hostem timē# atque ab eō fugi# et ad mātrēs vestrās reveni#!\"",
+                    "a": [
+                        "itis",
+                        "ētis",
+                        "bitis",
+                        "bitis",
+                        "ētis",
+                        "ētis"
+                    ]
+                },
+                {
+                    "q": "9. Lȳdia: \"Nōlī timēre, Mēde! Dominus nōs servā# et in portum veh#.\"",
+                    "a": [
+                        "bit",
+                        "et"
+                    ]
+                },
+                {
+                    "q": "10. Mēdus: \"Egone quoque ā dominō tuō servā# et in portum veh#?\"",
+                    "a": [
+                        "bor",
+                        "ar"
+                    ]
+                },
+                {
+                    "q": "11. Lȳdia: \"Certē tū quoque servā#, Mēde, et mēcum in portum veh#. Nautae quoque servā#.\"",
+                    "a": [
+                        "beris",
+                        "ēris",
+                        "buntur"
+                    ]
+                },
+                {
+                    "q": "12. Nautae: \"Nōs ā Neptūnō servā#; ab illō deō in portum veh#.\"",
+                    "a": [
+                        "bimur",
+                        "ēmur"
+                    ]
+                },
+                {
+                    "q": "13. Lȳdia: \"Nōn ā Neptūnō, sed ā Dominō nostrō servā#, nautae, et in portum veh#.\"",
+                    "a": [
+                        "biminī",
+                        "ēminī"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Exercise 6",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Iūlius et Aemilia iam nōn dē rēbus praeteritīs #, sed dē rēbus #.",
+                    "a": [
+                        "colloquuntur",
+                        "futūrīs"
+                    ]
+                },
+                {
+                    "q": "2. Iūlius: \"# [= certē] parvulam fīliam amābō.\"",
+                    "a": [
+                        "Profectō"
+                    ]
+                },
+                {
+                    "q": "3. Aemilia: \"Sed tuam Iūliam # [= parvam fīliam] minus amās quam fīliōs.\"",
+                    "a": [
+                        "fīliolam"
+                    ]
+                },
+                {
+                    "q": "4. Iūlius: \"Ego nēminem # amō quam fīliam meam.\"",
+                    "a": [
+                        "magis"
+                    ]
+                },
+                {
+                    "q": "5. Aemilia: \"Fīliōs saepe laudās, Iūliam # laudās.\"",
+                    "a": [
+                        "rārō"
+                    ]
+                },
+                {
+                    "q": "6. Aemilia, quae abīre vult, gradum # ōstium facit.",
+                    "a": [
+                        "adversus"
+                    ]
+                },
+                {
+                    "q": "7. Iūlius: \"# abīre, Aemilia!\"",
+                    "a": [
+                        "Nōlī"
+                    ]
+                },
+                {
+                    "q": "8. Aemilia ā Iūliō nōn abit neque cum eō colloquī dēsinit: apud marītum # atque cum eō colloquī #. ",
+                    "a": [
+                        "manet",
+                        "pergit"
+                    ]
+                },
+                {
+                    "q": "9. # [< colloquī] est # inter duōs.",
+                    "a": [
+                        "Colloquium",
+                        "sermō"
+                    ]
+                },
+                {
+                    "q": "10. Aemilia: \"Māter īnfantem suum alere #: id est mātris #.\"",
+                    "a": [
+                        "dēbet",
+                        "officium"
+                    ]
+                },
+                {
+                    "q": "11. Nēmō īnfantem melius # potest quam māter.",
+                    "a": [
+                        "cūrāre"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Exercise 7",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Estne sermō parentum dē tempore praeteritō? ...",
+                    "a": [
+                        "sermō parentum iam est dē tempore futūrō"
+                    ]
+                },
+                {
+                    "q": "2. Cūr parentēs iam dē rēbus futūrīs colloquuntur? ...",
+                    "a": [
+                        "de rēbus futūrīs colloquuntur quia mox novum īnfantem habēbunt"
+                    ]
+                },
+                {
+                    "q": "3. Fīliumne an fīliam vult Aemilia? ...",
+                    "a": [
+                        "Aemilia nōn fīlium, sed fīliam vult"
+                    ]
+                },
+                {
+                    "q": "4. Cūr Aemilia gradum adversus ōstium facit? ...",
+                    "a": [
+                        "... quia marītō suō īrāta est"
+                    ]
+                },
+                {
+                    "q": "5. Discēditne Aemilia? ...",
+                    "a": [
+                        "nōn discēdit, sed apud marītum suum manet"
+                    ]
+                },
+                {
+                    "q": "6. Num īnfāns Aemiliae ā nūtrīce alētur? ...",
+                    "a": [
+                        "Aemilia ipsa īnfantem suum alet"
+                    ]
+                },
+                {
+                    "q": "7. Cūr Aemilia ipsa īnfantem suum cūrāre vult? ...",
+                    "a": [
+                        "... quod nēmō īnfantem melius cūrāre potest quam māter"
+                    ]
+                },
+                {
+                    "q": "8. Quid Aemilia officium mātris esse dīcit? ...",
+                    "a": [
+                        "Aemilia dīcit 'mātris officium esse īnfantēs suōs cūrāre'"
+                    ]
+                },
+                {
+                    "q": "9. In quō cubiculō novus īnfāns nocte dormiet? ...",
+                    "a": [
+                        "novus īnfāns in cubiculō parentum dormiet"
+                    ]
+                },
+                {
+                    "q": "10. Cūr Iūlius in eōdem cubiculō dormīre nōn vult? ...",
+                    "a": [
+                        "... quod ab īnfante vāgiente excitārī nōn vult"
+                    ]
+                },
+                {
+                    "q": "11. Quid Iūlius officium patris esse dīcit? ...",
+                    "a": [
+                        "Dīcit 'officium patris esse pecūniam facere et familiam alere'"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Exercise 8",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Iūlius et Aemilia in viā ante tabernam cōnsistunt, quia flōrēs emere #. ",
+                    "a": [
+                        "volunt"
+                    ]
+                },
+                {
+                    "q": "2. Tabernārius rosās et līlia aliōsque flōrēs iīs ostendit et \"Quōs flōrēs #?\" inquit.",
+                    "a": [
+                        "vultis"
+                    ]
+                },
+                {
+                    "q": "3. Iūlius: \"Nōn rōsās, sed līlia #.\" ",
+                    "a": [
+                        "volumus"
+                    ]
+                },
+                {
+                    "q": "4. Tabernārius: \"Cūr vōs rosās nōn #?\"",
+                    "a": [
+                        "vultis"
+                    ]
+                },
+                {
+                    "q": "5. Iūlius: \"Nōs rosās tuās emere #, quia in hortō nostrō multae sunt rosae.\"",
+                    "a": [
+                        "nōlumus"
+                    ]
+                },
+                {
+                    "q": "6. Aemilia: \"Sed hae rosae pulchriōrēs sunt. Ego rosās #, līlia #.\" Aemilia dīcit 'sē rosās #, līlia #.'",
+                    "a": [
+                        "volō",
+                        "nōlō",
+                        "velle",
+                        "nōlle"
+                    ]
+                },
+                {
+                    "q": "7. Iūlius: \"Sī tū līlia nōn #, ego nec rosās nec līlia emere #.\"",
+                    "a": [
+                        "vīs",
+                        "volō"
+                    ]
+                },
+                {
+                    "q": "8. Iūlius, quī nūllōs flōrēs emere #, ā tabernā abit.",
+                    "a": [
+                        "vult"
+                    ]
+                },
+                {
+                    "q": "9. Aemilia \"# mē relinquere\" inquit eumque sequitur.",
+                    "a": [
+                        "Nōlī"
+                    ]
+                },
+                {
+                    "q": "10. Tabernārius: \"Manēte! # abīre!\" ",
+                    "a": [
+                        "Nōlīte"
+                    ]
+                },
+                {
+                    "q": "11. Hominēs quī flōrēs emere # ad tabernam adeunt, quī flōrēs emere # ā tabernā abeunt.",
+                    "a": [
+                        "volunt",
+                        "nōlunt"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Exercise 9",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Aemilia, quae exīre vult, Syrae in ōstiō #.",
+                    "a": [
+                        "occurrit"
+                    ]
+                },
+                {
+                    "q": "2. Syra # cum Iūliā ex hortō venit.",
+                    "a": [
+                        "ūnā"
+                    ]
+                },
+                {
+                    "q": "3. Iūlius et Aemilia # [= tacent]; Iūlia # parentum animadvertit et \"Cūr silētis?\" inquit.",
+                    "a": [
+                        "silent",
+                        "silentium"
+                    ]
+                },
+                {
+                    "q": "4. Iūlius # Rōmam ībit et mox # [= ad domum suam] # [= redībit].",
+                    "a": [
+                        "crās",
+                        "domum",
+                        "revertētur"
+                    ]
+                },
+                {
+                    "q": "5. Parentēs līberōs suōs # [= amant].",
+                    "a": [
+                        "dīligunt"
+                    ]
+                },
+                {
+                    "q": "6. Sermō īnfantium Iūliam nōn #.",
+                    "a": [
+                        "decet"
+                    ]
+                },
+                {
+                    "q": "7. Quī per imbrem ambulat # fit.",
+                    "a": [
+                        "ūmidus"
+                    ]
+                },
+                {
+                    "q": "8. Nautae mercēs ex terrīs aliēnīs in Italiam #.",
+                    "a": [
+                        "advehunt"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Exercise 10",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Cui Aemilia in ōstiō occurrit? ...",
+                    "a": [
+                        "Aemilia Syrae et Iūliae in ōstiō occurrit"
+                    ]
+                },
+                {
+                    "q": "2. Cūr Syra et Iūlia ex hortō exeunt? ...",
+                    "a": [
+                        "... quia imbrem exspectant"
+                    ]
+                },
+                {
+                    "q": "3. Estne caelum serēnum? ...",
+                    "a": [
+                        "caelum nūbibus ātrīs operītur"
+                    ]
+                },
+                {
+                    "q": "4. Quō tum it Iūlius? ...",
+                    "a": [
+                        "Iūlius ātrium intrat"
+                    ]
+                },
+                {
+                    "q": "5. Sōlusne Iūlius in ātrium it? ...",
+                    "a": [
+                        "Aemilia et Syra et Iūlia eum sequuntur"
+                    ]
+                },
+                {
+                    "q": "6. In ātriōne colloquuntur coniugēs? ...",
+                    "a": [
+                        "coniugēs in ātriō silent"
+                    ]
+                },
+                {
+                    "q": "7. Quid silentēs aspiciunt? ...",
+                    "a": [
+                        "silentēs imbrem cadentem aspiciunt"
+                    ]
+                },
+                {
+                    "q": "8. Quis silentium eōrum animadvertit? ...",
+                    "a": [
+                        "Iūlia silentium parentum animadvertit"
+                    ]
+                },
+                {
+                    "q": "9. Quid Aemilia Iūliae interrogantī respondet? ...",
+                    "a": [
+                        "Aemilia respondet 'sē cōgitāre dē miserīs nautīs'"
+                    ]
+                },
+                {
+                    "q": "10. Cūr miserī sunt līberī nautārum? ...",
+                    "a": [
+                        "... quia patrēs eōrum post magnam tempestātem nōn revertentur"
+                    ]
+                },
+                {
+                    "q": "11. Quandō Iūlius ā vīllā proficīscētur? ...",
+                    "a": [
+                        "Iūlius crās Rōmam ībit"
+                    ]
+                },
+                {
+                    "q": "12. Quam saepe Iūlius Rōmā ad vīllam revertētur? ..",
+                    "a": []
+                },
+                {
+                    "q": "13. Cūr Iūlia patre suō carēre nōn vult? ...",
+                    "a": [
+                        "tertiō quōque diē revertētur"
+                    ]
+                },
+                {
+                    "q": "14. Utrum Iūlia vult, frātrem an sorōrem? ...",
+                    "a": [
+                        "Iūlia patrem suum dīligit"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Exercise 11",
+            "info": "Āctīvum\n____________Sing.\t\tPlūr\t\t\tSing.\t\tPlūr\nPassīvum\n____________Sing.\t\tPlūr\t\t\tSing.\t\tPlūr.\n____________Sing.\t\tPlūr.\t\t\tSing.\t\tPlūr.\n",
+            "questions": [
+                {
+                    "q": "1. 'Voca|t', 'vide|t', 'dūc|it', 'audi|t' tempus # est.",
+                    "a": [
+                        "praesēns"
+                    ]
+                },
+                {
+                    "q": "2. 'Vocā|bat', 'vidē|bat', 'dūc|ēbat', 'audi|ēbat' tempus # est.",
+                    "a": [
+                        "praeteritum"
+                    ]
+                },
+                {
+                    "q": "3. 'Vocā|bit', 'vidē|bit', 'dūc|et', 'audi|et' est tempus #.",
+                    "a": [
+                        "futūrum"
+                    ]
+                },
+                {
+                    "q": "4. Futūrum: pers. 3: [1, 2] -bit, -bunt, [3, 4] -et, -ent; pers. 2: [1, 2] -#, -#, [3, 4] -#, -#; pers. 1: [1, 2] -#, -#, [3, 4] -#, -#.",
+                    "a": [
+                        "bis",
+                        "bitis",
+                        "ēs",
+                        "ētis",
+                        "bō",
+                        "bimus",
+                        "am",
+                        "ēmus"
+                    ]
+                },
+                {
+                    "q": "5. Pers.1\tvocā|#\t\tvocā|#\t\tvidē|#\t\tvidē|#",
+                    "a": [
+                        "bō",
+                        "bimus",
+                        "bō",
+                        "bimus"
+                    ]
+                },
+                {
+                    "q": "6. Pers.2\tvocā|#\tvocā|#\t\tvidē|# \tvidē|#\t",
+                    "a": [
+                        "bis",
+                        "bitis",
+                        "bis",
+                        "bitis"
+                    ]
+                },
+                {
+                    "q": "7. Pers.3\tvocā|#\tvocā|#\t\tvidē|#\t\tvidē|#",
+                    "a": [
+                        "bit",
+                        "bunt",
+                        "bit",
+                        "bunt"
+                    ]
+                },
+                {
+                    "q": "8. Pers.1\tdūc|#\t\tdūc|#\t\taudi|#\t\taudi|#",
+                    "a": [
+                        "am",
+                        "ēmus",
+                        "am",
+                        "ēmus"
+                    ]
+                },
+                {
+                    "q": "9. Pers.2\tdūc|#\t\tdūc|#\t\t\taudi|#\t\taudi|#",
+                    "a": [
+                        "ēs",
+                        "ētis",
+                        "ēs",
+                        "ētis"
+                    ]
+                },
+                {
+                    "q": "10.Pers.3\tdūc|#\t\tdūc|#\t\t\taudi|#\t\taudi|#",
+                    "a": [
+                        "et",
+                        "ent",
+                        "et",
+                        "ent"
+                    ]
+                },
+                {
+                    "q": "11. Futūrum verbī 'esse': singulāris: pers. 1 erō, 2 er#, 3 er#; plūrālis: pers. 1 er#, 2 er#, 3 er#.",
+                    "a": [
+                        "is",
+                        "it",
+                        "imus",
+                        "itis",
+                        "unt"
+                    ]
+                },
+                {
+                    "q": "12. 'Vocā|bitur', 'vidē|bitur', 'dūc|ētur', 'audi|ētur' est tempus # passīvī.",
+                    "a": [
+                        "futūrum"
+                    ]
+                },
+                {
+                    "q": "13. Futūrum passīvī: pers. 3: [1, 2] -bitur, -buntur, [3, 4] -ētur, -entur; pers. 2: [1, 2] -#, -#, [3,4] -#, -#; pers. 1: [1, 2] -#, -#, [3, 4] -#, -#.",
+                    "a": [
+                        "beris",
+                        "biminī",
+                        "ēris",
+                        "ēminī",
+                        "bor",
+                        "bimur",
+                        "ar",
+                        "ēmur"
+                    ]
+                },
+                {
+                    "q": "14. Pers.1\tvocā|#\tvocā|#\t\tvidē|#\tvidē|#",
+                    "a": [
+                        "bor",
+                        "bimur",
+                        "bor",
+                        "bimur"
+                    ]
+                },
+                {
+                    "q": "15. Pers.2\tvocā|#\tvocā|#\t\tvidē|#\tvidē|#",
+                    "a": [
+                        "beris",
+                        "biminī",
+                        "beris",
+                        "biminī"
+                    ]
+                },
+                {
+                    "q": "16. Pers.3\tvocā|#\tvocā|#  \t\tvidē|#\tvidē|#",
+                    "a": [
+                        "bitur",
+                        "buntur",
+                        "bitur",
+                        "buntur"
+                    ]
+                },
+                {
+                    "q": "17. Pers.1\tdūc|#\t\tdūc|#\t\taudi|#\t\taudi|#",
+                    "a": [
+                        "ar",
+                        "ēmur",
+                        "ar",
+                        "ēmur"
+                    ]
+                },
+                {
+                    "q": "18. Pers.2\tdūc|#\t\tdūc|#\t\taudi|#\taudi|#",
+                    "a": [
+                        "ēris",
+                        "ēminī",
+                        "ēris",
+                        "ēminī"
+                    ]
+                },
+                {
+                    "q": "19. Pers.3\tdūc|#\tdūc|#\t\taudi|#\taudi|#",
+                    "a": [
+                        "ētur",
+                        "entur",
+                        "ētur",
+                        "entur"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "PENSVM A",
+            "info": "",
+            "questions": [
+                {
+                    "a": [
+                        "it"
+                    ],
+                    "q": "Mox novus īnfāns in cūnīs Aemiliae er#."
+                },
+                {
+                    "a": [
+                        "ēbit"
+                    ],
+                    "q": "Aemilia rūrsus īnfantem hab#."
+                },
+                {
+                    "a": [
+                        "unt"
+                    ],
+                    "q": "Tum quattuor līberī in familiā er#."
+                },
+                {
+                    "a": [
+                        "ēbunt"
+                    ],
+                    "q": "Iūlius et Aemilia quattuor līberōs hab#. "
+                },
+                {
+                    "a": [
+                        "ābit"
+                    ],
+                    "q": "Aemilia īnfantem suum am#."
+                },
+                {
+                    "a": [
+                        "ābunt"
+                    ],
+                    "q": "Iūlius et Aemilia īnfantem suum aequē am#."
+                },
+                {
+                    "a": [
+                        "et",
+                        "et"
+                    ],
+                    "q": "Annō post īnfāns prīma verba disc# et prīmōs gradūs faci#."
+                },
+                {
+                    "a": [
+                        "ābitur"
+                    ],
+                    "q": "Īnfāns ambulāns ā parentibus laud#."
+                },
+                {
+                    "a": [
+                        "ābō",
+                        "ēbō",
+                        "am"
+                    ],
+                    "q": "Aemilia: \"Ego īnfantem meum bene cūr#: semper apud eum man#, numquam ab eō discēd#.\" "
+                },
+                {
+                    "a": [
+                        "is",
+                        "ābis",
+                        "ēs"
+                    ],
+                    "q": "Iūlius: \"Certē bona māter er#, Aemilia: īnfantem tuum ipsa cūr# nec eum apud nūtrīcem relinqu#.\" "
+                },
+                {
+                    "a": [
+                        "ō",
+                        "iam",
+                        "iēmus"
+                    ],
+                    "q": "Aemilia: \"Etiam nocte apud īnfantem er#, semper cum eō dorm#. Nōs et īnfāns in eōdem cubiculō dorm#.\""
+                },
+                {
+                    "a": [
+                        "ābimus",
+                        "ābimur"
+                    ],
+                    "q": "Iūlius: \"Nōn dormiēmus, sed vigil#! Nam certē ab īnfante vāgiente excit#!\""
+                },
+                {
+                    "a": [
+                        "ābor",
+                        "iēs",
+                        "āberis"
+                    ],
+                    "q": "Aemilia: \"Ego excit#, tū bene dorm# nec excit#!\""
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "PENSVM B",
+            "info": "",
+            "questions": [
+                {
+                    "a": [
+                        "cūnīs",
+                        "īnfāns"
+                    ],
+                    "q": "Parvulus puer quī in # iacet # appellātur. "
+                },
+                {
+                    "a": [
+                        "caret",
+                        "vāgit"
+                    ],
+                    "q": "Īnfāns quī cibō # magnā vōce #."
+                },
+                {
+                    "a": [
+                        "lac"
+                    ],
+                    "q": "Nōn pānis, sed # cibus īnfantium est."
+                },
+                {
+                    "a": [
+                        "mulier",
+                        "aliēnum",
+                        "alit"
+                    ],
+                    "q": "Nūtrīx est # [= fēmina] quae nōn suum, sed # īnfantem #."
+                },
+                {
+                    "a": [
+                        "nōlunt"
+                    ],
+                    "q": "Multae mātrēs īnfantēs suōs ipsae alere # [= nōn volunt]. "
+                },
+                {
+                    "a": [
+                        "colloquuntur",
+                        "futūrō"
+                    ],
+                    "q": "Marītus et uxor iam nōn dē tempore praeteritō #, sed dē tempore #."
+                },
+                {
+                    "a": [
+                        "vīs",
+                        "volō",
+                        "nōlō",
+                        "vultis",
+                        "magis"
+                    ],
+                    "q": "Aemilia: \"Cūr tū fīlium habēre #, Iūlī? Ego alteram fīliam habēre #, plūrēs quam duōs fīliōs # [= nōn volō]. Vōs virī fīliōs tantum #! Fīliōs # dīligitis quam fīliās!\""
+                },
+                {
+                    "a": [
+                        "silet",
+                        "gradum",
+                        "Manē",
+                        "Nōlī"
+                    ],
+                    "q": "Iūlius # [= tacet]. Aemilia īrāta # adversus ōstium facit, sed Iūlius: \"# hīc apud mē!\" inquit, \"# discēdere!\""
+                },
+                {
+                    "a": [
+                        "pergit",
+                        "dēbet",
+                        "officium",
+                        "cūrāre"
+                    ],
+                    "q": "Aemilia manet ac loquī #: \"Bona māter apud īnfantem suum manēre #, hoc mātris # est. Nēmō enim īnfantem melius # potest quam māter ipsa.\""
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "PENSVM C",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Ubi parvulus īnfāns cubat? ",
+                    "a": []
+                },
+                {
+                    "q": "2. Quid facit īnfāns quī cibō caret? ",
+                    "a": []
+                },
+                {
+                    "q": "3. Quid est cibus īnfantium parvulōrum? ",
+                    "a": []
+                },
+                {
+                    "q": "4. Num omnēs īnfantēs ā mātribus suīs aluntur? ",
+                    "a": []
+                },
+                {
+                    "q": "5. Quae sunt prīma verba īnfantis? ",
+                    "a": []
+                },
+                {
+                    "q": "6. Quandō Aemilia novum īnfantem habēbit? ",
+                    "a": []
+                },
+                {
+                    "q": "7. Cūr Aemilia ā marītō suō discēdere vult? ",
+                    "a": []
+                },
+                {
+                    "q": "8. Cūr Iūlius in aliō cubiculō dormīre vult? ",
+                    "a": []
+                },
+                {
+                    "q": "9. Quid Aemilia officium mātris esse dīcit? ",
+                    "a": []
+                },
+                {
+                    "q": "10. Cūr Syra et Iūlia in hortō nōn manent? ",
+                    "a": []
+                },
+                {
+                    "q": "11. Cūr Iūlia sorōrem habēre nōn vult? ",
+                    "a": []
+                }
+            ]
+        }
+    ]
+}

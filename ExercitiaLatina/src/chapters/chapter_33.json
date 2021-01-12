@@ -1,0 +1,1444 @@
+{
+    "id": 32,
+    "name": "CAPITVLVM XXXIII",
+    "exercises": [
+        {
+            "id": 0,
+            "name": "Exercise 1",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Bis # sunt quattuor [2x2=4].",
+                    "a": [
+                        "bīna"
+                    ]
+                },
+                {
+                    "q": "2. Bis # sunt sex [2x3=6].",
+                    "a": [
+                        "terna"
+                    ]
+                },
+                {
+                    "q": "3. Ter # sunt duodecim [3x4=12].",
+                    "a": [
+                        "quaterna"
+                    ]
+                },
+                {
+                    "q": "4. Quater # sunt vīgintī [4x5=20].",
+                    "a": [
+                        "quīna"
+                    ]
+                },
+                {
+                    "q": "5. Quīnquiēs # sunt trīgintā [5x6=30].",
+                    "a": [
+                        "sēna"
+                    ]
+                },
+                {
+                    "q": "6. Deciēs # sunt centum [10x10=100].",
+                    "a": [
+                        "dēna"
+                    ]
+                },
+                {
+                    "q": "7. Legiōnēs Rōmānae in # [X] cohortēs dīviduntur.",
+                    "a": [
+                        "dēnās"
+                    ]
+                },
+                {
+                    "q": "8. In singulīs legiōnibus sunt # [IV] vel # [V] vel # [VI] mīlia mīlitum.",
+                    "a": [
+                        "quaterna",
+                        "quīna",
+                        "sēna"
+                    ]
+                },
+                {
+                    "q": "9. In # lectīs # [I] aut # [II] aut # [III] convīvae accubant.",
+                    "a": [
+                        "singulīs",
+                        "singulī",
+                        "bīnī",
+                        "ternī"
+                    ]
+                },
+                {
+                    "q": "10. Hominēs # digitōs habent, nam in utrāque manū # digitī sunt.",
+                    "a": [
+                        "dēnōs",
+                        "quīnī"
+                    ]
+                },
+                {
+                    "q": "11. Hominibus # manūs sunt et # pedēs.",
+                    "a": [
+                        "bīnae",
+                        "bīnī"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Exercise 2",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. # Rōmāna in decem # dīviditur.",
+                    "a": [
+                        "Legiō",
+                        "cohortēs"
+                    ]
+                },
+                {
+                    "q": "2. Exercituī Rōmānō # [= adiciuntur] # ex prōvinciīs.",
+                    "a": [
+                        "adiunguntur",
+                        "auxilia"
+                    ]
+                },
+                {
+                    "q": "3. In itinere cohortēs alia post aliam in longō # prōcēdunt.",
+                    "a": [
+                        "ōrdine"
+                    ]
+                },
+                {
+                    "q": "4. Exercitus quī ita # [= prōcēdit] # dīcitur.",
+                    "a": [
+                        "prōgreditur",
+                        "agmen"
+                    ]
+                },
+                {
+                    "q": "5. Ante agmen fertur # legiōnis, aquila argentea.",
+                    "a": [
+                        "signum"
+                    ]
+                },
+                {
+                    "q": "6. Cum tempus # est ad pugnandum, cohortēs in trēs ōrdinēs #.",
+                    "a": [
+                        "idōneum",
+                        "īnstruuntur"
+                    ]
+                },
+                {
+                    "q": "7. Exercitus ad # [= pugnam] īnstrūctus # dīcitur.",
+                    "a": [
+                        "proelium",
+                        "aciēs"
+                    ]
+                },
+                {
+                    "q": "8. Ante proelium dux mīlitēs # ut fortiter pugnent.",
+                    "a": [
+                        "hortātur"
+                    ]
+                },
+                {
+                    "q": "9. Tum peditēs # et pīla in hostēs mittunt, tum eōs gladiīs # [= occīdunt].",
+                    "a": [
+                        "prōcurrunt",
+                        "caedunt"
+                    ]
+                },
+                {
+                    "q": "10. Dux quī hostēs magnō proeliō vīcit # nōminātur.",
+                    "a": [
+                        "imperātor"
+                    ]
+                },
+                {
+                    "q": "11. Castra, quae fossā et vāllō # [= cinguntur], bene # sunt.",
+                    "a": [
+                        "circumdantur",
+                        "mūnīta"
+                    ]
+                },
+                {
+                    "q": "12. Aemilius, quī in capitulō XII # [= memorātur], est mīles fortissimus, cuius # ēgregia ab omnibus laudātur.",
+                    "a": [
+                        "commemorātur",
+                        "virtūs"
+                    ]
+                },
+                {
+                    "q": "13. Iam puer septem annōs # Aemilius cum aliīs puerīs eiusdem # proelia lūdēbat.",
+                    "a": [
+                        "nātus",
+                        "aetātis"
+                    ]
+                },
+                {
+                    "q": "14. Adulēscēns nihil nisi rem # discere volēbat, neque pater, quī ipse litterīs #, fīlium ad # litterārum # potuit.",
+                    "a": [
+                        "mīlitārem",
+                        "studēbat",
+                        "studium",
+                        "cōgere"
+                    ]
+                },
+                {
+                    "q": "15. Ergō fīlius ad exercitum missus est, ut # merēret.",
+                    "a": [
+                        "stipendia"
+                    ]
+                },
+                {
+                    "q": "16. Epistulae quās pater ad fīlium dat sunt # [= māximē] dē rēbus #, sed Aemilia scrībit dē rēbus #.",
+                    "a": [
+                        "praecipuē",
+                        "pūblicīs",
+                        "prīvātīs"
+                    ]
+                },
+                {
+                    "q": "17. # [= diē ante] kalendās Iūniās Aemilia litterās accēpit, quās # diē [= diē post] in convīviō recitāvit.",
+                    "a": [
+                        "Prīdiē",
+                        "posterō"
+                    ]
+                },
+                {
+                    "q": "18. Bonus mīles longō itinere nōn # [= fessus fit].",
+                    "a": [
+                        "fatīgātur"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Exercise 3",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Quot cohortēs sunt in singulīs legiōnibus? ...",
+                    "a": [
+                        "in singulīs legiōnibus dēnae cohortēs sunt"
+                    ]
+                },
+                {
+                    "q": "2. Quae sunt arma auxiliōrum? ...",
+                    "a": [
+                        "arma auxiliōrum sunt arcūs et sagittae"
+                    ]
+                },
+                {
+                    "q": "3. Quod signum ante legiōnem fertur? ...",
+                    "a": [
+                        "in itinere ante legiōnem fertur aquila argentea"
+                    ]
+                },
+                {
+                    "q": "4. Quid vocātur exercitus quī in itinere est? ...",
+                    "a": [
+                        "exercitus in itinere dīcitur 'agmen'"
+                    ]
+                },
+                {
+                    "q": "5. Quōmodo legiō ad proelium īnstruitur? ...",
+                    "a": [
+                        "legiō in trēs ōrdinēs īnstruitur"
+                    ]
+                },
+                {
+                    "q": "6. Quid agit dux ante proelium? ...",
+                    "a": [
+                        "ante proelium dux mīlitēs suōs hortātur ut fortiter pugnent"
+                    ]
+                },
+                {
+                    "q": "7. Quō nōmine appellātur dux post magnam victōriam? ...",
+                    "a": [
+                        "post magnam victōriam dux ‘imperātor’ nōminātur"
+                    ]
+                },
+                {
+                    "q": "8. Quōmodo castra Rōmāna mūniuntur? ...",
+                    "a": [
+                        "castra Rōmāna vāllō et fossā mūniuntur"
+                    ]
+                },
+                {
+                    "q": "9. Quārē Aemilius puer gladiōs ligneōs sibi faciēbat? ...",
+                    "a": [
+                        "gladiōs ligneōs faciēbat ut cum aliīs puerīs proelia lūderet"
+                    ]
+                },
+                {
+                    "q": "10. Cui reī studēbat Aemilius adulēscēns? ...",
+                    "a": [
+                        "Aemilius adulēscēns reī mīlitārī studēbat"
+                    ]
+                },
+                {
+                    "q": "11. Ad quod studium pater fīlium hortābātur? ...",
+                    "a": [
+                        "pater fīlium suum ad studium litterārum hortābātur"
+                    ]
+                },
+                {
+                    "q": "12. Quō Aemilius ā patre missus est? ...",
+                    "a": [
+                        "Aemilius in Germāniam ad exercitum Rōmānum missus est"
+                    ]
+                },
+                {
+                    "q": "13. Quālis mīles est Aemilius? ...",
+                    "a": [
+                        "Aemilius est bonus mīles"
+                    ]
+                },
+                {
+                    "q": "14. Dē quibus rēbus Aemilia ad frātrem scrībere solet? ...",
+                    "a": [
+                        "Aemilia ad frātrem scrībit dē rēbus prīvātīs"
+                    ]
+                },
+                {
+                    "q": "15. Quid appāret ex epistulīs Aemiliī novissimīs? ...",
+                    "a": [
+                        "ex litterīs eius appāret eum iam vitā mīlitārī fatīgātum esse"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Exercise 4",
+            "info": "Exempla:\nparātus ad scrībendum: parātus ad epistulam scrībendam\ncupidus scrībendī: cupidus epistulae scrībendae (= cupidus epistulam \nscrībendī)\nfessus scrībendō: fessus epistulā scrībendā (= fessus epistulam scrībendō)\n",
+            "questions": [
+                {
+                    "q": "1. Quīntus Syram hortātur ad nārrand#: puer Syram hortātur ad fābul# nārrand#.",
+                    "a": [
+                        "um",
+                        "am",
+                        "am"
+                    ]
+                },
+                {
+                    "q": "2. Syra fīnem nārrand# facit quia fessa est nārrand#: fīnem facit fābul# nārrand# (= fābulam nārrandī) quia fessa est fābul# nārrand# (= fābulam nārrandō).",
+                    "a": [
+                        "ī",
+                        "ō",
+                        "ae",
+                        "ae",
+                        "ā",
+                        "ā"
+                    ]
+                },
+                {
+                    "q": "3. Aemilius tempus ad scrībend# nōn habet: nūllum tempus habet ad epistulās scrībend#.",
+                    "a": [
+                        "um",
+                        "ās"
+                    ]
+                },
+                {
+                    "q": "4. Aemilia industria est in scrībend#: industria est in epistulīs scrībend#.",
+                    "a": [
+                        "ō",
+                        "īs"
+                    ]
+                },
+                {
+                    "q": "5. Exercitia necessāria sunt ad discend#: necessāria sunt nōn modo ad grammaticam discend#, sed etiam ad vocābula discend#.",
+                    "a": [
+                        "um",
+                        "am",
+                        "a"
+                    ]
+                },
+                {
+                    "q": "6. Sextus studiōsus est legend#: studiōsus est librōrum legend# (= librōs legendī).",
+                    "a": [
+                        "ī",
+                        "ōrum"
+                    ]
+                },
+                {
+                    "q": "7. Pāstor canem sēcum habet ovium cūstōdiend# causā (= ovēs cūstōdiendī causā).",
+                    "a": [
+                        "ārum"
+                    ]
+                },
+                {
+                    "q": "8. Canis necessārius est ad ovēs cūstōdiend#.",
+                    "a": [
+                        "ās"
+                    ]
+                },
+                {
+                    "q": "9. Pāstor ipse neglegēns est in ovibus cūstōdiend#.",
+                    "a": [
+                        "īs"
+                    ]
+                },
+                {
+                    "q": "10. Equitēs mittuntur ad hostēs persequend#.",
+                    "a": [
+                        "ōs"
+                    ]
+                },
+                {
+                    "q": "11. Mēdus cupidus est patri# vidend# (= patriam videndī).",
+                    "a": [
+                        "ae",
+                        "ae"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Exercise 5",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Alpēs sunt montēs celsī et #.",
+                    "a": [
+                        "arduī"
+                    ]
+                },
+                {
+                    "q": "2. XV # [= circiter] diēbus tabellārius pūblicus Rōmā in Germāniam # [= celeriter īre] potest.",
+                    "a": [
+                        "ferē",
+                        "properāre"
+                    ]
+                },
+                {
+                    "q": "3. Difficile est exercitum ex Italiā in Germāniam #.",
+                    "a": [
+                        "trānsferre"
+                    ]
+                },
+                {
+                    "q": "4. Aemilius patriam et amīcōs, quī # [= procul] absunt, #.",
+                    "a": [
+                        "longē",
+                        "dēsīderat"
+                    ]
+                },
+                {
+                    "q": "5. Aemilius scrībit: “Magnō cum # ex epistulā tuā cognōvī vōs omnēs bonā # fruī [= bene valēre].”",
+                    "a": [
+                        "gaudiō",
+                        "valētūdine"
+                    ]
+                },
+                {
+                    "q": "6. Lacrimās # mīlitem nōn decet.",
+                    "a": [
+                        "effundere"
+                    ]
+                },
+                {
+                    "q": "7. Mīlitēs Rōmānī # Dānuvium sunt, hostēs sunt # Dānuvium neque # [= flūmen] # possunt.",
+                    "a": [
+                        "citrā",
+                        "ultrā",
+                        "amnem",
+                        "trānsīre"
+                    ]
+                },
+                {
+                    "q": "8. Exercitus Rōmānus # in Germāniā remanēbit # hostēs armātī ibi erunt.",
+                    "a": [
+                        "tamdiū",
+                        "quamdiū"
+                    ]
+                },
+                {
+                    "q": "9. Aemilius officium suum ergā patriam # [= facere] cupit.",
+                    "a": [
+                        "praestāre"
+                    ]
+                },
+                {
+                    "q": "10. Aemilia # litterās [= trēs epistulās] ad frātrem mīsit et # litterās [= ūnam epistulam] ab eō accēpit.",
+                    "a": [
+                        "trīnās",
+                        "ūnās"
+                    ]
+                },
+                {
+                    "q": "11. ‘Vīvimus ut bibāmus’ est dictum # [< rīdēre].",
+                    "a": [
+                        "rīdiculum"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Exercise 6",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Ubi sunt Alpēs? ...",
+                    "a": [
+                        "Alpēs sunt montēs inter Italiam et Germāniam"
+                    ]
+                },
+                {
+                    "q": "2. Quid Aemilius cognōvit ex epistulā sorōris? ...",
+                    "a": [
+                        "cognōvit sorōrem suam et virum eius et līberōs bene valēre"
+                    ]
+                },
+                {
+                    "q": "3. Cūr Aemilius permovētur epistulīs legendīs? ...",
+                    "a": [
+                        "... quod patriam et amīcōs suōs dēsīderat"
+                    ]
+                },
+                {
+                    "q": "4. Quod flūmen praeter castra Aemiliī fluit? ...",
+                    "a": [
+                        "Dānuvius fluvius praeter castra eius fluit"
+                    ]
+                },
+                {
+                    "q": "5. Quis deus trāns montēs amnēsque volāre potest? ...",
+                    "a": [
+                        "Mercurius est deus quī trāns montēs et maria volāre potest"
+                    ]
+                },
+                {
+                    "q": "6. Quārē legiōnēs Rōmānae in Germāniā sunt? ...",
+                    "a": [
+                        "exercitus Rōmānus in Germāniā est, ut fīnēs imperiī dēfendat"
+                    ]
+                },
+                {
+                    "q": "7. Quamdiū legiōnēs in Germāniā remanēbunt? ...",
+                    "a": [
+                        "Rōmānī tamdiū in Germāniā remanēbunt quamdiū hostēs armātī ibi erunt"
+                    ]
+                },
+                {
+                    "q": "8. Quot litterās Aemilius ā sorōre accēpit? ...",
+                    "a": [
+                        "Aemilius trīnās quaternāsve litterās accēpit ā sorōre suā"
+                    ]
+                },
+                {
+                    "q": "9. Cūr ipse neglegēns fuit in scrībendō? ...",
+                    "a": [
+                        "nūllum ōtium Aemiliō fuit ad epistulās scrībendās"
+                    ]
+                },
+                {
+                    "q": "10. Cūr iam nūllus hostis armātus citrā flūmen est? ...",
+                    "a": [
+                        ".... quia prīdiē Rōmānī exercitum Germānōrum proeliō vīcit"
+                    ]
+                },
+                {
+                    "q": "11. Estne tibi ōtium ad multās epistulās scrībendās? ...",
+                    "a": [
+                        "paucās epistulās scrībō quod mihi parum est ōtiī"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Exercise 7",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Herī magister epistulam ad Iūlium scrīpsit, cum fīlius eius in lūdō dormīv#, prāvē scrīps# nec magistrō pāru#.",
+                    "a": [
+                        "isset",
+                        "isset",
+                        "isset"
+                    ]
+                },
+                {
+                    "q": "2. Iūlius, cum epistulam magistrī accēp# et lēg#, ā fīliō quaesīvit cūr malus discipulus fu#.",
+                    "a": [
+                        "isset",
+                        "isset",
+                        "isset"
+                    ]
+                },
+                {
+                    "q": "3. Cum Mārcus sē malum discipulum fuisse negāv#, pater “Profectō” inquit “malus fuistī! Nam sī bonus discipulus fu# ac magistrō pāru#, haec epistula ā magistrō tuō scrīpt# nōn #.” Fīlius tacet.",
+                    "a": [
+                        "isset",
+                        "issēs",
+                        "issēs",
+                        "a",
+                        "esset"
+                    ]
+                },
+                {
+                    "q": "4. Pater: “Sī attentē audīv# et rēctē scrīps#, tū ā magistrō laudāt# # neque ego hanc epistulam accēp#.”",
+                    "a": [
+                        "issēs",
+                        "issēs",
+                        "us",
+                        "essēs",
+                        "issem"
+                    ]
+                },
+                {
+                    "q": "5. Fīlius: “Etiam sī bonus discipulus fu# ac magistrō pāru#, laudāt# nōn #. Sī attentē audīv# et rēctē scrīps#, tū eandem epistulam ā magistrō accēp#!”",
+                    "a": [
+                        "issem",
+                        "issem",
+                        "us",
+                        "essem",
+                        "issem",
+                        "issem",
+                        "issēs"
+                    ]
+                },
+                {
+                    "q": "6. Aliquandō, cum puerī in lūdō dormīv#, prāvē scrīps# nec magistrō pāru#, magister litterās ad parentēs eōrum scrīpsit.",
+                    "a": [
+                        "issent",
+                        "issent",
+                        "issent"
+                    ]
+                },
+                {
+                    "q": "7. Parentēs, cum litterās magistrī accēp# et lēg#, ā fīliīs quaesīvērunt cūr malī discipulī fu#.",
+                    "a": [
+                        "issent",
+                        "issent",
+                        "issent"
+                    ]
+                },
+                {
+                    "q": "8. Cum fīliī sē malōs discipulōs fuisse negāv#, “Certē” inquit pater “malī fuistis! Nam sī bonī discipulī fu# ac magistrō pāru#, hae litterae ā magistrō vestrō scrīpt# nōn #.” Fīliī tacent.",
+                    "a": [
+                        "issent",
+                        "issētis",
+                        "issētis",
+                        "ae",
+                        "essent"
+                    ]
+                },
+                {
+                    "q": "9. Parentēs: “Sī attentē audīv# et rēctē scrīps#, vōs ā magistrō laudāt# # neque nōs hās litterās accēp#.”",
+                    "a": [
+                        "issētis",
+                        "issētis",
+                        "ī",
+                        "essētis",
+                        "issēmus"
+                    ]
+                },
+                {
+                    "q": "10. Fīliī: “Etiam sī bonī discipulī fu# ac magistrō pāru#, laudāt# nōn #. Sī attentē audīv# et rēctē scrīps#, vōs eāsdem litterās ā magistrō accēp#.”",
+                    "a": [
+                        "issēmus",
+                        "issēmus",
+                        "ī",
+                        "essēmus",
+                        "issēmus",
+                        "issēmus",
+                        "issētis"
+                    ]
+                },
+                {
+                    "q": "11. Rōmulus, cum mūrōs aedificāv# [= postquam... aedificāvit], frātrem suum necāvit. Cum frātrem necāv#, sōlus rēgnāvit.",
+                    "a": [
+                        "isset",
+                        "isset"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Exercise 8",
+            "info": "Exempla:\n[Nunc:] Aquam bibō quia vīnum nōn habeō. Utinam vīnum habērem! \nSī vīnum habērem, aquam nōn biberem.\n[Tunc:] Aquam bibī quia vīnum nōn habēbam. Utinam vīnum habuissem! \nSī vīnum habuissem, aquam nōn bibissem!\n",
+            "questions": [
+                {
+                    "q": "1. Cornēlius: “Utinam ego tot servōs habē# quot Iūlius habet. Sī tot servōs habē#, numquam sōlus ambulā#.”  ",
+                    "a": [
+                        "rem",
+                        "rem",
+                        "rem"
+                    ]
+                },
+                {
+                    "q": "2. Sextus: “Utinam ego linguam Graecam scī# ac doctus es# ut magister; multōs librōs Graecōs leg#, sī eam linguam scī#.”",
+                    "a": [
+                        "rem",
+                        "sem",
+                        "erem",
+                        "rem"
+                    ]
+                },
+                {
+                    "q": "3. Dominus: “Ēbrius es!” Servus: “Nōn sum, sed utinam ita es#!”",
+                    "a": [
+                        "sem"
+                    ]
+                },
+                {
+                    "q": "4. Daedalus: “Nisi ego illās ālās fēc#, Īcarus etiamnunc vīv#. Utinam nē ālās fēc#! Utinam fīlius meus vīv#!”",
+                    "a": [
+                        "issem",
+                        "eret",
+                        "issem",
+                        "eret"
+                    ]
+                },
+                {
+                    "q": "5. Lēander: “Utinam ego līber es# et tū lībera es#, Dēlia! Sī nōs līberī es#, in Graeciam ī#.”",
+                    "a": [
+                        "sem",
+                        "sēs",
+                        "sēmus",
+                        "rēmus"
+                    ]
+                },
+                {
+                    "q": "6. Quīntus: “Doleō quia arborem ascendī. Nisi arborem ascend#, nunc sānus es# neque hīc cubā#. Utinam nē eam arborem ascend#! Utinam sānus es#!”",
+                    "a": [
+                        "issem",
+                        "sem",
+                        "rem",
+                        "issem",
+                        "sem"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Exercise 9",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Germānī, cum nāviculīs et # # [= coniūnctīs] flūmen trānsiissent, celeriter # flūmen ad castra prōgressī sunt.",
+                    "a": [
+                        "ratibus",
+                        "cōpulātīs",
+                        "secundum"
+                    ]
+                },
+                {
+                    "q": "2. Rōmānī, quī statim # sunt, hostēs ē silvīs # vīdērunt.",
+                    "a": [
+                        "convocātī",
+                        "excurrere"
+                    ]
+                },
+                {
+                    "q": "3. Equitēs portā dextrā # atque hostēs perturbāvērunt.",
+                    "a": [
+                        "ērūpērunt"
+                    ]
+                },
+                {
+                    "q": "4. Cum diū pugnāvissent, Germānī impetum Rōmānōrum # sustinēre nōn potuērunt; # [= namque] omnēs fūgērunt.",
+                    "a": [
+                        "diūtius",
+                        "etenim"
+                    ]
+                },
+                {
+                    "q": "5. Multī in flūmen sē prōiēcērunt, ut ad # # [< ultrā] natārent, aliī in rīpā # ab equitibus nostrīs caesī sunt.",
+                    "a": [
+                        "rīpam",
+                        "ulteriōrem",
+                        "citeriōre"
+                    ]
+                },
+                {
+                    "q": "6. Aemilius tantam # hostium aspicere horruit.",
+                    "a": [
+                        "caedem"
+                    ]
+                },
+                {
+                    "q": "7. Ipse sagittā in bracchiō # erat, nec grave erat #.",
+                    "a": [
+                        "vulnerātus",
+                        "vulnus"
+                    ]
+                },
+                {
+                    "q": "8. # [= prope omnēs] Rōmānī # [= salvī] erant.",
+                    "a": [
+                        "Plērīque",
+                        "incolumēs"
+                    ]
+                },
+                {
+                    "q": "9. Germānī # ad Rōmānōs mīsērunt ut # peterent.",
+                    "a": [
+                        "lēgātōs",
+                        "pācem"
+                    ]
+                },
+                {
+                    "q": "10. Post longum bellum omnēs spērant pācem # [= futūram esse].",
+                    "a": [
+                        "fore"
+                    ]
+                },
+                {
+                    "q": "11. Tibullus mortem ‘#’ et # [= gladiōs] ‘#’ vocat.",
+                    "a": [
+                        "dīram",
+                        "ēnsēs",
+                        "horrendōs"
+                    ]
+                },
+                {
+                    "q": "12. Is quī semper ōtiō fruitur # esse dīcitur.",
+                    "a": [
+                        "ōtiōsus"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Exercise 10",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Industrius es#, discipule! Semper magistrō pārē#!",
+                    "a": [
+                        "tō",
+                        "tō"
+                    ]
+                },
+                {
+                    "q": "2. Industriī es#, discipulī! Semper magistrō pārē#!",
+                    "a": [
+                        "tōte",
+                        "tōte"
+                    ]
+                },
+                {
+                    "q": "3. Respondē# ad id quod tē interrogāverō! Vērum dīc#!",
+                    "a": [
+                        "tō",
+                        "itō"
+                    ]
+                },
+                {
+                    "q": "4. Fac# quidquid dominus imperāverit, servī!",
+                    "a": [
+                        "itōte"
+                    ]
+                },
+                {
+                    "q": "5. Cum tē vocāverō, statim venī#!",
+                    "a": [
+                        "tō"
+                    ]
+                },
+                {
+                    "q": "6. Sī quid novī audīveris, mihi nūntiā#!",
+                    "a": [
+                        "tō"
+                    ]
+                },
+                {
+                    "q": "7. Posthāc plūrēs litterās ad mē scrīb#, mī frāter!",
+                    "a": [
+                        "itō"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Exercise 11",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Quid mediā nocte in castra nūntiātum est?",
+                    "a": []
+                },
+                {
+                    "q": "2. Cūr mīlitēs Rōmānī dubitābant an vērum dīxisset nūntius? ...",
+                    "a": [
+                        "nūntiātum est ‘magnum hostium numerum adversus castra prōgredī’"
+                    ]
+                },
+                {
+                    "q": "3. Quid factum est paulō ante lūcem? ...",
+                    "a": [
+                        "... quia extrā vāllum omnia tranquilla erant"
+                    ]
+                },
+                {
+                    "q": "4. Num Germānī vāllum ascendere potuērunt? ...",
+                    "a": [
+                        "exercitus Germānōrum castra Rōmāna oppugnāvit"
+                    ]
+                },
+                {
+                    "q": "5. Quōmodo hostēs perturbātī sunt et quō fūgērunt? ...",
+                    "a": [
+                        "Germānī vāllum ascendere nōn potuērunt, cum Rōmānī castra dēfenderent"
+                    ]
+                },
+                {
+                    "q": "6. Quot hominēs Germānī eō proeliō āmīsērunt? ...",
+                    "a": [
+                        "Cum Rōmānī ē castrīs ērūpissent, hostēs perturbātī ad flūmen fūgērunt"
+                    ]
+                },
+                {
+                    "q": "7. Cūr dux mīlitēs suōs laudāvit? ...",
+                    "a": [
+                        "Germānī duo ferē mīlia hominum āmīsērunt"
+                    ]
+                },
+                {
+                    "q": "8. Quārē lēgātī Germānōrum ad castra vēnērunt? ...",
+                    "a": [
+                        "dux mīlitēs suōs ob virtūtem laudāvit"
+                    ]
+                },
+                {
+                    "q": "9. Quōmodo Valerius interfectus est? ...",
+                    "a": [
+                        "lēgātī vēnērunt ut cum imperātōre Rōmānōrum colloquerentur"
+                    ]
+                },
+                {
+                    "q": "10. Quid amīcus moriēns Aemilium ōrāvit? ...",
+                    "a": [
+                        "Valerius pīlō percussus periit"
+                    ]
+                },
+                {
+                    "q": "11. Cūr Aemilius puer Tibullum poētam dēspiciēbat? ...",
+                    "a": [
+                        "Valerius Aemilium ōrāvit ut parentēs suōs cōnsōlārētur"
+                    ]
+                },
+                {
+                    "q": "12. Quid postrēmō sorōrem monet Aemilius? ...",
+                    "a": [
+                        "... quia poēta vītam ōtiōsam laudābat, vītam mīlitārem dēspiciēbat"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Exercise 12",
+            "info": "____________Sing.\t\tPlūr.\t\t\tSing.\t\tPlūr.\n____________Sing.\t\tPlūr.\t\t\tSing. \t\tPlūr.\nPassīvum\n____________Sing.\t\t\tPlūr.\n",
+            "questions": [
+                {
+                    "q": "1. 'Laudāv|erat' est indicātīvus plūsquamperfectī; 'laudāv|isset' nōn indicātīvus, sed # plūsquamperfectī est.",
+                    "a": [
+                        "coniūnctīvus"
+                    ]
+                },
+                {
+                    "q": "2. Coniūnctīvus plūsquamperfectī (pers. 3 sing.) dēsinit in ~isset, quod ad thema # (~) adicitur, ut 'scrīps|isset'.",
+                    "a": [
+                        "perfectī"
+                    ]
+                },
+                {
+                    "q": "3. Coniūnctīvus plūsquamperfectī: singulāris: pers. 1 ~issem, 2 ~#, 3  ~#; plūrālis: pers. 1 ~#, 2 ~#, 3 ~#.",
+                    "a": [
+                        "issēs",
+                        "isset",
+                        "issēmus",
+                        "issētis",
+                        "issent"
+                    ]
+                },
+                {
+                    "q": "4. Pers.1\tamāv#\tamāv#\t\tmonu#\tmonu#",
+                    "a": [
+                        "issem",
+                        "issēmus",
+                        "issem",
+                        "issēmus"
+                    ]
+                },
+                {
+                    "q": "5. Pers.2\tamāv#\tamāv#\t\tmonu#\tmonu#",
+                    "a": [
+                        "issēs",
+                        "issētis",
+                        "issēs",
+                        "issētis"
+                    ]
+                },
+                {
+                    "q": "6. Pers.3\tamāv#\tamāv#\t\tmonu#\tmonu#",
+                    "a": [
+                        "isset",
+                        "issent",
+                        "isset",
+                        "issent"
+                    ]
+                },
+                {
+                    "q": "7. Pers.1\tdūx#\tdūx#\t\taudīv#\taudīv#",
+                    "a": [
+                        "issem",
+                        "issēmus",
+                        "issem",
+                        "issēmus"
+                    ]
+                },
+                {
+                    "q": "8. Pers.2\tdūx#\tdūx#\t\taudīv#\taudīv#",
+                    "a": [
+                        "issēs",
+                        "issētis",
+                        "issēs",
+                        "issētis"
+                    ]
+                },
+                {
+                    "q": "9. Pers.3\tdūx#\tdūx#\t\taudīv#\taudīv#",
+                    "a": [
+                        "isset",
+                        "issent",
+                        "isset",
+                        "issent"
+                    ]
+                },
+                {
+                    "q": "10. Coniūnctīvus plūsquamperfectī verbī 'esse': singulāris: pers. 1 fu#, 2 fu#, 3 fu#; plūrālis: pers. 1 fu#, 2 fu#, 3. fu#.",
+                    "a": [
+                        "issem",
+                        "issēs",
+                        "isset",
+                        "issēmus",
+                        "issētis",
+                        "issent"
+                    ]
+                },
+                {
+                    "q": "11. 'Laudāt|us erat' est indicātīvus plūsquamperfectī passīvī; 'laudāt|us esset' # # passīvī est.",
+                    "a": [
+                        "coniūnctīvus",
+                        "plūsquamperfectī"
+                    ]
+                },
+                {
+                    "q": "12. Coniūnctīvus plūsquamperfectī passīvī cōnstat ex # perfectī et # # verbī 'esse' (essem, essēs, esset...).",
+                    "a": [
+                        "participiō",
+                        "coniūnctīvō",
+                        "imperfectī"
+                    ]
+                },
+                {
+                    "q": "13. Pers.1\tvocātus #\t\tvocāt# #",
+                    "a": [
+                        "essem",
+                        "ī",
+                        "essēmus"
+                    ]
+                },
+                {
+                    "q": "14. Pers.2\tvocāt# #\t\tvocāt# #\t",
+                    "a": [
+                        "us",
+                        "essēs",
+                        "ī",
+                        "essētis"
+                    ]
+                },
+                {
+                    "q": "15. Pers.3\tvocāt# #\t\tvocāt# #",
+                    "a": [
+                        "us",
+                        "esset",
+                        "ī",
+                        "essent"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Exercise 13",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Laudā, laudā|te est imperātīvus praesentis; laudā|tō, laudā|tōte imperātīvus # est.",
+                    "a": [
+                        "futūrī"
+                    ]
+                },
+                {
+                    "q": "2. Laudā|tō est # futūrī singulāris; laudā|tōte # # # est.",
+                    "a": [
+                        "imperātīvus",
+                        "imperātīvus",
+                        "futūrī",
+                        "plūrālis"
+                    ]
+                },
+                {
+                    "q": "3. Imperātīvus futūrī dēsinit in -tō, -tōte [1, 2, 4] aut -itō,-itōte [3], quod ad thema # adicitur.",
+                    "a": [
+                        "praesentis"
+                    ]
+                },
+                {
+                    "q": "4. Imperātīvus: praesēns: amā, amāte; futūrum: amā#, amā#.",
+                    "a": [
+                        "tō",
+                        "tōte"
+                    ]
+                },
+                {
+                    "q": "5. Imperātīvus: praesēns: monē, monēte; futūrum: monē#, monē#.",
+                    "a": [
+                        "tō",
+                        "tōte"
+                    ]
+                },
+                {
+                    "q": "6. Imperātīvus: praesēns: lege, legite; futūrum: leg#,  leg#.",
+                    "a": [
+                        "itō",
+                        "itōte"
+                    ]
+                },
+                {
+                    "q": "7. Imperātīvus: praesēns: audī, audīte; futūrum: audī#, audī#.",
+                    "a": [
+                        "tō",
+                        "tōte"
+                    ]
+                },
+                {
+                    "q": "8. Imperātīvus: praesēns: es, este; futūrum: es#, es#.",
+                    "a": [
+                        "tō",
+                        "tōte"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Exercise 14",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. caedere, #isse, #um esse",
+                    "a": [
+                        "cecīd",
+                        "caes"
+                    ]
+                },
+                {
+                    "q": "2. cōgere, #isse, #um esse",
+                    "a": [
+                        "coēg",
+                        "coāct"
+                    ]
+                },
+                {
+                    "q": "3. dēsistere, dē#isse",
+                    "a": [
+                        "stit"
+                    ]
+                },
+                {
+                    "q": "4. effundere, ef#isse, ef#um esse",
+                    "a": [
+                        "fūd",
+                        "fūs"
+                    ]
+                },
+                {
+                    "q": "5. īnstruere, īn#isse, īn#um esse",
+                    "a": [
+                        "strūx",
+                        "strūct"
+                    ]
+                },
+                {
+                    "q": "6. percutere, per#isse, per#um esse ",
+                    "a": [
+                        "cuss",
+                        "cuss"
+                    ]
+                },
+                {
+                    "q": "7. intellegere, intel#isse, intel#um esse",
+                    "a": [
+                        "lēx",
+                        "lēct"
+                    ]
+                },
+                {
+                    "q": "8. prōcurrere, prō#isse",
+                    "a": [
+                        "curr"
+                    ]
+                },
+                {
+                    "q": "9. prōgredī, prō#um esse",
+                    "a": [
+                        "gress"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "PENSVM A",
+            "info": "",
+            "questions": [
+                {
+                    "a": [
+                        "isset",
+                        "isset"
+                    ],
+                    "q": "Magister epistulam ad Iūlium scrīpsit, cum Mārcus in lūdō dormīv# nec magistrō pāru#."
+                },
+                {
+                    "a": [
+                        "isset",
+                        "isset",
+                        "isset"
+                    ],
+                    "q": "Sī Mārcus bonus discipulus fu#, magister eum laudāv# nec epistulam scrīps#."
+                },
+                {
+                    "a": [
+                        "isset",
+                        "issēs",
+                        "sem"
+                    ],
+                    "q": "Mārcus: \"Herī in cubiculō inclūsus sum, cum pater epistulam tuam lēg#. Nisi tū eam epistulam scrīps#, ā patre laudātus es#.\""
+                },
+                {
+                    "a": [
+                        "issēs",
+                        "issēs",
+                        "issēs",
+                        "issem",
+                        "issem"
+                    ],
+                    "q": "Magister: \"Epistulam scrīpsī cum in lūdō dormīv# nec mihi pāru#. Sī industrius fu#, tē laudāv# nec epistulam scrīps#.\""
+                },
+                {
+                    "a": [
+                        "issem",
+                        "issem",
+                        "issēs"
+                    ],
+                    "q": "Mārcus: \"Etiam sī industrius fu# et tibi pāru#, mē nōn laudāv#!\""
+                },
+                {
+                    "a": [
+                        "tō",
+                        "tō",
+                        "tō",
+                        "tō"
+                    ],
+                    "q": "Clēmēns es#, domine! Patientiam habē#! Servōs probōs laudā#, sed improbōs pūnī#!"
+                },
+                {
+                    "a": [
+                        "tōte",
+                        "tōte",
+                        "tōte",
+                        "tōte"
+                    ],
+                    "q": "Industriī es#, servī! Cum dominus loquitur, tacē# et audī#! Semper officium faci#!"
+                },
+                {
+                    "a": [
+                        "strūx",
+                        "strūct"
+                    ],
+                    "q": "Verba: īnstruere, īn#isse, īn#um;"
+                },
+                {
+                    "a": [
+                        "ēg",
+                        "āct"
+                    ],
+                    "q": "cōgere, co#isse, co#um;"
+                },
+                {
+                    "a": [
+                        "cecīd",
+                        "caes"
+                    ],
+                    "q": "caedere, #isse, #um;"
+                },
+                {
+                    "a": [
+                        "vert",
+                        "vers"
+                    ],
+                    "q": "convertere, con#isse, con#um;"
+                },
+                {
+                    "a": [
+                        "cuss",
+                        "cuss"
+                    ],
+                    "q": "percutere, per#isse, per#um;"
+                },
+                {
+                    "a": [
+                        "curr"
+                    ],
+                    "q": "prōcurrere, prō#isse;"
+                },
+                {
+                    "a": [
+                        "stit"
+                    ],
+                    "q": "dēsistere, dē#isse;"
+                },
+                {
+                    "a": [
+                        "gress"
+                    ],
+                    "q": "prōgredī, prō#um esse."
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "PENSVM B",
+            "info": "",
+            "questions": [
+                {
+                    "a": [
+                        "legiō",
+                        "cohortēs"
+                    ],
+                    "q": "Ūna # cōnstat ex V vel VI mīlibus hominum, quī in X # dīviduntur."
+                },
+                {
+                    "a": [
+                        "agmen"
+                    ],
+                    "q": "Exercitus prōcēdēns # dīcitur."
+                },
+                {
+                    "a": [
+                        "proelium",
+                        "aciēs"
+                    ],
+                    "q": "Exercitus ad # [= pugnam] īnstrūctus # appellātur."
+                },
+                {
+                    "a": [
+                        "imperātor"
+                    ],
+                    "q": "Post victōriam dux ā mīlitibus '#' nōminātur."
+                },
+                {
+                    "a": [
+                        "virtūs"
+                    ],
+                    "q": "Sī mīlitēs fortiter pugnāvērunt, # eōrum ab imperātōre laudātur."
+                },
+                {
+                    "a": [
+                        "effundere"
+                    ],
+                    "q": "Officium mīlitis est sanguinem # prō patriā."
+                },
+                {
+                    "a": [
+                        "commemorātus",
+                        "aetātis",
+                        "stipendia"
+                    ],
+                    "q": "Aemilius, quī in capitulō XII # est, ūnā cum Valeriō, adulēscente eiusdem #, in Germāniā # meruit."
+                },
+                {
+                    "a": [
+                        "ferē",
+                        "properāre"
+                    ],
+                    "q": "Tabellārius pūblicus XV # [= circiter] diēbus Rōmā in Germāniam # [= celeriter īre] potest."
+                },
+                {
+                    "a": [
+                        "trānsīre"
+                    ],
+                    "q": "Difficile est Alpēs #."
+                },
+                {
+                    "a": [
+                        "citrā",
+                        "ultrā"
+                    ],
+                    "q": "Mīlitēs Rōmānī # Dānuvium sunt, hostēs sunt # Dānuvium."
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "name": "PENSVM C",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Quae arma gerunt auxilia? ",
+                    "a": []
+                },
+                {
+                    "q": "2. Quid est signum legiōnis? ",
+                    "a": []
+                },
+                {
+                    "q": "3. Quōmodo mīlitēs in aciem īnstruuntur? ",
+                    "a": []
+                },
+                {
+                    "q": "4. Ad quod studium pater Aemilium hortābātur? ",
+                    "a": []
+                },
+                {
+                    "q": "5. Quō Aemilius adulēscēns missus est? ",
+                    "a": []
+                },
+                {
+                    "q": "6. Cūr Aemilius epistulās legēns permovētur? ",
+                    "a": []
+                },
+                {
+                    "q": "7. Quamobrem ipse paucās epistulās scrīpsit? ",
+                    "a": []
+                },
+                {
+                    "q": "8. Quī nūntius nocte in castra allātus est? ",
+                    "a": []
+                },
+                {
+                    "q": "9. Cūr hostēs castra Rōmāna nōn expugnāvērunt? ",
+                    "a": []
+                },
+                {
+                    "q": "10. Num Tibullus vītam mīlitārem laudat? ",
+                    "a": []
+                }
+            ]
+        }
+    ]
+}

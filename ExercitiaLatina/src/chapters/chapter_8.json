@@ -1,0 +1,1347 @@
+{
+    "id": 7,
+    "name": "CAPITVLVM VIII",
+    "exercises": [
+        {
+            "id": 0,
+            "name": "Exercise 1",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. In # Albīnī sunt multae # et # et alia #.",
+                    "a": [
+                        "tabernā",
+                        "gemmae",
+                        "margarītae",
+                        "ōrnāmenta"
+                    ]
+                },
+                {
+                    "q": "2. Albīnus est tabernārius quī ōrnāmenta #.",
+                    "a": [
+                        "vēndit"
+                    ]
+                },
+                {
+                    "q": "3. # tabernāriī māla et pira vēndunt.",
+                    "a": [
+                        "Aliī"
+                    ]
+                },
+                {
+                    "q": "4. # tabernam habet # est.",
+                    "a": [
+                        "Quī",
+                        "tabernārius"
+                    ]
+                },
+                {
+                    "q": "5. Multae fēminae ante tabernam Albīnī #.",
+                    "a": [
+                        "cōnsistunt"
+                    ]
+                },
+                {
+                    "q": "6. Eae quae pecūniam habent ōrnāmenta #.",
+                    "a": [
+                        "emunt"
+                    ]
+                },
+                {
+                    "q": "7. # pecūniam nōn habent ōrnāmenta # et rūrsus #.",
+                    "a": [
+                        "Quae",
+                        "aspiciunt",
+                        "abeunt"
+                    ]
+                },
+                {
+                    "q": "8. Aemilia multa ōrnāmenta ā virō suō #.",
+                    "a": [
+                        "accipit"
+                    ]
+                },
+                {
+                    "q": "9. Aemilia # in digitō et margarītās in # habet.",
+                    "a": [
+                        "ānulum",
+                        "collō"
+                    ]
+                },
+                {
+                    "q": "10. Margarītae collum Aemiliae #.",
+                    "a": [
+                        "ōrnant"
+                    ]
+                },
+                {
+                    "q": "11. # Aemiliae ānulō ōrnātur.",
+                    "a": [
+                        "Digitus"
+                    ]
+                },
+                {
+                    "q": "12. Quī magnam pecūniam habet # est.",
+                    "a": [
+                        "pecūniōsus"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Exercise 2",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Quis est Albīnus? ...",
+                    "a": [
+                        "Albīnus tabernārius est"
+                    ]
+                },
+                {
+                    "q": "2. Quid vēndit Albīnus? ...",
+                    "a": [
+                        "ōrnāmenta vēndit"
+                    ]
+                },
+                {
+                    "q": "3. Aliī tabernāriī quid vēndunt? ...",
+                    "a": [
+                        "aliī tabernāriī librōs, rosās, māla, cētera vēndunt"
+                    ]
+                },
+                {
+                    "q": "4. Cūr fēminae ōrnāmenta emunt? ...",
+                    "a": [
+                        "... quia ōrnāmentīs dēlectantur"
+                    ]
+                },
+                {
+                    "q": "5. Num ōrnāmentum est līnea sine margarītīs? ...",
+                    "a": [
+                        "ōrnāmentum nōn est!"
+                    ]
+                },
+                {
+                    "q": "6. Cūr Aemilia multa ōrnāmenta habet? ...",
+                    "a": [
+                        "... quia Iūlius eī multa ōrnāmenta dat"
+                    ]
+                },
+                {
+                    "q": "7. Ubi sunt margarītae Aemiliae? ...",
+                    "a": [
+                        "in collō eius sunt"
+                    ]
+                },
+                {
+                    "q": "8. Quid digitum Aemiliae ōrnat? ...",
+                    "a": [
+                        "ānulus digitum eius ōrnat"
+                    ]
+                },
+                {
+                    "q": "9. Estne Mēdus cum dominō suō? ...",
+                    "a": [
+                        "Mēdus nōn est cum dominō"
+                    ]
+                },
+                {
+                    "q": "10. Quod ōrnāmentum habet Lȳdia? ...",
+                    "a": [
+                        "līneam margarītārum habet"
+                    ]
+                },
+                {
+                    "q": "11. Cūr Lȳdia nūlla alia ōrnāmenta habet? ...",
+                    "a": [
+                        "... quia pecūniōsa nōn est"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Exercise 3",
+            "info": "Exemplum: \nIūlia Iūliō rosam dat = Iūlius rosam accipit ā Iūliā.\n",
+            "questions": [
+                {
+                    "q": "1. Iūlius Dāvō nummum dat = Dāvus # # # #",
+                    "a": [
+                        "nummum",
+                        "accipit",
+                        "ā|ab",
+                        "Iūliō"
+                    ]
+                },
+                {
+                    "q": "2. Aemilia ānulum accipit ā Iūliō = # # # #",
+                    "a": [
+                        "Iūlius",
+                        "Aemiliae",
+                        "ānulum",
+                        "dat"
+                    ]
+                },
+                {
+                    "q": "3. Virī fēminīs ōrnāmenta dant = # # # # #",
+                    "a": [
+                        "fēminae",
+                        "ōrnāmenta",
+                        "accipiunt",
+                        "ā|ab",
+                        "virīs"
+                    ]
+                },
+                {
+                    "q": "4. Servus mālum accipit ā dominō = # # # #",
+                    "a": [
+                        "dominus",
+                        "servō",
+                        "mālum",
+                        "dat"
+                    ]
+                },
+                {
+                    "q": "5. Mēdus Lȳdiae rosam dat = # # # # #",
+                    "a": [
+                        "Lȳdia",
+                        "rosam",
+                        "accipit",
+                        "ā|ab",
+                        "Mēdō"
+                    ]
+                },
+                {
+                    "q": "6. Servī nummōs accipiunt ā dominō = # # # #",
+                    "a": [
+                        "dominus",
+                        "servīs",
+                        "nummōs",
+                        "dat"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Exercise 4",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Iūlius ad vīllam #; quattuor servī cum eō #.",
+                    "a": [
+                        "advenit",
+                        "adveniunt"
+                    ]
+                },
+                {
+                    "q": "2. Aemilia ē peristȳlō # et in ātrium intrat.",
+                    "a": [
+                        "exit"
+                    ]
+                },
+                {
+                    "q": "3. Aemilia ad virum suum #.",
+                    "a": [
+                        "adit"
+                    ]
+                },
+                {
+                    "q": "4. Iūlia ab Aemiliā #; etiam puerī #.",
+                    "a": [
+                        "abit",
+                        "abeunt"
+                    ]
+                },
+                {
+                    "q": "5. Servī in ātrium intrant et rūrsus #.",
+                    "a": [
+                        "exeunt"
+                    ]
+                },
+                {
+                    "q": "6. Multae fēminae ad tabernam # et rūrsus #.",
+                    "a": [
+                        "adeunt",
+                        "abeunt"
+                    ]
+                },
+                {
+                    "q": "7. Quid # in sacculō? In sacculō nummī #.",
+                    "a": [
+                        "inest",
+                        "īnsunt"
+                    ]
+                },
+                {
+                    "q": "8. Quot servī sunt in ātriō? Duo servī #, cēterī #.",
+                    "a": [
+                        "adsunt",
+                        "absunt"
+                    ]
+                },
+                {
+                    "q": "9. Mēdus nōn #, Mēdus #.",
+                    "a": [
+                        "adest",
+                        "abest"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Exercise 5",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Iūlia: \"# nāsus meus foedus est?\"",
+                    "a": [
+                        "Num"
+                    ]
+                },
+                {
+                    "q": "2. Syra: \"Quid? # fōrmōsus est nāsus meus?\"",
+                    "a": [
+                        "Nōnne"
+                    ]
+                },
+                {
+                    "q": "3. Iūlius: \"Ubi est Iūlia? # mē exspectat?\"",
+                    "a": [
+                        "Nōnne"
+                    ]
+                },
+                {
+                    "q": "4. Iūlia: \"# haec rosa pulchra est?\"",
+                    "a": [
+                        "Nōnne"
+                    ]
+                },
+                {
+                    "q": "5. Aemilia: \"# hīc centum nummī sunt?\"",
+                    "a": [
+                        "Num"
+                    ]
+                },
+                {
+                    "q": "6. Albīnus: \"# pulchrī sunt hī ānulī?\"",
+                    "a": [
+                        "Nōnne"
+                    ]
+                },
+                {
+                    "q": "7. Mēdus: \"# ānulus sine gemmā vīgintī sēstertiīs cōnstat?\"",
+                    "a": [
+                        "Num"
+                    ]
+                },
+                {
+                    "q": "8. # Hispānia īnsula est?",
+                    "a": [
+                        "Num"
+                    ]
+                },
+                {
+                    "q": "9. # magnum est imperium Rōmānum?",
+                    "a": [
+                        "Nōnne"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Exercise 6",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Albīnus # : \"Ōr-nā-men-ta!\"",
+                    "a": [
+                        "clāmat"
+                    ]
+                },
+                {
+                    "q": "2. Lȳdia: \"Aspice # tabernam, Mēde!\"",
+                    "a": [
+                        "illam"
+                    ]
+                },
+                {
+                    "q": "3. Lȳdia tabernam Albīnī digitō #.",
+                    "a": [
+                        "mōnstrat"
+                    ]
+                },
+                {
+                    "q": "4. Lȳdia: \"Ō, # pulchra sunt # ōrnāmenta!\"",
+                    "a": [
+                        "quam",
+                        "illa"
+                    ]
+                },
+                {
+                    "q": "5. Albīnus Lȳdiae et Mēdō ānulōs #: \"Aspicite hōs ānulōs!\"",
+                    "a": [
+                        "ostendit"
+                    ]
+                },
+                {
+                    "q": "6. Mēdus: \"Quot nummīs # ānulus # [< gemma]?\"",
+                    "a": [
+                        "cōnstat",
+                        "gemmātus"
+                    ]
+                },
+                {
+                    "q": "7. Albīnus: \"# huius ānulī est centum # [= nummī]\".",
+                    "a": [
+                        "Pretium",
+                        "sēstertiī"
+                    ]
+                },
+                {
+                    "q": "8. Haec gemma sōla # [LXXX] sēstertiīs cōnstat.\"",
+                    "a": [
+                        "octōgintā"
+                    ]
+                },
+                {
+                    "q": "9. Mēdus: \"# [= tam magna] gemma ad tam parvum ānulum nōn #.\"",
+                    "a": [
+                        "Tanta",
+                        "convenit"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Exercise 7",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Cūr Lȳdia cōnsistit? ...",
+                    "a": [
+                        "... quia tabernam Albīnī videt"
+                    ]
+                },
+                {
+                    "q": "2. Quid aspicit Lȳdia? ...",
+                    "a": [
+                        "ōrnāmenta aspicit"
+                    ]
+                },
+                {
+                    "q": "3. Quō eunt Mēdus et Lȳdia? ...",
+                    "a": [
+                        "ad tabernam adeunt"
+                    ]
+                },
+                {
+                    "q": "4. Quae ōrnāmenta Albīnus iīs ostendit? ...",
+                    "a": [
+                        "Albīnus iīs margarītās ostendit"
+                    ]
+                },
+                {
+                    "q": "5. Cūr Mēdus ōrnāmenta nōn emit? ...",
+                    "a": [
+                        "... quia pecūniōsus nōn est"
+                    ]
+                },
+                {
+                    "q": "6. Quid est ānulus gemmātus? ...",
+                    "a": [
+                        "est ānulus cum gemmā"
+                    ]
+                },
+                {
+                    "q": "7. Quot sēstertiīs cōnstat ānulus gemmātus? ...",
+                    "a": [
+                        "centum sēstertiīs cōnstat"
+                    ]
+                },
+                {
+                    "q": "8. Quot sēstertiīs cōnstat gemma sōla? ...",
+                    "a": [
+                        "octōgintā sēstertiīs cōnstat"
+                    ]
+                },
+                {
+                    "q": "9. Quid Mēdus videt post Albīnum? ...",
+                    "a": [
+                        "alium ānulum gemmātum videt"
+                    ]
+                },
+                {
+                    "q": "10. Quid Lȳdia ante oculōs tenet? ...",
+                    "a": [
+                        "Lȳdia ānulum ante oculōs tenet"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Exercise 8",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Lȳdia: \"Aspic# illam tabernam, Mēde!\" Mēdus tabernam aspic#.",
+                    "a": [
+                        "e",
+                        "it"
+                    ]
+                },
+                {
+                    "q": "2. Mēdus et Lȳdia ōrnāmenta aspic#.",
+                    "a": [
+                        "iunt"
+                    ]
+                },
+                {
+                    "q": "3. Albīnus iīs ānulum ostendit: \"Aspic# hunc ānulum!\"",
+                    "a": [
+                        "ite"
+                    ]
+                },
+                {
+                    "q": "4. Iūlia Iūliō rosam ostendit: \"Aspic# hanc rosam, pater!\" Iūlius rosam aspic#.",
+                    "a": [
+                        "e",
+                        "it"
+                    ]
+                },
+                {
+                    "q": "5. Iūlia: \"Accip# rosam, pater!\" Pater rosam accip# ā fīliā suā.",
+                    "a": [
+                        "e",
+                        "it"
+                    ]
+                },
+                {
+                    "q": "6. Iūlius: \"Accip# māla, servī!\" Servī māla accip# ā dominō.",
+                    "a": [
+                        "ite",
+                        "iunt"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Exercise 9",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. # pecūnia est in sacculō Mēdī? # [XC] sēstertiī.",
+                    "a": [
+                        "Quanta",
+                        "Nōnāgintā"
+                    ]
+                },
+                {
+                    "q": "2. Albīnus: \"Id nōn # est. Pretium ānulī est sēstertiī centum.\"",
+                    "a": [
+                        "satis"
+                    ]
+                },
+                {
+                    "q": "3. Mēdus: \"Id est # magnum pretium. Accipe nōnāgintā sēstertiōs # nūllōs!\"",
+                    "a": [
+                        "nimis",
+                        "aut"
+                    ]
+                },
+                {
+                    "q": "4. Ānulus nōn in digitō #, sed in digitō # pōnitur.",
+                    "a": [
+                        "mediō",
+                        "quārtō"
+                    ]
+                },
+                {
+                    "q": "5. Digitus quārtus nōn # [= tam magnus] est # digitus medius.",
+                    "a": [
+                        "tantus",
+                        "quantus"
+                    ]
+                },
+                {
+                    "q": "6. Decem et decem sunt # [XX].",
+                    "a": [
+                        "vīgintī"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Exercise 10",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Mēdus: \"Quot numm# cōnstat ānulus gemmātus?\"",
+                    "a": [
+                        "īs"
+                    ]
+                },
+                {
+                    "q": "2. Albīnus: \"Hic ānulus centum sēsterti# cōnstat.\"",
+                    "a": [
+                        "īs"
+                    ]
+                },
+                {
+                    "q": "3. Mēdus: \"Aliī ānulum gemmātum octōgintā sēsterti# vēndunt.\"",
+                    "a": [
+                        "īs"
+                    ]
+                },
+                {
+                    "q": "4. Quant# preti# Mēdus ānulum emit? ",
+                    "a": [
+                        "ō",
+                        "ō"
+                    ]
+                },
+                {
+                    "q": "5. Mēdus ānulum emit sēsterti# nōnāgintā.",
+                    "a": [
+                        "īs"
+                    ]
+                },
+                {
+                    "q": "6. Albīnus Mēdō ānulum vēndit sēsterti# nōnāgintā.",
+                    "a": [
+                        "īs"
+                    ]
+                },
+                {
+                    "q": "7. Nōn magn# preti# Mēdus ānulum emit.",
+                    "a": [
+                        "ō",
+                        "ō"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Exercise 11",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Quid Lȳdia Mēdō ostendit? ...",
+                    "a": [
+                        "Mēdō digitōs suōs vacuōs ostendit"
+                    ]
+                },
+                {
+                    "q": "2. Cūr lacrimat Lȳdia? ...",
+                    "a": [
+                        "... quia nūllum ānulum habet"
+                    ]
+                },
+                {
+                    "q": "3. Quid Mēdus in mēnsā pōnit? ...",
+                    "a": [
+                        "sacculum suum in mēnsā pōnit"
+                    ]
+                },
+                {
+                    "q": "4. Estne vacuus sacculus Mēdī? ...",
+                    "a": [
+                        "vacuus nōn est sacculus eius"
+                    ]
+                },
+                {
+                    "q": "5. Quantō pretiō Mēdus ānulum emit? ... \t",
+                    "a": [
+                        "ānulum emit nōnāgintā sēstertiīs"
+                    ]
+                },
+                {
+                    "q": "6. Cūr Mēdus Albīnō centum sēstertiōs nōn dat? ...",
+                    "a": [
+                        "... quia pretium nimis magnum est"
+                    ]
+                },
+                {
+                    "q": "7. Cui Mēdus ānulum novum dat? ...",
+                    "a": [
+                        "Mēdus Lȳdiae ānulum novum dat"
+                    ]
+                },
+                {
+                    "q": "8. In quō digitō Mēdus ānulum pōnit? ...",
+                    "a": [
+                        "ānulum pōnit in digitō mediō"
+                    ]
+                },
+                {
+                    "q": "9. Cūr ānulus ad digitum medium nōn convenit? ...",
+                    "a": [
+                        "digitus medius nimis magnus est"
+                    ]
+                },
+                {
+                    "q": "10. Ad quem digitum ānulus convenit? ...",
+                    "a": [
+                        "ad digitum quārtum convenit"
+                    ]
+                },
+                {
+                    "q": "11. Cūr laeta est Lȳdia? ...",
+                    "a": [
+                        "... quia ānulum fōrmōsum habet"
+                    ]
+                },
+                {
+                    "q": "12. Mēdusne Lȳdiae viam mōnstrat? ...",
+                    "a": [
+                        "nōn Mēdus Lȳdiae, sed Lȳdia Mēdō viam mōnstrat"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Exercise 12",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Qu# Rōmam it? Servus Rōmam it. Qu# servus? Servus qu# Rōmam it est Mēdus, servus improbus. Is servus Rōmam it.",
+                    "a": [
+                        "is",
+                        "ī|is",
+                        "ī"
+                    ]
+                },
+                {
+                    "q": "2. C# servus est Mēdus? Mēdus est servus Iūliī. Dominus c# servus Rōmam it est Iūlius. Iūlius est dominus e# servī.",
+                    "a": [
+                        "uius",
+                        "uius",
+                        "ius"
+                    ]
+                },
+                {
+                    "q": "3. Qu# servum Iūlius vocat? Mēdus est servus qu# Iūlius vocat. E# servum vocat dominus.",
+                    "a": [
+                        "em",
+                        "em",
+                        "um"
+                    ]
+                },
+                {
+                    "q": "4. C# servō Iūlius nummum dat? Dāvus est servus c# Iūlius nummum dat. E# servō dominus nummum dat.",
+                    "a": [
+                        "ui",
+                        "ui",
+                        "ī"
+                    ]
+                },
+                {
+                    "q": "5. Ā qu# servō amātur Lȳdia? Servus ā qu# Lȳdia amātur est Mēdus. Ab e# servō amātur Lȳdia.",
+                    "a": [
+                        "ō",
+                        "ō",
+                        "ō"
+                    ]
+                },
+                {
+                    "q": "6. Qu# servī Iūlium vehunt? Servī qu# Iūlium vehunt sunt Ursus et Dāvus. I# servī Iūlium vehunt.",
+                    "a": [
+                        "ī",
+                        "ī",
+                        "ī"
+                    ]
+                },
+                {
+                    "q": "7. Qu# servōrum Iūlius dominus est? Servī qu# dominus est Iūlius sunt Mēdus, Dāvus, Syrus, cēterī. Iūlius est dominus e# servōrum.",
+                    "a": [
+                        "ōrum",
+                        "ōrum",
+                        "ōrum"
+                    ]
+                },
+                {
+                    "q": "8. Qu# servōs vocat Iūlius? Servī qu# Iūlius vocat sunt Dāvus et Syrus. E# servōs vocat dominus.",
+                    "a": [
+                        "ōs",
+                        "ōs",
+                        "ōs"
+                    ]
+                },
+                {
+                    "q": "9. Qu# servīs Iūlius nummōs dat? Dāvus et Syrus sunt servī qu# Iūlius nummōs dat. I# servīs dominus nummōs dat.",
+                    "a": [
+                        "ibus",
+                        "ibus",
+                        "īs"
+                    ]
+                },
+                {
+                    "q": "10. Ā qu# servīs Iūlius vehitur? Ursus et Dāvus sunt servī ā qu# Iūlius vehitur. Ab i# servīs dominus vehitur.",
+                    "a": [
+                        "ibus",
+                        "ibus",
+                        "īs"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Exercise 13",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Qu# fēmina cum Mēdō ambulat? Fēmina qu# cum Mēdō ambulat est Lȳdia. E# fēmina ambulat cum Mēdō.",
+                    "a": [
+                        "ae",
+                        "ae",
+                        "a"
+                    ]
+                },
+                {
+                    "q": "2. C# fēminae amīcus est Mēdus? Lȳdia est fēmina c# amīcus est Mēdus. Mēdus e# fēminae amīcus est.",
+                    "a": [
+                        "uius",
+                        "uius",
+                        "ius"
+                    ]
+                },
+                {
+                    "q": "3. Qu# fēminam amat Mēdus? Fēmina qu# Mēdus amat est Lȳdia. E# fēminam amat Mēdus.",
+                    "a": [
+                        "am",
+                        "am",
+                        "am"
+                    ]
+                },
+                {
+                    "q": "4. C# fēminae Mēdus ānulum dat? Fēmina c# Mēdus ānulum dat est Lȳdia. E# fēminae Mēdus ānulum dat.",
+                    "a": [
+                        "ui",
+                        "ui",
+                        "ī"
+                    ]
+                },
+                {
+                    "q": "5. Ā qu# fēminā Mēdus amātur? Fēmina ā qu# Mēdus amātur est Lȳdia. Ab e# fēminā amātur Mēdus.",
+                    "a": [
+                        "ā",
+                        "ā",
+                        "ā"
+                    ]
+                },
+                {
+                    "q": "6. Qu# ancillae absunt? Ancillae qu# absunt sunt Dēlia et Syra. E# ancillae absunt.",
+                    "a": [
+                        "ae",
+                        "ae",
+                        "ae"
+                    ]
+                },
+                {
+                    "q": "7. Qu# ancillārum Aemilia domina est? Dēlia et Syra sunt ancillae qu# domina est Aemilia. Ea domina e# ancillārum est.",
+                    "a": [
+                        "ārum",
+                        "ārum",
+                        "ārum"
+                    ]
+                },
+                {
+                    "q": "8. Qu# ancillās vocat Aemilia? Ancillae qu# Aemilia vocat sunt Dēlia et Syra. E# ancillās vocat domina.",
+                    "a": [
+                        "ās",
+                        "ās",
+                        "ās"
+                    ]
+                },
+                {
+                    "q": "9. Qu# ancillīs Aemilia māla dat? Ancillae qu# Aemilia māla dat sunt Dēlia et Syra. I# ancillīs domina māla dat. ",
+                    "a": [
+                        "ibus",
+                        "ibus",
+                        "īs"
+                    ]
+                },
+                {
+                    "q": "10. Ā qu# ancillīs domina salūtātur? Ancillae ā qu# salūtātur domina sunt Dēlia et Syra. Ab i# ancillīs domina salūtātur.",
+                    "a": [
+                        "ibus",
+                        "ibus",
+                        "īs"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Exercise 14",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Qu# est Capua? Capua est oppidum. Qu# oppidum prope vīllam Iūliī est? Tūsculum est oppidum qu# prope vīllam est. I# oppidum est prope vīllam.",
+                    "a": [
+                        "id",
+                        "od",
+                        "od",
+                        "d"
+                    ]
+                },
+                {
+                    "q": "2. Qu# emit Mēdus? Ōrnāmentum emit. Qu# ōrnāmentum emit Mēdus? Ōrnāmentum qu# Mēdus emit est ānulus gemmātus. I# ōrnāmentum emit Mēdus.",
+                    "a": [
+                        "id",
+                        "od",
+                        "od",
+                        "d"
+                    ]
+                },
+                {
+                    "q": "3. FAMILIA ROMANA est titulus capitulī. C# capitulī? Capitulum c# titulus est F. R. est capitulum secundum. Titulus e# capitulī est F. R.",
+                    "a": [
+                        "uius",
+                        "uius",
+                        "ius"
+                    ]
+                },
+                {
+                    "q": "4. C# capitulō titulus datur IMPERIVM ROMANVM? Capitulum c# hic titulus datur est capitulum prīmum. E# capitulō datur hic titulus. ",
+                    "a": [
+                        "ui",
+                        "ui",
+                        "ī"
+                    ]
+                },
+                {
+                    "q": "5. Lȳdia ōrnāmentō suō dēlectātur. Qu# ōrnāmentō? Ōrnāmentum qu# Lȳdia dēlectātur est ānulus. E# ōrnāmentō dēlectātur Lȳdia.",
+                    "a": [
+                        "ō",
+                        "ō",
+                        "ō"
+                    ]
+                },
+                {
+                    "q": "6. Qu# vocābula neutra sunt? Neutra sunt vocābula qu# '-um' habent. E# vocābula neutra sunt. ",
+                    "a": [
+                        "ae",
+                        "ae",
+                        "a"
+                    ]
+                },
+                {
+                    "q": "7. Qu# ōrnāmenta vēndit Albīnus? Ōrnāmenta qu# Albīnus vēndit sunt ānulī et margarītae. E# ōrnāmenta vēndit Albīnus.",
+                    "a": [
+                        "ae",
+                        "ae",
+                        "a"
+                    ]
+                },
+                {
+                    "q": "8. Qu# vocābulōrum plūrālis '-a' habet? Vocābula qu# plūrālis '-a' habet neutra sunt. Plūrālis e# vocābulōrum '-a' habet.",
+                    "a": [
+                        "ōrum",
+                        "ōrum",
+                        "ōrum"
+                    ]
+                },
+                {
+                    "q": "9. Qu# oppidīs fluviī Padus et Tiberis aquam dant? Oppida qu# iī fluviī aquam dant sunt Placentia et Ōstia et cētera multa. I# oppidīs fluviī Padus et Tiberis aquam dant.",
+                    "a": [
+                        "ibus",
+                        "ibus",
+                        "īs"
+                    ]
+                },
+                {
+                    "q": "10. Qu# verbīs dēlectātur Iūlia? Verba qu# Iūlia dēlectātur sunt \"Ecce puella pulchra!\" I# verbīs dēlectātur puella.",
+                    "a": [
+                        "ibus",
+                        "ibus",
+                        "īs"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Exercise 15",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. H# servus est Lēander, ill# servus est Syrus.",
+                    "a": [
+                        "ic",
+                        "e"
+                    ]
+                },
+                {
+                    "q": "2. Lēander h# saccum portat, ill# saccum portat Syrus.",
+                    "a": [
+                        "unc",
+                        "um"
+                    ]
+                },
+                {
+                    "q": "3. H# saccus portātur ab h# servō, ill# ab ill#.",
+                    "a": [
+                        "ic",
+                        "ōc",
+                        "e",
+                        "ō"
+                    ]
+                },
+                {
+                    "q": "4. Saccus h# servī magnus est, ill# est parvus.",
+                    "a": [
+                        "uius",
+                        "īus"
+                    ]
+                },
+                {
+                    "q": "5. In h# saccō māla sunt, in ill# pira.",
+                    "a": [
+                        "ōc",
+                        "ō"
+                    ]
+                },
+                {
+                    "q": "6. Iūlius h# servō mālum dat, ill# dat pirum.",
+                    "a": [
+                        "uic",
+                        "ī"
+                    ]
+                },
+                {
+                    "q": "7. H# fēmina est Lȳdia, ill# fēmina est Dōrippa.",
+                    "a": [
+                        "aec",
+                        "a"
+                    ]
+                },
+                {
+                    "q": "8. Mēdus h# fēminam amat, nōn ill#.",
+                    "a": [
+                        "anc",
+                        "am"
+                    ]
+                },
+                {
+                    "q": "9. Ab h# fēminā Mēdus amātur, nōn ab ill#.",
+                    "a": [
+                        "āc",
+                        "ā"
+                    ]
+                },
+                {
+                    "q": "10. Mēdus amīcus h# fēminae est, nōn ill#.",
+                    "a": [
+                        "uius",
+                        "īus"
+                    ]
+                },
+                {
+                    "q": "11. Mēdus h# fēminae ānulum dat, nōn ill#.",
+                    "a": [
+                        "uic",
+                        "ī"
+                    ]
+                },
+                {
+                    "q": "12. H# cubiculum magnum est, ill# est parvum.",
+                    "a": [
+                        "oc",
+                        "ud"
+                    ]
+                },
+                {
+                    "q": "13. Fenestra h# cubiculī nōn tam parva est quam ill#.",
+                    "a": [
+                        "uius",
+                        "īus"
+                    ]
+                },
+                {
+                    "q": "14. Iūlius et Aemilia in h# cubiculō dormiunt, nōn in ill#.",
+                    "a": [
+                        "ōc",
+                        "ō"
+                    ]
+                },
+                {
+                    "q": "15. Lȳdia: \"Aspice ill# ōrnāmenta, Mēde, ill# ānulōs et ill# gemmās! Nōnne pulchrī sunt ill# ānulī et ill# gemmae?\"",
+                    "a": [
+                        "a",
+                        "ōs",
+                        "ās",
+                        "ī",
+                        "ae"
+                    ]
+                },
+                {
+                    "q": "16. Albīnus: \"Aspicite h# ōrnāmenta, h# ānulōs et h# gemmās! Nōnne pulchrī sunt h# ānulī et h# gemmae?\"",
+                    "a": [
+                        "aec",
+                        "ōs",
+                        "ās",
+                        "ī",
+                        "ae"
+                    ]
+                },
+                {
+                    "q": "17. Lȳdia: \"Quantum est pretium h# ānulōrum et h# gemmārum?\"",
+                    "a": [
+                        "ōrum",
+                        "ārum"
+                    ]
+                },
+                {
+                    "q": "18. Mēdus: \"Nec in h# ānulīs nec in ill# gemmae sunt.\"",
+                    "a": [
+                        "īs",
+                        "īs"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "PENSVM A",
+            "info": "",
+            "questions": [
+                {
+                    "a": [
+                        "is",
+                        "ī"
+                    ],
+                    "q": "Qu# est Albīnus? Est tabernārius qu# ōrnāmenta vēndit."
+                },
+                {
+                    "a": [
+                        "ae",
+                        "ae"
+                    ],
+                    "q": "Qu# ōrnāmenta? Ōrnāmenta qu# Albīnus vēndit sunt gemmae et margarītae."
+                },
+                {
+                    "a": [
+                        "id"
+                    ],
+                    "q": "Qu# emit Mēdus? Ōrnāmentum emit."
+                },
+                {
+                    "a": [
+                        "od",
+                        "od",
+                        "uius"
+                    ],
+                    "q": "Qu# ōrnāmentum? Ōrnāmentum qu# Mēdus emit est ānulus c# pretium est HS C."
+                },
+                {
+                    "a": [
+                        "ō"
+                    ],
+                    "q": "Digitus in qu# ānulus pōnitur est digitus quārtus."
+                },
+                {
+                    "a": [
+                        "ic",
+                        "e"
+                    ],
+                    "q": "H# servus Mēdus, ill# Dāvus est."
+                },
+                {
+                    "a": [
+                        "unc",
+                        "um"
+                    ],
+                    "q": "Lȳdia h# servum amat, nōn ill#."
+                },
+                {
+                    "a": [
+                        "uius",
+                        "īus"
+                    ],
+                    "q": "Lȳdia amīca h# servī est, nōn ill#."
+                },
+                {
+                    "a": [
+                        "uic",
+                        "ī"
+                    ],
+                    "q": "Lȳdia h# servō ōsculum dat, nōn ill#."
+                },
+                {
+                    "a": [
+                        "ōc",
+                        "ō"
+                    ],
+                    "q": "Lȳdia ab h# servō amātur, nōn ab ill#."
+                },
+                {
+                    "a": [
+                        "oc",
+                        "ud"
+                    ],
+                    "q": "H# oppidum est Tūsculum, ill# est Brundisium."
+                },
+                {
+                    "a": [
+                        "ōc",
+                        "ō"
+                    ],
+                    "q": "Cornēlius in h# oppidō habitat, nōn in ill#."
+                },
+                {
+                    "a": [
+                        "uius"
+                    ],
+                    "q": "Viae h# oppidī parvae sunt."
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "name": "PENSVM B",
+            "info": "",
+            "questions": [
+                {
+                    "a": [
+                        "ōrnāmenta"
+                    ],
+                    "q": "Gemmae et margarītae # pulchra sunt."
+                },
+                {
+                    "a": [
+                        "accipit"
+                    ],
+                    "q": "Aemilia multa ōrnāmenta ā Iūliō #."
+                },
+                {
+                    "a": [
+                        "margarītās",
+                        "digitō"
+                    ],
+                    "q": "Aemilia # in collō et ānulum in # habet."
+                },
+                {
+                    "a": [
+                        "cōnsistunt"
+                    ],
+                    "q": "Multae fēminae ante tabernam Albīnī # et ōrnāmenta eius aspiciunt."
+                },
+                {
+                    "a": [
+                        "emunt"
+                    ],
+                    "q": "Virī ōrnāmenta # et fēminīs dant."
+                },
+                {
+                    "a": [
+                        "Ānulus",
+                        "cōnstat"
+                    ],
+                    "q": "# gemmātus centum sēstertiīs #."
+                },
+                {
+                    "a": [
+                        "Pretium",
+                        "nōnāgintā"
+                    ],
+                    "q": "# ānulī est centum sēstertiī, sed Mēdus # [XC] tantum habet."
+                },
+                {
+                    "a": [
+                        "satis"
+                    ],
+                    "q": "Albīnus: \"Nōnāgintā nōn # est!\""
+                },
+                {
+                    "a": [
+                        "aut"
+                    ],
+                    "q": "Mēdus: \"Accipe nōnāgintā sēstertiōs # nūllōs!\""
+                },
+                {
+                    "a": [
+                        "convenit",
+                        "nimis"
+                    ],
+                    "q": "Ānulus ad digitum medium nōn # : digitus medius # magnus est."
+                },
+                {
+                    "a": [
+                        "quārtum",
+                        "tantus",
+                        "medius"
+                    ],
+                    "q": "Sed ānulus convenit ad digitum # [IV], quī nōn # est quantus digitus #."
+                },
+                {
+                    "a": [
+                        "aspicit",
+                        "abit"
+                    ],
+                    "q": "Lȳdia laeta digitum suum # et cum Mēdō ā tabernā #."
+                },
+                {
+                    "a": [
+                        "mōnstrat"
+                    ],
+                    "q": "Lȳdia Mēdō viam #."
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "name": "PENSVM C",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Quid Albīnus vēndit? ",
+                    "a": []
+                },
+                {
+                    "q": "2. Ā quō Aemilia ōrnāmenta accipit? ",
+                    "a": []
+                },
+                {
+                    "q": "3. Ambulatne Mēdus cum dominō suō? ",
+                    "a": []
+                },
+                {
+                    "q": "4. Ubi Mēdus et Lȳdia cōnsistunt? ",
+                    "a": []
+                },
+                {
+                    "q": "5. Cūr Mēdus margarītās nōn emit? ",
+                    "a": []
+                },
+                {
+                    "q": "6. Cūr Lȳdia nūllum ānulum habet? ",
+                    "a": []
+                },
+                {
+                    "q": "7. Estne vacuus sacculus Mēdī? ",
+                    "a": []
+                },
+                {
+                    "q": "8. Quot sēstertiīs cōnstat ānulus gemmātus? ",
+                    "a": []
+                },
+                {
+                    "q": "9. Ad quem digitum ānulus convenit? ",
+                    "a": []
+                }
+            ]
+        }
+    ]
+}

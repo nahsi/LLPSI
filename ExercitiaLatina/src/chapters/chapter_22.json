@@ -1,0 +1,1063 @@
+{
+    "id": 21,
+    "name": "CAPITVLVM XXII",
+    "exercises": [
+        {
+            "id": 0,
+            "name": "Exercise 1",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Ānulus ex aurō factus = ānulus aur#.",
+                    "a": [
+                        "eus"
+                    ]
+                },
+                {
+                    "q": "2. Baculum ē lignō factum = baculum lign#.",
+                    "a": [
+                        "eum"
+                    ]
+                },
+                {
+                    "q": "3. Catēna ex ferrō facta = catēna ferr#.",
+                    "a": [
+                        "ea"
+                    ]
+                },
+                {
+                    "q": "4. Nummī ex aurō factī = nummī aur#.",
+                    "a": [
+                        "eī"
+                    ]
+                },
+                {
+                    "q": "5. Stilus ferreus = stilus # # #.",
+                    "a": [
+                        "ex|ē",
+                        "ferrō",
+                        "factus"
+                    ]
+                },
+                {
+                    "q": "6. Pōculum aureum = pōculum # # #.",
+                    "a": [
+                        "ex",
+                        "aurō",
+                        "factum"
+                    ]
+                },
+                {
+                    "q": "7. Forēs ligneae = forēs # # #.",
+                    "a": [
+                        "ex|ē",
+                        "lignō",
+                        "factae"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Exercise 2",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Magna iānua # ē duābus #, quae in # vertuntur.",
+                    "a": [
+                        "cōnstat",
+                        "foribus",
+                        "cardinibus"
+                    ]
+                },
+                {
+                    "q": "2. Sub foribus est #.",
+                    "a": [
+                        "līmen"
+                    ]
+                },
+                {
+                    "q": "3. # [= ōstiārius] dīcitur servus quī hominēs advenientēs in ātrium #.",
+                    "a": [
+                        "Iānitor",
+                        "admittit"
+                    ]
+                },
+                {
+                    "q": "4. Iānitor cum cane suō vīllam dominī #.",
+                    "a": [
+                        "cūstōdit"
+                    ]
+                },
+                {
+                    "q": "5. Canis, quī prope tam # est quam lupus, catēnā #.",
+                    "a": [
+                        "ferōx",
+                        "vincītur"
+                    ]
+                },
+                {
+                    "q": "6. # nōn modo canēs, sed etiam iānitōrēs vinciēbantur.",
+                    "a": [
+                        "Anteā"
+                    ]
+                },
+                {
+                    "q": "7. # cōnstat ē multīs ānulīs ferreīs quī # # coniunguntur.",
+                    "a": [
+                        "Catēna",
+                        "inter",
+                        "sē"
+                    ]
+                },
+                {
+                    "q": "8. Ānulus Lȳdiae nōn ex ferrō, sed ex # factus est.",
+                    "a": [
+                        "aurō"
+                    ]
+                },
+                {
+                    "q": "9. Ānulus aureus magnī # est.",
+                    "a": [
+                        "pretiī"
+                    ]
+                },
+                {
+                    "q": "10. Iānua ē # facta est # [= ut] baculum Iūliī.",
+                    "a": [
+                        "lignō",
+                        "sīcut"
+                    ]
+                },
+                {
+                    "q": "11. Servus quī epistulās fert # appellātur.",
+                    "a": [
+                        "tabellārius"
+                    ]
+                },
+                {
+                    "q": "12. Tabellārius clāmat: “# iānitor! # aperīs? Num # [= aliquis] hīc est?”",
+                    "a": [
+                        "Heus",
+                        "Quīn",
+                        "quis"
+                    ]
+                },
+                {
+                    "q": "13. # iānitor surgit et tabellārium # [= multa interrogat].",
+                    "a": [
+                        "Tandem",
+                        "rogitat"
+                    ]
+                },
+                {
+                    "q": "14. Tabellārius: “# admitte mē! # [= deinde] respondēbō.”",
+                    "a": [
+                        "Prius",
+                        "Posteā"
+                    ]
+                },
+                {
+                    "q": "15. Hostēs nōn sunt # vāllum, sed # vāllum.",
+                    "a": [
+                        "intrā",
+                        "extrā"
+                    ]
+                },
+                {
+                    "q": "16. Vulcānus est deus #.",
+                    "a": [
+                        "fabrōrum"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Exercise 3",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Ex quibus partibus cōnstat iānua vīllae? ...",
+                    "a": [
+                        "iānua cōnstat ē duābus foribus"
+                    ]
+                },
+                {
+                    "q": "2. Quid scrīptum est in līmine? ...",
+                    "a": [
+                        "in līmine CAVE CANEM scrīptum est"
+                    ]
+                },
+                {
+                    "q": "3. Quis dīcitur servus quī iānuam cūstōdit? ...",
+                    "a": [
+                        "is servus dīcitur ‘ōstiārius’ sīve ‘iānitor’"
+                    ]
+                },
+                {
+                    "q": "4. Quid facit is quī vīllam intrāre vult? ...",
+                    "a": [
+                        "quī vīllam intrāre vult iānuam pulsat et extrā iānuam exspectat"
+                    ]
+                },
+                {
+                    "q": "5. Ubi sedet iānitor? ...",
+                    "a": [
+                        "iānitor intrā iānuam sedet"
+                    ]
+                },
+                {
+                    "q": "6. Cūr canis iānitōris catēnā vincītur? ...",
+                    "a": [
+                        "... quia canis ferōx est"
+                    ]
+                },
+                {
+                    "q": "7. Ex quā māteriā catēna facta est? ...",
+                    "a": [
+                        "catēna ex ferrō facta est"
+                    ]
+                },
+                {
+                    "q": "8. Num ānulus Lȳdiae ex ferrō factus est? ...",
+                    "a": [
+                        "ānulus Lȳdiae nōn ex ferrō, sed ex aurō factus est"
+                    ]
+                },
+                {
+                    "q": "9. Utrum dūrius est, lignumne an ferrum? ...",
+                    "a": [
+                        "ferrum dūrius est quam lignum"
+                    ]
+                },
+                {
+                    "q": "10. Quis dīcitur vir quī rēs ferreās efficit? ...",
+                    "a": [
+                        "quī rēs ferreās efficit ‘faber’ dīcitur"
+                    ]
+                },
+                {
+                    "q": "11. Cūr ‘tabellāriī’ dīcuntur servī quī epistulās ferunt? ...",
+                    "a": [
+                        "... quia anteā epistulae in tabellīs scrībēbantur"
+                    ]
+                },
+                {
+                    "q": "12. Quōmodo iānitor ē somnō excitātur? ...",
+                    "a": [
+                        "iānitor cane lātrante excitātur"
+                    ]
+                },
+                {
+                    "q": "13. Cūr tabellārius nōn statim iānitōrī respondet? ...",
+                    "a": [
+                        "... quod iānitor multa simul interrogat"
+                    ]
+                },
+                {
+                    "q": "14. Quid huic tabellāriō nōmen est? ...",
+                    "a": [
+                        "eī nōmen est ‘Tlēpolemus’"
+                    ]
+                },
+                {
+                    "q": "15. Unde Tlēpolemus sē venīre dīcit? ...",
+                    "a": [
+                        "dīcit ‘sē Tūsculō venīre’"
+                    ]
+                },
+                {
+                    "q": "16. Quid Iūlius post merīdiem agere solet? ...",
+                    "a": [
+                        "post merīdiem Iūlius dormītum īre solet, tum ambulātum it"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Exercise 4",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Post merīdiem Iūlius ambulā# īre solet.",
+                    "a": [
+                        "tum"
+                    ]
+                },
+                {
+                    "q": "2. Postquam ambulāvit, lavā# it.",
+                    "a": [
+                        "tum"
+                    ]
+                },
+                {
+                    "q": "3. Vesperī hominēs dormī# eunt.",
+                    "a": [
+                        "tum"
+                    ]
+                },
+                {
+                    "q": "4. Māne amīcī ad vīllam veniunt dominum salūtā#.",
+                    "a": [
+                        "tum"
+                    ]
+                },
+                {
+                    "q": "5. Mēdus et Lȳdia in Graeciam eunt habitā#.",
+                    "a": [
+                        "tum"
+                    ]
+                },
+                {
+                    "q": "6. Hostēs castra oppugnā# veniunt.",
+                    "a": [
+                        "tum"
+                    ]
+                },
+                {
+                    "q": "7. Tabellārius nōn mittitur pecūniam postulā#.",
+                    "a": [
+                        "tum"
+                    ]
+                },
+                {
+                    "q": "8. Facile est vōcem magistrī audīre = Vōx magistrī est facilis audī#.",
+                    "a": [
+                        "tū"
+                    ]
+                },
+                {
+                    "q": "9. Difficile est nōmina barbara dīcere = Nōmina barbara difficilia sunt dic#.",
+                    "a": [
+                        "tū"
+                    ]
+                },
+                {
+                    "q": "10. Quae est dea pulcherrima? Id difficile scī# est.",
+                    "a": [
+                        "tū"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Exercise 5",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Mēdus, quī rēs Mārcī fer# solet, hodiē abest.",
+                    "a": [
+                        "re"
+                    ]
+                },
+                {
+                    "q": "2. Itaque Mārcus ad lūdum ambulāns rēs suās ipse fer#.",
+                    "a": [
+                        "t"
+                    ]
+                },
+                {
+                    "q": "3. Titus et Sextus semper rēs suās ipsī fer#.",
+                    "a": [
+                        "unt"
+                    ]
+                },
+                {
+                    "q": "4. Titus: “Cūr tū ipse rēs tuās fer# hodiē, Mārce?”",
+                    "a": [
+                        "s"
+                    ]
+                },
+                {
+                    "q": "5. Mārcus: “Ipse rēs meās fer#, quia Mēdus abest; sed cūr vōs semper rēs vestrās ipsī fer#?”",
+                    "a": [
+                        "ō",
+                        "tis"
+                    ]
+                },
+                {
+                    "q": "6. Titus: “Nōs rēs nostrās ipsī fer#, quia in ipsō oppidō Tūsculō habitāmus, nōn procul ab oppidō.”",
+                    "a": [
+                        "imus"
+                    ]
+                },
+                {
+                    "q": "7. Mārcus: “Venīte mēcum ac rēs meās fer#!”",
+                    "a": [
+                        "te"
+                    ]
+                },
+                {
+                    "q": "8. Sextus: “Rēs tuās fer# nōlumus. Ipse rēs tuās #, Mārce!”",
+                    "a": [
+                        "re",
+                        "fer"
+                    ]
+                },
+                {
+                    "q": "9. Tabula, quae ā Mēdō fer# solet, hodiē ā Mārcō fer#.",
+                    "a": [
+                        "rī",
+                        "tur"
+                    ]
+                },
+                {
+                    "q": "10. Epistulae ā tabellāriīs fer#.",
+                    "a": [
+                        "untur"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Exercise 6",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Canis, quī tabellārium # stantem videt, dentēs ostendit ac #: “Rrrr...”",
+                    "a": [
+                        "forīs",
+                        "fremit"
+                    ]
+                },
+                {
+                    "q": "2. Canis tabellārium # vult, sed catēnā #.",
+                    "a": [
+                        "mordēre",
+                        "retinētur"
+                    ]
+                },
+                {
+                    "q": "3. Iānitor eum dē cane ferōcī #: “#! Canis tē mordēbit.”",
+                    "a": [
+                        "monet",
+                        "Cavē"
+                    ]
+                },
+                {
+                    "q": "4. Tabellārius nōn intrat, sed in līmine #.",
+                    "a": [
+                        "resistit"
+                    ]
+                },
+                {
+                    "q": "5. “Nōlī canem tuum #!” inquit.",
+                    "a": [
+                        "solvere"
+                    ]
+                },
+                {
+                    "q": "6. In solō intrā līmen est # canis ferōcis.",
+                    "a": [
+                        "imāgō"
+                    ]
+                },
+                {
+                    "q": "7. Tabellārius propius ad canem # [= adīre] audet; neque imāgō canis neque canis vērus eum #.\t",
+                    "a": [
+                        "accēdere",
+                        "terret"
+                    ]
+                },
+                {
+                    "q": "8. Canis catēnam # et vestem tabellāriī dentibus #.",
+                    "a": [
+                        "rumpit",
+                        "prehendit"
+                    ]
+                },
+                {
+                    "q": "9. # novum, quod Tlēpolemus # [= paulō ante] ēmit, ā cane ferōcī #.",
+                    "a": [
+                        "Pallium",
+                        "nūper",
+                        "scinditur"
+                    ]
+                },
+                {
+                    "q": "10. Tabellārius ex ōstiō # nōn potest, quia canis eum tenet.",
+                    "a": [
+                        "cēdere"
+                    ]
+                },
+                {
+                    "q": "11. Homō territus nec # nec # audet.",
+                    "a": [
+                        "prōcedere",
+                        "recēdere"
+                    ]
+                },
+                {
+                    "q": "12. Canis eum locō sē movēre nōn #.",
+                    "a": [
+                        "sinit"
+                    ]
+                },
+                {
+                    "q": "13. Iānitor virum territum #: “Hahahae! Quīn intrās?”",
+                    "a": [
+                        "dērīdet"
+                    ]
+                },
+                {
+                    "q": "14. Tlēpolemus intrāre cōnātur, sed canis īrātus eum ex ōstiō #.",
+                    "a": [
+                        "pellit"
+                    ]
+                },
+                {
+                    "q": "15. “Vincī # [= illum tuum] canem!” inquit tabellārius tōtō corpore #.",
+                    "a": [
+                        "istum",
+                        "tremēns"
+                    ]
+                },
+                {
+                    "q": "16. Iānitor: “Nōlī # [= putāre] mē canem solvisse!”",
+                    "a": [
+                        "arbitrārī"
+                    ]
+                },
+                {
+                    "q": "17. Iānitor catēnam prehendit et canem ā Tlēpolemō #.",
+                    "a": [
+                        "removet"
+                    ]
+                },
+                {
+                    "q": "18. Tlēpolemus: “# mē intrāre! Nōlī mē # in imbrem pellere!”",
+                    "a": [
+                        "Sine",
+                        "forās"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Exercise 7",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Cūr tabellārius in līmine resistit? ...",
+                    "a": [
+                        "in līmine resistit quia canem iānitōris timet"
+                    ]
+                },
+                {
+                    "q": "2. Quae imāgō in solō intrā līmen vidētur? ...",
+                    "a": [
+                        "intrā līmen imāgō canis vidētur"
+                    ]
+                },
+                {
+                    "q": "3. Quae verba īnfrā imāginem scrīpta sunt? ...",
+                    "a": [
+                        "īnfrā imāginem CAVE CANEM scrīptum est"
+                    ]
+                },
+                {
+                    "q": "4. Num Tlēpolemus imāgine canis terrētur? ...",
+                    "a": [
+                        "tabellārius imāgine nōn terrētur"
+                    ]
+                },
+                {
+                    "q": "5. Quid agit canis cum Tlēpolemus ad eum accēdit? ...",
+                    "a": [
+                        "canis in tabellārium salit"
+                    ]
+                },
+                {
+                    "q": "6. Cūr canis excurrēns catēnā nōn retinētur? ...",
+                    "a": [
+                        "... quod catēna rumpitur"
+                    ]
+                },
+                {
+                    "q": "7. Cūr tabellārius nōn audet locō sē movēre? ...",
+                    "a": [
+                        "... quia canis nōn sinit eum locō sē movēre"
+                    ]
+                },
+                {
+                    "q": "8. Quōmodo canis eum forās pellit? ...",
+                    "a": [
+                        "canis pedēs in pectore eius pōnit"
+                    ]
+                },
+                {
+                    "q": "9. Cūr tremit Tlēpolemus? ...",
+                    "a": [
+                        "... quia cane īrātō terrētur"
+                    ]
+                },
+                {
+                    "q": "10. Cūr tabellārius iānitōrī pallium suum ostendit? ...",
+                    "a": [
+                        "... quod canis iānitōris pallium eius scidit"
+                    ]
+                },
+                {
+                    "q": "11. Quid tabellārius sēcum fert? ...",
+                    "a": [
+                        "tabellārius epistulam sēcum fert"
+                    ]
+                },
+                {
+                    "q": "12. Quis epistulam in ātrium ad Iūlium fert? ...",
+                    "a": [
+                        "iānitor epistulam prehendit et ad dominum suum fert"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Exercise 8",
+            "info": "Exempla: \nDominus cotīdiē ambulātum it. \nVōx tabellāriī difficilis audītū est.\n",
+            "questions": [
+                {
+                    "q": "1. 'Ambulāt|um' # est. 'Audīt|ū' quoque # est.",
+                    "a": [
+                        "supīnum",
+                        "supīnum"
+                    ]
+                },
+                {
+                    "q": "2. Supīnum alterum in -# dēsinit, alterum in -#.",
+                    "a": [
+                        "um",
+                        "ū"
+                    ]
+                },
+                {
+                    "q": "3. Supīnum in -um dēsinēns pōnitur apud verba '#', 'venīre', 'mittere', cēt.",
+                    "a": [
+                        "īre"
+                    ]
+                },
+                {
+                    "q": "4. Alterum supīnum, quod in -ū dēsinit, apud adiectīva '#' et 'difficilis' et pauca alia pōnitur.",
+                    "a": [
+                        "facilis"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Exercise 9",
+            "info": "'Thema' dīcitur prior verbī pars ad quam adduntur variae litterae vel \nsyllabae ('terminātiōnēs' quae vocantur), ut -re, -ō, -isse, -ī, -istī, \n-us, -a, -um, cēt.\nVerbī themata sunt tria: \n(1) thema praesentis (= īnf. praes. āct. sine -re, -ere), ut amā-, monē-, \nscrīb-, audī-; (2) thema perfectī (= īnf. perf. āct. sine -isse), ut \namāv-, monu-, scrīps-, audīv-; (3) thema supīnī (= supīnum sine -um sīve \npart. perf. sine -us -a -um), ut amāt-, monit-, scrīpt-, audīt-.\n",
+            "questions": [
+                {
+                    "q": "1. Īnfīnītīvī: vocā|re, vocāv|isse, vocāt|um esse: vocā- thema # est, vocāv- thema #, vocāt- # #.",
+                    "a": [
+                        "praesentis",
+                        "perfectī",
+                        "thema",
+                        "supīnī"
+                    ]
+                },
+                {
+                    "q": "2. Īnfīnītīvī: terrē|re, terru|isse, territ|um esse: thema praesentis: #-, thema perfectī: #-, thema supīnī: #-.",
+                    "a": [
+                        "terrē",
+                        "terru",
+                        "territ"
+                    ]
+                },
+                {
+                    "q": "3. Īnfīnītīvī: dīc|ere, dīx|isse, dict|um esse: thema praesentis: #-, thema perfectī: #-, thema supīnī: #-.",
+                    "a": [
+                        "dīc",
+                        "dīx",
+                        "dict"
+                    ]
+                },
+                {
+                    "q": "4. Īnfīnītīvī: pūnī|re, pūnīv|isse, pūnīt|um esse: thema praesentis: #-, thema perfectī: #-, thema supīnī: #-.",
+                    "a": [
+                        "pūnī",
+                        "pūnīv",
+                        "pūnīt"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Exercise 10",
+            "info": "Īnfīnītīvī (adde themata perfectī et supīnī): \n",
+            "questions": [
+                {
+                    "q": "1. aperīre, #isse, #um esse  ",
+                    "a": [
+                        "aperu",
+                        "apert"
+                    ]
+                },
+                {
+                    "q": "2. claudere, #isse, #um esse",
+                    "a": [
+                        "claus",
+                        "claus"
+                    ]
+                },
+                {
+                    "q": "3. emere, #isse, #um esse ",
+                    "a": [
+                        "ēm",
+                        "ēmpt"
+                    ]
+                },
+                {
+                    "q": "4. pellere, #isse, #um esse",
+                    "a": [
+                        "pepul",
+                        "puls"
+                    ]
+                },
+                {
+                    "q": "5. posse, #isse ",
+                    "a": [
+                        "potu"
+                    ]
+                },
+                {
+                    "q": "6. rumpere, #isse, #um esse ",
+                    "a": [
+                        "rūp",
+                        "rupt"
+                    ]
+                },
+                {
+                    "q": "7. scindere, #isse, #um esse",
+                    "a": [
+                        "scid",
+                        "sciss"
+                    ]
+                },
+                {
+                    "q": "8. solvere, #isse, #um esse ",
+                    "a": [
+                        "solv",
+                        "solūt"
+                    ]
+                },
+                {
+                    "q": "9. vincīre, #isse, #um esse ",
+                    "a": [
+                        "vīnx",
+                        "vīnct"
+                    ]
+                },
+                {
+                    "q": "10. venīre, #isse",
+                    "a": [
+                        "vēn"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "PENSVM A",
+            "info": "",
+            "questions": [
+                {
+                    "a": [
+                        "tum"
+                    ],
+                    "q": "Hōrā nōnā erus ambulā# īre solet."
+                },
+                {
+                    "a": [
+                        "tum"
+                    ],
+                    "q": "Tabellāriī nōn mittuntur pecūniam postulā#."
+                },
+                {
+                    "a": [
+                        "tum"
+                    ],
+                    "q": "Hostēs castra expugnā# veniunt."
+                },
+                {
+                    "a": [
+                        "tum"
+                    ],
+                    "q": "Multī barbarī Rōmam veniunt habitā#."
+                },
+                {
+                    "a": [
+                        "tū"
+                    ],
+                    "q": "Syra: \"Verba medicī difficilia sunt audī#.\""
+                },
+                {
+                    "a": [
+                        "tū"
+                    ],
+                    "q": "Ea rēs est fac# facilis."
+                },
+                {
+                    "a": [
+                        "tū"
+                    ],
+                    "q": "Nōmen barbarum difficile dic# est."
+                },
+                {
+                    "a": [
+                        "terru",
+                        "territ"
+                    ],
+                    "q": "Verba: terrēre, #isse, #um; "
+                },
+                {
+                    "a": [
+                        "claus",
+                        "claus"
+                    ],
+                    "q": "claudere, #isse, #um;"
+                },
+                {
+                    "a": [
+                        "dīx",
+                        "dict"
+                    ],
+                    "q": "dīcere, #isse, #um; "
+                },
+                {
+                    "a": [
+                        "solv",
+                        "solūt"
+                    ],
+                    "q": "solvere, #isse, #um;"
+                },
+                {
+                    "a": [
+                        "ēm",
+                        "ēmpt"
+                    ],
+                    "q": "emere, #isse, #um"
+                },
+                {
+                    "a": [
+                        "rūp",
+                        "rupt"
+                    ],
+                    "q": "rumpere, #isse, #um;"
+                },
+                {
+                    "a": [
+                        "aperu",
+                        "apert"
+                    ],
+                    "q": "aperīre, #isse, #um;"
+                },
+                {
+                    "a": [
+                        "vīnx",
+                        "vīnct"
+                    ],
+                    "q": "vincīre, #isse, #um;"
+                },
+                {
+                    "a": [
+                        "pepul",
+                        "puls"
+                    ],
+                    "q": "pellere, #isse, #um;"
+                },
+                {
+                    "a": [
+                        "scid",
+                        "sciss"
+                    ],
+                    "q": "scindere, #isse, #um;"
+                },
+                {
+                    "a": [
+                        "vēn"
+                    ],
+                    "q": "venīre, #isse; "
+                },
+                {
+                    "a": [
+                        "potu"
+                    ],
+                    "q": "posse, #isse."
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "PENSVM B",
+            "info": "",
+            "questions": [
+                {
+                    "a": [
+                        "foribus",
+                        "cardinibus"
+                    ],
+                    "q": "Iānua cōnstat ē duābus #, quae in # vertuntur."
+                },
+                {
+                    "a": [
+                        "iānitor",
+                        "admittit"
+                    ],
+                    "q": "Ōstiārius vel # dīcitur servus quī hominēs in vīllam #."
+                },
+                {
+                    "a": [
+                        "ferōx",
+                        "ferreā",
+                        "vincīre"
+                    ],
+                    "q": "Canis eius prope tam # quam lupus est; itaque necesse est eum catēnā # [<ferrum] #."
+                },
+                {
+                    "a": [
+                        "aurō"
+                    ],
+                    "q": "Ānulus Lȳdiae nōn ex ferrō, sed ex # factus est."
+                },
+                {
+                    "a": [
+                        "tabellārius",
+                        "anteā"
+                    ],
+                    "q": "Servus quī epistulās fert # dīcitur, nam # epistulae in tabellīs scrībēbantur."
+                },
+                {
+                    "a": [
+                        "extrā"
+                    ],
+                    "q": "Tabellārius # iānuam stat."
+                },
+                {
+                    "a": [
+                        "intrā",
+                        "monet",
+                        "mordēbit"
+                    ],
+                    "q": "Iānitor, quī # iānuam sedet, tabellārium dē cane ferōcī #: \"Cavē! Canis tē #!\""
+                },
+                {
+                    "a": [
+                        "līmen",
+                        "Cavē",
+                        "imāginem"
+                    ],
+                    "q": "In solō intrā # scrīptum est \"# canem\" īnfrā # canis."
+                },
+                {
+                    "a": [
+                        "imāgō",
+                        "terret",
+                        "accēdit"
+                    ],
+                    "q": "\"Nec haec # nec canis vērus mē #\" inquit tabellārius, ac propius ad canem #."
+                },
+                {
+                    "a": [
+                        "rumpit",
+                        "prehendit"
+                    ],
+                    "q": "Canis catēnam # et vestem eius dentibus #."
+                },
+                {
+                    "a": [
+                        "prōcēdere",
+                        "recēdere"
+                    ],
+                    "q": "Tabellārius neque # neque # audet."
+                },
+                {
+                    "a": [
+                        "Quīn",
+                        "sinō",
+                        "dērīdet"
+                    ],
+                    "q": "Iānitor: \"# prōcēdis? Ego tē intrāre #!\" Sīc iānitor hominem territum #."
+                },
+                {
+                    "a": [
+                        "pellit"
+                    ],
+                    "q": "Ille alterum gradum facit, sed canis eum ex ōstiō #."
+                },
+                {
+                    "a": [
+                        "tremēns",
+                        "cēdit"
+                    ],
+                    "q": "Tlēpolemus tōtō corpore # ex ōstiō #."
+                },
+                {
+                    "a": [
+                        "Tandem"
+                    ],
+                    "q": "# [= postrēmō] iānitor canem vincit."
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "PENSVM C",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Quid est iānitōris officium? ",
+                    "a": []
+                },
+                {
+                    "q": "2. Cūr necesse est canem eius vincīre? ",
+                    "a": []
+                },
+                {
+                    "q": "3. Ex quā māteriā cōnstat iānua? ",
+                    "a": []
+                },
+                {
+                    "q": "4. Vulcānus quis est? ",
+                    "a": []
+                },
+                {
+                    "q": "5. Quid in solō intrā līmen vidētur? ",
+                    "a": []
+                },
+                {
+                    "q": "6. Quid tabellārius sēcum fert? ",
+                    "a": []
+                },
+                {
+                    "q": "7. Unde venit Tlēpolemus et quem quaerit? ",
+                    "a": []
+                },
+                {
+                    "q": "8. Quōmodo iānitor ē somnō excitātur? ",
+                    "a": []
+                },
+                {
+                    "q": "9. Quid agit Iūlius post merīdiem? ",
+                    "a": []
+                },
+                {
+                    "q": "10. Cūr canis saliēns catēnā nōn retinētur? ",
+                    "a": []
+                },
+                {
+                    "q": "11. Quid facit iānitor antequam tabellārius intrat? ",
+                    "a": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1427 @@
+{
+    "id": 17,
+    "name": "CAPITVLVM XVIII",
+    "exercises": [
+        {
+            "id": 0,
+            "name": "Exercise 1",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Dāvus et Ursus sunt servī #dem dominī.",
+                    "a": [
+                        "eius"
+                    ]
+                },
+                {
+                    "q": "2. Dāvus et Ursus #dem dominum habent.",
+                    "a": [
+                        "eun"
+                    ]
+                },
+                {
+                    "q": "3. Dāvō et Ursō #dem dominus est.",
+                    "a": [
+                        "ī"
+                    ]
+                },
+                {
+                    "q": "4. Dāvus et Ursus #dem dominō pārent.",
+                    "a": [
+                        "eī"
+                    ]
+                },
+                {
+                    "q": "5. Dāvus et Ursus cum #dem dominō habitant.",
+                    "a": [
+                        "eō"
+                    ]
+                },
+                {
+                    "q": "6. Dēlia et Syra sunt ancillae #dem dominae.",
+                    "a": [
+                        "eius"
+                    ]
+                },
+                {
+                    "q": "7. Dēlia et Syra #dem dominam habent.",
+                    "a": [
+                        "ean"
+                    ]
+                },
+                {
+                    "q": "8. Dēliae et Syrae #dem domina est.",
+                    "a": [
+                        "ea"
+                    ]
+                },
+                {
+                    "q": "9. Dēlia et Syra #dem dominae pārent.",
+                    "a": [
+                        "eī"
+                    ]
+                },
+                {
+                    "q": "10. Dēlia et Syra cum #dem dominā habitant.",
+                    "a": [
+                        "eā"
+                    ]
+                },
+                {
+                    "q": "11. Patrī et fīliō #dem cognōmen est.",
+                    "a": [
+                        "i"
+                    ]
+                },
+                {
+                    "q": "12. Pater et fīlius #dem cognōmen habent.",
+                    "a": [
+                        "i"
+                    ]
+                },
+                {
+                    "q": "13. Mare Īnferum et Tūscum sunt duo nōmina #dem maris.",
+                    "a": [
+                        "eius"
+                    ]
+                },
+                {
+                    "q": "14. #dem marī duo nōmina sunt.",
+                    "a": [
+                        "Eī"
+                    ]
+                },
+                {
+                    "q": "15. Pater et māter in #dem cubiculō dormiunt.",
+                    "a": [
+                        "eō"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Exercise 2",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Ex litterīs Latīnīs sex # sunt, cēterae sunt #.",
+                    "a": [
+                        "vōcālēs",
+                        "cōnsonantēs"
+                    ]
+                },
+                {
+                    "q": "2. In # Latīnā K littera nōn #, sed # est.",
+                    "a": [
+                        "linguā",
+                        "frequēns",
+                        "rāra"
+                    ]
+                },
+                {
+                    "q": "3. Cōnsonāns semper cum vōcālī #.",
+                    "a": [
+                        "iungitur"
+                    ]
+                },
+                {
+                    "q": "4. Cum vocābula # [= iunguntur], # fīunt.",
+                    "a": [
+                        "coniunguntur",
+                        "sententiae"
+                    ]
+                },
+                {
+                    "q": "5. Haec vocābula 'dominus' et '#' eundem hominem #.",
+                    "a": [
+                        "erus",
+                        "significant"
+                    ]
+                },
+                {
+                    "q": "6. Magister librōs et Graecōs et Latīnōs # potest. ",
+                    "a": [
+                        "legere"
+                    ]
+                },
+                {
+                    "q": "7. Mārcus vocābula Graeca nōn #.",
+                    "a": [
+                        "intellegit"
+                    ]
+                },
+                {
+                    "q": "8. Discipulī in tabulīs # id quod magister iīs #.",
+                    "a": [
+                        "scrībunt",
+                        "dictat"
+                    ]
+                },
+                {
+                    "q": "9. # [= eō modō] puerī scrībere discunt.",
+                    "a": [
+                        "Ita"
+                    ]
+                },
+                {
+                    "q": "10. Mārcus vocābulum 'homō' scrībit # [= hōc modō]: OMO.",
+                    "a": [
+                        "sīc"
+                    ]
+                },
+                {
+                    "q": "11. Barbarīs nōn eadem lingua, sed # linguae sunt.",
+                    "a": [
+                        "variae"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Exercise 3",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Quot sunt litterae Latīnae? ...",
+                    "a": [
+                        "litterae Latīnae sunt vīgintī trēs"
+                    ]
+                },
+                {
+                    "q": "2. Quot sunt vōcālēs et quot cōnsonantēs? ...",
+                    "a": [
+                        "sex sunt vōcālēs, septendecim cōnsonantēs"
+                    ]
+                },
+                {
+                    "q": "3. Estne B vōcālis an cōnsonāns? ...",
+                    "a": [
+                        "littera B cōnsonāns est"
+                    ]
+                },
+                {
+                    "q": "4. Suntne vōcālēs an cōnsonantēs litterae E et O? ...",
+                    "a": [
+                        "litterae E et O vōcālēs sunt"
+                    ]
+                },
+                {
+                    "q": "5. In quibus vocābulīs reperiuntur litterae Y et Z? ...",
+                    "a": [
+                        "Y et Z in vocābulīs Graecīs reperiuntur"
+                    ]
+                },
+                {
+                    "q": "6. Quid est zephyrus? ...",
+                    "a": [
+                        "zephyrus est ventus quī ab occidente flat"
+                    ]
+                },
+                {
+                    "q": "7. Num K littera frequēns est in linguā Latīnā? ...",
+                    "a": [
+                        "K littera rāra est in linguā Latīnā"
+                    ]
+                },
+                {
+                    "q": "8. Quid est 'Kaesō'? ...",
+                    "a": [
+                        "'Kaesō' est praenōmen rārissimum."
+                    ]
+                },
+                {
+                    "q": "9. In vocābulō 'familia' quot litterae et quot syllabae sunt? ... ",
+                    "a": [
+                        "in vocābulō 'familia' septem litterae et quattuor syllabae sunt"
+                    ]
+                },
+                {
+                    "q": "10. Utrum vocābulum rārius est 'dominus' an 'erus'? ... ",
+                    "a": [
+                        "'erus' est vocābulum multō rārius quam 'dominus'"
+                    ]
+                },
+                {
+                    "q": "11. Quōs librōs magister legere potest? ...",
+                    "a": [
+                        "magister et librōs Latīnōs et Graecōs legere potest"
+                    ]
+                },
+                {
+                    "q": "12. Quōmodo parvus discipulus legit? ...",
+                    "a": [
+                        "parvus discipulus quamque litteram cuiusque vocābulī legit"
+                    ]
+                },
+                {
+                    "q": "13. Quid scrībunt discipulī? ...",
+                    "a": [
+                        "scrībunt id quod magister dictat"
+                    ]
+                },
+                {
+                    "q": "14. Omnēsne discipulī rēctē scrībunt? ...",
+                    "a": [
+                        "Sextus tantum rēctē scrībit"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Exercise 4",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Vōcālis per sē syllabam # potest.",
+                    "a": [
+                        "facere"
+                    ]
+                },
+                {
+                    "q": "2. Sine vōcālī syllaba # nōn potest.",
+                    "a": [
+                        "fierī"
+                    ]
+                },
+                {
+                    "q": "3. Cōnsonāns per sē syllabam nōn #.",
+                    "a": [
+                        "facit"
+                    ]
+                },
+                {
+                    "q": "4. Sī cōnsonāns cum vōcālī iungitur, syllaba #.",
+                    "a": [
+                        "fit"
+                    ]
+                },
+                {
+                    "q": "5. Cum syllabae coniunguntur, vocābula #.",
+                    "a": [
+                        "fīunt"
+                    ]
+                },
+                {
+                    "q": "6. Ōrnāmenta fēminam pulchram etiam pulchriōrem #.",
+                    "a": [
+                        "faciunt"
+                    ]
+                },
+                {
+                    "q": "7. Ōrnāmentīs fēmina pulchra etiam pulchrior #.",
+                    "a": [
+                        "fit"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Exercise 5",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. In tabulā suā #que discipulus eandem sententiam scrībit.",
+                    "a": [
+                        "quis"
+                    ]
+                },
+                {
+                    "q": "2. Magister #que discipulum ad sē vocat, prīmum Sextum, tum Titum, postrēmō Mārcum.",
+                    "a": [
+                        "quem"
+                    ]
+                },
+                {
+                    "q": "3. Magister tabulam #que discipulī aspicit.",
+                    "a": [
+                        "cuius"
+                    ]
+                },
+                {
+                    "q": "4. Magister suam #que discipulō tabulam reddit.",
+                    "a": [
+                        "cui"
+                    ]
+                },
+                {
+                    "q": "5. Parvus discipulus cum legit #que litteram #que syllabae et #que syllabam #que vocābulī dīcit.",
+                    "a": [
+                        "quam",
+                        "cuius",
+                        "quam",
+                        "cuius"
+                    ]
+                },
+                {
+                    "q": "6. Ita #que vocābulum ā #que discipulō legitur.",
+                    "a": [
+                        "quod",
+                        "quō"
+                    ]
+                },
+                {
+                    "q": "7. In vocābulō 'September' #que syllaba vōcālem habet: in #que syllabā eadem vōcālis est. ",
+                    "a": [
+                        "quae",
+                        "quā"
+                    ]
+                },
+                {
+                    "q": "8. In linguā Graecā suum #que litterae nōmen est, ut 'alpha', 'bēta', 'gamma', 'delta', cēt.",
+                    "a": [
+                        "cui"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Exercise 6",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Titus nōn tam stultus nec tam pig# est quam Mārcus.",
+                    "a": [
+                        "er"
+                    ]
+                },
+                {
+                    "q": "2. Mārcus stultior et pig# est quam cēterī discipulī.",
+                    "a": [
+                        "rior"
+                    ]
+                },
+                {
+                    "q": "3. Mārcus discipulus stultissimus et pig# est.",
+                    "a": [
+                        "errimus"
+                    ]
+                },
+                {
+                    "q": "4. Ānulus sine gemmā nōn tam pulch# est quam ānulus gemmātus.",
+                    "a": [
+                        "er"
+                    ]
+                },
+                {
+                    "q": "5. Ānulus quem Mēdus emit pulch# est quam cēterī ānulī Albīnī.",
+                    "a": [
+                        "rior"
+                    ]
+                },
+                {
+                    "q": "6. Mēdus ānulum Albīnī pulch# emit. \t",
+                    "a": [
+                        "errimum"
+                    ]
+                },
+                {
+                    "q": "7. Capillus Sextī et Titī nōn tam nig# est quam Mārcī.",
+                    "a": [
+                        "er"
+                    ]
+                },
+                {
+                    "q": "8. Capillus Mārcī nig# est quam cēterōrum puerōrum.",
+                    "a": [
+                        "rior"
+                    ]
+                },
+                {
+                    "q": "9. Capillus Mārcī nig# est.",
+                    "a": [
+                        "errimus"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Exercise 7",
+            "info": "Exempla: \nQuālis mīles est Aemilius? Mīles probus et fortis est. \nQuōmodo pugnat? Aemilius probē et fortiter pugnat.\n",
+            "questions": [
+                {
+                    "q": "1. Quālis discipulus est Mārcus? Mārcus discipulus stult# est.",
+                    "a": [
+                        "us"
+                    ]
+                },
+                {
+                    "q": "2. Quōmodo Mārcus respondet? Mārcus stult# respondet.",
+                    "a": [
+                        "ē"
+                    ]
+                },
+                {
+                    "q": "3. Quāle est respōnsum Sextī? Respōnsum eius rēct# est.",
+                    "a": [
+                        "um"
+                    ]
+                },
+                {
+                    "q": "4. Quōmodo Sextus respondet? Sextus rēct# respondet.",
+                    "a": [
+                        "ē"
+                    ]
+                },
+                {
+                    "q": "5. Quālēs sunt litterae Mārcī? Litterae eius nōn pulchr# sunt, sed foed# (= turp#).",
+                    "a": [
+                        "ae",
+                        "ae",
+                        "ēs"
+                    ]
+                },
+                {
+                    "q": "6. Quōmodo scrībit Mārcus? Mārcus nōn pulchr#, sed foed# (= turp#) scrībit.",
+                    "a": [
+                        "ē",
+                        "ē",
+                        "iter"
+                    ]
+                },
+                {
+                    "q": "7. Magister librōs Latīn# et Graec# legere potest.",
+                    "a": [
+                        "ōs",
+                        "ōs"
+                    ]
+                },
+                {
+                    "q": "8. Magister et Latīn# et Graec# legere potest.",
+                    "a": [
+                        "ē",
+                        "ē"
+                    ]
+                },
+                {
+                    "q": "9. Mārcus lev# manū scrībit: Mārcus lev# scrībit.",
+                    "a": [
+                        "ī",
+                        "iter"
+                    ]
+                },
+                {
+                    "q": "10. Mīlitēs fort# nōn fugiunt, sed fort# pugnant.",
+                    "a": [
+                        "ēs",
+                        "iter"
+                    ]
+                },
+                {
+                    "q": "11. Aemilius long# abest ā sorōre suā.",
+                    "a": [
+                        "ē"
+                    ]
+                },
+                {
+                    "q": "12. Pater pecūniam suam aequ# partītur inter fīliōs.",
+                    "a": [
+                        "ē"
+                    ]
+                },
+                {
+                    "q": "13. Cert# Aemilia fēmina pulchrior est quam Syra.",
+                    "a": [
+                        "ē"
+                    ]
+                },
+                {
+                    "q": "14. Mēnsēs annī nōn aequ# longī sunt.",
+                    "a": [
+                        "ē"
+                    ]
+                },
+                {
+                    "q": "15. Syra mal# aurēs habet: Syra # audit.",
+                    "a": [
+                        "ās",
+                        "male"
+                    ]
+                },
+                {
+                    "q": "16. Aquila bon# oculōs habet: aquila # videt.",
+                    "a": [
+                        "ōs",
+                        "bene"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Exercise 8",
+            "info": "Exemplum: \nSextus nōn tam prāvē nec tam turpiter scrībit quam Mārcus \n = Mārcus prāvius et turpius scrībit quam Sextus.\t\t\n",
+            "questions": [
+                {
+                    "q": "1. Lūna nōn tam clār# lūcet quam sōl = Sōl clār# lūcet quam lūna.",
+                    "a": [
+                        "ē",
+                        "ius"
+                    ]
+                },
+                {
+                    "q": "3. Hostēs nōn tam fort# pugnant quam Rōmānī = Rōmānī fort# pugnant quam hostēs.",
+                    "a": [
+                        "iter",
+                        "ius"
+                    ]
+                },
+                {
+                    "q": "3. Manus fēminae nōn tam grav# pulsat quam virī = Manus virī grav# pulsat quam fēminae.",
+                    "a": [
+                        "iter",
+                        "ius"
+                    ]
+                },
+                {
+                    "q": "4. Mārcus nōn tam pulchr# scrībit quam Sextus = Sextus pulchr# scrībit quam Mārcus.",
+                    "a": [
+                        "ē",
+                        "ius"
+                    ]
+                },
+                {
+                    "q": "5. Titus nōn tam stult# respondet quam Mārcus nec tam sevēr# reprehenditur = Mārcus stult# respondet quam Titus et sevēr# reprehenditur.",
+                    "a": [
+                        "ē",
+                        "ē",
+                        "ius",
+                        "ius"
+                    ]
+                },
+                {
+                    "q": "6. Titus nōn tam foed# nec tam lev# scrībit quam Mārcus = Mārcus foed# et lev# scrībit quam Titus.",
+                    "a": [
+                        "ē",
+                        "iter",
+                        "ius",
+                        "ius"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Exercise 9",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Nūlla stēlla clār# est quam sōl: sōl stēlla clār# est.",
+                    "a": [
+                        "ior",
+                        "issima"
+                    ]
+                },
+                {
+                    "q": "2. Nūlla stēlla clār# lūcet quam sōl: sōl clār# lūcet.",
+                    "a": [
+                        "ius",
+                        "issimē"
+                    ]
+                },
+                {
+                    "q": "3. Mārcus stult# est quam cēterī discipulī: Mārcus discipulus stult# est.",
+                    "a": [
+                        "ior",
+                        "issimus"
+                    ]
+                },
+                {
+                    "q": "4. Nēmō stult# respondet quam Mārcus: Mārcus stult# respondet.",
+                    "a": [
+                        "ius",
+                        "issimē"
+                    ]
+                },
+                {
+                    "q": "5. Nūllī mīlitēs fort# sunt quam Rōmānī; Rōmānī mīlitēs fort# sunt.",
+                    "a": [
+                        "iōrēs",
+                        "issimī"
+                    ]
+                },
+                {
+                    "q": "6. Nūllī mīlitēs fort# pugnant quam Rōmānī; mīlitēs Rōmānī fort# pugnant.",
+                    "a": [
+                        "ius",
+                        "issimē"
+                    ]
+                },
+                {
+                    "q": "7. Nēmō rēct# aut pulchr# scrībit quam Sextus: is rēct# ac pulcher# scrībit.",
+                    "a": [
+                        "ius",
+                        "ius",
+                        "issimē",
+                        "rimē"
+                    ]
+                },
+                {
+                    "q": "8. Mārcus turp# et prāv# scrībit quam cēterī discipulī: is turp# et prāv# scrībit.",
+                    "a": [
+                        "ius",
+                        "ius",
+                        "issimē",
+                        "issimē"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Exercise 10",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Magister litterās Mārcī cum litterīs Titī #.",
+                    "a": [
+                        "comparat"
+                    ]
+                },
+                {
+                    "q": "2. # sunt litterae eōrum? Aequē # [= foedae] sunt. ",
+                    "a": [
+                        "Quālēs",
+                        "turpēs"
+                    ]
+                },
+                {
+                    "q": "3. # litterae vix legī possunt.",
+                    "a": [
+                        "Tālēs"
+                    ]
+                },
+                {
+                    "q": "4. Id quod Mārcus parvā vōce dīcit ā magistrō #.",
+                    "a": [
+                        "exaudītur"
+                    ]
+                },
+                {
+                    "q": "5. In tabulā Mārcī IV # sunt, nam IV litterae #.",
+                    "a": [
+                        "menda",
+                        "dēsunt"
+                    ]
+                },
+                {
+                    "q": "6. Magister litterās quae dēsunt #; ita menda #.",
+                    "a": [
+                        "addit",
+                        "corrigit"
+                    ]
+                },
+                {
+                    "q": "7. Tabulae operiuntur #, id est # mollī quam #, # [= parvae bēstiae] industriae, faciunt.",
+                    "a": [
+                        "cērā",
+                        "māteriā",
+                        "apēs",
+                        "bēstiolae"
+                    ]
+                },
+                {
+                    "q": "8. Cēra nōn est māteria #, sed #.",
+                    "a": [
+                        "dūra",
+                        "mollis"
+                    ]
+                },
+                {
+                    "q": "9. # est māteria dūra ex quā gladiī #.",
+                    "a": [
+                        "Ferrum",
+                        "efficiuntur"
+                    ]
+                },
+                {
+                    "q": "10. Sī cēra nimis dūra est, necesse est stilum #.",
+                    "a": [
+                        "premere"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Exercise 11",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Quālēs sunt litterae Sextī? ...",
+                    "a": [
+                        "litterae Sextī pulchrae sunt"
+                    ]
+                },
+                {
+                    "q": "2. Cūr difficile est litterās Titī et Mārcī legere? ...",
+                    "a": [
+                        "... quia litterae eōrum foedae sunt"
+                    ]
+                },
+                {
+                    "q": "3. Titusne pulchrius scrībit quam Mārcus? ...",
+                    "a": [
+                        "Titus neque pulchrius neque foedius scrībit quam Mārcus"
+                    ]
+                },
+                {
+                    "q": "4. Cūr facile est rēctius quam Mārcus scrībere? ...",
+                    "a": [
+                        "... quod is prāvissimē scrībit"
+                    ]
+                },
+                {
+                    "q": "5. Cum quō discipulō sē comparat Titus? ...",
+                    "a": [
+                        "Titus sē comparat cum Mārcō"
+                    ]
+                },
+                {
+                    "q": "6. Uter sevērius reprehenditur, Titusne an Mārcus? ...",
+                    "a": [
+                        "Mārcus sevērius reprehenditur"
+                    ]
+                },
+                {
+                    "q": "7. Cūr Mārcus OMO ABET scrībit? ...",
+                    "a": [
+                        "ita scrībit quia ita dīcit"
+                    ]
+                },
+                {
+                    "q": "8. Quae littera in iīs vocābulīs deest? ...",
+                    "a": [
+                        "littera H deest in utrōque vocābulō"
+                    ]
+                },
+                {
+                    "q": "9. Quot menda sunt in sententiā Mārcī? ...",
+                    "a": [
+                        "quattuor menda in sententiā sunt"
+                    ]
+                },
+                {
+                    "q": "10. Quōmodo magister menda Mārcī corrigit? ...",
+                    "a": [
+                        "magister litterās quae dēsunt addit"
+                    ]
+                },
+                {
+                    "q": "11. Cūr tenuēs sunt līneae quās Mārcus scrībit? ...",
+                    "a": [
+                        "... quod Mārcus nimis leviter scrībit"
+                    ]
+                },
+                {
+                    "q": "12. Quā māteriā tabulae operiuntur? ...",
+                    "a": [
+                        "tabulae cērā operiuntur"
+                    ]
+                },
+                {
+                    "q": "13. Quae animālia cēram faciunt? ...",
+                    "a": [
+                        "apēs sunt bēstiolae quae cēram faciunt"
+                    ]
+                },
+                {
+                    "q": "14. Cūr Mārcus aliam tabulam poscit? ...",
+                    "a": [
+                        "Mārcus dīcit 'cēram nimis dūram esse'"
+                    ]
+                },
+                {
+                    "q": "15. Quid est ferrum? ...",
+                    "a": [
+                        "ferrum est māteria dūra ex quā cultrī et gladiī efficiuntur"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Exercise 12",
+            "info": "Iūlia cantat: \"La-la-la...\" Estne 'la' vocābulum Latīnum? \n'La' nōn est vocābulum, sed syllaba nihil significāns \nquam puella laeta iterum atque iterum cantat.\n",
+            "questions": [
+                {
+                    "q": "1. Quot# Iūlia 'la' cantat? Iūlia 'la' cantat",
+                    "a": [
+                        "iēs|iēns"
+                    ]
+                },
+                {
+                    "q": "quīnqu#: \"La-la-la-la-la.\"",
+                    "a": [
+                        "iēs|iēns"
+                    ]
+                },
+                {
+                    "q": "sex#: \"La-la-la-la-la-la.\"",
+                    "a": [
+                        "iēs|iēns"
+                    ]
+                },
+                {
+                    "q": "sept#: \"La-la-la-la-la-la-la.\"",
+                    "a": [
+                        "iēs|iēns"
+                    ]
+                },
+                {
+                    "q": "oct#: \"La-la-la-la-la-la-la-la.\"",
+                    "a": [
+                        "iēs|iēns"
+                    ]
+                },
+                {
+                    "q": "nov#: \"La-la-la-la-la-la-la-la-la.\"",
+                    "a": [
+                        "iēs|iēns"
+                    ]
+                },
+                {
+                    "q": "dec#: \"La-la-la-la-la-la-la-la-la-la.\"",
+                    "a": [
+                        "iēs|iēns"
+                    ]
+                },
+                {
+                    "q": "2. Mārcus, quī eandem syllabam tot# audīre nōn vult, puellam cantantem pulsat.",
+                    "a": [
+                        "iēs|iēns"
+                    ]
+                },
+                {
+                    "q": "3. Tum Quīntus Mārcum pulsat. Quot#? # [1x] tantum, nam Mārcus item Quīntum # pulsat.",
+                    "a": [
+                        "iēs|iēns",
+                        "Semel",
+                        "semel"
+                    ]
+                },
+                {
+                    "q": "4. Quot# Iūliam pulsat Mārcus? Mārcus Iūliam # [2x] pulsat.",
+                    "a": [
+                        "iēs|iēns",
+                        "bis"
+                    ]
+                },
+                {
+                    "q": "5. Iūlia # [3x] mātrem vocat: \"Mamma! Mam-ma! Ma-am-ma!\" ",
+                    "a": [
+                        "ter"
+                    ]
+                },
+                {
+                    "q": "6. Magister Mārcum interrogat # [4x]: \"Quot sunt XXX et X? XXX et VII? XXX et VIII? XXX et IX?\" ",
+                    "a": [
+                        "quater"
+                    ]
+                },
+                {
+                    "q": "7. Mārcus # [1x] rēctē et # [3x] prāvē respondet.",
+                    "a": [
+                        "semel",
+                        "ter"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Exercise 13",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. In vocābulō HOCVLVS H littera #.",
+                    "a": [
+                        "superest"
+                    ]
+                },
+                {
+                    "q": "2. Titus stilum vertēns eam litteram #.",
+                    "a": [
+                        "dēlet"
+                    ]
+                },
+                {
+                    "q": "3. Magister id quod Titus agit nōn #.",
+                    "a": [
+                        "animadvertit"
+                    ]
+                },
+                {
+                    "q": "4. Sextus multās # ad patrem suum absentem scrībit.",
+                    "a": [
+                        "epistulās"
+                    ]
+                },
+                {
+                    "q": "5. Sextus est discipulus # [= industrius].",
+                    "a": [
+                        "impiger"
+                    ]
+                },
+                {
+                    "q": "6. Magister nōn stilō in cērā, sed # in # scrībit.",
+                    "a": [
+                        "calamō",
+                        "chartā"
+                    ]
+                },
+                {
+                    "q": "7. Ea herba ex quā charta efficitur # appellātur.",
+                    "a": [
+                        "papȳrus"
+                    ]
+                },
+                {
+                    "q": "8. Kalendīs discipulī magistrō suō # afferunt.",
+                    "a": [
+                        "mercēdem"
+                    ]
+                },
+                {
+                    "q": "9. Magister ānulum suum in cēram #: ita epistulam #.",
+                    "a": [
+                        "imprimit",
+                        "signat"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Exercise 14",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Quotiēs Mārcus eandem litteram scrībit? ...",
+                    "a": [
+                        "Mārcus litteram H deciēs scrībit"
+                    ]
+                },
+                {
+                    "q": "2. Quotiēs scrībit tōtam sententiam? ...",
+                    "a": [
+                        "tōtam sententiam semel scrībit"
+                    ]
+                },
+                {
+                    "q": "3. Quid Titus in tabulā Mārcī animadvertit? ...",
+                    "a": [
+                        "Titus duās litterās deesse animadvertit"
+                    ]
+                },
+                {
+                    "q": "4. Cūr Titus nūllum verbum facit? ...",
+                    "a": [
+                        "... quia Mārcus stilum in corpus eius premit"
+                    ]
+                },
+                {
+                    "q": "5. Quōmodo Mārcus vocābulum HOCVLOS corrigit? ...",
+                    "a": [
+                        "stilum vertit et litteram H dēlet"
+                    ]
+                },
+                {
+                    "q": "6. Semperne domī est pater Mārcī? ...",
+                    "a": [
+                        "pater eius saepe abest"
+                    ]
+                },
+                {
+                    "q": "7. Stilōne in cērā scrībit magister? ...",
+                    "a": [
+                        "magister nōn stilō in tabulā, sed calamō in chartā scrībit"
+                    ]
+                },
+                {
+                    "q": "8. Ubi papȳrus reperītur? ...",
+                    "a": [
+                        "papȳrus in Aegyptō reperītur"
+                    ]
+                },
+                {
+                    "q": "9. Ad quem magister epistulam scrībit? ...",
+                    "a": [
+                        "epistulam scrībit ad patrem Mārcī"
+                    ]
+                },
+                {
+                    "q": "10. Quid magister in epistulā suā scrībit? ...",
+                    "a": [
+                        "scrībit 'Mārcum discipulum improbum esse'"
+                    ]
+                },
+                {
+                    "q": "11. Quid magister poscit ā discipulīs? ...",
+                    "a": [
+                        "magister mercēdem poscit"
+                    ]
+                },
+                {
+                    "q": "12. Quid est mercēs? ...",
+                    "a": [
+                        "mercēs est pecūnia quam magister ā patribus discipulōrum accipit"
+                    ]
+                },
+                {
+                    "q": "13. Quandō discipulī mercēdem afferre solent? ...",
+                    "a": [
+                        "kalendīs cuiusque mēnsis"
+                    ]
+                },
+                {
+                    "q": "14. Quid magister addit antequam epistulam signat? ...",
+                    "a": [
+                        "addit 'Mārcum mercēdem ad diem nōn afferre'"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Exercise 15",
+            "info": "Exempla: \nDiscipulus stultus stultē respondet.\nManus levis leviter scrībit.\n",
+            "questions": [
+                {
+                    "q": "1. 'Stultus' adiectīvum est; 'stultē' # est. ",
+                    "a": [
+                        "adverbium"
+                    ]
+                },
+                {
+                    "q": "2. 'Stultus' et 'levis' nōn adverbia, sed # sunt.",
+                    "a": [
+                        "adiectīva"
+                    ]
+                },
+                {
+                    "q": "3. 'Stultē' et 'leviter' nōn sunt #, sed #.",
+                    "a": [
+                        "adiectīva",
+                        "adverbia"
+                    ]
+                },
+                {
+                    "q": "4. Adiectīvum: rēctus -a -um; adverbium: rēct#.",
+                    "a": [
+                        "ē"
+                    ]
+                },
+                {
+                    "q": "5. Adiectīvum: fortis -e; adverbium: fort#.",
+                    "a": [
+                        "iter"
+                    ]
+                },
+                {
+                    "q": "6. Adverbium: longē; adiectīvum: long# -# -#",
+                    "a": [
+                        "us",
+                        "a",
+                        "um"
+                    ]
+                },
+                {
+                    "q": "7. Adverbium: graviter; adiectīvum: grav# -#.",
+                    "a": [
+                        "is",
+                        "e"
+                    ]
+                },
+                {
+                    "q": "8. Adiectīvum: pulcher -chra -chrum; adverbium: pulchr#.",
+                    "a": [
+                        "ē"
+                    ]
+                },
+                {
+                    "q": "9. Adiectīvum: -us (-er) -a -um (dēcl. I/II). Adverbium: -#.",
+                    "a": [
+                        "ē"
+                    ]
+                },
+                {
+                    "q": "10. Adiectivum: -is (-er -is) -e (dēcl. III). Adverbium: -#.",
+                    "a": [
+                        "iter"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Exercise 16",
+            "info": "Exempla: \nMārcus prāvē et turpiter scrībit.\nNēmō prāvius aut turpius scrībit quam Mārcus.\nMārcus prāvissimē et turpissimē scrībit.\n",
+            "questions": [
+                {
+                    "q": "1. 'Prāvē' et 'turpiter' positīvus adverbiī est; 'prāvius' et 'turpius' est #, 'prāvissimē' et 'turpissimē' # adverbiī. ",
+                    "a": [
+                        "comparātīvus",
+                        "superlātīvus"
+                    ]
+                },
+                {
+                    "q": "2. Positīvus: rēctē; comparātīvus: rēct#; superlātīvus: rēct#.",
+                    "a": [
+                        "ius",
+                        "issimē"
+                    ]
+                },
+                {
+                    "q": "3. Positīvus: leviter; comparātīvus: lev#; superlātīvus: lev#.",
+                    "a": [
+                        "ius",
+                        "issimē"
+                    ]
+                },
+                {
+                    "q": "4. Positīvus: pulchrē; comparātīvus: pulchr#; superlātīvus: pulcher#.",
+                    "a": [
+                        "ius",
+                        "rimē"
+                    ]
+                },
+                {
+                    "q": "5. Adverbium. Positīvus: -ē/-iter; comparātīvus: -#; superlātīvus: -issim# (-rim#).",
+                    "a": [
+                        "ius",
+                        "ē",
+                        "ē"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "name": "PENSVM A",
+            "info": "",
+            "questions": [
+                {
+                    "a": [
+                        "ē",
+                        "ē",
+                        "ē"
+                    ],
+                    "q": "Sextus rēct# respondet, Mārcus prāv# respondet et sevēr# reprehenditur."
+                },
+                {
+                    "a": [
+                        "ius",
+                        "ius",
+                        "ē",
+                        "ē"
+                    ],
+                    "q": "Nēmō rēct# aut pulchr# scrībit quam Sextus; is rēctissim# et pulcherrim# scrībit."
+                },
+                {
+                    "a": [
+                        "ē",
+                        "ius",
+                        "ē"
+                    ],
+                    "q": "Lūna plēna clār# lūcet, sed sōl clār# lūcet quam lūna et cēterae stēllae; sōl clārissim# lūcet."
+                },
+                {
+                    "a": [
+                        "iter"
+                    ],
+                    "q": "Hostēs nōn tam fort# pugnant quam Rōmānī. "
+                },
+                {
+                    "a": [
+                        "ius"
+                    ],
+                    "q": "Mīlitēs nostrī fort# pugnant quam hostēs."
+                },
+                {
+                    "a": [
+                        "ē"
+                    ],
+                    "q": "Nostrī fortissim# pugnant."
+                },
+                {
+                    "a": [
+                        "iter"
+                    ],
+                    "q": "Mārcus nimis lev# scrībit. "
+                },
+                {
+                    "a": [
+                        "iter"
+                    ],
+                    "q": "Magister brev# scrībit \"Mārcum improbum esse\"."
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "name": "PENSVM B",
+            "info": "",
+            "questions": [
+                {
+                    "a": [
+                        "vōcālēs",
+                        "cōnsonantēs"
+                    ],
+                    "q": "Ex XXIII litterīs Latīnīs VI # sunt: A E I O V Y; cēterae sunt #."
+                },
+                {
+                    "a": [
+                        "iungitur"
+                    ],
+                    "q": "Cōnsonāns semper cum vōcālī #."
+                },
+                {
+                    "a": [
+                        "rārae",
+                        "linguā",
+                        "frequentēs"
+                    ],
+                    "q": "K, Y, Z litterae # sunt in # Latīnā, in linguā Graecā #. "
+                },
+                {
+                    "a": [
+                        "eandem",
+                        "variās"
+                    ],
+                    "q": "Vocābula ōstium et iānua # rem significant; lingua duās rēs # significat."
+                },
+                {
+                    "a": [
+                        "legere"
+                    ],
+                    "q": "Magister librōs Latīnōs et Graecōs # potest."
+                },
+                {
+                    "a": [
+                        "sententiam",
+                        "scrībunt"
+                    ],
+                    "q": "Discipulī hanc # in tabulīs suīs #: Homō oculōs et nāsum habet."
+                },
+                {
+                    "a": [
+                        "cuiusque"
+                    ],
+                    "q": "Magister tabulam # puerī aspicit, et Sextī et Titī et Mārcī."
+                },
+                {
+                    "a": [
+                        "dēsunt"
+                    ],
+                    "q": "In tabulā Mārcī IV litterae #."
+                },
+                {
+                    "a": [
+                        "addit",
+                        "ita",
+                        "corrigit"
+                    ],
+                    "q": "Magister litterās quae dēsunt #; # [= eō modō] magister menda Mārcī #."
+                },
+                {
+                    "a": [
+                        "sīc"
+                    ],
+                    "q": "Tum Mārcus scrībit # [= hōc modō]: HOMO HOCVLOS... "
+                },
+                {
+                    "a": [
+                        "deest",
+                        "superest"
+                    ],
+                    "q": "Magister: \"Ō Mārce! Hīc nōn #, immō # littera H!\""
+                },
+                {
+                    "a": [
+                        "dēlet"
+                    ],
+                    "q": "Mārcus stilum vertēns H litteram #."
+                },
+                {
+                    "a": [
+                        "chartam",
+                        "epistulam"
+                    ],
+                    "q": "Tum magister calamum et # sūmit et # ad patrem Mārcī scrībit."
+                },
+                {
+                    "a": [
+                        "māteria",
+                        "dūra"
+                    ],
+                    "q": "Cēra est # mollis. Ferrum est māteria #."
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "name": "PENSVM C",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Quot sunt litterae Latīnae? ",
+                    "a": []
+                },
+                {
+                    "q": "2. Estne D vōcālis an cōnsonāns? ",
+                    "a": []
+                },
+                {
+                    "q": "3. Quot syllabās habet vocābulum 'apis'? ",
+                    "a": []
+                },
+                {
+                    "q": "4. Quōmodo parvus discipulus legit? ",
+                    "a": []
+                },
+                {
+                    "q": "5. Quis discipulus rēctissimē scrībit? ",
+                    "a": []
+                },
+                {
+                    "q": "6. Quālēs sunt litterae quās Titus scrībit? ",
+                    "a": []
+                },
+                {
+                    "q": "7. Quālis discipulus est Mārcus? ",
+                    "a": []
+                },
+                {
+                    "q": "8. Cūr Mārcus nōn HOMO, sed OMO scrībit? ",
+                    "a": []
+                },
+                {
+                    "q": "9. Quotiēs Mārcus litteram H scrībit? ",
+                    "a": []
+                },
+                {
+                    "q": "10. Stilōne in tabulā scrībit magister? ",
+                    "a": []
+                },
+                {
+                    "q": "11. Quid magister scrībit? ",
+                    "a": []
+                },
+                {
+                    "q": "12. Estne facilis grammatica Latīna? ",
+                    "a": []
+                },
+                {
+                    "q": "13. Tūne rēctius scrībis quam Mārcus? ",
+                    "a": []
+                }
+            ]
+        }
+    ]
+}

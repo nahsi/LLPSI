@@ -1,0 +1,1466 @@
+{
+    "id": 26,
+    "name": "CAPITVLVM XXVII",
+    "exercises": [
+        {
+            "id": 0,
+            "name": "Exercise 1",
+            "info": "Exempla: \nQuō īnstrūmentō agricola metit? Falce metit. \nQuī metit falce ūtitur.\n",
+            "questions": [
+                {
+                    "q": "1. Discipulus stil# in tabulā scrībit.",
+                    "a": [
+                        "ō"
+                    ]
+                },
+                {
+                    "q": "2. Discipulus quī scrībit stil# et tabul# ūtitur.",
+                    "a": [
+                        "ō",
+                        "ā"
+                    ]
+                },
+                {
+                    "q": "3. Mīles gladi# et scūt# et ali# arm# pugnat.",
+                    "a": [
+                        "ō",
+                        "ō",
+                        "īs",
+                        "īs"
+                    ]
+                },
+                {
+                    "q": "4. Mīles pugnāns gladi# et scūt# et ali# arm# ūtitur.",
+                    "a": [
+                        "ō",
+                        "ō",
+                        "īs",
+                        "īs"
+                    ]
+                },
+                {
+                    "q": "5. Quī in aliam terram it aut nāv# aut curr# aut equ# vehitur.",
+                    "a": [
+                        "e",
+                        "ū",
+                        "ō"
+                    ]
+                },
+                {
+                    "q": "6. Avis volāns āl# ūtitur; homō ambulāns ūtitur ped#.",
+                    "a": [
+                        "īs",
+                        "ibus"
+                    ]
+                },
+                {
+                    "q": "7. In loquendō lingu# ūtimur, aur# ūtimur in audiendō.",
+                    "a": [
+                        "ā",
+                        "ibus"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Exercise 2",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Hortus Iūliī # [= pulcher] agrīs #.",
+                    "a": [
+                        "amoenus",
+                        "cingitur"
+                    ]
+                },
+                {
+                    "q": "2. Mēnse Augustō # metitur; deinde # arantur.",
+                    "a": [
+                        "frūmentum",
+                        "agrī"
+                    ]
+                },
+                {
+                    "q": "3. Vir cuius # est agrōs colere # dīcitur.",
+                    "a": [
+                        "negōtium",
+                        "agricola"
+                    ]
+                },
+                {
+                    "q": "4. Agricola quī # arātrō #.",
+                    "a": [
+                        "arat",
+                        "ūtitur"
+                    ]
+                },
+                {
+                    "q": "5. Arātrum est # quō agricola arat.",
+                    "a": [
+                        "īnstrūmentum"
+                    ]
+                },
+                {
+                    "q": "6. # [= quī arat] duōs bovēs, quī # trahunt, # [= ante] sē #.",
+                    "a": [
+                        "Arātor",
+                        "arātrum",
+                        "prae",
+                        "agit"
+                    ]
+                },
+                {
+                    "q": "7. Agricola quī serit sēmen manū #.",
+                    "a": [
+                        "spargit"
+                    ]
+                },
+                {
+                    "q": "8. Novum frūmentum # ex parvīs #.",
+                    "a": [
+                        "crēscit",
+                        "sēminibus"
+                    ]
+                },
+                {
+                    "q": "9. Agricolae mēnse Augustō frūmentum # solent, quia eō mēnse frūmentum # est. ",
+                    "a": [
+                        "metere",
+                        "mātūrum"
+                    ]
+                },
+                {
+                    "q": "10. # est īnstrūmentum quō frūmentum metitur.",
+                    "a": [
+                        "Falx"
+                    ]
+                },
+                {
+                    "q": "11. Agricolae prīmum arant, deinde #, # [= postrēmō] metunt: ita agricolae agrōs suōs #.",
+                    "a": [
+                        "serunt",
+                        "dēnique",
+                        "colunt"
+                    ]
+                },
+                {
+                    "q": "12. Agrī Iūliī, quī magnās # ferunt, # sunt.",
+                    "a": [
+                        "frūgēs",
+                        "fertilēs"
+                    ]
+                },
+                {
+                    "q": "13. In campīs quī nōn arantur ovēs, porcī, bovēs #.",
+                    "a": [
+                        "pāscuntur"
+                    ]
+                },
+                {
+                    "q": "14. Facilius est # pāscere quam agrōs colere.",
+                    "a": [
+                        "pecus"
+                    ]
+                },
+                {
+                    "q": "15. In Italiā # [= nōn satis] frūmentī metitur; itaque magna # frūmentī ex Āfricā in Italiam #.",
+                    "a": [
+                        "parum",
+                        "cōpia",
+                        "invehitur"
+                    ]
+                },
+                {
+                    "q": "16. Aegyptiī bis ter# [= bis vel ter] in annō metunt.",
+                    "a": [
+                        "ve"
+                    ]
+                },
+                {
+                    "q": "17. Latium dīcitur ea # in quā urbs Rōma sita est.",
+                    "a": [
+                        "regiō"
+                    ]
+                },
+                {
+                    "q": "18. Antīquī Latīnī hominēs # [= indoctī] ac barbarī erant.",
+                    "a": [
+                        "rudēs"
+                    ]
+                },
+                {
+                    "q": "19. Vīneae sunt agrī quī # ferunt.",
+                    "a": [
+                        "vītēs"
+                    ]
+                },
+                {
+                    "q": "20. # efficitur ex frūgibus vītium, quae # dīcuntur.",
+                    "a": [
+                        "Vīnum",
+                        "ūvae"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Exercise 3",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Quid Iūlius post merīdiem facere solet? ...",
+                    "a": [
+                        "post merīdiem Iūlius quiēscit, tum ambulātum īre solet"
+                    ]
+                },
+                {
+                    "q": "2. Quid crēscit in agrīs quī hortum cingunt? ...",
+                    "a": [
+                        "frūmentum et vītēs in agrīs crēscunt"
+                    ]
+                },
+                {
+                    "q": "3. Quō mēnse metitur frūmentum? ...",
+                    "a": [
+                        "frūmentum mēnse Augustō metitur"
+                    ]
+                },
+                {
+                    "q": "4. Quid est agricolae negōtium? ...",
+                    "a": [
+                        "negōtium agricolae est agrōs colere"
+                    ]
+                },
+                {
+                    "q": "5. Quid est arātrum?",
+                    "a": []
+                },
+                {
+                    "q": "6. Quae bēstiae arātrum trahunt? ...",
+                    "a": [
+                        "arātrum est īnstrūmentum quō agrī arantur"
+                    ]
+                },
+                {
+                    "q": "7. Quōmodo serit agricola? ...",
+                    "a": [
+                        "bovēs arātrum trahunt"
+                    ]
+                },
+                {
+                    "q": "8. Quō īnstrūmentō ūtitur agricola quī metit? ...",
+                    "a": [
+                        "agricola serit sēmen manū spargendō"
+                    ]
+                },
+                {
+                    "q": "9. Cuius pater est Sāturnus? ...",
+                    "a": [
+                        "quī metit falce ūtitur"
+                    ]
+                },
+                {
+                    "q": "10. Quid fēcit Sāturnus postquam ē caelō pulsus est? ...",
+                    "a": [
+                        "Sāturnus est pater Iovis"
+                    ]
+                },
+                {
+                    "q": "11. Cūr magna Italiae pars nōn arātur? ...",
+                    "a": [
+                        "in Italiam vēnit, ubi Latīnōs agrōs colere docuit"
+                    ]
+                },
+                {
+                    "q": "12. Quid est negōtium pāstōris? ...",
+                    "a": [
+                        "... quia agricolae multās ovēs et bovēs pāscunt"
+                    ]
+                },
+                {
+                    "q": "13. Unde frūmentum Rōmam invehitur? ...",
+                    "a": [
+                        "pāstōris negōtium est ovēs pāscere"
+                    ]
+                },
+                {
+                    "q": "14. Cūr necesse est solum Āfricae rigāre? ...",
+                    "a": [
+                        "frūmentum ex Āfricā invehitur"
+                    ]
+                },
+                {
+                    "q": "15. Quotiēs in annō Aegyptiī metere possunt? ...",
+                    "a": [
+                        "... quod multīs locīs parum aquae est"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Exercise 4",
+            "info": "Exempla:\nPater fīlium surgere et stāre, tacēre et audīre iubet =\nPater fīliō imperat ut surgat et stet, taceat et audiat.\n",
+            "questions": [
+                {
+                    "q": "1. Magister discipulōs cōnsīdere et tacēre iubet = magister discipulīs imperat ut # # #",
+                    "a": [
+                        "cōnsīdant",
+                        "et",
+                        "taceant"
+                    ]
+                },
+                {
+                    "q": "2. Magister Mārcum surgere et respondēre iubet = # # # # # # #",
+                    "a": [
+                        "magister",
+                        "Mārcō",
+                        "imperat",
+                        "ut",
+                        "surgat",
+                        "et",
+                        "respondeat"
+                    ]
+                },
+                {
+                    "q": "3. Domina ancillam intrāre iubet = # # # # #",
+                    "a": [
+                        "domina",
+                        "ancillae",
+                        "imperat",
+                        "ut",
+                        "intret"
+                    ]
+                },
+                {
+                    "q": "4. Gubernātor nautās aquam haurīre iubet = # # # # # #",
+                    "a": [
+                        "gubernātor",
+                        "nautīs",
+                        "imperat",
+                        "ut",
+                        "aquam",
+                        "hauriant"
+                    ]
+                },
+                {
+                    "q": "5. Dominus servōs industriē labōrāre iubet = # # # # # #",
+                    "a": [
+                        "dominus",
+                        "servīs",
+                        "imperat",
+                        "ut",
+                        "industriē",
+                        "labōrent"
+                    ]
+                },
+                {
+                    "q": "6. Iūlius iānitōrem vigilāre et domum bene cūstōdīre iubet = # # # # # # # # #",
+                    "a": [
+                        "Iūlius",
+                        "iānitōrī",
+                        "imperat",
+                        "ut",
+                        "vigilet",
+                        "et",
+                        "domum",
+                        "bene",
+                        "cūstōdiat"
+                    ]
+                },
+                {
+                    "q": "7. Dux mīlitēs oppidum hostium oppugnāre iubet = # # # # # # #",
+                    "a": [
+                        "dux",
+                        "mīlitibus",
+                        "imperat",
+                        "ut",
+                        "oppidum",
+                        "hostium",
+                        "oppugnent"
+                    ]
+                },
+                {
+                    "q": "8. Iūlius servum medicum arcessere iubet = # # # # # #",
+                    "a": [
+                        "Iūlius",
+                        "servō",
+                        "imperat",
+                        "ut",
+                        "medicum",
+                        "arcessat"
+                    ]
+                },
+                {
+                    "q": "9. Medicus Quīntum ōs aperīre et linguam ostendere iubet = # # # # # # # # #",
+                    "a": [
+                        "medicus",
+                        "Quīntō",
+                        "imperat",
+                        "ut",
+                        "ōs",
+                        "aperiat",
+                        "et",
+                        "linguam",
+                        "ostendat"
+                    ]
+                },
+                {
+                    "q": "10. Medicus Iūlium bracchium puerī tenēre iubet = # # # # # # #",
+                    "a": [
+                        "medicus",
+                        "Iūliō",
+                        "imperat",
+                        "ut",
+                        "bracchium",
+                        "puerī",
+                        "teneat"
+                    ]
+                },
+                {
+                    "q": "11. Iūlius servōs cōnsistere et manēre iubet = # # # # # # #",
+                    "a": [
+                        "Iūlius",
+                        "servīs",
+                        "imperat",
+                        "ut",
+                        "cōnsistant",
+                        "et",
+                        "maneant"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Exercise 5",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Iūlius # [= vīllam cum agrīs] habet sub monte Albānō.",
+                    "a": [
+                        "praedium"
+                    ]
+                },
+                {
+                    "q": "2. Multī dominī Rōmānī, quī ipsī in agrīs nōn #, # [= opus] agricolārum indignum esse # [= putant]. ",
+                    "a": [
+                        "labōrant",
+                        "labōrem",
+                        "exīstimant|cēnsent"
+                    ]
+                },
+                {
+                    "q": "3. Iūlius in praediō suō # [= sub urbe sitō] nōn labōrat, sed #.",
+                    "a": [
+                        "suburbānō",
+                        "quiēscit"
+                    ]
+                },
+                {
+                    "q": "4. Itaque sē # agricolīs beātum esse # [= exīstimat].",
+                    "a": [
+                        "prae",
+                        "cēnset"
+                    ]
+                },
+                {
+                    "q": "5. Rōmae Iūlius multa negōtia # [< urbs] cūrāre dēbet, neque ūllum # eī est.",
+                    "a": [
+                        "urbāna",
+                        "ōtium"
+                    ]
+                },
+                {
+                    "q": "6. Post merīdiem dominus # [= circum] agrōs et vīneās ambulat.",
+                    "a": [
+                        "circā"
+                    ]
+                },
+                {
+                    "q": "7. Nōn urbs, sed # amoenum et quiētum Iūlium dēlectat.",
+                    "a": [
+                        "rūs"
+                    ]
+                },
+                {
+                    "q": "8. # est agricola quī aliēnōs agrōs # dominō colit.",
+                    "a": [
+                        "Colōnus",
+                        "prō"
+                    ]
+                },
+                {
+                    "q": "9. # colōnus DCCC sēstertiōs Iūliō dēbet.",
+                    "a": [
+                        "Quīdam"
+                    ]
+                },
+                {
+                    "q": "10. Iūlius colōnō imperat # mercēdem solvat: “Solve mercēdem, quam iam saepe # tē [= ā tē] poposcī!”",
+                    "a": [
+                        "ut",
+                        "abs"
+                    ]
+                },
+                {
+                    "q": "11. Colōnus pauperrimus, quī # nummum # possidet, sē ad pedēs dominī #; miser colōnus dominum # ut patientiam habeat.",
+                    "a": [
+                        "nē",
+                        "quidem",
+                        "prōicit",
+                        "ōrat"
+                    ]
+                },
+                {
+                    "q": "12. Iūlius: “Vir # sum, sed hic fīnis est patientiae meae!”",
+                    "a": [
+                        "patiēns"
+                    ]
+                },
+                {
+                    "q": "13. Colōnus: “Nōlī mē ab uxōre gravidā #! Per omnēs deōs tē ōrō.”",
+                    "a": [
+                        "rapere"
+                    ]
+                },
+                {
+                    "q": "14. Iūlius # colōnī movētur: colōnō imperat ut uxōrem # cūret ac mercēdem intrā # [XXX] diem solvat.",
+                    "a": [
+                        "precibus",
+                        "gravidam",
+                        "trīcēsimum"
+                    ]
+                },
+                {
+                    "q": "15. # īnfantium multum temporis magnamque # postulat.",
+                    "a": [
+                        "Cūra",
+                        "patientiam"
+                    ]
+                },
+                {
+                    "q": "16. Bona māter īnfantēs suōs nōn #, sed bene cūrat.",
+                    "a": [
+                        "neglegit"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Exercise 6",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Ubi ambulat Iūlius? ...",
+                    "a": [
+                        "circā agrōs et vīneās ambulat"
+                    ]
+                },
+                {
+                    "q": "2. Quālēs sunt vīllae quibus lacus Albānus cingitur? ...",
+                    "a": [
+                        "vīllīs magnificīs cingitur lacus Albānus"
+                    ]
+                },
+                {
+                    "q": "3. In quā Italiae regiōne plūrimae sunt vīllae? ...",
+                    "a": [
+                        "in Latiō circā lacum Albānum plūrimae vīllae sunt"
+                    ]
+                },
+                {
+                    "q": "4. Quōs Iūlius ambulāns aspicit in agrīs? ...",
+                    "a": [
+                        "Iūlius colōnōs labōrantēs aspicit"
+                    ]
+                },
+                {
+                    "q": "5. Cūr Iūlius sē prae agricolīs beātum esse cēnset? ...",
+                    "a": [
+                        "... quod eī necesse nōn est in agrīs labōrāre"
+                    ]
+                },
+                {
+                    "q": "6. Quid est colōnus? ...",
+                    "a": [
+                        "colōnus est agricola quī agrōs aliēnōs prō dominō colit"
+                    ]
+                },
+                {
+                    "q": "7. Omnēsne colōnī mercēdem ad diem solvērunt? ...",
+                    "a": [
+                        "ūnus colōnus mercēdem nōndum solvit"
+                    ]
+                },
+                {
+                    "q": "8. Quot sēstertiōs quīdam colōnus Iūliō dēbet? ...",
+                    "a": [
+                        "ille colōnus octingentōs sēstertiōs Iūliō dēbet"
+                    ]
+                },
+                {
+                    "q": "9. Quid Iūlius illī colōnō imperat? ...",
+                    "a": [
+                        "dominus eī imperat ut mercēdem statim solvat"
+                    ]
+                },
+                {
+                    "q": "10. Quid colōnus Iūlium ōrat? ...",
+                    "a": [
+                        "colōnus dominum ōrat ut patientiam habeat"
+                    ]
+                },
+                {
+                    "q": "11. Cūr colōnus mercēdem statim solvere nōn potest? ...",
+                    "a": [
+                        "... quia nūlla est eī pecūnia"
+                    ]
+                },
+                {
+                    "q": "12. Quot līberī illī colōnō sunt? ...",
+                    "a": [
+                        "colōnō octō līberī sunt"
+                    ]
+                },
+                {
+                    "q": "13. Cūr uxor colōnī līberōs cūrāre nōn potest? ...",
+                    "a": [
+                        "... quod gravida est"
+                    ]
+                },
+                {
+                    "q": "14. Quid Iūlius colōnum monet? ...",
+                    "a": [
+                        "Iūlius colōnum monet ut uxōrem et līberōs cūret"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Exercise 7",
+            "info": "Exempla: \nDominus servum monet ut industrius sit: ut labōret nēve quiēscat: \n“Moneō tē ut industrius sīs: ut labōrēs nēve quiēscās!” \nServus: “Cūr mē monēs ut industrius sim: ut labōrem nēve quiēscam?”\nDominus servōs monet ut industriī sint: ut labōrent nēve quiēscant: \n“Moneō vōs ut industriī sītis: ut labōrētis nēve quiēscātis.”\nServī: “Cūr nōs monēs ut industriī sīmus: ut labōrēmus nēve quiēscāmus?”\n",
+            "questions": [
+                {
+                    "q": "1. Iūlius colōnō imperat ut mercēdem solv#: “Imperō tibi ut mercēdem solv#!”",
+                    "a": [
+                        "at",
+                        "ās"
+                    ]
+                },
+                {
+                    "q": "2. Iūlius: “Hīs litterīs magister mē monet ut mercēdem solv#.”",
+                    "a": [
+                        "am"
+                    ]
+                },
+                {
+                    "q": "3. Dux mīlitēs monet ut fortiter pugn# et hostēs vinc#: “Moneō vōs ut fortiter pugn# et hostēs vinc#!”",
+                    "a": [
+                        "ent",
+                        "ant",
+                        "ētis",
+                        "ātis"
+                    ]
+                },
+                {
+                    "q": "4. Mīles fortissimus: “Audīte, amīcī: dux nos monet ut fortiter pugn# et hostēs vinc#.”",
+                    "a": [
+                        "ēmus",
+                        "āmus"
+                    ]
+                },
+                {
+                    "q": "5. Iūlius ad amīcum absentem scrībit: “Tē ōrō ut ad mē scrīb# aut ipse veni#. Cūrā ut vale# et mē am#!”",
+                    "a": [
+                        "ās",
+                        "ās",
+                        "ās",
+                        "ēs"
+                    ]
+                },
+                {
+                    "q": "6. Iūlia: “Māter semper mē monet ut cauta s#, nec umquam monet vōs, puerī, ut cautī s#.”",
+                    "a": [
+                        "im",
+                        "ītis"
+                    ]
+                },
+                {
+                    "q": "7. Mārcus: “Māter tē monet ut cauta s# quia tū cauta nōn es; nōs vērō cautī sumus: itaque opus nōn est nōs monēre ut cautī s#.”",
+                    "a": [
+                        "īs",
+                        "īmus"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Exercise 8",
+            "info": "Exempla: Dominus imperat ut servus verberētur et inclūdātur (= Dominus eum \nverberārī et inclūdī iubet). Servus: “Cūr imperās ut ego verberer et in-\nclūdar?” (= “Cūr mē verberārī et inclūdī iubēs?”). D.: “Mē rīdēs! Itaque \nimperō ut verberēris et inclūdāris!” (= “tē verberārī et inclūdī iubeō!”).\nDominus imperat ut servī verberentur et inclūdantur (= D. eōs verberārī \net inclūdī iubet). Servī: “Cūr imperās ut nōs verberēmur et inclūdāmur?” \n(= “Cūr nōs verberārī et inclūdī iubēs?”). D.: “Mē rīdētis! Itaque imperō \nut verberēminī et inclūdāminī!” (= “vōs verberārī et inclūdī iubeō!”).\n",
+            "questions": [
+                {
+                    "q": "1. Dominus imperat ut servus voc# et interrog# (= Dominus servum voc# et interrog# iubet).",
+                    "a": [
+                        "ētur",
+                        "ētur",
+                        "ārī",
+                        "ārī"
+                    ]
+                },
+                {
+                    "q": "2. Iūlius imperat ut pāstor prehend# et tene# (= Iūlius pāstōrem prehend# et ten# iubet).",
+                    "a": [
+                        "ātur",
+                        "ātur",
+                        "ī",
+                        "ērī"
+                    ]
+                },
+                {
+                    "q": "3. Colōnus: “Cūrā ut ovēs tuae ab agrīs prohibe#!”",
+                    "a": [
+                        "antur"
+                    ]
+                },
+                {
+                    "q": "4. Dux nūntium monet ut cautē ex castrīs ēgredi# et ōret ut sine morā sibi auxilium mitt#.",
+                    "a": [
+                        "ātur",
+                        "ātur"
+                    ]
+                },
+                {
+                    "q": "5. Dux: “Cavē nē vide# nēve audi# ab hostibus!”",
+                    "a": [
+                        "āris",
+                        "āris"
+                    ]
+                },
+                {
+                    "q": "6. Māter fīlium monet ut bene lav#: “Cūrā ut bene lav#, Mārce, nēve sordidīs manibus proficīsc#!”",
+                    "a": [
+                        "ētur",
+                        "ēris",
+                        "āris"
+                    ]
+                },
+                {
+                    "q": "7. Mārcus: “Dāvus semper cūrat ut ego bene lav# nēve sordidīs manibus proficīsc#.”",
+                    "a": [
+                        "er",
+                        "ar"
+                    ]
+                },
+                {
+                    "q": "8. Māter fīliōs monet ut bene lav#: “Cūrāte ut bene lav#, fīliī, nēve sordidīs manibus proficīsc#.”",
+                    "a": [
+                        "entur",
+                        "ēminī",
+                        "āminī"
+                    ]
+                },
+                {
+                    "q": "9. Mārcus: “Dāvus semper cūrat ut nōs bene lav# nēve sordidīs manibus proficīsc#.”",
+                    "a": [
+                        "ēmur",
+                        "āmur"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Exercise 9",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Iūlius agricolās interrogat dē rēbus # [< rūs].",
+                    "a": [
+                        "rūsticīs"
+                    ]
+                },
+                {
+                    "q": "2. # sōlis efficit ut vīnum bonum fīat.",
+                    "a": [
+                        "Calor"
+                    ]
+                },
+                {
+                    "q": "3. Nihil vīneīs magis # quam sōl et calor, neque # [= ūlla rēs] iīs magis # quam imber et #.",
+                    "a": [
+                        "prōdest",
+                        "quidquam|quicquam",
+                        "nocet",
+                        "frīgus"
+                    ]
+                },
+                {
+                    "q": "4. Solum nōn ūmidum, sed # est.",
+                    "a": [
+                        "siccum"
+                    ]
+                },
+                {
+                    "q": "5. # est magnus numerus bēstiārum quae simul pāscuntur.",
+                    "a": [
+                        "Grex"
+                    ]
+                },
+                {
+                    "q": "6. Pāstor cūrat # ovēs ē grege aberrent # ā lupō rapiantur.",
+                    "a": [
+                        "nē",
+                        "nēve"
+                    ]
+                },
+                {
+                    "q": "7. Servus quī officium suum neglegit # [= improbus] est.",
+                    "a": [
+                        "nēquam"
+                    ]
+                },
+                {
+                    "q": "8. Pāstor ovēs, quae frūmentum # [<> mātūrum] carpere volunt, ab agrīs # dēbet.",
+                    "a": [
+                        "immātūrum",
+                        "prohibēre"
+                    ]
+                },
+                {
+                    "q": "9. Canis cavet # ūlla ovis ē grege aberret.",
+                    "a": [
+                        "nē"
+                    ]
+                },
+                {
+                    "q": "10. Iūlius, quamquam sevērus exīstimātur, tamen # nōn est.",
+                    "a": [
+                        "inhūmānus"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Exercise 10",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Dē quibus rēbus Iūlius agricolās interrogat? ...",
+                    "a": [
+                        "dē rēbus rūsticīs agricolās interrogat"
+                    ]
+                },
+                {
+                    "q": "2. Cūr agricola cēnset vīnum bonum futūrum esse? ...",
+                    "a": [
+                        "... quia sōl cotīdiē lūcet"
+                    ]
+                },
+                {
+                    "q": "3. Quid vīneīs māximē prōdest? ...",
+                    "a": [
+                        "sōl et calor vīneīs prōdest"
+                    ]
+                },
+                {
+                    "q": "4. Quid Iūlius agricolās monet? ...",
+                    "a": [
+                        "agricolās monet ut industriē labōrent"
+                    ]
+                },
+                {
+                    "q": "5. Cūr agrī Iūliī arte rigārī nōn possunt? ...",
+                    "a": [
+                        "... quod procul absunt ā rīvō"
+                    ]
+                },
+                {
+                    "q": "6. Quid est officium pāstōris? ...",
+                    "a": [
+                        "officium pāstōris est cūrāre nē ovēs aberrent"
+                    ]
+                },
+                {
+                    "q": "7. Cūr ovis nigra ē grege aberrāvit? ...",
+                    "a": [
+                        "ovis nigra umbram petīvit"
+                    ]
+                },
+                {
+                    "q": "8. Quōmodo servāta est ovis? ...",
+                    "a": [
+                        "canis et pāstor eam repperit et ā lupō servāvit"
+                    ]
+                },
+                {
+                    "q": "9. Quid Iūlius dē illō pāstōre exīstimat? ...",
+                    "a": [
+                        "Iūlius pāstōrem pigrum et neglegentem esse exīstimat"
+                    ]
+                },
+                {
+                    "q": "10. Cūr necesse nōn est pāstōrem arcessere? ...",
+                    "a": [
+                        "... quia pāstor ipse cum grege suō advenit"
+                    ]
+                },
+                {
+                    "q": "11. Quid pāstor dominum ōrat? ...",
+                    "a": [
+                        "pāstor dominum ōrat nē sē verberet"
+                    ]
+                },
+                {
+                    "q": "12. Quid Iūlius duōbus agricolīs imperat? ....",
+                    "a": [
+                        "agricolīs imperat ut pāstōrem prehendant et teneant"
+                    ]
+                },
+                {
+                    "q": "13. Quid faciunt ovēs dum pāstor ita tenētur? ...",
+                    "a": [
+                        "ovēs in agrōs aberrant ac frūmentum immātūrum carpunt"
+                    ]
+                },
+                {
+                    "q": "14. Agricolae hoc videntēs quid agunt? ...",
+                    "a": [
+                        "agricolae pāstōrem mittunt atque ovēs ex agrīs agunt"
+                    ]
+                },
+                {
+                    "q": "15. Tūne Iūlium dominum sevērum esse cēnsēs? ...",
+                    "a": [
+                        "cēnseō eum dominum sevērum, nec vērō inhūmānum esse"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Exercise 11",
+            "info": "Āctīvum\n____________Sing.\t\tPlūr.\t\t\tSing.\t\tPlūr.\nPassīvum\n____________Sing.\t\tPlūr.\t\t\tSing.\t\tPlūr.\n",
+            "questions": [
+                {
+                    "q": "1. 'Intra|t' est tempus praesēns; 'intr|et' quoque tempus # est.",
+                    "a": [
+                        "praesēns"
+                    ]
+                },
+                {
+                    "q": "2. 'Intra|t' est indicātīvus praesentis; 'intr|et' nōn indicātīvus, sed # praesentis est. ",
+                    "a": [
+                        "coniūnctīvus"
+                    ]
+                },
+                {
+                    "q": "3. 'Tace|t', 'claud|it', 'dormi|t' est indicātīvus praesentis; 'tace|at', 'claud|at', 'dormi|at' # # est.",
+                    "a": [
+                        "coniūnctīvus",
+                        "praesentis"
+                    ]
+                },
+                {
+                    "q": "4. Coniūnctīvus praesentis: pers. 3: [1] -et, -ent, [2, 3, 4] -#, -#; pers. 2: [1] -#, -#, [2, 3, 4] -#, -#; pers. 1: [1] -#, -# , [2, 3, 4] -#, -#.",
+                    "a": [
+                        "at",
+                        "ant",
+                        "ēs",
+                        "ētis",
+                        "ās",
+                        "ātis",
+                        "em",
+                        "ēmus",
+                        "am",
+                        "āmus"
+                    ]
+                },
+                {
+                    "q": "5. Pers.1\tvoc#\t\tvoc#\t\tvide#\t\tvide#",
+                    "a": [
+                        "em",
+                        "ēmus",
+                        "am",
+                        "āmus"
+                    ]
+                },
+                {
+                    "q": "6. Pers.2\tvoc#\t\tvoc#\t\t\tvide#\t\tvide#",
+                    "a": [
+                        "ēs",
+                        "ētis",
+                        "ās",
+                        "ātis"
+                    ]
+                },
+                {
+                    "q": "7. Pers.2\tvoc#\t\tvoc#\t\t\tvide#\t\tvide#",
+                    "a": [
+                        "et",
+                        "ent",
+                        "at",
+                        "ant"
+                    ]
+                },
+                {
+                    "q": "8. Pers.1\tdūc#\t\tdūc#\t\taudi#\t\taudi#",
+                    "a": [
+                        "am",
+                        "āmus",
+                        "am",
+                        "āmus"
+                    ]
+                },
+                {
+                    "q": "9. Pers.2\tdūc#\t\tdūc#\t\t\taudi#\t\taudi#",
+                    "a": [
+                        "ās",
+                        "ātis",
+                        "ās",
+                        "ātis"
+                    ]
+                },
+                {
+                    "q": "10. Pers.3\tdūc#\t\tdūc#\t\t\taudi#\t\taudi#",
+                    "a": [
+                        "at",
+                        "ant",
+                        "at",
+                        "ant"
+                    ]
+                },
+                {
+                    "q": "11. Coniūnctīvus praesentis verbī 'esse': singulāris: pers. 1 sim, 2 s#, 3 s#, plūrālis: pers. 1 s#, 2 s#, 3 s#.",
+                    "a": [
+                        "īs",
+                        "it",
+                        "īmus",
+                        "ītis",
+                        "int"
+                    ]
+                },
+                {
+                    "q": "12. 'Amā|tur' est indicātīvus praesentis passīvī; 'am|ētur' # praesentis passīvī est.",
+                    "a": [
+                        "coniūnctīvus"
+                    ]
+                },
+                {
+                    "q": "13. 'Tenē|tur', 'scrīb|itur', 'pūnī|tur' est indicātīvus praesentis passīvī; 'tene|ātur', 'scrīb|ātur', 'pūni|ātur' # # # est.",
+                    "a": [
+                        "coniūnctīvus",
+                        "praesentis",
+                        "passīvī"
+                    ]
+                },
+                {
+                    "q": "14. Coniūnctīvus praesentis passīvī: pers. 3: [1] -ētur, -entur, [2, 3, 4] -ātur, -antur; pers. 2: [1] -#, -#, [2, 3, 4] -#, -#; pers. 1: [1] -#, -#, [2, 3, 4] -#, -#.",
+                    "a": [
+                        "ēris",
+                        "ēminī",
+                        "āris",
+                        "āminī",
+                        "er",
+                        "ēmur",
+                        "ar",
+                        "āmur"
+                    ]
+                },
+                {
+                    "q": "15. Pers.1\tvoc#\t\tvoc#\t\tvide#\t\tvide#",
+                    "a": [
+                        "er",
+                        "ēmur",
+                        "ar",
+                        "āmur"
+                    ]
+                },
+                {
+                    "q": "16. Pers.2\tvoc#\t\tvoc#\t\tvide#\tvide#",
+                    "a": [
+                        "ēris",
+                        "ēminī",
+                        "āris",
+                        "āmini"
+                    ]
+                },
+                {
+                    "q": "17. Pers.3\tvoc#\t\tvoc#\t\tvide#\tvide#",
+                    "a": [
+                        "ētur",
+                        "entur",
+                        "ātur",
+                        "antur"
+                    ]
+                },
+                {
+                    "q": "18. Pers.1\tdūc#\t\tdūc#\t\taudi#\t\taudi#",
+                    "a": [
+                        "ar",
+                        "āmur",
+                        "ar",
+                        "āmur"
+                    ]
+                },
+                {
+                    "q": "19. Pers.2\tdūc#\t\tdūc#\t\taudi#\taudi#",
+                    "a": [
+                        "āris",
+                        "āminī",
+                        "āris",
+                        "āminī"
+                    ]
+                },
+                {
+                    "q": "20. Pers.3\tdūc#\t\tdūc#\t\taudi#\taudi#",
+                    "a": [
+                        "ātur",
+                        "antur",
+                        "ātur",
+                        "antur"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Exercise 12",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1.  crēscere, #isse.",
+                    "a": [
+                        "crēv"
+                    ]
+                },
+                {
+                    "q": "2.  dēsinere, dē#isse.",
+                    "a": [
+                        "si"
+                    ]
+                },
+                {
+                    "q": "3.  neglegere, #isse, #um esse.",
+                    "a": [
+                        "neglēx",
+                        "neglēct"
+                    ]
+                },
+                {
+                    "q": "4.  poscere, #isse.",
+                    "a": [
+                        "poposc"
+                    ]
+                },
+                {
+                    "q": "5.  prōdesse, #isse.",
+                    "a": [
+                        "prōfu"
+                    ]
+                },
+                {
+                    "q": "6.  quiēscere, #isse.",
+                    "a": [
+                        "quiēv"
+                    ]
+                },
+                {
+                    "q": "7.  rapere, #isse, #um esse.",
+                    "a": [
+                        "rapu",
+                        "rapt"
+                    ]
+                },
+                {
+                    "q": "8.  spargere, #isse, #um esse.",
+                    "a": [
+                        "spars",
+                        "spars"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "PENSVM A",
+            "info": "",
+            "questions": [
+                {
+                    "a": [
+                        "at"
+                    ],
+                    "q": "Iūlius colōnō imperat ut mercēdem solv#."
+                },
+                {
+                    "a": [
+                        "at",
+                        "am"
+                    ],
+                    "q": "Ille dominum ōrat ut patientiam habe#: \"Nōlī postulāre ut tantam pecūniam statim solv#!\""
+                },
+                {
+                    "a": [
+                        "at",
+                        "at",
+                        "ant",
+                        "ās",
+                        "ās"
+                    ],
+                    "q": "Dominus colōnō imperat ut tace# et surg#, tum \"Prīmum cūrā\" inquit \"ut uxor et līberī tuī vale#, tum vērō cūrā ut agrōs bene col# et mercēdem solv#!\""
+                },
+                {
+                    "a": [
+                        "ent",
+                        "ant",
+                        "ētis",
+                        "ātis"
+                    ],
+                    "q": "Dominus colōnōs monet ut labōr# nēve quiēsc#: \"Moneō vōs ut labōr# nēve quiēsc#\""
+                },
+                {
+                    "a": [
+                        "it",
+                        "īs",
+                        "īmus"
+                    ],
+                    "q": "Māter fīliam monet ut cauta s#: \"Moneō tē ut cauta s#!\" Fābula nōs monet nē temerāriī s#. "
+                },
+                {
+                    "a": [
+                        "spars",
+                        "spars"
+                    ],
+                    "q": "Verba: spargere, #isse, #um;"
+                },
+                {
+                    "a": [
+                        "rapu",
+                        "rapt"
+                    ],
+                    "q": "rapere, #isse, #um;"
+                },
+                {
+                    "a": [
+                        "neglēx",
+                        "neglēct"
+                    ],
+                    "q": "neglegere, #isse, #um;"
+                },
+                {
+                    "a": [
+                        "dēsi"
+                    ],
+                    "q": "dēsinere, #isse;"
+                },
+                {
+                    "a": [
+                        "quiēv"
+                    ],
+                    "q": "quiēscere, #isse;"
+                },
+                {
+                    "a": [
+                        "crēv"
+                    ],
+                    "q": "crēscere, #isse;"
+                },
+                {
+                    "a": [
+                        "poposc"
+                    ],
+                    "q": "poscere, #isse; "
+                },
+                {
+                    "a": [
+                        "prōfu"
+                    ],
+                    "q": "prōdesse, #isse."
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "PENSVM B",
+            "info": "",
+            "questions": [
+                {
+                    "a": [
+                        "frūmentum",
+                        "agrī",
+                        "seritur"
+                    ],
+                    "q": "Mēnse Augustō # metitur, deinde # arantur et novum frūmentum #."
+                },
+                {
+                    "a": [
+                        "arat",
+                        "prae",
+                        "īnstrūmentum"
+                    ],
+                    "q": "Agricola quī # post arātrum ambulat duōs bovēs # [= ante] sē agēns; arātrum est # quō agrī arantur."
+                },
+                {
+                    "a": [
+                        "ūtitur",
+                        "spargit"
+                    ],
+                    "q": "Agricola quī serit nūllō īnstrūmentō # et sēmen manū #."
+                },
+                {
+                    "a": [
+                        "metit"
+                    ],
+                    "q": "Quī # falce ūtitur."
+                },
+                {
+                    "a": [
+                        "negōtium",
+                        "colere"
+                    ],
+                    "q": "Agricola est vir cuius # est agrōs #."
+                },
+                {
+                    "a": [
+                        "fertilis",
+                        "cōpia",
+                        "invehitur"
+                    ],
+                    "q": "Ex Aegyptō, quae terra # est, magna # frūmentī in Italiam #."
+                },
+                {
+                    "a": [
+                        "ūvae",
+                        "vīnum"
+                    ],
+                    "q": "Frūgēs vīneārum sunt # ex quibus # efficitur."
+                },
+                {
+                    "a": [
+                        "Calor",
+                        "prōdest",
+                        "frīgus",
+                        "nocet"
+                    ],
+                    "q": "# sōlis vīneīs #, # [<> calor] vīneīs #."
+                },
+                {
+                    "a": [
+                        "praediō",
+                        "quiēscit"
+                    ],
+                    "q": "Iūlius in # suō Albānō nōn labōrat, sed #."
+                },
+                {
+                    "a": [
+                        "Rūs",
+                        "amoenum"
+                    ],
+                    "q": "# quiētum et # [= pulchrum] eum dēlectat."
+                },
+                {
+                    "a": [
+                        "prō"
+                    ],
+                    "q": "Colōnus aliēnōs agrōs # dominō absentī colit."
+                },
+                {
+                    "a": [
+                        "pāscit"
+                    ],
+                    "q": "Pāstor est vir quī pecus # et cūrat."
+                },
+                {
+                    "a": [
+                        "Cūra",
+                        "ōtium",
+                        "exīstimant"
+                    ],
+                    "q": "# pecoris magnum negōtium est, nōn #, ut pigrī pāstōrēs # [= cēnsent]."
+                },
+                {
+                    "a": [
+                        "labōrant"
+                    ],
+                    "q": "Pāstōrēs nōn tam industriē # quam agricolae."
+                },
+                {
+                    "a": [
+                        "nē",
+                        "nēve"
+                    ],
+                    "q": "Pāstōris officium est cūrāre # ovēs aberrent # [= et nē] ā lupō rapiantur."
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "PENSVM C",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Quid est negōtium agricolae? ",
+                    "a": []
+                },
+                {
+                    "q": "2. Quandō frūmentum metitur? ",
+                    "a": []
+                },
+                {
+                    "q": "3. Num arātor ipse arātrum trahit? ",
+                    "a": []
+                },
+                {
+                    "q": "4. Quid est pābulum pecoris? ",
+                    "a": []
+                },
+                {
+                    "q": "5. Unde frūmentum in Italiam invehitur? ",
+                    "a": []
+                },
+                {
+                    "q": "6. Quae regiō Āfricae fertilissima est? ",
+                    "a": []
+                },
+                {
+                    "q": "7. Cūr necesse est agrōs rigāre? ",
+                    "a": []
+                },
+                {
+                    "q": "8. Quae sunt frūgēs vīneārum? ",
+                    "a": []
+                },
+                {
+                    "q": "9. Num Iūlius ipse in agrīs labōrat? ",
+                    "a": []
+                },
+                {
+                    "q": "10. Omnēsne colōnī mercēdem solvērunt? ",
+                    "a": []
+                },
+                {
+                    "q": "11. Quot sēstertiōs colōnus Iūliō dēbet? ",
+                    "a": []
+                },
+                {
+                    "q": "12. Num uxor colōnī officium suum neglegit? ",
+                    "a": []
+                },
+                {
+                    "q": "13. Quid est officium pāstōris? ",
+                    "a": []
+                },
+                {
+                    "q": "14. Estne Iūlius dominus inhūmānus? ",
+                    "a": []
+                }
+            ]
+        }
+    ]
+}

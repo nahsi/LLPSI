@@ -1,0 +1,1184 @@
+{
+    "id": 22,
+    "name": "CAPITVLVM XXIII",
+    "exercises": [
+        {
+            "id": 0,
+            "name": "Exercise 1",
+            "info": "Mūtā tempus praesēns [...] in perfectum! \nExemplum: \nIānitor ōstium [claudit] clausit = Ōstium [clauditur] clausum \nest ā iānitōre.\n",
+            "questions": [
+                {
+                    "q": "1. Magister epistulam [scrībit] # = Epistula ā magistrō [scrībitur] # est.   \t",
+                    "a": [
+                        "scrīpsit",
+                        "scrīpta"
+                    ]
+                },
+                {
+                    "q": "2. Magister tabellārium ad Iūlium [mittit] # = Tabellārius ad Iūlium [mittitur] # est ā magistrō.",
+                    "a": [
+                        "mīsit",
+                        "missus"
+                    ]
+                },
+                {
+                    "q": "3. Tabellārius epistulam ad Iūlium [fert] # = Epistula ad Iūlium [fertur] # est ā tabellāriō.",
+                    "a": [
+                        "tulit",
+                        "lāta"
+                    ]
+                },
+                {
+                    "q": "4. Canis iānitōris pallium tabellāriī [scindit] # = Pallium tabellāriī ā cane iānitōris [scinditur] # est.",
+                    "a": [
+                        "scidit",
+                        "scissum"
+                    ]
+                },
+                {
+                    "q": "5. Iūlius signum [rumpit] # = Signum ā Iūliō [rumpitur] # est.",
+                    "a": [
+                        "rūpit",
+                        "ruptum"
+                    ]
+                },
+                {
+                    "q": "6. Iūlius litterās [legit] # = Litterae ā Iūliō [leguntur] # sunt.\t",
+                    "a": [
+                        "lēgit",
+                        "lēctae"
+                    ]
+                },
+                {
+                    "q": "7. Iūlius nūllum verbum [dīcit] # = Nūllum verbum ā Iūliō [dīcitur] # est.",
+                    "a": [
+                        "dīxit",
+                        "dictum"
+                    ]
+                },
+                {
+                    "q": "8. Aemilia epistulam [sūmit] # = Epistula ab Aemiliā [sūmitur] # est.",
+                    "a": [
+                        "sūmpsit",
+                        "sūmpta"
+                    ]
+                },
+                {
+                    "q": "9. Culter medicī puerum [terret] # = Puer cultrō medicī [terrētur] # est.",
+                    "a": [
+                        "terruit",
+                        "territus"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Exercise 2",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. “Tabellārius Tūsculō vēnit; ecce epistula quam # [: Tūsculō] ad tē tulit” inquit iānitor epistulamque dominō suō #.",
+                    "a": [
+                        "illinc",
+                        "trādit"
+                    ]
+                },
+                {
+                    "q": "2. Iūlius: “Quid# hoc est? Quis# epistulam ad mē mīsit?”",
+                    "a": [
+                        "nam",
+                        "nam"
+                    ]
+                },
+                {
+                    "q": "3. Iūlius iānitōrī imperat: “Recēde # ad canem tuum!” Hīs verbīs iānitōrem # [= ā sē mittit].",
+                    "a": [
+                        "hinc",
+                        "dīmittit"
+                    ]
+                },
+                {
+                    "q": "4. Iūlius # magistrī cognōscit. ",
+                    "a": [
+                        "signum"
+                    ]
+                },
+                {
+                    "q": "5. Signum nōn ruptum, sed # est.",
+                    "a": [
+                        "integrum"
+                    ]
+                },
+                {
+                    "q": "6. “Certē magister postulat pecūniam quam eī #” inquit Iūlius, sed Aemilia epistulam aliās rēs # putat.",
+                    "a": [
+                        "dēbeō",
+                        "continēre"
+                    ]
+                },
+                {
+                    "q": "7. Aemilia: “Quis scit? # magister aliquid scrīpsit dē Mārcō?”",
+                    "a": [
+                        "Fortasse"
+                    ]
+                },
+                {
+                    "q": "8. Epistula sīc incipit: “Diodōrus Iūliō # dīcit.”",
+                    "a": [
+                        "salūtem"
+                    ]
+                },
+                {
+                    "q": "9. Diodōrus scrībit ‘Mārcum male recitāre neque # [= et numquam] rēctē respondēre.’",
+                    "a": [
+                        "umquam"
+                    ]
+                },
+                {
+                    "q": "10. Iūliō legente, # [= faciēs] Mārcī colōrem mūtat.",
+                    "a": [
+                        "vultus"
+                    ]
+                },
+                {
+                    "q": "11. Iam Mārcus vultum # gerit [: habet].",
+                    "a": [
+                        "pallidum"
+                    ]
+                },
+                {
+                    "q": "12. Mārcus # et tremit # [= propter] timōrem.",
+                    "a": [
+                        "pallet",
+                        "ob"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Exercise 3",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Quid iānitor Iūliō trādit? ...",
+                    "a": [
+                        "iānitor Iūliō epistulam trādit"
+                    ]
+                },
+                {
+                    "q": "2. Quid dīcit iānitor? ...",
+                    "a": [
+                        "iānitor dīcit ‘tabellārium Tūsculō advēnisse’"
+                    ]
+                },
+                {
+                    "q": "3. Quōmodo Iūlius scit litterās ā Diodōrō missās esse? ...",
+                    "a": [
+                        "Iūlius signum magistrī cognōscit"
+                    ]
+                },
+                {
+                    "q": "4. Quid est signum magistrī? ...",
+                    "a": [
+                        "signum est parva imāgō magistrī"
+                    ]
+                },
+                {
+                    "q": "5. Cūr Iūlius litterās magistrī legere nōn vult? ...",
+                    "a": [
+                        "... quia magistrum pecūniam poscere putat"
+                    ]
+                },
+                {
+                    "q": "6. Quid Iūlius magistrō dēbet? ...",
+                    "a": [
+                        "Iūlius eī duōrum mēnsium mercēdem dēbet"
+                    ]
+                },
+                {
+                    "q": "7. Quid Aemilia magistrum scrīpsisse arbitrātur? ...",
+                    "a": [
+                        "Aemilia magistrum aliquid dē Mārcō scrīpsisse arbitrātur"
+                    ]
+                },
+                {
+                    "q": "8. Quōmodo Iūlius epistulam aperit? ...",
+                    "a": [
+                        "signum rumpēns epistulam aperit"
+                    ]
+                },
+                {
+                    "q": "9. Quid magister dē Mārcō scrīpsit? ...",
+                    "a": [
+                        "magister ‘Mārcum discipulum improbum et pigrum esse’ scrīpsit"
+                    ]
+                },
+                {
+                    "q": "10. Quō diē epistula scrīpta est? ...",
+                    "a": [
+                        "epistula kalendīs Iūniīs scrīpta est"
+                    ]
+                },
+                {
+                    "q": "11. Dē quā rē hic diēs magistrum monuit? ...",
+                    "a": [
+                        "is diēs magistrum monet dē mercēde quam Iūlius eī dēbet"
+                    ]
+                },
+                {
+                    "q": "12. Cūr Mārcus patrem aspiciēns pallet? ...",
+                    "a": [
+                        "... quod Mārcus scit sē verbera meruisse"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Exercise 4",
+            "info": "Exempla:\nPuer rubet / ...nōn respondet = Puer rubet neque respondet.\nPuer rubet / ...nūllum verbum respondet = Puer rubet neque ūllum \nverbum\trespondet.\nPuer rīdet / ...numquam plōrat = Puer rīdet neque umquam plōrat.\t  \n",
+            "questions": [
+                {
+                    "q": "1. Puella plōrat / ...nōn rīdet = Puella plōrat # rīdet.",
+                    "a": [
+                        "neque|nec"
+                    ]
+                },
+                {
+                    "q": "2. Aemilia Iūlium / ...nūllum alium virum amat = Aemilia Iūlium # # alium virum amat.",
+                    "a": [
+                        "neque|nec",
+                        "ūllum"
+                    ]
+                },
+                {
+                    "q": "3. Mēdus ex Italiā proficīscitur / ...numquam revertētur = Mēdus ex Italiā proficīscitur # # revertētur.",
+                    "a": [
+                        "neque|nec",
+                        "umquam"
+                    ]
+                },
+                {
+                    "q": "4. Syra nūllam pecūniam /...nūlla ōrnāmenta habet = Syra nūllam pecūniam # # ōrnāmenta habet.  ",
+                    "a": [
+                        "neque|nec",
+                        "ūlla"
+                    ]
+                },
+                {
+                    "q": "5. Puer vigilat / ...dormīre nōn potest = Puer vigilat  # dormīre potest. ",
+                    "a": [
+                        "neque|nec"
+                    ]
+                },
+                {
+                    "q": "6. Māter īnfantem suum bene cūrat / ...numquam eum relinquit = Māter īnfantem suum bene cūrat  # # eum relinquit.",
+                    "a": [
+                        "neque|nec",
+                        "umquam"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Exercise 5",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Mārcus # [= epistulā] magistrī nōn laudātur.",
+                    "a": [
+                        "litterīs"
+                    ]
+                },
+                {
+                    "q": "2. Epistula magistrī tōtam rem # facit.",
+                    "a": [
+                        "plānam"
+                    ]
+                },
+                {
+                    "q": "3. Iam Iūlius # intellegit Mārcum falsum dīxisse.",
+                    "a": [
+                        "plānē"
+                    ]
+                },
+                {
+                    "q": "4. Puer piger atque improbus nūllam # meret.",
+                    "a": [
+                        "laudem"
+                    ]
+                },
+                {
+                    "q": "5. Mārcus vultum ā patre #. ",
+                    "a": [
+                        "āvertit"
+                    ]
+                },
+                {
+                    "q": "6. Nōmen ‘Sextī’ # est in parte tabulae #.",
+                    "a": [
+                        "īnscrīptum",
+                        "superiōre"
+                    ]
+                },
+                {
+                    "q": "7. Iam Mārcus nihil #, sed omnia #.",
+                    "a": [
+                        "negat",
+                        "fatētur"
+                    ]
+                },
+                {
+                    "q": "8. Mārcus ipse # suum indignum esse intellegit.",
+                    "a": [
+                        "factum"
+                    ]
+                },
+                {
+                    "q": "9. Iam Mārcus nōn ob timōrem pallet, sed # ob #.",
+                    "a": [
+                        "rubet",
+                        "pudōrem"
+                    ]
+                },
+                {
+                    "q": "10. Mārcum factī suī #.",
+                    "a": [
+                        "pudet"
+                    ]
+                },
+                {
+                    "q": "11. Iūlius Diodōrō mercēdem # nōn vult, quia is male docet nec mercēdem suam #.",
+                    "a": [
+                        "solvere",
+                        "meret|meruit"
+                    ]
+                },
+                {
+                    "q": "12. Magna tempestās et nāvēs et mercēs # [<> servāre] potest.",
+                    "a": [
+                        "perdere"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Exercise 6",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Estne tōta epistula dē pecūniā quam Iūlius dēbet? ...",
+                    "a": [
+                        "nōn tōta epistula, sed tantum pars postrēma est dē mercēde"
+                    ]
+                },
+                {
+                    "q": "2. Cūr Aemilia magistrum mercēdem merēre putat? ...",
+                    "a": [
+                        "Aemilia magistrum bene docēre putat"
+                    ]
+                },
+                {
+                    "q": "3. Num magister Mārcum litterīs suīs laudat? ...",
+                    "a": [
+                        "Mārcum nōn laudat, sed ‘eum discipulum pigrum esse’ scrībit"
+                    ]
+                },
+                {
+                    "q": "4. Cūr Mārcus laudem nōn meret? ...",
+                    "a": [
+                        "laudem nōn meret, quia piger est"
+                    ]
+                },
+                {
+                    "q": "5. Quālis discipulus laudem meret? ...",
+                    "a": [
+                        "discipulus prūdēns et industrius laudem meret"
+                    ]
+                },
+                {
+                    "q": "6. Quid Iūlius dīcit dē Mārcō? ...",
+                    "a": [
+                        "Iūlius dīcit ‘tabulam nōn Mārcī sed Sextī esse’"
+                    ]
+                },
+                {
+                    "q": "7. Quōmodo pater intellegit tabulam Sextī esse? ...",
+                    "a": [
+                        "videt nōmen ‘Sextī’ in tabulā īnscrīptum"
+                    ]
+                },
+                {
+                    "q": "8. Num Mārcus hoc negat? ...",
+                    "a": [
+                        "Mārcus nihil negat, sed omnia fatētur"
+                    ]
+                },
+                {
+                    "q": "9. Quid Mārcus fatētur? ...",
+                    "a": [
+                        "Mārcus fatētur ‘sē tabulās mūtāvisse’"
+                    ]
+                },
+                {
+                    "q": "10. Cūr māter nescit puerōs in viā pugnāvisse? ...",
+                    "a": [
+                        "... quia pater eī nōn nārrāvit dē pugnā puerōrum"
+                    ]
+                },
+                {
+                    "q": "11. Quid pater Sextī putābit? ...",
+                    "a": [
+                        "pater Sextī putābit eum tabulam suam perdidisse"
+                    ]
+                },
+                {
+                    "q": "12. Cūr Mārcus iam rubet? ...",
+                    "a": [
+                        "Mārcus rubet quia eum pudet factī suī"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Exercise 7",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Iūlius baculum sūmēns “Ō Mārce!” inquit, “iam tē verberāt# sum [= verberābō]!”",
+                    "a": [
+                        "ūrus"
+                    ]
+                },
+                {
+                    "q": "2. Iūlius dīcit ‘sē Mārcum verberāt# esse.’",
+                    "a": [
+                        "ūrum"
+                    ]
+                },
+                {
+                    "q": "3. Mārcus: “Nōlī mē verberāre! Iam bonus puer fut# sum [= erō] nec umquam sorōrem meam pulsābō.”",
+                    "a": [
+                        "ūrus"
+                    ]
+                },
+                {
+                    "q": "4. Mārcus prōmittit ‘sē iam bonum puerum fut# esse nec umquam sorōrem suam pulsāt# esse.’",
+                    "a": [
+                        "ūrum",
+                        "ūrum"
+                    ]
+                },
+                {
+                    "q": "5. Iūlius nōn crēdit eum prōmissum fact# esse.",
+                    "a": [
+                        "ūrum"
+                    ]
+                },
+                {
+                    "q": "6. Magister virgam prōmit ac discipulōs verberāt# est [= verberābit].",
+                    "a": [
+                        "ūrus"
+                    ]
+                },
+                {
+                    "q": "7. Discipulī: “Nōlī nōs verberāre, magister! Iam tibi pārit# sumus [= pārēbimus].”",
+                    "a": [
+                        "ūrī"
+                    ]
+                },
+                {
+                    "q": "8. Discipulī prōmittunt ‘sē iam magistrō pārit# esse.’",
+                    "a": [
+                        "ūrōs"
+                    ]
+                },
+                {
+                    "q": "9. Magister nōn crēdit eōs prōmissum fact# esse.",
+                    "a": [
+                        "ūrōs"
+                    ]
+                },
+                {
+                    "q": "10. Magister calamum prōmit quia scrīpt# est [= scrībet].",
+                    "a": [
+                        "ūrus"
+                    ]
+                },
+                {
+                    "q": "11. Mārcus interrogat: “Quid tū scrīpt# es, magister?”",
+                    "a": [
+                        "ūrus"
+                    ]
+                },
+                {
+                    "q": "12. Magister respondet ‘sē litterās ad patrem Mārcī scrīpt# esse’: “Litterās ad patrem tuum scrīpt# sum.”",
+                    "a": [
+                        "ūrum",
+                        "ūrus"
+                    ]
+                },
+                {
+                    "q": "13. Tandem Iūlius intellegit uxōrem suam rūrsus mātrem fut# esse.",
+                    "a": [
+                        "ūram"
+                    ]
+                },
+                {
+                    "q": "14. Aemilia dīcit ‘sē semper īnfantem sēcum habit# esse.’",
+                    "a": [
+                        "ūram"
+                    ]
+                },
+                {
+                    "q": "15. Syra: “Quīntus numquam ab eō medicō sānābitur.” Syra dīcit ‘Quīntum numquam ab eō medicō sānāt# īrī.’",
+                    "a": [
+                        "um"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Exercise 8",
+            "info": "Exempla: \nCane vīnctō tabellārius intrat (= postquam canis vīnctus est...)\nMārcus veste mūtātā in ātrium redit (= postquam vestis mūtāta est \n[ab eō]: postquam vestem mūtāvit).\n",
+            "questions": [
+                {
+                    "q": "1. Epistul# trādit# discēdit tabellārius.",
+                    "a": [
+                        "ā",
+                        "ā"
+                    ]
+                },
+                {
+                    "q": "2. Iānitōr# dīmiss# Iūlius signum rumpit.",
+                    "a": [
+                        "e",
+                        "ō"
+                    ]
+                },
+                {
+                    "q": "3. Sign# rupt# epistula legitur.",
+                    "a": [
+                        "ō",
+                        "ō"
+                    ]
+                },
+                {
+                    "q": "4. Mārcus pallet nōmin# magistrī audīt#.",
+                    "a": [
+                        "e",
+                        "ō"
+                    ]
+                },
+                {
+                    "q": "5. Mārc# in cubiculum duct# et inclūs#, Dāvus in ātrium redit.",
+                    "a": [
+                        "ō",
+                        "ō",
+                        "ō"
+                    ]
+                },
+                {
+                    "q": "6. Aemilia, litter# magistrī lēct#, Mārcum nōn laudat.",
+                    "a": [
+                        "īs",
+                        "īs"
+                    ]
+                },
+                {
+                    "q": "7. Iūlius: “Mercēdem solvere nōlō!” H# dict# Iūlius epistulam magistrī scindit.",
+                    "a": [
+                        "ōc",
+                        "ō"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Exercise 9",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Pater fīlium suum vērum dīcere iubet: “Vērum #, mī fīlī!”",
+                    "a": [
+                        "dīc"
+                    ]
+                },
+                {
+                    "q": "2. Pāstor canem sē ad ovem dūcere iubet: “# mē ad ovem, canis!”",
+                    "a": [
+                        "Dūc"
+                    ]
+                },
+                {
+                    "q": "3. Dominus servum officium facere iubet: “# officium tuum!”",
+                    "a": [
+                        "Fac"
+                    ]
+                },
+                {
+                    "q": "4. Iūlius Mārcum alterum mālum tunc ēsse, alterum sēcum ferre iubet: “Alterum mālum nunc #, alterum tēcum #, Mārce!”",
+                    "a": [
+                        "ēs",
+                        "fer"
+                    ]
+                },
+                {
+                    "q": "5. Syra Iūliam laetam esse iubet: “# laeta, Iūlia!”",
+                    "a": [
+                        "Es"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Exercise 10",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Mārcus:  # semper bonus puer erō. Hoc vōbīs #.",
+                    "a": [
+                        "Posthāc",
+                        "prōmittō"
+                    ]
+                },
+                {
+                    "q": "2. Iūlius vērō nōn crēdit Mārcum #factūrum esse.",
+                    "a": [
+                        "prōmissum"
+                    ]
+                },
+                {
+                    "q": "3. Mārcus enim hoc idem saepe # prōmīsit.",
+                    "a": [
+                        "antehāc"
+                    ]
+                },
+                {
+                    "q": "4. Iūlius:  Profectō # [> verberāre] meruistī, Mārce!",
+                    "a": [
+                        "verbera"
+                    ]
+                },
+                {
+                    "q": "5. Dāvus puerum in cubiculum dūcit eumque #.",
+                    "a": [
+                        "inclūdit"
+                    ]
+                },
+                {
+                    "q": "6. Mārcō inclūsō, Dāvus # cubiculī Iūliō reddit.",
+                    "a": [
+                        "clāvem"
+                    ]
+                },
+                {
+                    "q": "7. Hodiē Mēdus Mārcum ad lūdum # nōn potuit, quia # domō fūgit; hodiē Mārcus sine # ambulāvit.",
+                    "a": [
+                        "comitārī",
+                        "herī",
+                        "comite"
+                    ]
+                },
+                {
+                    "q": "8. Iūlius magistrō respondēbit sē mercēdem solvere #.",
+                    "a": [
+                        "nōlle"
+                    ]
+                },
+                {
+                    "q": "9. Iūlius pecūniam suam # nōn vult.",
+                    "a": [
+                        "perdere"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Exercise 11",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Quid Mārcus parentibus suīs prōmittit? ...",
+                    "a": [
+                        "Mārcus prōmittit ‘sē bonum puerum futūrum esse’"
+                    ]
+                },
+                {
+                    "q": "2. Cūr pater nōn crēdit eum prōmissum factūrum esse? ...",
+                    "a": [
+                        "... quia Mārcus saepe antehāc idem prōmīsit"
+                    ]
+                },
+                {
+                    "q": "3. Verberatne Iūlius Mārcum? ...",
+                    "a": [
+                        "fīlium nōn verberat, sed in cubiculum inclūdit"
+                    ]
+                },
+                {
+                    "q": "4. Quid Iūlius Dāvum facere iubet? ...",
+                    "a": [
+                        "Iūlius Dāvum iubet Mārcum in cubiculum inclūdere"
+                    ]
+                },
+                {
+                    "q": "5. Cūr Mēdus hodiē Mārcum comitārī nōn potuit? ...",
+                    "a": [
+                        "... quod Mēdus herī ā dominō fūgit"
+                    ]
+                },
+                {
+                    "q": "6. Quis Mārcum comitābitur crās? ...",
+                    "a": [
+                        "crās Dāvus Mārcum comitābitur"
+                    ]
+                },
+                {
+                    "q": "7. Quid Aemilia Iūlium factūrum esse putat? ...",
+                    "a": [
+                        "Aemilia putat eum Mārcum verberātūrum esse"
+                    ]
+                },
+                {
+                    "q": "8. Num Iūlius crēdit Mārcum iam mūtātum esse? ...",
+                    "a": [
+                        "Iūlius nōn crēdit eum mūtātum esse nec eum mūtātum īrī crēdit"
+                    ]
+                },
+                {
+                    "q": "9. Ad quem Iūlius epistulam scrīptūrus est? ...",
+                    "a": [
+                        "Iūlius ad magistrum Mārcī epistulam scrīptūrus est"
+                    ]
+                },
+                {
+                    "q": "10. Ā quō epistula Iūliī trādētur magistrō? ...",
+                    "a": [
+                        "epistula ā Mārcō ipsō magistrō trādētur"
+                    ]
+                },
+                {
+                    "q": "11. Quid Iūlius magistrō respondēbit? ...",
+                    "a": [
+                        "Iūlius respondēbit ‘sē mercēdem solvere nōlle’"
+                    ]
+                },
+                {
+                    "q": "12. Cūr Iūlius magistrō mercēdem negat? ...",
+                    "a": [
+                        "... quia magister Mārcum nihil docēre potest"
+                    ]
+                },
+                {
+                    "q": "13. Cūr magister Mārcum nihil docēre potest? ...",
+                    "a": [
+                        "... quod Mārcus discipulus pigerrimus est"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Exercise 12",
+            "info": "Āctīvum\nPassīvum\n",
+            "questions": [
+                {
+                    "q": "1. 'Scrīb|ēns' est participium praesentis, 'scrīpt|ūrus' participium #.",
+                    "a": [
+                        "futūrī"
+                    ]
+                },
+                {
+                    "q": "2. Participium futūrī dēsinit in -ūr|us -a -um, quod ad thema supīnī additur: amāt|#, monit|#, lēct|#, audīt|#.",
+                    "a": [
+                        "ūrus",
+                        "ūrus",
+                        "ūrus",
+                        "ūrus"
+                    ]
+                },
+                {
+                    "q": "3. Participium futūrī verbī 'esse': fut|#.",
+                    "a": [
+                        "ūrus"
+                    ]
+                },
+                {
+                    "q": "4. Cum participium futūrī coniungitur cum tempore praesentī verbī 'esse', fit futūrum alterum (‘futūrum in praesentī’ quod vocātur): #ūrus sum = scrībam, #  # = scrībēs,  #  # = scrībet.",
+                    "a": [
+                        "scrīpt",
+                        "scrīptūrus",
+                        "es",
+                        "scrīptūrus",
+                        "est"
+                    ]
+                },
+                {
+                    "q": "5. Cum participium futūrī cum īnfīnītīvō 'esse' coniungitur, # futūrī fit: scrīptūr|um esse.",
+                    "a": [
+                        "īnfīnītīvus"
+                    ]
+                },
+                {
+                    "q": "6. Īnfīnītīvus praesentis: vocā|re; īnfīnītīvus futūrī: #|ūrum esse.",
+                    "a": [
+                        "vocāt"
+                    ]
+                },
+                {
+                    "q": "7. Cum supīnum I cum 'īrī' (īnf. praes. pass. verbī 'īre') iungitur, # futūrī passīvī fit: scrīpt|um īrī.",
+                    "a": [
+                        "īnfīnītīvus"
+                    ]
+                },
+                {
+                    "q": "8. 'Scrīb|ī' īnfīnītīvus praesentis passīvī est; 'scrīpt|um īrī' est # # passīvī.",
+                    "a": [
+                        "īnfīnītīvus",
+                        "futūrī"
+                    ]
+                },
+                {
+                    "q": "9. Īnfīnītīvus praesentis passīvī: mūtā|rī; īnfīnītīvus futūrī passīvī: #|um #.",
+                    "a": [
+                        "mūtāt",
+                        "īrī"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Exercise 13",
+            "info": "Īnfīnītīvī:\n",
+            "questions": [
+                {
+                    "q": "1. afferre, #isse, #um esse.",
+                    "a": [
+                        "attul",
+                        "allāt"
+                    ]
+                },
+                {
+                    "q": "2. dūcere, #isse, #um esse.",
+                    "a": [
+                        "dūx",
+                        "duct"
+                    ]
+                },
+                {
+                    "q": "3. ferre, #isse, #um esse. ",
+                    "a": [
+                        "tul",
+                        "lāt"
+                    ]
+                },
+                {
+                    "q": "4. facere, #isse, #um esse.",
+                    "a": [
+                        "fēc",
+                        "fact"
+                    ]
+                },
+                {
+                    "q": "5. fugere, #isse.",
+                    "a": [
+                        "fūg"
+                    ]
+                },
+                {
+                    "q": "6. inclūdere, in#isse, in#um esse.",
+                    "a": [
+                        "clūs",
+                        "clūs"
+                    ]
+                },
+                {
+                    "q": "7. legere, #isse, #um esse.",
+                    "a": [
+                        "lēg",
+                        "lēct"
+                    ]
+                },
+                {
+                    "q": "8. mittere, #isse, #um esse.",
+                    "a": [
+                        "mīs",
+                        "miss"
+                    ]
+                },
+                {
+                    "q": "9. ostendere, #isse.",
+                    "a": [
+                        "ostend"
+                    ]
+                },
+                {
+                    "q": "10. perdere, #isse.",
+                    "a": [
+                        "perdid"
+                    ]
+                },
+                {
+                    "q": "11. trādere, #isse, #um esse.",
+                    "a": [
+                        "trādid",
+                        "trādit"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "PENSVM A",
+            "info": "",
+            "questions": [
+                {
+                    "a": [
+                        "tūrus",
+                        "tūrus"
+                    ],
+                    "q": "Mārcus: \"Posthāc bonus puer fu# sum et vōbīs pāri# sum.\""
+                },
+                {
+                    "a": [
+                        "tūrum",
+                        "tūrum"
+                    ],
+                    "q": "Mārcus prōmittit 'sē bonum puerum fu# esse et sē parentibus pāri# esse.'"
+                },
+                {
+                    "a": [
+                        "tum",
+                        "tūrum"
+                    ],
+                    "q": "Aemilia putat Mārcum ā Iūliō verberā# īrī, sed Iūlius 'sē epistulam scrīp# esse' dīcit."
+                },
+                {
+                    "a": [
+                        "dūx",
+                        "duct"
+                    ],
+                    "q": "Verba: dūcere, #isse, #um;"
+                },
+                {
+                    "a": [
+                        "lēg",
+                        "lēct"
+                    ],
+                    "q": "legere, #isse, #um;"
+                },
+                {
+                    "a": [
+                        "mīs",
+                        "miss"
+                    ],
+                    "q": "mittere, #isse, #um;"
+                },
+                {
+                    "a": [
+                        "clūs",
+                        "clūs"
+                    ],
+                    "q": "inclūdere, in#isse, in#um;"
+                },
+                {
+                    "a": [
+                        "fēc",
+                        "fact"
+                    ],
+                    "q": "facere, #isse, #um; "
+                },
+                {
+                    "a": [
+                        "tul",
+                        "lāt"
+                    ],
+                    "q": "ferre, #isse, #um;"
+                },
+                {
+                    "a": [
+                        "tul",
+                        "lāt"
+                    ],
+                    "q": "afferre, at#isse, al#um; "
+                },
+                {
+                    "a": [
+                        "did",
+                        "dit"
+                    ],
+                    "q": "trādere, trā#isse, trā#um;"
+                },
+                {
+                    "a": [
+                        "did"
+                    ],
+                    "q": "perdere, per#isse; "
+                },
+                {
+                    "a": [
+                        "ostend"
+                    ],
+                    "q": "ostendere, #isse;"
+                },
+                {
+                    "a": [
+                        "fūg"
+                    ],
+                    "q": "fugere, #isse. "
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "PENSVM B",
+            "info": "",
+            "questions": [
+                {
+                    "a": [
+                        "trādit"
+                    ],
+                    "q": "Iānitor dominō epistulam # [= dat]."
+                },
+                {
+                    "a": [
+                        "signum",
+                        "integrum"
+                    ],
+                    "q": "Iūlius # rumpit; iam signum # nōn est. "
+                },
+                {
+                    "a": [
+                        "pallidus",
+                        "vultum"
+                    ],
+                    "q": "Mārcus # et tremēns # patris legentis aspicit."
+                },
+                {
+                    "a": [
+                        "plānam"
+                    ],
+                    "q": "Epistula magistrī omnem rem # facit. "
+                },
+                {
+                    "a": [
+                        "negāre"
+                    ],
+                    "q": "Iūlius: \"Sextī est haec tabula; num hoc # audēs?\" "
+                },
+                {
+                    "a": [
+                        "fatētur"
+                    ],
+                    "q": "Puer nihil negat, sed omnia #."
+                },
+                {
+                    "a": [
+                        "factum",
+                        "pudet"
+                    ],
+                    "q": "Iūlius: \"Indignum est # tuum. Nōnne tē # factī tuī?\""
+                },
+                {
+                    "a": [
+                        "ob",
+                        "rubet",
+                        "pudōrem"
+                    ],
+                    "q": "Mārcus, quī paulō ante # timōrem pallēbat, iam # ob #."
+                },
+                {
+                    "a": [
+                        "Posthāc",
+                        "prōmittō"
+                    ],
+                    "q": "Mārcus: \"# semper bonus puer erō, hoc vōbīs #!\""
+                },
+                {
+                    "a": [
+                        "comitārī",
+                        "herī",
+                        "comite"
+                    ],
+                    "q": "Hodiē Mēdus Mārcum ad lūdum # nōn potuit, nam # domō fūgit; itaque Mārcus sine # ambulāvit."
+                },
+                {
+                    "a": [
+                        "dēbet"
+                    ],
+                    "q": "Magister pecūniam quam Iūlius eī # postulat."
+                },
+                {
+                    "a": [
+                        "solvere",
+                        "meret",
+                        "perdere"
+                    ],
+                    "q": "Iūlius: \"Magistrō pecūniam # nōlō, neque enim is mercēdem #. Pecūniam meam # nōlō.\""
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "PENSVM C",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Ā quō epistula missa est? ",
+                    "a": []
+                },
+                {
+                    "q": "2. Quōmodo Iūlius epistulam aperit? ",
+                    "a": []
+                },
+                {
+                    "q": "3. Quid magister scrīpsit dē Mārcō? ",
+                    "a": []
+                },
+                {
+                    "q": "4. Cuius nōmen in tabulā īnscrīptum est? ",
+                    "a": []
+                },
+                {
+                    "q": "5. Quam ob rem rubet Mārcus? ",
+                    "a": []
+                },
+                {
+                    "q": "6. Negatne Mārcus sē malum discipulum fuisse? ",
+                    "a": []
+                },
+                {
+                    "q": "7. Quid Mārcus parentibus prōmittit? ",
+                    "a": []
+                },
+                {
+                    "q": "8. Quō Dāvus puerum dūcit? ",
+                    "a": []
+                },
+                {
+                    "q": "9. Quārē Iūlius surgit? ",
+                    "a": []
+                },
+                {
+                    "q": "10. Quid Iūlius magistrō respondēbit? ",
+                    "a": []
+                },
+                {
+                    "q": "11. Cūr mercēdem solvere nōn vult? ",
+                    "a": []
+                }
+            ]
+        }
+    ]
+}

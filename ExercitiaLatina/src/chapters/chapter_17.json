@@ -1,0 +1,1278 @@
+{
+    "id": 16,
+    "name": "CAPITVLVM XVII",
+    "exercises": [
+        {
+            "id": 0,
+            "name": "Exercise 1",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Quot sunt X et III? #",
+                    "a": [
+                        "trēdecim"
+                    ]
+                },
+                {
+                    "q": "2. Quot sunt X et IV? #",
+                    "a": [
+                        "quattuordecim"
+                    ]
+                },
+                {
+                    "q": "3. Quot sunt X et V? #",
+                    "a": [
+                        "quīndecim"
+                    ]
+                },
+                {
+                    "q": "4. Quot sunt X et VI? #",
+                    "a": [
+                        "sēdecim"
+                    ]
+                },
+                {
+                    "q": "5. Quot sunt X et VII? #",
+                    "a": [
+                        "septendecim"
+                    ]
+                },
+                {
+                    "q": "6. Quot sunt X et VIII? #",
+                    "a": [
+                        "duodēvīgintī"
+                    ]
+                },
+                {
+                    "q": "7. Quot sunt X et IX? #",
+                    "a": [
+                        "ūndēvīgintī"
+                    ]
+                },
+                {
+                    "q": "8. Quot sunt XX et VIII? #",
+                    "a": [
+                        "duodētrīgintā"
+                    ]
+                },
+                {
+                    "q": "9. Quot sunt XX et IX? #",
+                    "a": [
+                        "ūndētrīgintā"
+                    ]
+                },
+                {
+                    "q": "10. Quot sunt XX et X? #",
+                    "a": [
+                        "trīgintā"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Exercise 2",
+            "info": "centum.\"\n",
+            "questions": [
+                {
+                    "q": "1. Discipulus est puer quī #.",
+                    "a": [
+                        "discit"
+                    ]
+                },
+                {
+                    "q": "2. Quī discipulōs # magister est.",
+                    "a": [
+                        "docet"
+                    ]
+                },
+                {
+                    "q": "3. Magister est vir #, quī multās rēs #.",
+                    "a": [
+                        "doctus",
+                        "scit"
+                    ]
+                },
+                {
+                    "q": "4. Discipulī sunt puerī #, quī multās rēs # [= nōn sciunt].",
+                    "a": [
+                        "indoctī",
+                        "nesciunt"
+                    ]
+                },
+                {
+                    "q": "5. Discipulus quī nihil discere vult # est.",
+                    "a": [
+                        "piger"
+                    ]
+                },
+                {
+                    "q": "6. Sextus nec stultus nec piger est, sed # atque #. ",
+                    "a": [
+                        "prūdēns",
+                        "industrius"
+                    ]
+                },
+                {
+                    "q": "7. Magister: \"Dīc numerōs ā decem # ad centum!\"",
+                    "a": [
+                        "ūsque"
+                    ]
+                },
+                {
+                    "q": "8. # discipulus manum #, prīmum Sextus, deinde Titus, # Mārcus.",
+                    "a": [
+                        "Quisque",
+                        "tollit",
+                        "postrēmō"
+                    ]
+                },
+                {
+                    "q": "9. Titus numerōs dīcit ā X ad XXII, tum magister eum #.",
+                    "a": [
+                        "interpellat"
+                    ]
+                },
+                {
+                    "q": "10. Titus decimum # numerum dīcit ā XX ad C: \"Vīgintī, trīgintā, #, #, sexāgintā, #, octōgintā, nōnāgintā, ",
+                    "a": [
+                        "quemque",
+                        "quadrāgintā",
+                        "quīnquāgintā",
+                        "septuāgintā"
+                    ]
+                },
+                {
+                    "q": "11. Sextus, quī numerōs ā C ad M dīcere iubētur, # [= tam multōs] numerōs dīcere nōn vult.",
+                    "a": [
+                        "tot"
+                    ]
+                },
+                {
+                    "q": "12. Sextus # [C] quemque numerum tantum dīcit: \"Centum, ducentī, trecentī, #, #, #, #, #, #, mīlle.\"",
+                    "a": [
+                        "centēsimum",
+                        "quadringentī",
+                        "quīngentī",
+                        "sescentī|sexcentī",
+                        "septingentī",
+                        "octingentī",
+                        "nōngentī"
+                    ]
+                },
+                {
+                    "q": "13. Magister: \"Quot sunt # [XL] et decem?\" Sextus: \"# [L].\" Mārcus: \"Sexāgintā.\" ",
+                    "a": [
+                        "quadrāgintā",
+                        "Quīnquāgintā"
+                    ]
+                },
+                {
+                    "q": "14. Quod Sextus respondet # est.",
+                    "a": [
+                        "rēctum"
+                    ]
+                },
+                {
+                    "q": "15. # Mārcī nōn rēctum, sed # est.",
+                    "a": [
+                        "Respōnsum",
+                        "prāvum"
+                    ]
+                },
+                {
+                    "q": "16. Sextus # respondet; Mārcus # respondet.",
+                    "a": [
+                        "rēctē",
+                        "prāvē"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Exercise 3",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Quid magister puerōs docet? ...",
+                    "a": [
+                        "magister puerōs litterās et numerōs docet"
+                    ]
+                },
+                {
+                    "q": "2. Num doctī sunt discipulī? ...",
+                    "a": [
+                        "nōn doctī, sed indoctī sunt"
+                    ]
+                },
+                {
+                    "q": "3. Quī discipulus multās rēs discit? ...",
+                    "a": [
+                        "discipulus prūdēns et industrius multās rēs discit"
+                    ]
+                },
+                {
+                    "q": "4. Sedentne discipulī magistrō recitante? ...",
+                    "a": [
+                        "magistrō recitante discipulī ante sellās suās stant"
+                    ]
+                },
+                {
+                    "q": "5. Quid faciunt discipulī antequam respondent? ...",
+                    "a": [
+                        "discipulī quī respondēre possunt manum tollunt"
+                    ]
+                },
+                {
+                    "q": "6. Omnēsne simul manum tollunt? ... ",
+                    "a": [
+                        "Sextus prīmum manum tollit, postrēmō Mārcus"
+                    ]
+                },
+                {
+                    "q": "7. Quōs numerōs dīcit Titus? ...",
+                    "a": [
+                        "Titus omnēs numerōs dīcit ā X ad XX et decimum quemque ā XX ad C"
+                    ]
+                },
+                {
+                    "q": "8. Num Sextus omnēs numerōs dīcit ā C ad M? ...",
+                    "a": [
+                        "Sextus centēsimum quemque numerum dīcit ā C ad M"
+                    ]
+                },
+                {
+                    "q": "9. Estne Sextus puer stultus? ...",
+                    "a": [
+                        "Sextus puer prūdēns est"
+                    ]
+                },
+                {
+                    "q": "10. Omnēsne discipulī rēctē respondent? ...",
+                    "a": [
+                        "Titus et Sextus rēctē respondent, Mārcus prāvē respondet"
+                    ]
+                },
+                {
+                    "q": "11. Cūr Mārcus prāvē respondet? ...",
+                    "a": [
+                        "prāvē respondet quia piger est"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Exercise 4",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Bonus discipulus magistrum salūta# cum eum vide# et ā magistrō salūtā# cum ab eō vidē#.",
+                    "a": [
+                        "t",
+                        "t",
+                        "tur",
+                        "tur"
+                    ]
+                },
+                {
+                    "q": "2. Sextus: \"Ego magistrum salūt# cum eum vide# et ā magistrō salūt# cum ab eō vide#.\"",
+                    "a": [
+                        "ō",
+                        "ō",
+                        "or",
+                        "or"
+                    ]
+                },
+                {
+                    "q": "3. Mārcus: \"Ego numquam ā magistrō salūt#.\"",
+                    "a": [
+                        "or"
+                    ]
+                },
+                {
+                    "q": "4. Sextus: \"Tū nōn salūtā# ā magistrō cum ab eō vidē#, quia ipse magistrum nōn salūtā# cum eum vidē#.\"",
+                    "a": [
+                        "ris",
+                        "ris",
+                        "s",
+                        "s"
+                    ]
+                },
+                {
+                    "q": "5. Bonī discipulī magistrum salūta# cum eum vide# et ā magistrō salūta# cum ab eō vide#.\t",
+                    "a": [
+                        "nt",
+                        "nt",
+                        "ntur",
+                        "ntur"
+                    ]
+                },
+                {
+                    "q": "6. Sextus et Titus: \"Nōs magistrum salūtā# cum eum vidē# et ā magistrō salūtā# cum ab eō vidē#.\"",
+                    "a": [
+                        "mus",
+                        "mus",
+                        "mur",
+                        "mur"
+                    ]
+                },
+                {
+                    "q": "7. Mārcus: \"Vērum dīcitis: vōs magistrum salūtā# cum eum vidē# et ā magistrō salūtā# cum ab eō vidē#, quia magister amīcus patribus vestrīs est!\"",
+                    "a": [
+                        "tis",
+                        "tis",
+                        "minī",
+                        "minī"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Exercise 5",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Syra Iūliam vocat = Iūlia ā Syrā voc#.",
+                    "a": [
+                        "ātur"
+                    ]
+                },
+                {
+                    "q": "2. Syra Iūliam quaerit nec eam reperit = # # # # nec #.",
+                    "a": [
+                        "Iūlia",
+                        "ā|ab",
+                        "Syrā",
+                        "quaeritur",
+                        "reperītur"
+                    ]
+                },
+                {
+                    "q": "3. Iūlia: \"Syra mē vocat\" = \"(Ego) # # #.\"",
+                    "a": [
+                        "ā|ab",
+                        "Syrā",
+                        "vocor"
+                    ]
+                },
+                {
+                    "q": "4. Iūlia: \"Syra mē quaerit nec mē reperit\" = \"(Ego) # # # nec #.\"",
+                    "a": [
+                        "ā|ab",
+                        "Syrā",
+                        "quaeror",
+                        "reperior"
+                    ]
+                },
+                {
+                    "q": "5. Mārcus: \"Syra tē vocat\" = \"(Tū) # # #.\"",
+                    "a": [
+                        "ā|ab",
+                        "Syrā",
+                        "vocāris"
+                    ]
+                },
+                {
+                    "q": "6. Mārcus: \"Syra tē quaerit nec tē reperit\" = \"(Tū) # # # nec #.\"",
+                    "a": [
+                        "ā|ab",
+                        "Syrā",
+                        "quaereris",
+                        "reperīris"
+                    ]
+                },
+                {
+                    "q": "7. Syra puerōs vocat = # # # #.",
+                    "a": [
+                        "puerī",
+                        "ā|ab",
+                        "Syrā",
+                        "vocantur"
+                    ]
+                },
+                {
+                    "q": "8. Syra puerōs quaerit nec eōs reperit = # # # # nec #.",
+                    "a": [
+                        "puerī",
+                        "ā|ab",
+                        "Syrā",
+                        "quaeruntur",
+                        "reperiuntur"
+                    ]
+                },
+                {
+                    "q": "9. Puerī: \"Syra nōs vocat\" = \"(Nōs) # # #.\"",
+                    "a": [
+                        "ā|ab",
+                        "Syrā",
+                        "vocāmur"
+                    ]
+                },
+                {
+                    "q": "10. Puerī: \"Syra nōs quaerit nec nōs reperit\" = \"(Nōs) # # # nec #.\"",
+                    "a": [
+                        "ā|ab",
+                        "Syrā",
+                        "quaerimur",
+                        "reperīmur"
+                    ]
+                },
+                {
+                    "q": "11. Iūlia: \"Syra vōs vocat\" = \"(Vōs) # # #.\"",
+                    "a": [
+                        "ā|ab",
+                        "Syrā",
+                        "vocāminī"
+                    ]
+                },
+                {
+                    "q": "12. Iūlia: \"Syra vōs quaerit nec vōs reperit\" = \"(Vōs) # # # nec #.\"",
+                    "a": [
+                        "ā|ab",
+                        "Syrā",
+                        "quaeriminī",
+                        "reperīminī"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Exercise 6",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Magister Sextum #: \"Bonus es discipulus, Sexte. Semper rēctē, # prāvē respondēs.\" ",
+                    "a": [
+                        "laudat",
+                        "numquam"
+                    ]
+                },
+                {
+                    "q": "2. Mārcus nōn laudātur, sed #.",
+                    "a": [
+                        "reprehenditur"
+                    ]
+                },
+                {
+                    "q": "3. Quod magister interrogat nōn difficile, sed # est.",
+                    "a": [
+                        "facile"
+                    ]
+                },
+                {
+                    "q": "4. Mārcus vērō semper prāvē respondet, # facile est quod interrogātur; neque enim # antequam respondet.",
+                    "a": [
+                        "quamquam",
+                        "cōgitat"
+                    ]
+                },
+                {
+                    "q": "5. Mārcus: \"Quod ego interrogor nimis # est, neque aliī discipulī tam # interrogantur quam ego.\"",
+                    "a": [
+                        "difficile",
+                        "saepe"
+                    ]
+                },
+                {
+                    "q": "6. XXX et VIII sunt #, XXX et IX #.",
+                    "a": [
+                        "duodēquadrāgintā",
+                        "ūndēquadrāgintā"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Exercise 7",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Cūr Sextus et Titus laudantur ā magistrō? ...",
+                    "a": [
+                        "laudantur quia prūdentēs atque industriī sunt discipulī"
+                    ]
+                },
+                {
+                    "q": "2. Estne difficile quod magister interrogat? ...",
+                    "a": [
+                        "quod magister interrogat facile est"
+                    ]
+                },
+                {
+                    "q": "3. Quem magister reprehendit? ...",
+                    "a": [
+                        "magister Mārcum reprehendit"
+                    ]
+                },
+                {
+                    "q": "4. Cūr Mārcus numquam laudātur?",
+                    "a": []
+                },
+                {
+                    "q": "5. Num Mārcus semper interrogātur? ...",
+                    "a": [
+                        "numquam laudātur quia semper prāvē respondet"
+                    ]
+                },
+                {
+                    "q": "6. Estne magister amīcus patribus discipulōrum? ...",
+                    "a": [
+                        "is nōn semper interrogātur, cēterī discipulī saepe interrogantur"
+                    ]
+                },
+                {
+                    "q": "7. Quīntusne ā magistrō reprehenditur? ...",
+                    "a": [
+                        "Mārcus dīcit 'magistrum patribus Sextī et Titī amīcum esse'"
+                    ]
+                },
+                {
+                    "q": "8. Quot sunt quadrāgintā et octō? ...",
+                    "a": [
+                        "Quīntus laudātur ā magistrō"
+                    ]
+                },
+                {
+                    "q": "9. Estne facile quod vōs interrogāminī, discipulī? ...",
+                    "a": [
+                        "quadrāgintā et octō sunt duodēquīnquāgintā"
+                    ]
+                },
+                {
+                    "q": "10. Tūne saepe ā magistrō/magistrā laudāris? ...",
+                    "a": [
+                        "nōn facile est quod interrogāmur"
+                    ]
+                },
+                {
+                    "q": "11. Tūne Mārcum stultum esse putās? ...",
+                    "a": [
+                        "saepe laudor ā magistrō/magistrā"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Exercise 8",
+            "info": "Exempla:\nvere|or = time|ō, verē|mur = timē|mus\nverē|ris = timē|s, verē|minī = timē|tis\nverē|tur = time|t, vere|ntur = time|nt\n",
+            "questions": [
+                {
+                    "q": "1. Nauta nōn proficīsc#, quia ventum secundum opper#.",
+                    "a": [
+                        "itur",
+                        "ītur"
+                    ]
+                },
+                {
+                    "q": "2. Mēdus: \"Cūr nōn proficīsc#, nauta? Quid opper#?\"",
+                    "a": [
+                        "eris",
+                        "īris"
+                    ]
+                },
+                {
+                    "q": "3. Nauta: \"Nōn proficīsc#, quia ventum secundum opper#.\"",
+                    "a": [
+                        "or",
+                        "ior"
+                    ]
+                },
+                {
+                    "q": "4. Nautae nōn proficīsc#, quia ventum secundum opper#.",
+                    "a": [
+                        "untur",
+                        "iuntur"
+                    ]
+                },
+                {
+                    "q": "5. Mēdus: \"Cūr nōn proficīsc#, nautae? Quid opper#?\"",
+                    "a": [
+                        "iminī",
+                        "īminī"
+                    ]
+                },
+                {
+                    "q": "6. Nautae: \"Nōn proficīsc#, quia ventum secundum opper#.\"",
+                    "a": [
+                        "imur",
+                        "īmur"
+                    ]
+                },
+                {
+                    "q": "7. Mēdus laet# nec iam dominum ver#.",
+                    "a": [
+                        "ātur",
+                        "ētur"
+                    ]
+                },
+                {
+                    "q": "8. Mēdus: \"Ego laet# nec iam dominum ver#. Cūr tū nōn laet#, Lȳdia? Quid ver#?\"",
+                    "a": [
+                        "or",
+                        "eor",
+                        "āris",
+                        "ēris"
+                    ]
+                },
+                {
+                    "q": "9. Nautae nōn laet#, quia tempestātem ver#.",
+                    "a": [
+                        "antur",
+                        "entur"
+                    ]
+                },
+                {
+                    "q": "10. Mēdus: \"Nōnne ventō secundō laet#, nautae? Cūr caelum intu#? Quid ver#?\"",
+                    "a": [
+                        "āminī",
+                        "ēminī",
+                        "ēminī"
+                    ]
+                },
+                {
+                    "q": "11. Nautae: \"Nōn laet#, quia tempestātem ver#. Nūbēs ātrās procul in caelō intu#.\"",
+                    "a": [
+                        "āmur",
+                        "ēmur",
+                        "ēmur"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Exercise 9",
+            "info": "Exempla: \nMagister: \"Ego bene recitō.\" Magister dīcit 'sē bene recitāre.'\nDiscipulī: \"Nōs bene recitāmus.\" Discipulī dīcunt 'sē bene recitāre.'\nIūlius: \"Servus meus abest.\" Iūlius dīcit 'servum suum abesse.' \nIūlius: \"Servum meum quaerō.\" Iūlius dīcit 'sē servum suum quaerere.'\nDiscipulī: \"Probī sumus ac magistrō nostrō pārēmus.\" Discipulī dīcunt \n'sē probōs esse ac magistrō suō pārēre.' \n",
+            "questions": [
+                {
+                    "q": "1. Iūlia: \"Ego bene canō.\" Iūlia dīcit '# bene can#.'",
+                    "a": [
+                        "sē",
+                        "ere"
+                    ]
+                },
+                {
+                    "q": "2. Albīnus: \"Ōrnāmenta vēndō.\" Albīnus dīcit '# ōrnāmenta vēnd#.'",
+                    "a": [
+                        "sē",
+                        "ere"
+                    ]
+                },
+                {
+                    "q": "3. Servus: \"Fessus sum.\" Servus dīcit '# fess# es#.'",
+                    "a": [
+                        "sē",
+                        "um",
+                        "se"
+                    ]
+                },
+                {
+                    "q": "4. Servī: \"Fessī sumus.\" Servī dīcunt '# fess# es#.'",
+                    "a": [
+                        "sē",
+                        "ōs",
+                        "se"
+                    ]
+                },
+                {
+                    "q": "5. Nauta: \"Ventum secundum opperior.\" Nauta dīcit '# ventum secundum opper#.'",
+                    "a": [
+                        "sē",
+                        "īrī"
+                    ]
+                },
+                {
+                    "q": "6. Nautae: \"Neptūnum verēmur.\" Nautae dīcunt '# Neptūnum ver#.'",
+                    "a": [
+                        "sē",
+                        "ērī"
+                    ]
+                },
+                {
+                    "q": "7. Iūlius: \"Fīlius meus aegrōtat.\" Iūlius dīcit 'Fīli# # aegrōt#.'",
+                    "a": [
+                        "um",
+                        "suum",
+                        "āre"
+                    ]
+                },
+                {
+                    "q": "8. Titus: \"Ego librum meum nōn habeō.\" Titus dīcit '# librum # nōn hab#.'",
+                    "a": [
+                        "sē",
+                        "suum",
+                        "ēre"
+                    ]
+                },
+                {
+                    "q": "9. Sextus: \"Laudor ā magistrō meō.\" Sextus dīcit '# laud#ā magistrō #.'",
+                    "a": [
+                        "sē",
+                        "ārī",
+                        "suō"
+                    ]
+                },
+                {
+                    "q": "10. Servus: \"Dominō meō pāreō.\" Servus dīcit '# dominō # pār#.'",
+                    "a": [
+                        "sē",
+                        "suō",
+                        "ēre"
+                    ]
+                },
+                {
+                    "q": "11. Lȳdia: \"Cum amīcō meō proficīscor.\" Lȳdia dīcit '# cum amīcō # proficīsc#.' ",
+                    "a": [
+                        "sē",
+                        "suō",
+                        "ī"
+                    ]
+                },
+                {
+                    "q": "12. Mīlitēs: \"Nōs patriam nostram dēfendimus.\" Mīlitēs dīcunt '# patriam # dēfend#.'",
+                    "a": [
+                        "sē",
+                        "suam",
+                        "ere"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Exercise 10",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Quīntus, quī hodiē abest, etiam # ā magistrō laudātur.",
+                    "a": [
+                        "absēns"
+                    ]
+                },
+                {
+                    "q": "2. Magistrō suō pārēre #.",
+                    "a": [
+                        "oportet"
+                    ]
+                },
+                {
+                    "q": "3. Magister ē sacculō suō # duōs nummōs, # et #.",
+                    "a": [
+                        "prōmit",
+                        "assem",
+                        "dēnārium"
+                    ]
+                },
+                {
+                    "q": "4. Magister: \"Quot sēstertiī sunt sex dēnāriī?\" Titus digitīs #: \"...quattuor, ...octō, ...duodecim...\"",
+                    "a": [
+                        "computat"
+                    ]
+                },
+                {
+                    "q": "5. Titus: \"Sunt sēstertiī... vīgintī? an trīgintā?\" Titus nōn #, sed # est. Sextus autem rēctē respondet.",
+                    "a": [
+                        "certus",
+                        "incertus"
+                    ]
+                },
+                {
+                    "q": "6. Magister Sextō assem dat, et dēnārium in sacculō #.",
+                    "a": [
+                        "repōnit"
+                    ]
+                },
+                {
+                    "q": "7. Magister # nōn est neque pecūniam suam discipulīs #.",
+                    "a": [
+                        "largus",
+                        "largītur"
+                    ]
+                },
+                {
+                    "q": "8. Mārcus: \"# [= cūr] nōs computāre docēs, magister?\"",
+                    "a": [
+                        "Quārē"
+                    ]
+                },
+                {
+                    "q": "9. Magister: \"Id exemplō # possum: Sī sēdecim assēs cum amīcō tuō # [= dīvidis]...\"",
+                    "a": [
+                        "dēmōnstrāre",
+                        "partīris"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Exercise 11",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Quid magister ē sacculō suō prōmit? ...",
+                    "a": [
+                        "magister assem et dēnārium prōmit"
+                    ]
+                },
+                {
+                    "q": "2. Quot assēs est sēstertius et quot sēstertiī dēnārius? ...",
+                    "a": [
+                        "sēstertius est quattuor assēs et dēnārius quattuor sēstertiī"
+                    ]
+                },
+                {
+                    "q": "3. Quōmodo parvī discipulī computant? ...\t",
+                    "a": [
+                        "parvī discipulī digitīs computant"
+                    ]
+                },
+                {
+                    "q": "4. Cūr Titus magistrō interrogantī nōn statim respondet? ...",
+                    "a": [
+                        "... quia difficile est quod interrogātur"
+                    ]
+                },
+                {
+                    "q": "5. Quid dīcit Sextus manum tollēns? ...",
+                    "a": [
+                        "Sextus dīcit 'sē respōnsum scīre'"
+                    ]
+                },
+                {
+                    "q": "6. Cūr incertum est respōnsum Titī? ...",
+                    "a": [
+                        "respōnsum eius incertum est quod difficile est quod interrogātur"
+                    ]
+                },
+                {
+                    "q": "7. Sextusne incertus est? ...",
+                    "a": [
+                        "is nōn incertus, sed certus est"
+                    ]
+                },
+                {
+                    "q": "8. Quid magister Sextō dat? ...",
+                    "a": [
+                        "magister Sextō assem dat"
+                    ]
+                },
+                {
+                    "q": "9. Estne largus magister Diodōrus? ... ",
+                    "a": [
+                        "nōn largus est magister"
+                    ]
+                },
+                {
+                    "q": "10. Quārē puerī computāre discunt? ...",
+                    "a": [
+                        "... quia necesse est computāre scīre"
+                    ]
+                },
+                {
+                    "q": "11. Cūr Mārcus decem assēs nōn habet? ...",
+                    "a": [
+                        "... quod pater eius largus nōn est"
+                    ]
+                },
+                {
+                    "q": "12. Cūr magister Mārcum nihil docēre potest? ...",
+                    "a": [
+                        "... quia piger est discipulus"
+                    ]
+                },
+                {
+                    "q": "13. Tūne pecūniam tuam partīris cum amīcīs? ...",
+                    "a": [
+                        "pecūniam meam nōn partior cum amīcīs"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Exercise 12",
+            "info": "____________Sing.\t\tPlūr.\t\t\tSing.\t\tPlūr.\n____________Sing.\t\tPlūr.\t\t\tSing.\t\tPlūr.\n____________Sing.\t\tPlūr.\t\t\tSing.\t\tPlūr.\n",
+            "questions": [
+                {
+                    "q": "1. 'Laud|or', 'laudā|mur' est persōna # verbī passīvī.",
+                    "a": [
+                        "prīma"
+                    ]
+                },
+                {
+                    "q": "2. 'Laudā|ris', 'laudā|minī' est persōna # verbī passīvī.",
+                    "a": [
+                        "secunda"
+                    ]
+                },
+                {
+                    "q": "3. 'Laudā|tur', 'lauda|ntur' est persōna # verbī passīvī.",
+                    "a": [
+                        "tertia"
+                    ]
+                },
+                {
+                    "q": "4. Persōnae verbī passīvī: persōna tertia: -tur, -ntur; persōna secunda: -#, -#; persōna prīma: -#, -#.",
+                    "a": [
+                        "ris",
+                        "minī",
+                        "or",
+                        "mur"
+                    ]
+                },
+                {
+                    "q": "5. Pers.1\tvocor\t\tvoc#\t\tvid#\t\tvid#",
+                    "a": [
+                        "āmur",
+                        "eor",
+                        "ēmur"
+                    ]
+                },
+                {
+                    "q": "6. Pers.2\tvoc#\t\tvoc#\t\tvid#\t\tvid#",
+                    "a": [
+                        "āris",
+                        "āminī",
+                        "ēris",
+                        "ēminī"
+                    ]
+                },
+                {
+                    "q": "7. Pers.3\tvoc#\t\tvoc#\t\tvid#\t\tvid#",
+                    "a": [
+                        "ātur",
+                        "antur",
+                        "ētur",
+                        "entur"
+                    ]
+                },
+                {
+                    "q": "8. Pers.1\tdūc#\t\tdūc#\t\taud#\t\taud#",
+                    "a": [
+                        "or",
+                        "imur",
+                        "ior",
+                        "īmur"
+                    ]
+                },
+                {
+                    "q": "9. Pers.2\tdūc#\t\tdūc#\t\taud#\t\taud#",
+                    "a": [
+                        "eris",
+                        "iminī",
+                        "īris",
+                        "īminī"
+                    ]
+                },
+                {
+                    "q": "10. Pers.3\tdūc#\t\tduc#\t\taud#\t\taud#",
+                    "a": [
+                        "itur",
+                        "untur",
+                        "ītur",
+                        "iuntur"
+                    ]
+                },
+                {
+                    "q": "11. 'Laet|or', 'laetā|mur' est persōna # verbī dēpōnentis.",
+                    "a": [
+                        "prīma"
+                    ]
+                },
+                {
+                    "q": "12. 'Laetā|ris', 'laetā|minī' est persōna # verbī dēpōnentis.",
+                    "a": [
+                        "secunda"
+                    ]
+                },
+                {
+                    "q": "13. 'Laetā|tur', 'laeta|ntur' est persōna # verbī dēpōnentis.",
+                    "a": [
+                        "tertia"
+                    ]
+                },
+                {
+                    "q": "14. Pers.1\tcōnor\t\tcōn#\t\tver#\t\tver#",
+                    "a": [
+                        "āmur",
+                        "eor",
+                        "ēmur"
+                    ]
+                },
+                {
+                    "q": "15. Pers.2\tcōn#\t\tcōn#\t\tver#\t\tver#",
+                    "a": [
+                        "āris",
+                        "āminī",
+                        "ēris",
+                        "ēminī"
+                    ]
+                },
+                {
+                    "q": "16. Pers.3\tcōn#\t\tcōn#\t\tver#\t\tver#",
+                    "a": [
+                        "ātur",
+                        "antur",
+                        "ētur",
+                        "entur"
+                    ]
+                },
+                {
+                    "q": "17. Pers.1\tloqu#\t\tloqu#\t\tpart#\t\tpart#",
+                    "a": [
+                        "or",
+                        "imur",
+                        "ior",
+                        "īmur"
+                    ]
+                },
+                {
+                    "q": "18. Pers.2\tloqu#\tloqu#\t\tpart#\t\tpart#",
+                    "a": [
+                        "eris",
+                        "iminī",
+                        "īris",
+                        "īminī"
+                    ]
+                },
+                {
+                    "q": "19. Pers.3\tloqu#\tloqu#\t\tpart#\t\tpart#",
+                    "a": [
+                        "itur",
+                        "untur",
+                        "ītur",
+                        "iuntur"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "PENSVM A",
+            "info": "",
+            "questions": [
+                {
+                    "a": [
+                        "ātur",
+                        "itur"
+                    ],
+                    "q": "Mārcus ā magistrō nōn laud#, sed reprehend#. "
+                },
+                {
+                    "a": [
+                        "or",
+                        "or",
+                        "antur",
+                        "untur"
+                    ],
+                    "q": "Mārcus: \"Cūr ego semper reprehend#, numquam laud#? Titus et Sextus semper laud#, numquam reprehend#.\""
+                },
+                {
+                    "a": [
+                        "āris",
+                        "eris"
+                    ],
+                    "q": "Magister: \"Tū nōn laud#, sed reprehend#, quia prāvē respondēs.\""
+                },
+                {
+                    "a": [
+                        "or"
+                    ],
+                    "q": "Mārcus: \"Sed ego semper interrog#!\""
+                },
+                {
+                    "a": [
+                        "āris",
+                        "āmur",
+                        "āmur",
+                        "imur"
+                    ],
+                    "q": "Sextus: \"Tū nōn semper interrog#; nōs saepe interrog# nec prāvē respondēmus: itaque ā magistrō laud#, nōn reprehend#.\""
+                },
+                {
+                    "a": [
+                        "āminī",
+                        "āminī"
+                    ],
+                    "q": "Mārcus: \"At facile est id quod vōs interrog#: itaque rēctē respondētis ac laud#!\""
+                },
+                {
+                    "a": [
+                        "ēmur",
+                        "ēris"
+                    ],
+                    "q": "Titus: \"Nōs magistrum ver#. Nōnne tū eum ver#?\""
+                },
+                {
+                    "a": [
+                        "eor",
+                        "ēminī"
+                    ],
+                    "q": "Mārcus: \"Ego magistrum nōn ver#. Cūr vōs eum ver#?\""
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "PENSVM B",
+            "info": "",
+            "questions": [
+                {
+                    "a": [
+                        "discit",
+                        "docet"
+                    ],
+                    "q": "Discipulus est puer quī #. Vir quī puerōs # magister est."
+                },
+                {
+                    "a": [
+                        "doctus",
+                        "scit",
+                        "nesciunt"
+                    ],
+                    "q": "Magister est vir # quī multās rēs # quās puerī #."
+                },
+                {
+                    "a": [
+                        "prūdēns",
+                        "industrius"
+                    ],
+                    "q": "Sextus nec stultus nec piger, sed # atque # est."
+                },
+                {
+                    "a": [
+                        "tollit"
+                    ],
+                    "q": "Magister interrogat, discipulus quī respondēre potest manum #."
+                },
+                {
+                    "a": [
+                        "oportet"
+                    ],
+                    "q": "Nōn # respondēre antequam magister interrogat."
+                },
+                {
+                    "a": [
+                        "Dīc",
+                        "ūsque"
+                    ],
+                    "q": "Magister: \"# numerōs ā decem # ad centum!\""
+                },
+                {
+                    "a": [
+                        "Quisque",
+                        "postrēmō"
+                    ],
+                    "q": "# puer manum tollit, primum Sextus, deinde Titus, # Mārcus."
+                },
+                {
+                    "a": [
+                        "rēctē",
+                        "laudat"
+                    ],
+                    "q": "Sextus numerōs dīcit: \"XI, XII... XIX, XX, XXX, XL... XC, C.\" Sextus bonus discipulus est, quī semper # respondet; itaque magister eum #."
+                },
+                {
+                    "a": [
+                        "prāvē",
+                        "reprehenditur",
+                        "Numquam",
+                        "cōgitās"
+                    ],
+                    "q": "Mārcus, quī semper # respondet, ā magistrō #: \"# [<> semper] rēctē respondēs, Mārce! Cūr nōn # antequam respondēs?\""
+                },
+                {
+                    "a": [
+                        "saepe"
+                    ],
+                    "q": "Mārcus: \"Cūr Titum nōn interrogās? Is nōn tam # interrogātur quam ego.\""
+                },
+                {
+                    "a": [
+                        "certus",
+                        "incertus",
+                        "respōnsum"
+                    ],
+                    "q": "Magister: \"Iam eum interrogō: quot sunt XXI et LXVIII?\" Titus: \"LXXXVII? an LXXXVIII?\" Titus nōn #, sed # est ac magistrō # incertum dat."
+                },
+                {
+                    "a": [
+                        "quamquam"
+                    ],
+                    "q": "Sextus vērō rēctē respondet, # difficile est id quod interrogātur."
+                },
+                {
+                    "a": [
+                        "facile"
+                    ],
+                    "q": "Quod Mārcus interrogātur nōn difficile, sed # est."
+                },
+                {
+                    "a": [
+                        "dēnārius",
+                        "assēs"
+                    ],
+                    "q": "Ūnus # est IV sēstertiī, ūnus sēstertius IV #."
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "PENSVM C",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Quid puerī discunt in lūdō? ",
+                    "a": []
+                },
+                {
+                    "q": "2. Cūr Sextus ā magistrō laudātur? ",
+                    "a": []
+                },
+                {
+                    "q": "3. Cūr Mārcus reprehenditur? ",
+                    "a": []
+                },
+                {
+                    "q": "4. Estne facile id quod Titus interrogātur? ",
+                    "a": []
+                },
+                {
+                    "q": "5. Cūr Titus nōn statim respondet? ",
+                    "a": []
+                },
+                {
+                    "q": "6. Uter rēctē respondet, Titusne an Sextus? ",
+                    "a": []
+                },
+                {
+                    "q": "7. Quot sunt ūndētrīgintā et novem? ",
+                    "a": []
+                },
+                {
+                    "q": "8. Trēs sēstertiī quot sunt assēs? ",
+                    "a": []
+                },
+                {
+                    "q": "9. Quot dēnāriī sunt octōgintā sēstertiī? ",
+                    "a": []
+                },
+                {
+                    "q": "10. Num facilēs sunt numerī Rōmānī? ",
+                    "a": []
+                },
+                {
+                    "q": "11. Tūne ā magistrō tuō laudāris? ",
+                    "a": []
+                }
+            ]
+        }
+    ]
+}

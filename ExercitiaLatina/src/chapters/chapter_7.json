@@ -1,0 +1,1069 @@
+{
+    "id": 6,
+    "name": "CAPITVLVM VII",
+    "exercises": [
+        {
+            "id": 0,
+            "name": "Exercise 1",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. In peristȳlō Aemilia virum suum #.",
+                    "a": [
+                        "exspectat|expectat"
+                    ]
+                },
+                {
+                    "q": "2. Iūlia in cubiculō suō rosam ante nāsum #.",
+                    "a": [
+                        "tenet"
+                    ]
+                },
+                {
+                    "q": "3. Iūlia nōn rīdet, sed #: in # eius sunt #.",
+                    "a": [
+                        "lacrimat",
+                        "oculīs",
+                        "lacrimae"
+                    ]
+                },
+                {
+                    "q": "4. Iūlia # ante oculōs tenet et # in speculō videt.",
+                    "a": [
+                        "speculum",
+                        "sē"
+                    ]
+                },
+                {
+                    "q": "5. Syra ōstium pulsat. Iūlia: \"Intrā!\" Syra ōstium # et in cubiculum intrat.",
+                    "a": [
+                        "aperit"
+                    ]
+                },
+                {
+                    "q": "6. Syra ōstium post sē #.",
+                    "a": [
+                        "claudit"
+                    ]
+                },
+                {
+                    "q": "7. Iūlia: \"Num nāsus meus foedus est?\" Syra: \"# nāsus tuus # est.\"",
+                    "a": [
+                        "Immō",
+                        "fōrmōsus"
+                    ]
+                },
+                {
+                    "q": "8. Iūlia sē # et Syra lacrimās eius videt.",
+                    "a": [
+                        "vertit"
+                    ]
+                },
+                {
+                    "q": "9. Syra: \"# oculōs! # laeta!\"",
+                    "a": [
+                        "Tergē",
+                        "Es"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Exercise 2",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Quid agunt Mārcus et Quīntus? ...",
+                    "a": [
+                        "Iūlium exspectant"
+                    ]
+                },
+                {
+                    "q": "2. Estne Aemilia apud fīliōs? ...",
+                    "a": [
+                        "Aemilia apud eōs nōn est"
+                    ]
+                },
+                {
+                    "q": "3. Cūr Aemilia laeta nōn est? ...",
+                    "a": [
+                        "... quia vir eius abest"
+                    ]
+                },
+                {
+                    "q": "4. Ubi est Iūlia? ...",
+                    "a": [
+                        "Iūlia in cubiculō suō est"
+                    ]
+                },
+                {
+                    "q": "5. Quid Iūlia ante nāsum tenet? ...",
+                    "a": [
+                        "Iūlia rosam ante nāsum tenet"
+                    ]
+                },
+                {
+                    "q": "6. Rīdetne Iūlia? ...",
+                    "a": [
+                        "Iūlia nōn rīdet, sed lacrimat"
+                    ]
+                },
+                {
+                    "q": "7. Cūr Iūlia lacrimat? ...",
+                    "a": [
+                        "... quia puerī improbī eam rīdent"
+                    ]
+                },
+                {
+                    "q": "8. Quid Iūlia in speculō videt? ...",
+                    "a": [
+                        "Iūlia sē in speculō videt"
+                    ]
+                },
+                {
+                    "q": "9. Estne fōrmōsus nāsus Iūliae? ...",
+                    "a": [
+                        "nāsus eius fōrmōsus nōn est"
+                    ]
+                },
+                {
+                    "q": "10. Quis in cubiculum eius intrat? ...",
+                    "a": [
+                        "Syra in cubiculum intrat"
+                    ]
+                },
+                {
+                    "q": "11. Cūr Syra lacrimās Iūliae nōn videt? ...",
+                    "a": [
+                        "... quia Iūlia sē nōn vertit"
+                    ]
+                },
+                {
+                    "q": "12. Quid Iūlia ante Syram tenet? ...",
+                    "a": [
+                        "speculum tenet ante Syram"
+                    ]
+                },
+                {
+                    "q": "13. Cūr Syra oculōs claudit et tacet? ...",
+                    "a": [
+                        "... quia nāsum suum foedum videt"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Exercise 3",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Iūlia in cubiculō suō est; ante # est speculum.",
+                    "a": [
+                        "eam"
+                    ]
+                },
+                {
+                    "q": "2. Iūlia speculum ante # tenet et # in speculō videt.",
+                    "a": [
+                        "sē",
+                        "sē"
+                    ]
+                },
+                {
+                    "q": "3. Iūlia # interrogat: \"Estne foedus nāsus meus?\"",
+                    "a": [
+                        "sē"
+                    ]
+                },
+                {
+                    "q": "4. Syra intrat; Iūlia # post # in speculō videt.",
+                    "a": [
+                        "eam",
+                        "sē"
+                    ]
+                },
+                {
+                    "q": "5. Syra Iūliam ante # videt; Iūlia ante # est.",
+                    "a": [
+                        "sē",
+                        "eam"
+                    ]
+                },
+                {
+                    "q": "6. Iūlia # vertit, et Syra # interrogat: \"Quid est, Iūlia?\"",
+                    "a": [
+                        "sē",
+                        "eam"
+                    ]
+                },
+                {
+                    "q": "7. Iūlius intrat neque ōstium post # claudit.",
+                    "a": [
+                        "sē"
+                    ]
+                },
+                {
+                    "q": "8. Iūlius intrat et ōstiārius ōstium post # claudit.",
+                    "a": [
+                        "eum"
+                    ]
+                },
+                {
+                    "q": "9. Dominus servum ad # vocat et # interrogat.",
+                    "a": [
+                        "sē",
+                        "eum"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Exercise 4",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Iūlia in cubicul# su# est.",
+                    "a": [
+                        "ō",
+                        "ō"
+                    ]
+                },
+                {
+                    "q": "2. Syra in cubicul# Iūliae intrat.",
+                    "a": [
+                        "um"
+                    ]
+                },
+                {
+                    "q": "3. Syra: \"Venī in hort#, Iūlia! In hort# sunt rosae.\"",
+                    "a": [
+                        "um",
+                        "ō"
+                    ]
+                },
+                {
+                    "q": "4. In vīll# Aemilia virum suum exspectat.",
+                    "a": [
+                        "ā"
+                    ]
+                },
+                {
+                    "q": "5. Iūlius in vīll# intrat; iam Iūlius in ātri# est.",
+                    "a": [
+                        "am",
+                        "ō"
+                    ]
+                },
+                {
+                    "q": "6. Aemilia in ātri# intrat.",
+                    "a": [
+                        "um"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Exercise 5",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Unde venit Iūlius? ...",
+                    "a": [
+                        "Iūlius Tūsculō venit"
+                    ]
+                },
+                {
+                    "q": "2. Ubi servī lectīcam pōnunt? ...",
+                    "a": [
+                        "lectīcam pōnunt ante ōstium"
+                    ]
+                },
+                {
+                    "q": "3. Quī Iūlium salūtant ante ōstium? ...",
+                    "a": [
+                        "fīliī eum salūtant"
+                    ]
+                },
+                {
+                    "q": "4. Quō Iūlius et puerī intrant? ...",
+                    "a": [
+                        "Iūlius et puerī in ātrium intrant"
+                    ]
+                },
+                {
+                    "q": "5. Quis ōstium post eōs claudit? ...",
+                    "a": [
+                        "ōstiārius ōstium claudit"
+                    ]
+                },
+                {
+                    "q": "6. Ubi Lēander saccum pōnit? ...",
+                    "a": [
+                        "saccum ante Iūlium ponit"
+                    ]
+                },
+                {
+                    "q": "7. Estne vacuus saccus Lēandrī? ...",
+                    "a": [
+                        "saccus nōn vacuus, sed plēnus est"
+                    ]
+                },
+                {
+                    "q": "8. Quid Iūlius ē saccō sūmit? ...",
+                    "a": [
+                        "Iūlius mālum ē saccō sūmit"
+                    ]
+                },
+                {
+                    "q": "9. Quid Iūlius Mārcō et Quīntō dat? ...",
+                    "a": [
+                        "Iūlius Mārcō et Quīntō māla dat"
+                    ]
+                },
+                {
+                    "q": "10. Quid inest in saccō Syrī? ...",
+                    "a": [
+                        "in saccō eius pira īnsunt"
+                    ]
+                },
+                {
+                    "q": "11. Fīliīsne tantum Iūlius māla et pira dat? ...",
+                    "a": [
+                        "etiam servīs māla et pira dat"
+                    ]
+                },
+                {
+                    "q": "12. Adestne Iūlia? ...",
+                    "a": [
+                        "Iūlia abest; in cubiculō suō est"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Exercise 6",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Iūlius nōn # [= tantum] Mārcō, sed # Quīntō mālum dat.",
+                    "a": [
+                        "sōlum",
+                        "etiam"
+                    ]
+                },
+                {
+                    "q": "2. Iūlius # Mārcō # Quīntō mālum dat.",
+                    "a": [
+                        "et",
+                        "et"
+                    ]
+                },
+                {
+                    "q": "3. Pater fīliīs nōn sōlum māla, # # pira dat.",
+                    "a": [
+                        "sed",
+                        "etiam"
+                    ]
+                },
+                {
+                    "q": "4. Iam puerī # māla # pira habent, sed servī # māla # pira habent.",
+                    "a": [
+                        "et",
+                        "et",
+                        "neque",
+                        "neque"
+                    ]
+                },
+                {
+                    "q": "5. # Syrus # Lēander mālum habet.",
+                    "a": [
+                        "Neque",
+                        "neque"
+                    ]
+                },
+                {
+                    "q": "6. Iūlius # # Syrō, sed etiam Lēandrō mālum dat.",
+                    "a": [
+                        "nōn",
+                        "sōlum"
+                    ]
+                },
+                {
+                    "q": "7. Iam # servī # fīliī māla habent.",
+                    "a": [
+                        "et",
+                        "et"
+                    ]
+                },
+                {
+                    "q": "8. Nōn sōlum Iūlia, # # Syra abest.",
+                    "a": [
+                        "sed",
+                        "etiam"
+                    ]
+                },
+                {
+                    "q": "9. # Iūlia # Syra absunt: # Iūlia # Syra adest.",
+                    "a": [
+                        "Et",
+                        "et",
+                        "neque",
+                        "neque"
+                    ]
+                },
+                {
+                    "q": "10. Iūlia # in ātriō # in hortō est.",
+                    "a": [
+                        "neque",
+                        "neque"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Exercise 7",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Iūlius: \"Ecce mālum tuum, Mārce.\" Iūlius Mārc# mālum dat: pater fīli# mālum dat.",
+                    "a": [
+                        "ō",
+                        "ō"
+                    ]
+                },
+                {
+                    "q": "2. Iūlius Mārcō et Quīntō māla dat: pater fīli# māla dat.",
+                    "a": [
+                        "īs"
+                    ]
+                },
+                {
+                    "q": "3. Dominus servum vocat et e# mālum dat.",
+                    "a": [
+                        "ī"
+                    ]
+                },
+                {
+                    "q": "4. Iūlius Syr# serv# su# mālum dat.",
+                    "a": [
+                        "ō",
+                        "ō",
+                        "ō"
+                    ]
+                },
+                {
+                    "q": "5. Dominus servōs vocat et i# māla dat.",
+                    "a": [
+                        "īs"
+                    ]
+                },
+                {
+                    "q": "6. Dominus Syr# et Lēandr# serv# su# māla dat.",
+                    "a": [
+                        "ō",
+                        "ō",
+                        "īs",
+                        "īs"
+                    ]
+                },
+                {
+                    "q": "7. Iūlius Aemiliam salūtat et e# ōsculum dat.",
+                    "a": [
+                        "ī"
+                    ]
+                },
+                {
+                    "q": "8. Aemilia Iūli# vir# su# ōsculum dat.",
+                    "a": [
+                        "ō",
+                        "ō",
+                        "ō"
+                    ]
+                },
+                {
+                    "q": "9. Iūlius nōn sōlum Aemili# ōsculum dat, sed etiam Iūli# fīli# su# ōsculum et mālum dat.",
+                    "a": [
+                        "ae",
+                        "ae",
+                        "ae",
+                        "ae"
+                    ]
+                },
+                {
+                    "q": "10. Iūlia māl# su# ōsculum dat!",
+                    "a": [
+                        "ō",
+                        "ō"
+                    ]
+                },
+                {
+                    "q": "11. Domina ancillam vocat et e# mālum dat.",
+                    "a": [
+                        "ī"
+                    ]
+                },
+                {
+                    "q": "12. Aemilia Dēli# ancill# su# mālum dat.",
+                    "a": [
+                        "ae",
+                        "ae",
+                        "ae"
+                    ]
+                },
+                {
+                    "q": "13. Domina ancillās vocat et i# māla dat.",
+                    "a": [
+                        "īs"
+                    ]
+                },
+                {
+                    "q": "14. Aemilia Dēli# et Syr# ancill# su# māla dat.",
+                    "a": [
+                        "ae",
+                        "ae",
+                        "īs",
+                        "īs"
+                    ]
+                },
+                {
+                    "q": "15. Iūlius: \"Ecce nummus tuus, Dāve.\" Dominus serv# nummum dat.",
+                    "a": [
+                        "ō"
+                    ]
+                },
+                {
+                    "q": "16. C# Iūlius nummum dat? Servus c# Iūlius nummum dat est Dāvus.",
+                    "a": [
+                        "ui",
+                        "ui"
+                    ]
+                },
+                {
+                    "q": "17. C# Iūlius ōsculum dat? Fēmina c# Iūlius ōsculum dat est Aemilia.",
+                    "a": [
+                        "ui",
+                        "ui"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Exercise 8",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Saccus quī hīc est = h# saccus.",
+                    "a": [
+                        "ic"
+                    ]
+                },
+                {
+                    "q": "2. Rosa quae hīc est = h# rosa.",
+                    "a": [
+                        "aec"
+                    ]
+                },
+                {
+                    "q": "3. Mālum quod hīc est = h# mālum.",
+                    "a": [
+                        "oc"
+                    ]
+                },
+                {
+                    "q": "4. Puella qu# hīc est = h# puella.",
+                    "a": [
+                        "ae",
+                        "aec"
+                    ]
+                },
+                {
+                    "q": "5. Speculum qu# hīc est = h# speculum.",
+                    "a": [
+                        "od",
+                        "oc"
+                    ]
+                },
+                {
+                    "q": "6. Equus qu# hīc est = h# equus.",
+                    "a": [
+                        "ī",
+                        "ic"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Exercise 9",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Iūlius ad vīllam # et fīliōs salūtat: \"#, fīliī!\"",
+                    "a": [
+                        "advenit",
+                        "Salvēte"
+                    ]
+                },
+                {
+                    "q": "2. Ōstium aperītur ab #.",
+                    "a": [
+                        "ōstiāriō"
+                    ]
+                },
+                {
+                    "q": "3. In saccīs quōs servī portant # et # sunt.",
+                    "a": [
+                        "māla",
+                        "pira"
+                    ]
+                },
+                {
+                    "q": "4. Saccī nōn vacuī, sed # sunt.",
+                    "a": [
+                        "plēnī"
+                    ]
+                },
+                {
+                    "q": "5, Quid # in saccīs? In saccō Lēandrī māla #.",
+                    "a": [
+                        "inest",
+                        "īnsunt"
+                    ]
+                },
+                {
+                    "q": "6. Iūlius Mārcō mālum #: \"Ecce mālum tuum, Mārce.\"",
+                    "a": [
+                        "dat"
+                    ]
+                },
+                {
+                    "q": "7. Aemilia ad Iūlium # et eī # dat.",
+                    "a": [
+                        "adit",
+                        "ōsculum"
+                    ]
+                },
+                {
+                    "q": "8. Dēlia: \"Venī in ātrium, Iūlia! # pater tuus tē exspectat.\" \t",
+                    "a": [
+                        "Illīc"
+                    ]
+                },
+                {
+                    "q": "9. Iūlia # [= ex] cubiculō #; ancillae quoque #.",
+                    "a": [
+                        "ē",
+                        "exit",
+                        "exeunt"
+                    ]
+                },
+                {
+                    "q": "10. Iūlia in ātrium #, nōn ambulat.",
+                    "a": [
+                        "currit"
+                    ]
+                },
+                {
+                    "q": "11. Iūlia: \"Ecce rosa. # pulchra est haec rosa?\"",
+                    "a": [
+                        "Nōnne"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Exercise 10",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Cui Iūlius ōsculum dat? ...",
+                    "a": [
+                        "Iūlius Aemiliae ōsculum dat"
+                    ]
+                },
+                {
+                    "q": "2. Unde venit Aemilia? ...",
+                    "a": [
+                        "Aemilia ē peristȳlō venit"
+                    ]
+                },
+                {
+                    "q": "3. Cūr Iūlia nōn adest? ...",
+                    "a": [
+                        "Iūlia in cubiculō suō est"
+                    ]
+                },
+                {
+                    "q": "4. Quō puerī currunt? ...",
+                    "a": [
+                        "puerī in hortum currunt"
+                    ]
+                },
+                {
+                    "q": "5. Estne Iūlia in hortō? ...",
+                    "a": [
+                        "Iūlia illīc nōn est"
+                    ]
+                },
+                {
+                    "q": "6. Quō it Dēlia? ...",
+                    "a": [
+                        "Dēlia ad cubiculum Iūliae it"
+                    ]
+                },
+                {
+                    "q": "7. Estne sōla Iūlia in cubiculō suō? ...",
+                    "a": [
+                        "sōla nōn est, Syra cum eā est"
+                    ]
+                },
+                {
+                    "q": "8. Quō Iūlia currit? ...",
+                    "a": [
+                        "Iūlia in ātrium currit"
+                    ]
+                },
+                {
+                    "q": "9. Quī sunt in ātriō? ...",
+                    "a": [
+                        "illīc sunt pater, māter, fīliī, servī et ancillae"
+                    ]
+                },
+                {
+                    "q": "10. Cui Iūlia ōsculum dat? ...",
+                    "a": [
+                        "Iūlia Iūliō ōsculum dat"
+                    ]
+                },
+                {
+                    "q": "11. Quid Iūlius fīliae suae dat? ...",
+                    "a": [
+                        "Iūlius fīliae suae mālum dat"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Exercise 11",
+            "info": "Exempla: \nDominus servō mālum dat:dominus eī mālum dat.\nDominus ancillae mālum dat: dominus eī mālum dat.\nFluvius oppidō aquam dat.\nDominus servīs et ancillīs māla dat: dominus iīs māla dat.\nFluviī oppidīs aquam dant.\n",
+            "questions": [
+                {
+                    "q": "1. 'Serv|ō', 'ancill|ae', 'oppid|ō', 'e|ī' nōn nōminātīvus, sed # est. Etiam 'serv|īs', 'ancill|īs', 'oppid|īs', 'i|īs' # est.",
+                    "a": [
+                        "datīvus",
+                        "datīvus"
+                    ]
+                },
+                {
+                    "q": "2. 'Serv|ō', 'ancill|ae', 'oppid|ō', 'e|ī' est datīvus #.",
+                    "a": [
+                        "singulāris"
+                    ]
+                },
+                {
+                    "q": "3. 'Serv|īs', 'ancill|īs', 'oppid|īs', 'i|īs' nōn # singulāris, sed # # est.",
+                    "a": [
+                        "datīvus",
+                        "datīvus",
+                        "plūrālis"
+                    ]
+                },
+                {
+                    "q": "4. Singulāris: nōminātīvus: servus, datīvus: serv#.",
+                    "a": [
+                        "ō"
+                    ]
+                },
+                {
+                    "q": "5. Plūrālis: nōminātīvus: servī, datīvus: serv#.",
+                    "a": [
+                        "īs"
+                    ]
+                },
+                {
+                    "q": "6. Singulāris: nōminātīvus: ancilla, datīvus: ancill#.",
+                    "a": [
+                        "ae"
+                    ]
+                },
+                {
+                    "q": "7. Plūrālis: nōminātīvus ancillae, datīvus ancill#.",
+                    "a": [
+                        "īs"
+                    ]
+                },
+                {
+                    "q": "8. Singulāris: nōminātīvus: oppidum, datīvus: oppid#.",
+                    "a": [
+                        "ō"
+                    ]
+                },
+                {
+                    "q": "9. Plūrālis: nōminātīvus: oppida, datīvus: oppid#.",
+                    "a": [
+                        "īs"
+                    ]
+                },
+                {
+                    "q": "10. Singulāris: nōminātīvus: 'is' 'ea', datīvus: e#.",
+                    "a": [
+                        "ī"
+                    ]
+                },
+                {
+                    "q": "11. Plūrālis: nōminātīvus: 'iī' 'eae', datīvus: i#.",
+                    "a": [
+                        "īs"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "PENSVM A",
+            "info": "",
+            "questions": [
+                {
+                    "a": [
+                        "ō",
+                        "ō",
+                        "ō"
+                    ],
+                    "q": "Iūlius Mārc#, fīli# su#, mālum dat."
+                },
+                {
+                    "a": [
+                        "ō",
+                        "ō",
+                        "īs",
+                        "īs"
+                    ],
+                    "q": "Iūlius Mārc# et Quīnt#, fīli# su#, māla dat."
+                },
+                {
+                    "a": [
+                        "īs",
+                        "īs",
+                        "ō",
+                        "ō"
+                    ],
+                    "q": "Iūlius etiam serv# su#, Syr# et Lēandr#, māla dat."
+                },
+                {
+                    "a": [
+                        "ui",
+                        "ō",
+                        "ō",
+                        "ō"
+                    ],
+                    "q": "C# Aemilia ōsculum dat? Aemilia vir# su# Iūli# ōsculum dat."
+                },
+                {
+                    "a": [
+                        "ae"
+                    ],
+                    "q": "Iūlius Aemili# ōsculum dat."
+                },
+                {
+                    "a": [
+                        "ae",
+                        "ae",
+                        "ae",
+                        "ae",
+                        "ae",
+                        "īs",
+                        "īs"
+                    ],
+                    "q": "Iūlius Iūli#, fīli# su# mālum dat, neque sōlum Iūliae, sed etiam Syr# et Dēli#, ancill# su#."
+                },
+                {
+                    "a": [
+                        "ō",
+                        "ō"
+                    ],
+                    "q": "Iūlia māl# su# ōsculum dat!"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "PENSVM B",
+            "info": "",
+            "questions": [
+                {
+                    "a": [
+                        "advenit"
+                    ],
+                    "q": "Iūlius ad vīllam #."
+                },
+                {
+                    "a": [
+                        "aperit",
+                        "claudit"
+                    ],
+                    "q": "Ōstiārius ōstium # et post eum #."
+                },
+                {
+                    "a": [
+                        "plēnī"
+                    ],
+                    "q": "Saccī nōn vacuī, sed # sunt."
+                },
+                {
+                    "a": [
+                        "Hic",
+                        "mālōrum"
+                    ],
+                    "q": "Iūlius: \"Vidēte, puerī: # saccus plēnus # est. Ecce mālum tuum, Mārce.\""
+                },
+                {
+                    "a": [
+                        "dat"
+                    ],
+                    "q": "Iūlius Mārcō mālum #."
+                },
+                {
+                    "a": [
+                        "sōlum"
+                    ],
+                    "q": "Iūlius fīliīs nōn # māla, sed etiam pira dat."
+                },
+                {
+                    "a": [
+                        "et",
+                        "et",
+                        "neque",
+                        "neque"
+                    ],
+                    "q": "Iam puerī # māla # pira habent, sed servī # māla # pira habent."
+                },
+                {
+                    "a": [
+                        "sē",
+                        "iīs",
+                        "pira"
+                    ],
+                    "q": "Dominus servōs ad # vocat et # quoque māla et # dat."
+                },
+                {
+                    "a": [
+                        "adit",
+                        "ōsculum"
+                    ],
+                    "q": "Aemilia ad Iūlium # et eī # dat."
+                },
+                {
+                    "a": [
+                        "currunt"
+                    ],
+                    "q": "Iūlia abest. Puerī nōn ambulant, sed # in hortum."
+                },
+                {
+                    "a": [
+                        "Illīc"
+                    ],
+                    "q": "# [: in hortō] Iūlia nōn est, ea in cubiculō suō est."
+                },
+                {
+                    "a": [
+                        "lacrimat",
+                        "oculīs",
+                        "lacrimae"
+                    ],
+                    "q": "Iūlia nōn rīdet, sed # : in # eius sunt #."
+                },
+                {
+                    "a": [
+                        "exspectat"
+                    ],
+                    "q": "Dēlia: \"In ātriō pater tuus tē #, Iūlia.\""
+                },
+                {
+                    "a": [
+                        "ē",
+                        "exit",
+                        "eī"
+                    ],
+                    "q": "Iūlia # [= ex] cubiculō #, ad Iūlium currit et # [: Iūliō] ōsculum dat."
+                },
+                {
+                    "a": [
+                        "tenet"
+                    ],
+                    "q": "Iūlia rosam ante Iūlium #."
+                },
+                {
+                    "a": [
+                        "haec",
+                        "fōrmōsa"
+                    ],
+                    "q": "Iūlia: \"Nōnne # rosa # [= pulchra] est?\""
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "PENSVM C",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Quem puerī exspectant? ",
+                    "a": []
+                },
+                {
+                    "q": "2. Venitne Iūlius Rōmā? ",
+                    "a": []
+                },
+                {
+                    "q": "3. Quis ōstium aperit et claudit? ",
+                    "a": []
+                },
+                {
+                    "q": "4. Quid inest in saccīs? ",
+                    "a": []
+                },
+                {
+                    "q": "5. Cui Iūlius mālum prīmum dat? ",
+                    "a": []
+                },
+                {
+                    "q": "6. Cui Aemilia ōsculum dat? ",
+                    "a": []
+                },
+                {
+                    "q": "7. Estne Iūlia in hortō? ",
+                    "a": []
+                },
+                {
+                    "q": "8. Quō it Dēlia? ",
+                    "a": []
+                },
+                {
+                    "q": "9. Estne Iūlia sōla in cubiculō suō? ",
+                    "a": []
+                },
+                {
+                    "q": "10. Rīdetne Iūlia? ",
+                    "a": []
+                },
+                {
+                    "q": "11. Quō Iūlia currit? ",
+                    "a": []
+                },
+                {
+                    "q": "12. Quid Iūlius dat fīliae suae? ",
+                    "a": []
+                }
+            ]
+        }
+    ]
+}

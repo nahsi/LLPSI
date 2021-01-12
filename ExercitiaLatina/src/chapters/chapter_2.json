@@ -1,0 +1,1187 @@
+{
+    "id": 1,
+    "name": "CAPITVLVM II",
+    "exercises": [
+        {
+            "id": 0,
+            "name": "Exercise 1",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Mārcus puer Rōmānus est; Iūlia est # Rōmāna.",
+                    "a": [
+                        "puella"
+                    ]
+                },
+                {
+                    "q": "2. Iūlius est vir Rōmānus; Aemilia # Rōmāna est.",
+                    "a": [
+                        "fēmina"
+                    ]
+                },
+                {
+                    "q": "3. Mārcus nōn puella, sed # est.",
+                    "a": [
+                        "puer"
+                    ]
+                },
+                {
+                    "q": "4. Mārcus et Quīntus sunt #, nōn puellae.",
+                    "a": [
+                        "puerī"
+                    ]
+                },
+                {
+                    "q": "5. Iūlius et Mēdus nōn puerī, sed # sunt; Dāvus quoque # est.",
+                    "a": [
+                        "virī",
+                        "vir"
+                    ]
+                },
+                {
+                    "q": "6. Nōn virī, sed # sunt Aemilia et Dēlia; Syra quoque # est.",
+                    "a": [
+                        "fēminae",
+                        "fēmina"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Exercise 2",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Iūlius pater est. Aemilia est #.",
+                    "a": [
+                        "māter"
+                    ]
+                },
+                {
+                    "q": "2. Iūlia fīlia est. Mārcus et Quīntus sunt #.",
+                    "a": [
+                        "fīliī"
+                    ]
+                },
+                {
+                    "q": "3. Mārcus et Quīntus et Iūlia sunt trēs #.",
+                    "a": [
+                        "līberī"
+                    ]
+                },
+                {
+                    "q": "4. Iūlia nōn māter, sed # est.",
+                    "a": [
+                        "fīlia"
+                    ]
+                },
+                {
+                    "q": "5. Nōn pater, sed # est Mārcus.",
+                    "a": [
+                        "fīlius"
+                    ]
+                },
+                {
+                    "q": "6. Mārcus fīlius Iūliī est: Iūlius est pater Mārc#.",
+                    "a": [
+                        "ī"
+                    ]
+                },
+                {
+                    "q": "7. Quīntus fīlius Iūliī est: Iūlius est pater Quīnt#.",
+                    "a": [
+                        "ī"
+                    ]
+                },
+                {
+                    "q": "8. Iūlia fīlia Iūliī est: Iūlius est pater Iūli#.",
+                    "a": [
+                        "ae"
+                    ]
+                },
+                {
+                    "q": "9. Mārcus et Quīntus fīliī Aemiliae sunt: Aemilia est māter Mārc# et Quīnt#.",
+                    "a": [
+                        "ī",
+                        "ī"
+                    ]
+                },
+                {
+                    "q": "10. Iūlia fīlia Aemiliae est: Aemilia est māter Iūli#.",
+                    "a": [
+                        "ae"
+                    ]
+                },
+                {
+                    "q": "11. Iūlia est fīlia Iūli# et Aemili#.",
+                    "a": [
+                        "ī",
+                        "ae"
+                    ]
+                },
+                {
+                    "q": "12. Iūlius est pater Mārc# et Quīnt# et Iūli# .",
+                    "a": [
+                        "ī",
+                        "ī",
+                        "ae"
+                    ]
+                },
+                {
+                    "q": "13. Māter Mārc# et Quīnt# et Iūli# est Aemilia.",
+                    "a": [
+                        "ī",
+                        "ī",
+                        "ae"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Exercise 3",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. # est Quīntus? Quīntus puer Rōmānus est.",
+                    "a": [
+                        "Quis"
+                    ]
+                },
+                {
+                    "q": "2. # est pater Quīntī? Pater Quīntī est Iūlius.",
+                    "a": [
+                        "Quis"
+                    ]
+                },
+                {
+                    "q": "3. # est māter Quīntī? Aemilia est māter Quīntī.",
+                    "a": [
+                        "Quae"
+                    ]
+                },
+                {
+                    "q": "4. # est fīlia Iūliī et Aemiliae? Fīlia Iūliī et Aemiliae Iūlia est.",
+                    "a": [
+                        "Quae"
+                    ]
+                },
+                {
+                    "q": "5. # sunt fīliī? Fīliī sunt Mārcus et Quīntus.",
+                    "a": [
+                        "Quī"
+                    ]
+                },
+                {
+                    "q": "6. # est Tūsculum? Tūsculum oppidum est.",
+                    "a": [
+                        "Quid"
+                    ]
+                },
+                {
+                    "q": "7. # est 'gamma'? 'Gamma' est littera Graeca.",
+                    "a": [
+                        "Quid"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Exercise 4",
+            "info": "Exemplum: \nFīliī et fīliae = fīliī fīliaeque.\n",
+            "questions": [
+                {
+                    "q": "1. Litterae et numerī = # #.",
+                    "a": [
+                        "litterae",
+                        "numerīque"
+                    ]
+                },
+                {
+                    "q": "2. Mārcus et Quīntus = # #.",
+                    "a": [
+                        "Mārcus",
+                        "Quīntusque"
+                    ]
+                },
+                {
+                    "q": "3. Puerī et puellae = # #.",
+                    "a": [
+                        "puerī",
+                        "puellaeque"
+                    ]
+                },
+                {
+                    "q": "4. Fēminae puerīque = # # #.",
+                    "a": [
+                        "fēminae",
+                        "et",
+                        "puerī"
+                    ]
+                },
+                {
+                    "q": "5. Servī ancillaeque = # # #.",
+                    "a": [
+                        "servī",
+                        "et",
+                        "ancillae"
+                    ]
+                },
+                {
+                    "q": "6. Ūna fīlia duoque fīliī = # # # # #.",
+                    "a": [
+                        "ūna",
+                        "filia",
+                        "et",
+                        "duo",
+                        "fīliī"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Exercise 5",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Mēdus nōn est fīlius Iūliī, Mēdus # Iūliī est.",
+                    "a": [
+                        "servus"
+                    ]
+                },
+                {
+                    "q": "2. Dēlia nōn est fīlia Aemiliae, Dēlia # Aemiliae est.",
+                    "a": [
+                        "ancilla"
+                    ]
+                },
+                {
+                    "q": "3. Iūlius # Mēdī est. Aemilia # Dēliae est. \t",
+                    "a": [
+                        "dominus",
+                        "domina"
+                    ]
+                },
+                {
+                    "q": "4. Dāvus et Mēdus nōn sunt dominī, sed #. ",
+                    "a": [
+                        "servī"
+                    ]
+                },
+                {
+                    "q": "5. Syra et Dēlia nōn sunt dominae, sed #.",
+                    "a": [
+                        "ancillae"
+                    ]
+                },
+                {
+                    "q": "6. Iūlius dominus Dāvī est: Iūlius est dominus serv#.",
+                    "a": [
+                        "ī"
+                    ]
+                },
+                {
+                    "q": "7. Iūlius dominus Dāvī et Mēdī est: Iūlius est dominus serv#.",
+                    "a": [
+                        "ōrum"
+                    ]
+                },
+                {
+                    "q": "8. Aemilia domina Syrae est: Aemilia est domina ancill#.",
+                    "a": [
+                        "ae"
+                    ]
+                },
+                {
+                    "q": "9. Aemilia domina Syrae et Dēliae est: Aemilia est domina ancill#.",
+                    "a": [
+                        "ārum"
+                    ]
+                },
+                {
+                    "q": "10. Mārcus, Quīntus Iūliaque nōn servī, sed # sunt.",
+                    "a": [
+                        "līberī"
+                    ]
+                },
+                {
+                    "q": "11. Iūlius dominus serv# est et pater līber#.",
+                    "a": [
+                        "ōrum",
+                        "ōrum"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Exercise 6",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Quis est pater Mārcī? ...",
+                    "a": [
+                        "pater Mārcī est Iūlius"
+                    ]
+                },
+                {
+                    "q": "2. Quae est māter Mārcī? ...",
+                    "a": [
+                        "Aemilia est māter Mārcī"
+                    ]
+                },
+                {
+                    "q": "3. Quae est fīlia Iūliī et Aemiliae? ...",
+                    "a": [
+                        "Iūlia est fīlia Iūliī et Aemiliae"
+                    ]
+                },
+                {
+                    "q": "4. Quī sunt fīliī Iūliī et Aemiliae? ...",
+                    "a": [
+                        "Fīliī sunt Mārcus et Quīntus"
+                    ]
+                },
+                {
+                    "q": "5. Quis est Mēdus? ...",
+                    "a": [
+                        "Mēdus servus est"
+                    ]
+                },
+                {
+                    "q": "6. Quī sunt Mēdus et Dāvus? ...",
+                    "a": [
+                        "Mēdus et Dāvus servī sunt"
+                    ]
+                },
+                {
+                    "q": "7. Quae est Dēlia? ...",
+                    "a": [
+                        "Dēlia ancilla est"
+                    ]
+                },
+                {
+                    "q": "8. Quis est dominus servōrum? ...",
+                    "a": [
+                        "Iūlius est dominus servōrum"
+                    ]
+                },
+                {
+                    "q": "9. Quae est domina ancillārum? ...",
+                    "a": [
+                        "Aemilia domina ancillārum est"
+                    ]
+                },
+                {
+                    "q": "10. Cuius servus est Mēdus? ...",
+                    "a": [
+                        "Mēdus servus Iūliī est"
+                    ]
+                },
+                {
+                    "q": "11. Cuius fīlius est Mārcus? ...",
+                    "a": [
+                        "Mārcus est fīlius Iūliī"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Exercise 7",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Iūlius est dominus mult# serv#.",
+                    "a": [
+                        "ōrum",
+                        "ōrum"
+                    ]
+                },
+                {
+                    "q": "2. Numerus serv# est centum.",
+                    "a": [
+                        "ōrum"
+                    ]
+                },
+                {
+                    "q": "3. Aemilia est domina mult# ancill#.",
+                    "a": [
+                        "ārum",
+                        "ārum"
+                    ]
+                },
+                {
+                    "q": "4. Numerus serv# et ancill# magnus est.",
+                    "a": [
+                        "ōrum",
+                        "ārum"
+                    ]
+                },
+                {
+                    "q": "5. In familiā est magnus numerus serv# et ancill#.",
+                    "a": [
+                        "ōrum",
+                        "ārum"
+                    ]
+                },
+                {
+                    "q": "6. Numerus līber# est trēs.",
+                    "a": [
+                        "ōrum"
+                    ]
+                },
+                {
+                    "q": "7. In familiā Iūliī est parvus numerus līber#.",
+                    "a": [
+                        "ōrum"
+                    ]
+                },
+                {
+                    "q": "8. In Graeciā est magnus numerus īnsul#.",
+                    "a": [
+                        "ārum"
+                    ]
+                },
+                {
+                    "q": "9. In Arabiā est parvus numerus fluvi#.",
+                    "a": [
+                        "ōrum"
+                    ]
+                },
+                {
+                    "q": "10. In Italiā est magnus numerus oppid#.",
+                    "a": [
+                        "ōrum"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Exercise 8",
+            "info": "Exemplum: \nMultī/paucī servī = magnus/parvus numerus servōrum.\n",
+            "questions": [
+                {
+                    "q": "1. Multae īnsulae = # # #.",
+                    "a": [
+                        "magnus",
+                        "numerus",
+                        "īnsulārum"
+                    ]
+                },
+                {
+                    "q": "2. Paucī fluviī = # # #.",
+                    "a": [
+                        "parvus",
+                        "numerus",
+                        "fluviōrum"
+                    ]
+                },
+                {
+                    "q": "3. Multa oppida = # # #.",
+                    "a": [
+                        "magnus",
+                        "numerus",
+                        "oppidōrum"
+                    ]
+                },
+                {
+                    "q": "4. Paucī līberī = # # #.",
+                    "a": [
+                        "parvus",
+                        "numerus",
+                        "līberōrum"
+                    ]
+                },
+                {
+                    "q": "5. Magnus numerus vocābulōrum = # #.",
+                    "a": [
+                        "multa",
+                        "vocābula"
+                    ]
+                },
+                {
+                    "q": "6. Magnus numerus litterārum = # #.",
+                    "a": [
+                        "multae",
+                        "litterae"
+                    ]
+                },
+                {
+                    "q": "7. Parvus numerus exemplōrum = # #. ",
+                    "a": [
+                        "pauca",
+                        "exempla"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Exercise 9",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. # servī sunt in familiā Iūliī? # [C] servī.",
+                    "a": [
+                        "Quot",
+                        "Centum"
+                    ]
+                },
+                {
+                    "q": "2. Mēdus et Dāvus # [II] servī sunt.",
+                    "a": [
+                        "duo"
+                    ]
+                },
+                {
+                    "q": "3. Syra et Dēlia sunt # [II] ancillae.",
+                    "a": [
+                        "duae"
+                    ]
+                },
+                {
+                    "q": "4. Tūsculum et Brundisium # [II] oppida sunt.",
+                    "a": [
+                        "duo"
+                    ]
+                },
+                {
+                    "q": "5. # līberī in familiā sunt? # [III] līberī.",
+                    "a": [
+                        "Quot",
+                        "Trēs"
+                    ]
+                },
+                {
+                    "q": "5. In familiā nōn # [II] fīliae, sed # [I] fīlia est.",
+                    "a": [
+                        "duae",
+                        "ūna"
+                    ]
+                },
+                {
+                    "q": "7. In familiā nōn # [I] fīlius, sed # [II] fīliī sunt.",
+                    "a": [
+                        "ūnus",
+                        "duo"
+                    ]
+                },
+                {
+                    "q": "8. 'Vir', 'puer', 'puella' # [III] vocābula sunt.",
+                    "a": [
+                        "tria"
+                    ]
+                },
+                {
+                    "q": "9. Rhēnus et Dānuvius et Tiberis # [III] fluviī sunt: # [II] fluviī magnī et # [I] fluvius parvus.",
+                    "a": [
+                        "trēs",
+                        "duo",
+                        "ūnus"
+                    ]
+                },
+                {
+                    "q": "10. Brundisium et Sparta et Delphī # [III] oppida sunt: # [II] oppida magna et # [I] oppidum parvum.",
+                    "a": [
+                        "tria",
+                        "duo",
+                        "ūnum"
+                    ]
+                },
+                {
+                    "q": "11. Sardinia et Sicilia et Melita sunt # [III] īnsulae: # [II] īnsulae magnae et # [I] īnsula parva.",
+                    "a": [
+                        "trēs",
+                        "duae",
+                        "ūna"
+                    ]
+                },
+                {
+                    "q": "12. In Graeciā # īnsulae sunt? In Graeciā sunt # [M] īnsulae parvae magnaeque.",
+                    "a": [
+                        "quot",
+                        "mīlle"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Exercise 10",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Cornēlius: \"Estne Mēdus fīlius #?\" ",
+                    "a": [
+                        "tuus"
+                    ]
+                },
+                {
+                    "q": "2. Iūlius: \"Mēdus nōn est fīlius #.\"",
+                    "a": [
+                        "meus"
+                    ]
+                },
+                {
+                    "q": "3. Cornēlius: \"Estne Dēlia fīlia #?\"",
+                    "a": [
+                        "tua"
+                    ]
+                },
+                {
+                    "q": "4. Iūlius: \"Dēlia nōn est fīlia #.\"",
+                    "a": [
+                        "mea"
+                    ]
+                },
+                {
+                    "q": "5. Cornēlius: \"Suntne ancillae # Dēlia et Syra?\"",
+                    "a": [
+                        "tuae"
+                    ]
+                },
+                {
+                    "q": "6. Iūlius: \"Dēlia et Syra sunt ancillae #.\"",
+                    "a": [
+                        "meae"
+                    ]
+                },
+                {
+                    "q": "7. Cornēlius: \"Quī sunt fīliī #?\"",
+                    "a": [
+                        "tuī"
+                    ]
+                },
+                {
+                    "q": "8. Iūlius: \"Fīliī # sunt Mārcus et Quīntus.\"",
+                    "a": [
+                        "meī"
+                    ]
+                },
+                {
+                    "q": "9. Cornēlius: \"Quot servī sunt in familiā #?\"",
+                    "a": [
+                        "tuā"
+                    ]
+                },
+                {
+                    "q": "10. Iūlius: \"In familiā # sunt centum servī. Numerus servōrum # est centum. Familia # magna est.\"",
+                    "a": [
+                        "meā",
+                        "meōrum",
+                        "mea"
+                    ]
+                },
+                {
+                    "q": "11. Cornēlius: \"Centum servī! Magnus est numerus servōrum #!\"",
+                    "a": [
+                        "tuōrum"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Exercise 11",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. # duo lib# Latīnī: liber # [<> novus] et liber #.",
+                    "a": [
+                        "Ecce",
+                        "rī",
+                        "antīquus",
+                        "novus"
+                    ]
+                },
+                {
+                    "q": "2. Numerus lib# Latīnōrum magnus est.",
+                    "a": [
+                        "rōrum"
+                    ]
+                },
+                {
+                    "q": "3. 'LINGVA LATINA' est # lib# tuī Latīnī.",
+                    "a": [
+                        "titulus",
+                        "rī"
+                    ]
+                },
+                {
+                    "q": "4. In LINGVA LATINA sunt multae # (pāg. 1, 2, 3, cēterae) et multa capitul# (cap. I et II et III et #).",
+                    "a": [
+                        "pāginae",
+                        "a",
+                        "cētera"
+                    ]
+                },
+                {
+                    "q": "5. Numerus capitul# est magnus.",
+                    "a": [
+                        "ōrum"
+                    ]
+                },
+                {
+                    "q": "6. IMPERIVM ROMANVM est capitul# prīmum.",
+                    "a": [
+                        "um"
+                    ]
+                },
+                {
+                    "q": "7. Titulus capitul# prīmī est 'IMPERIVM ROMANVM'.",
+                    "a": [
+                        "ī"
+                    ]
+                },
+                {
+                    "q": "8. In capitulō prīmō mult# vocābul# sunt.",
+                    "a": [
+                        "a",
+                        "a"
+                    ]
+                },
+                {
+                    "q": "9. Numerus vocābul# magnus est.",
+                    "a": [
+                        "ōrum"
+                    ]
+                },
+                {
+                    "q": "10. 'Rōma' est vocābul# prīmum capitul# prīm#.",
+                    "a": [
+                        "um",
+                        "ī",
+                        "ī"
+                    ]
+                },
+                {
+                    "q": "11. R est littera prīma vocābul# prīmī.",
+                    "a": [
+                        "ī"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Exercise 12",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. 'Serv|us' vocābulum masculīnum est. 'Ancill|a' vocābulum # est. 'Oppid|um' vocābulum # est.",
+                    "a": [
+                        "fēminīnum",
+                        "neutrum"
+                    ]
+                },
+                {
+                    "q": "2. 'Puer' nōn est vocābulum fēminīnum, sed #.",
+                    "a": [
+                        "masculīnum"
+                    ]
+                },
+                {
+                    "q": "3. 'Serv|us' et 'domin|us' vocābula # sunt; 'fluvi|us' quoque # # est.",
+                    "a": [
+                        "masculīna",
+                        "vocābulum",
+                        "masculīnum"
+                    ]
+                },
+                {
+                    "q": "4. 'Ancill|a' et 'domin|a' vocābula # sunt; 'īnsul|a' quoque # # est.",
+                    "a": [
+                        "fēminīna",
+                        "vocābulum",
+                        "fēminīnum"
+                    ]
+                },
+                {
+                    "q": "5. 'Oppid|um' et 'imperi|um' vocābula # sunt; 'exempl|um' quoque # # est.",
+                    "a": [
+                        "neutra",
+                        "vocābulum",
+                        "neutrum"
+                    ]
+                },
+                {
+                    "q": "6. Masculīnum: vir Rōmān#.",
+                    "a": [
+                        "us"
+                    ]
+                },
+                {
+                    "q": "7. Fēminīnum: fēmin# Rōmān#.",
+                    "a": [
+                        "a",
+                        "a"
+                    ]
+                },
+                {
+                    "q": "8. Neutrum: imperi# Rōmān#.",
+                    "a": [
+                        "um",
+                        "um"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Exercise 13",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Iūlius pater Mārcī est: 'Mārc|ī' # est.",
+                    "a": [
+                        "genetīvus"
+                    ]
+                },
+                {
+                    "q": "2. Iūlius pater Iūliae est: 'Iuli|ae' quoque # est.",
+                    "a": [
+                        "genetīvus"
+                    ]
+                },
+                {
+                    "q": "3. Iūlius dominus servī est: 'serv|ī' # singulāris est.",
+                    "a": [
+                        "genetīvus"
+                    ]
+                },
+                {
+                    "q": "4. Iūlius dominus servōrum est: 'serv|ōrum' est # #. ",
+                    "a": [
+                        "genetīvus",
+                        "plūrālis"
+                    ]
+                },
+                {
+                    "q": "5. Aemilia domina ancillae est: 'ancill|ae' # # est.",
+                    "a": [
+                        "genetīvus",
+                        "singulāris"
+                    ]
+                },
+                {
+                    "q": "6. Aemilia domina ancillārum est: 'ancill|ārum' est # #. ",
+                    "a": [
+                        "genetīvus",
+                        "plūrālis"
+                    ]
+                },
+                {
+                    "q": "7. Titulus capitulī est 'FAMILIA ROMANA': 'capitul|ī' # # est. ",
+                    "a": [
+                        "genetīvus",
+                        "singulāris"
+                    ]
+                },
+                {
+                    "q": "8. Numerus capitulōrum magnus est: 'capitul|ōrum' est # #.",
+                    "a": [
+                        "genetīvus",
+                        "plūrālis"
+                    ]
+                },
+                {
+                    "q": "9. Genetīvus: singulāris: serv#, plūrālis: serv#.",
+                    "a": [
+                        "ī",
+                        "ōrum"
+                    ]
+                },
+                {
+                    "q": "10. Genetīvus: singulāris: ancill#, plūrālis: ancill#.",
+                    "a": [
+                        "ae",
+                        "ārum"
+                    ]
+                },
+                {
+                    "q": "11. Genetīvus: singulāris: capitul#, plūrālis: capitul#.",
+                    "a": [
+                        "ī",
+                        "ōrum"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "PENSVM A",
+            "info": "",
+            "questions": [
+                {
+                    "a": [
+                        "us",
+                        "a"
+                    ],
+                    "q": "Mārcus fīli# Iūliī est. Iūlia fīli# Iūliī est."
+                },
+                {
+                    "a": [
+                        "us",
+                        "a",
+                        "a"
+                    ],
+                    "q": "Iūlius est vir Rōmān#. Aemilia fēmin# Rōmān# est."
+                },
+                {
+                    "a": [
+                        "us",
+                        "a"
+                    ],
+                    "q": "Iūlius domin#, Aemilia domin# est."
+                },
+                {
+                    "a": [
+                        "us",
+                        "us",
+                        "a",
+                        "a"
+                    ],
+                    "q": "Mēdus serv# Graec# est, Dēlia est ancill# Graec#."
+                },
+                {
+                    "a": [
+                        "um",
+                        "um"
+                    ],
+                    "q": "Sparta oppid# Graec# est."
+                },
+                {
+                    "a": [
+                        "ī"
+                    ],
+                    "q": "Iūlius pater Mārc# est."
+                },
+                {
+                    "a": [
+                        "ī",
+                        "ae"
+                    ],
+                    "q": "Mārcus est fīlius Iūli# et Aemili#."
+                },
+                {
+                    "a": [
+                        "ī",
+                        "ī"
+                    ],
+                    "q": "Mēdus servus Iūli# est: Iūlius est dominus serv#."
+                },
+                {
+                    "a": [
+                        "ī",
+                        "ī",
+                        "ōrum"
+                    ],
+                    "q": "Iūlius dominus Mēd# et Dāv# est: Iūlius dominus serv# est."
+                },
+                {
+                    "a": [
+                        "ōrum"
+                    ],
+                    "q": "Numerus serv# magnus est."
+                },
+                {
+                    "a": [
+                        "ae",
+                        "ae"
+                    ],
+                    "q": "Dēlia est ancilla Aemili# : Aemilia domina ancill# est."
+                },
+                {
+                    "a": [
+                        "ae",
+                        "ae",
+                        "ārum"
+                    ],
+                    "q": "Aemilia domina Dēli# et Syr# est: Aemilia domina ancill# est."
+                },
+                {
+                    "a": [
+                        "ī",
+                        "ōrum",
+                        "ārum"
+                    ],
+                    "q": "In familiā Iūli# est magnus numerus serv# et ancill#."
+                },
+                {
+                    "a": [
+                        "ī",
+                        "ī",
+                        "ae"
+                    ],
+                    "q": "Aemilia māter Mārc# et Quīnt# et Iūli# est."
+                },
+                {
+                    "a": [
+                        "ī",
+                        "ae"
+                    ],
+                    "q": "Mārcus, Quīntus Iūliaque sunt līberī Iūli# et Aemili#."
+                },
+                {
+                    "a": [
+                        "ōrum"
+                    ],
+                    "q": "Numerus līber# est trēs."
+                },
+                {
+                    "a": [
+                        "ōrum"
+                    ],
+                    "q": "Numerus serv# est centum."
+                },
+                {
+                    "a": [
+                        "ī",
+                        "ī"
+                    ],
+                    "q": "In pāginā prīmā capitul# secund# multa vocābula nova sunt."
+                },
+                {
+                    "a": [
+                        "ōrum"
+                    ],
+                    "q": "Numerus capitul# nōn parvus est."
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "PENSVM B",
+            "info": "",
+            "questions": [
+                {
+                    "a": [
+                        "puer"
+                    ],
+                    "q": "Mārcus # Rōmānus est."
+                },
+                {
+                    "a": [
+                        "vir"
+                    ],
+                    "q": "Iūlius # Rōmānus est."
+                },
+                {
+                    "a": [
+                        "fēmina"
+                    ],
+                    "q": "Aemilia est # Rōmāna."
+                },
+                {
+                    "a": [
+                        "pater"
+                    ],
+                    "q": "Iūlius est # Mārcī et Quīntī et Iūliae."
+                },
+                {
+                    "a": [
+                        "familiā",
+                        "līberī",
+                        "fīliī",
+                        "fīlia"
+                    ],
+                    "q": "In # Iūliī sunt trēs # : duo # et ūna #."
+                },
+                {
+                    "a": [
+                        "Māter"
+                    ],
+                    "q": "# līberōrum est Aemilia."
+                },
+                {
+                    "a": [
+                        "Quis",
+                        "servus",
+                        "dominus"
+                    ],
+                    "q": "# est Dāvus? Dāvus est # Iūliī. Iūlius # Dāvī est."
+                },
+                {
+                    "a": [
+                        "Quae",
+                        "ancilla",
+                        "domina"
+                    ],
+                    "q": "# est Syra? Syra # Aemiliae est. Aemilia est # Syrae."
+                },
+                {
+                    "a": [
+                        "Quot",
+                        "meā",
+                        "centum"
+                    ],
+                    "q": "Cornēlius: \"# servī sunt in familiā tuā?\" Iūlius: \"In familiā # sunt # [C] servī.\""
+                },
+                {
+                    "a": [
+                        "tua"
+                    ],
+                    "q": "Cornēlius: \"Familia # magna est!\""
+                },
+                {
+                    "a": [
+                        "librī"
+                    ],
+                    "q": "'LINGVA LATINA' est titulus # tuī Latīnī."
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "PENSVM C",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Quis est Quīntus? ",
+                    "a": []
+                },
+                {
+                    "q": "2. Quī sunt Mēdus et Dāvus? ",
+                    "a": []
+                },
+                {
+                    "q": "3. Mārcusne quoque servus Iūliī est? ",
+                    "a": []
+                },
+                {
+                    "q": "4. Cuius fīlia est Iūlia? ",
+                    "a": []
+                },
+                {
+                    "q": "5. Quot līberī sunt in familiā Iūliī? ",
+                    "a": []
+                },
+                {
+                    "q": "6. Quot servī in familiā sunt? ",
+                    "a": []
+                },
+                {
+                    "q": "7. Num Syra domina est? ",
+                    "a": []
+                },
+                {
+                    "q": "8. Quae est domina ancillārum? ",
+                    "a": []
+                },
+                {
+                    "q": "9. Estne Cornēlius vir Graecus? ",
+                    "a": []
+                },
+                {
+                    "q": "10. Num 'puella' vocābulum masculīnum est? ",
+                    "a": []
+                }
+            ]
+        }
+    ]
+}

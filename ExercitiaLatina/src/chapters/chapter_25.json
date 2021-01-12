@@ -1,0 +1,1153 @@
+{
+    "id": 24,
+    "name": "CAPITVLVM XXV",
+    "exercises": [
+        {
+            "id": 0,
+            "name": "Exercise 1",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. # et lupus # [= sine causā] ad eundem rīvum vēnērunt.",
+                    "a": [
+                        "Agnus",
+                        "forte"
+                    ]
+                },
+                {
+                    "q": "2. Quattuor equī currum Sōlis #; nec facile est equōs Sōlis #.",
+                    "a": [
+                        "trahunt",
+                        "regere"
+                    ]
+                },
+                {
+                    "q": "3. Achillēs corpus Hectoris post # suum trāxit.",
+                    "a": [
+                        "currum"
+                    ]
+                },
+                {
+                    "q": "4. Rōmulus prīma # Rōmāna aedificāvit et frātrem #.",
+                    "a": [
+                        "moenia",
+                        "interfēcit"
+                    ]
+                },
+                {
+                    "q": "5. Moenia, quae Rōmulus #, nōn alta, sed # erant.",
+                    "a": [
+                        "aedificāvit",
+                        "humilia"
+                    ]
+                },
+                {
+                    "q": "6. Quīntus # dē Rōmulō et Remō iam audīvit.",
+                    "a": [
+                        "fābulam"
+                    ]
+                },
+                {
+                    "q": "7. Nunc fābulam dē # ferōcī quod hominēs vīvōs # audīre cupit.",
+                    "a": [
+                        "mōnstrō",
+                        "vorat"
+                    ]
+                },
+                {
+                    "q": "8. Tāle mōnstrum # [= ferōx] Quīntum nōn terrēbit, neque enim is puer # est.",
+                    "a": [
+                        "saevum",
+                        "timidus"
+                    ]
+                },
+                {
+                    "q": "9. In Crētā # [= tempore antīquō] vīvēbat # mōnstrum, nōmine Mīnōtaurus, cui corpus virī, sed caput # erat.",
+                    "a": [
+                        "ōlim",
+                        "terribile",
+                        "taurī"
+                    ]
+                },
+                {
+                    "q": "10. # [= plūrēs quam duo] adulēscentēs virginēsque Athēniēnsēs # [= omnī annō] ad Mīnōtaurum mittēbantur.",
+                    "a": [
+                        "Complūrēs",
+                        "quotannīs"
+                    ]
+                },
+                {
+                    "q": "11. Labyrinthus est magnum #, unde nēmō potest exīre, quamquam iānua #.",
+                    "a": [
+                        "aedificium",
+                        "patet"
+                    ]
+                },
+                {
+                    "q": "12. Daedalus complūrēs rēs # [< mīrārī] effēcerat praeter labyrinthum.",
+                    "a": [
+                        "mīrābilēs"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Exercise 2",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Quid Quīntus Syram sibi nārrāre iubet? ...",
+                    "a": [
+                        "Quīntus Syram sibi fābulam nārrāre iubet"
+                    ]
+                },
+                {
+                    "q": "2. Quid fēcit Achillēs? ...",
+                    "a": [
+                        "Achillēs Hectorem interfēcit"
+                    ]
+                },
+                {
+                    "q": "3. Quis prīmōs mūrōs Rōmānōs aedificāvit? ...",
+                    "a": [
+                        "Rōmulus prīmōs mūrōs Rōmānōs aedificāvit"
+                    ]
+                },
+                {
+                    "q": "4. Quem Rōmulus interfēcit?",
+                    "a": []
+                },
+                {
+                    "q": "5. Cūr Quīntus fābulam dē Rōmulō audīre nōn vult? ...",
+                    "a": [
+                        "Remum frātrem suum interfēcit"
+                    ]
+                },
+                {
+                    "q": "6. Quālem fābulam Quīntus audīre cupit? ...",
+                    "a": [
+                        "... quia illam fābulam iam nōvit"
+                    ]
+                },
+                {
+                    "q": "7. Quam fābulam Syra puerō nārrat? ...",
+                    "a": [
+                        "fābulam dē mōnstrō ferōcī"
+                    ]
+                },
+                {
+                    "q": "8. Quāle mōnstrum erat Mīnōtaurus? ...",
+                    "a": [
+                        "Syra eī fābulam dē Thēseō et Mīnōtaurō nārrāre incipit"
+                    ]
+                },
+                {
+                    "q": "9. Ubi illud mōnstrum habitābat? ...",
+                    "a": [
+                        "erat mōnstrum terribile quod hominēs vīvōs vorābat"
+                    ]
+                },
+                {
+                    "q": "10. Quid est labyrinthus? ...",
+                    "a": [
+                        "in Crētā in labyrinthō habitābat"
+                    ]
+                },
+                {
+                    "q": "11. Clausane erat iānua labyrinthī? ...",
+                    "a": [
+                        "labyrinthus est magnum aedificium unde difficile est exīre"
+                    ]
+                },
+                {
+                    "q": "12. Quis illum labyrinthum aedificāverat? ...",
+                    "a": [
+                        "iānua labyrinthī patēbat"
+                    ]
+                },
+                {
+                    "q": "13. Unde veniēbant hominēs quōs edēbat Mīnōtaurus? ...",
+                    "a": [
+                        "labyrinthum aedificāverat Daedalus"
+                    ]
+                },
+                {
+                    "q": "14. Quālia vēla gerēbat nāvis eōrum? ...",
+                    "a": [
+                        "illī Athēnīs veniēbant"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Exercise 3",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Iūlia: “Manē h# apud nōs, pater! Nōlī h# abīre!”",
+                    "a": [
+                        "īc",
+                        "inc"
+                    ]
+                },
+                {
+                    "q": "2. Iūlius: “Crās necesse erit mē h# Rōmam proficīscī, sed brevī h# ad vōs redībō.”",
+                    "a": [
+                        "inc",
+                        "ūc"
+                    ]
+                },
+                {
+                    "q": "3. Iūlia: “Quārē rūrsus Rōmam ībis? Necesse nōn est totiēs ill# īre nec tot diēs ill# manēre.”",
+                    "a": [
+                        "ūc",
+                        "īc"
+                    ]
+                },
+                {
+                    "q": "4. Iūlius: “Rōmae vīvere mē nōn dēlectat; itaque post paucōs diēs ill# discēdam atque h# revertar.”",
+                    "a": [
+                        "inc",
+                        "ūc"
+                    ]
+                },
+                {
+                    "q": "5. Iūlia: “Quod dōnum mihi ill# afferēs?”",
+                    "a": [
+                        "inc"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Exercise 4",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Mīnōs, # Crētae, Athēnās expugnāverat.",
+                    "a": [
+                        "rēx"
+                    ]
+                },
+                {
+                    "q": "2. Post # urbis rēx et pecūniam et hominēs postulāvit.",
+                    "a": [
+                        "expugnātiōnem"
+                    ]
+                },
+                {
+                    "q": "3. Itaque quotannīs complūrēs Athēniēnsēs ad # certam mittēbantur.",
+                    "a": [
+                        "mortem"
+                    ]
+                },
+                {
+                    "q": "4. Mīnōs enim et pecūniae et sanguinis # erat.",
+                    "a": [
+                        "cupidus"
+                    ]
+                },
+                {
+                    "q": "5. Thēseus, vir # cupidus, Mīnōtaurum # [= interficere] atque # suōs servāre #.",
+                    "a": [
+                        "glōriae",
+                        "necāre|occīdere",
+                        "cīvēs",
+                        "cōnstituit"
+                    ]
+                },
+                {
+                    "q": "6. Thēseus, quī gladium gerēbat, ad pugnam # erat.",
+                    "a": [
+                        "parātus"
+                    ]
+                },
+                {
+                    "q": "7. Ariadna Thēseō # longum dedit;  ita fīlia rēgis eī # tulit.",
+                    "a": [
+                        "fīlum",
+                        "auxilium"
+                    ]
+                },
+                {
+                    "q": "8. Thēseus: “# [= mox] hūc redībō, nec posteā tē relinquam, Ariadna: hoc tibi # [= prōmittō].”",
+                    "a": [
+                        "Brevī",
+                        "polliceor"
+                    ]
+                },
+                {
+                    "q": "9. Tum Thēseus sine # [= continuō] labyrinthum intrāvit atque Mīnōtaurum # [= necāvit/interfēcit].",
+                    "a": [
+                        "morā",
+                        "occīdit"
+                    ]
+                },
+                {
+                    "q": "10. Posteā fīlum Ariadnae secūtus # labyrinthī facile repperit.",
+                    "a": [
+                        "exitum"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Exercise 5",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Cūr Athēniēnsēs in Crētam mittēbantur? ...",
+                    "a": [
+                        "... quod rēx Mīnōs Athēniēnsibus male volēbat"
+                    ]
+                },
+                {
+                    "q": "2. Cūr Mīnōs Athēniēnsibus inimīcus erat? ...",
+                    "a": [
+                        "... quod fīlius eius ab Athēniēnsibus necātus erat"
+                    ]
+                },
+                {
+                    "q": "3. Ubi Thēseus vīvēbat? ...",
+                    "a": [
+                        "Thēseus Athēnīs vīvēbat"
+                    ]
+                },
+                {
+                    "q": "4. Quam bēstiam Thēseus iam necāverat? ...",
+                    "a": [
+                        "taurum album, patrem Mīnōtaurī, iam necāverat"
+                    ]
+                },
+                {
+                    "q": "5. Quid Thēseus tum agere cōnstituit? ...",
+                    "a": [
+                        "cōnstituit Mīnōtaurum ipsum quoque occīdere"
+                    ]
+                },
+                {
+                    "q": "6. Sōlusne Thēseus in Crētam profectus est? ...",
+                    "a": [
+                        "nōn sōlus, sed cum aliīs Athēniēnsibus profectus est"
+                    ]
+                },
+                {
+                    "q": "7. Quō rēx Mīnōs Thēseum dūcī iussit? ...",
+                    "a": [
+                        "rēx eum in labyrinthum dūcī iussit"
+                    ]
+                },
+                {
+                    "q": "8. Quae fuit Ariadna? ...",
+                    "a": [
+                        "Ariadna fuit fīlia virgō rēgis Mīnōis"
+                    ]
+                },
+                {
+                    "q": "9. Cūr ea Thēseum servāre cōnstituit? ...",
+                    "a": [
+                        "... quia eum amābat"
+                    ]
+                },
+                {
+                    "q": "10. Quōmodo Ariadna Thēseō auxilium tulit? ...",
+                    "a": [
+                        "Ariadna Thēseō fīlum dedit quod eī viam ē labyrinthō mōnstrāvit"
+                    ]
+                },
+                {
+                    "q": "11. Quid Thēseus Ariadnae prōmīsit? ...",
+                    "a": [
+                        "Thēseus prōmīsit ‘sē Ariadnam sēcum Athēnās ductūrum esse’"
+                    ]
+                },
+                {
+                    "q": "12. Quid fēcit Thēseus in labyrinthō? ...",
+                    "a": [
+                        "Mīnōtaurum gladiō occīdit"
+                    ]
+                },
+                {
+                    "q": "13. Quōmodo exitum labyrinthī repperit? ...",
+                    "a": [
+                        "fīlum Ariadnae secūtus exitum repperit"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Exercise 6",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Iūlius: “Nōlō sōlus ambulāre. Comit# mē, Syre et Lēander! Opper# mē ante portam!”",
+                    "a": [
+                        "āminī",
+                        "īminī"
+                    ]
+                },
+                {
+                    "q": "2. Lȳdia: “Nōlī mē dēserere, Mēde! Hoc mihi pollic#!”",
+                    "a": [
+                        "ēre"
+                    ]
+                },
+                {
+                    "q": "3. Mēdus: “Proficīsc# mēcum, Lȳdia! Comit# mē in Graeciam!”",
+                    "a": [
+                        "ere",
+                        "āre"
+                    ]
+                },
+                {
+                    "q": "4. Mēdus: “Nāvem solvite, nautae! Intu# caelum! Proficīsc#!” ",
+                    "a": [
+                        "ēminī",
+                        "iminī"
+                    ]
+                },
+                {
+                    "q": "5. Dāvus: “Sequ# mē in cubiculum tuum, Mārce!”",
+                    "a": [
+                        "ere"
+                    ]
+                },
+                {
+                    "q": "6. Dux: “Laet#, mīlitēs! Hostēs fugiunt. Sequ# eōs, sed brevī hūc revert#!”",
+                    "a": [
+                        "āminī",
+                        "iminī",
+                        "iminī"
+                    ]
+                },
+                {
+                    "q": "7. Lȳdia: “Nōlī deōs Rōmānōs verērī, Mēde! Ūnum sōlum Deum ver#! Eius auxilium opper#!”",
+                    "a": [
+                        "ēre",
+                        "īre"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Exercise 7",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Post # [> necāre] Mīnōtaurī Thēseus nāvem # atque cum Ariadnā profectus est.",
+                    "a": [
+                        "necem",
+                        "solvit"
+                    ]
+                },
+                {
+                    "q": "2. Naxī Thēseus Ariadnam # [= relīquit].",
+                    "a": [
+                        "dēseruit"
+                    ]
+                },
+                {
+                    "q": "3. Prīmō Ariadna amīcum in # quaesīvit.",
+                    "a": [
+                        "lītore"
+                    ]
+                },
+                {
+                    "q": "4. Deinde in altum # ascendit, unde # nāvem Thēseī procul in marī vīdit.",
+                    "a": [
+                        "saxum",
+                        "prōspiciēns"
+                    ]
+                },
+                {
+                    "q": "5. Postquam nāvis ē # eius abiit, Ariadna dē saxō in lītus #.",
+                    "a": [
+                        "cōnspectū",
+                        "dēscendit"
+                    ]
+                },
+                {
+                    "q": "6. # [= illīc] puella misera capillum et vestem scindēbat, sīcut agunt hominēs quī #.",
+                    "a": [
+                        "Ibi",
+                        "maerent"
+                    ]
+                },
+                {
+                    "q": "7. Post mortem Aegeī Thēseus multōs annōs Athēnās #.",
+                    "a": [
+                        "rēxit"
+                    ]
+                },
+                {
+                    "q": "8. Hīc Syra fīnem # facit.",
+                    "a": [
+                        "nārrātiōnis"
+                    ]
+                },
+                {
+                    "q": "9. Syra virum improbum amāvit, neque tamen illīus virī # potest.",
+                    "a": [
+                        "oblīvīscī"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Exercise 8",
+            "info": "Exempla:  \nFābulās nārrāre mē dēlectat = Nārrātiō fābulārum mē dēlectat.\nVir quī pecūniam cupit = vir pecūniae cupidus.\n",
+            "questions": [
+                {
+                    "q": "1. Difficile fuit urb# expugnāre: Expugnātiō urb# difficilis fuit.",
+                    "a": [
+                        "em",
+                        "is"
+                    ]
+                },
+                {
+                    "q": "2. Vocābul# Latīn# dēclīnāre dēbēmus: Dēclīnātiō vocābul# Latīn# facilis nōn est.",
+                    "a": [
+                        "a",
+                        "a",
+                        "ōrum",
+                        "ōrum"
+                    ]
+                },
+                {
+                    "q": "3. Thēseus patri# amābat atque glōri# cupiēbat: ille vir patri# amāns atque glōri# cupidus in Crētam profectus est.",
+                    "a": [
+                        "am",
+                        "am",
+                        "ae",
+                        "ae"
+                    ]
+                },
+                {
+                    "q": "4. Thēseus mort# nōn timēbat. Sine timōre mort# labyrinthum intrāvit.",
+                    "a": [
+                        "em",
+                        "is"
+                    ]
+                },
+                {
+                    "q": "5. Thēseus ob amōrem patri# atque glōri# cupiditātem Mīnōtaur# necāvit.",
+                    "a": [
+                        "ae",
+                        "ae",
+                        "um"
+                    ]
+                },
+                {
+                    "q": "6. Post necem Mīnōtaur# Thēseus in patriam revertit.",
+                    "a": [
+                        "ī"
+                    ]
+                },
+                {
+                    "q": "7. Magister Mārc# nōn laudat: in epistulā eius nūlla laus Mārc# est.",
+                    "a": [
+                        "um",
+                        "ī"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Exercise 9",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Quid Thēseus cīvibus suīs ostendit? ...",
+                    "a": [
+                        "Thēseus iīs gladium suum cruentum ostendit"
+                    ]
+                },
+                {
+                    "q": "2. Num Thēseus sōlus ē Crētā profectus est? ...",
+                    "a": [
+                        "nōn sōlus, sed cum Ariadnā cīvibusque suīs profectus est"
+                    ]
+                },
+                {
+                    "q": "3. Ubi Ariadnam relīquit Thēseus? ...",
+                    "a": [
+                        "Naxī Thēseus eam dormientem relīquit"
+                    ]
+                },
+                {
+                    "q": "4. Ubi amīcum suum Ariadna quaesīvit? ...",
+                    "a": [
+                        "Ariadna eum in lītore quaesīvit"
+                    ]
+                },
+                {
+                    "q": "5. Quid puella ē saxō prōspiciēns vīdit? ...",
+                    "a": [
+                        "nāvem Thēseī procul in marī vīdit"
+                    ]
+                },
+                {
+                    "q": "6. Quid facere solent hominēs quī maerent? ...",
+                    "a": [
+                        "quī maerent capillum et vestem scindere solent"
+                    ]
+                },
+                {
+                    "q": "7. Cūr Syra virīs nōn crēdit? ...",
+                    "a": [
+                        "... quia dēserta est ā virō quī eī multa prōmīserat"
+                    ]
+                },
+                {
+                    "q": "8. Quō Thēseus Nāxō profectus est? ...",
+                    "a": [
+                        "Athēnās in patriam suam profectus est"
+                    ]
+                },
+                {
+                    "q": "9. Unde Aegeus rēx in mare prōspiciēbat? ...",
+                    "a": [
+                        "ab altō saxō Aegeus in mare prōspiciēbat"
+                    ]
+                },
+                {
+                    "q": "10. Cūr Aegeus fīlium suum mortuum esse arbitrābātur? ...",
+                    "a": [
+                        "... quod nāvem fīliī vēla ātra gerentem vīdit"
+                    ]
+                },
+                {
+                    "q": "11. Quid tum fēcit Aegeus? ...",
+                    "a": [
+                        "rēx in mare sē iēcit"
+                    ]
+                },
+                {
+                    "q": "12. Quod mare ab Aegeō rēge appellātum est? ...",
+                    "a": [
+                        "ab Aegeō rēge appellātum est ‘mare Aegaeum’"
+                    ]
+                },
+                {
+                    "q": "13. Ubi situm est mare Aegaeum? ...",
+                    "a": [
+                        "mare Aegaeum situm est inter Graeciam et Asiam"
+                    ]
+                },
+                {
+                    "q": "14. Quis rēx Athēniēnsium factus est post Aegeum? ...",
+                    "a": [
+                        "Thēseus, Aegeī fīlius, rēx Athēniēnsium factus est"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Exercise 10",
+            "info": "Exempla:  \nDominus servum sē comitārī iubet: “Comitāre mē, serve!”\nDominus servōs sē comitārī iubet: “Comitāminī mē, servī!”\n",
+            "questions": [
+                {
+                    "q": "1. 'Comitā|rī' īnfīnītīvus verbī dēpōnentis est. 'Comitā|re' nōn est īnfīnītīvus, sed # verbī dēpōnentis.",
+                    "a": [
+                        "imperātīvus"
+                    ]
+                },
+                {
+                    "q": "2. 'Comitā|re' est # singulāris; 'comitā|minī' imperātīvus # est.",
+                    "a": [
+                        "imperātīvus",
+                        "plūrālis"
+                    ]
+                },
+                {
+                    "q": "3. Īnfīnītīvus: cōnārī; imperātīvus: sing. cōn#, plūr. cōn#.",
+                    "a": [
+                        "āre",
+                        "āminī"
+                    ]
+                },
+                {
+                    "q": "4. Īnfīnītīvus: verērī; imperātīvus: sing. ver#, plūr. ver#.",
+                    "a": [
+                        "ēre",
+                        "ēminī"
+                    ]
+                },
+                {
+                    "q": "5. Īnfīnītīvus: loquī; imperātīvus: sing. loqu#, plūr. loqu#.",
+                    "a": [
+                        "ere",
+                        "iminī"
+                    ]
+                },
+                {
+                    "q": "6. Īnfīnītīvus: partīrī; imperātīvus: sing. part#, plūr. part#.",
+                    "a": [
+                        "īre",
+                        "īminī"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Exercise 11",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. accēdere, ac#isse",
+                    "a": [
+                        "cess"
+                    ]
+                },
+                {
+                    "q": "2. cōnscendere, cōn#isse",
+                    "a": [
+                        "scend"
+                    ]
+                },
+                {
+                    "q": "3. cōnspicere, cōn#isse, cōn#um esse",
+                    "a": [
+                        "spex",
+                        "spect"
+                    ]
+                },
+                {
+                    "q": "4. cōnstituere, cōn#isse, cōn#um esse",
+                    "a": [
+                        "stitu",
+                        "stitūt"
+                    ]
+                },
+                {
+                    "q": "5. dēserere, dē#isse, dē#um esse",
+                    "a": [
+                        "seru",
+                        "sert"
+                    ]
+                },
+                {
+                    "q": "6. gerere, #isse, #um esse",
+                    "a": [
+                        "gess",
+                        "gest"
+                    ]
+                },
+                {
+                    "q": "7. iacere, #isse, #um esse",
+                    "a": [
+                        "iēc",
+                        "iact"
+                    ]
+                },
+                {
+                    "q": "8. incipere, #isse, #um esse",
+                    "a": [
+                        "coep",
+                        "coept"
+                    ]
+                },
+                {
+                    "q": "9. interficere, inter#isse, inter#um esse",
+                    "a": [
+                        "fēc",
+                        "fect"
+                    ]
+                },
+                {
+                    "q": "10. iubēre, #isse, #um esse",
+                    "a": [
+                        "iuss",
+                        "iuss"
+                    ]
+                },
+                {
+                    "q": "11. oblīvīscī, ob#um esse",
+                    "a": [
+                        "līt"
+                    ]
+                },
+                {
+                    "q": "12. occīdere, oc#isse, oc#um esse",
+                    "a": [
+                        "cīd",
+                        "cīs"
+                    ]
+                },
+                {
+                    "q": "13. petere, #isse, #um esse",
+                    "a": [
+                        "petīv|peti",
+                        "petīt"
+                    ]
+                },
+                {
+                    "q": "14. proficīscī, pro#um esse",
+                    "a": [
+                        "fect"
+                    ]
+                },
+                {
+                    "q": "15. quaerere, #isse, #um esse",
+                    "a": [
+                        "quaesīv|quaesi",
+                        "quaesīt"
+                    ]
+                },
+                {
+                    "q": "16. reddere, red#isse, red#um esse",
+                    "a": [
+                        "did",
+                        "dit"
+                    ]
+                },
+                {
+                    "q": "17. regere, #isse, #um esse",
+                    "a": [
+                        "rēx",
+                        "rēct"
+                    ]
+                },
+                {
+                    "q": "18. relinquere, re#isse, re#um esse",
+                    "a": [
+                        "līqu",
+                        "lict"
+                    ]
+                },
+                {
+                    "q": "19. reperīre, #isse, #um esse",
+                    "a": [
+                        "repper",
+                        "repert"
+                    ]
+                },
+                {
+                    "q": "20. sequī, #um esse",
+                    "a": [
+                        "secūt"
+                    ]
+                },
+                {
+                    "q": "21. trahere, #isse, #um esse",
+                    "a": [
+                        "trāx",
+                        "tract"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "PENSVM A",
+            "info": "",
+            "questions": [
+                {
+                    "a": [
+                        "āre",
+                        "ere",
+                        "ēre",
+                        "ere",
+                        "āre"
+                    ],
+                    "q": "Mēdus (ad Lȳdiam): \"In Graeciam ībō. Comit# mē! Proficīsc# mēcum! Hoc mihi pollic#! Oblīvīsc# Rōmae! Ōscul# mē!\""
+                },
+                {
+                    "a": [
+                        "iminī",
+                        "ēminī",
+                        "āminī"
+                    ],
+                    "q": "Mēdus (ad nautās): \"Iam proficīsc#, nautae! Ventus secundus est: intu# caelum! Laet#!\""
+                },
+                {
+                    "a": [
+                        "trāx",
+                        "tract"
+                    ],
+                    "q": "Verba: trahere, #isse, #um;"
+                },
+                {
+                    "a": [
+                        "petīv",
+                        "petīt"
+                    ],
+                    "q": "petere, #isse, #um;"
+                },
+                {
+                    "a": [
+                        "quaesīv",
+                        "quaesīt"
+                    ],
+                    "q": "quaerere, #isse, #um;"
+                },
+                {
+                    "a": [
+                        "occīd",
+                        "occīs"
+                    ],
+                    "q": "occīdere, #isse, #um;"
+                },
+                {
+                    "a": [
+                        "līqu",
+                        "lict"
+                    ],
+                    "q": "relinquere, re#isse, re#um;"
+                },
+                {
+                    "a": [
+                        "fēc",
+                        "fect"
+                    ],
+                    "q": "interficere, inter#isse, inter#um;"
+                },
+                {
+                    "a": [
+                        "stitu",
+                        "stitūt"
+                    ],
+                    "q": "cōnstituere, cōn#isse, cōn#um;"
+                },
+                {
+                    "a": [
+                        "dēseru",
+                        "dēsert"
+                    ],
+                    "q": "dēserere, #isse, #um; "
+                },
+                {
+                    "a": [
+                        "spex",
+                        "spect"
+                    ],
+                    "q": "cōnspicere, cōn#isse, cōn#um;"
+                },
+                {
+                    "a": [
+                        "coep",
+                        "coept"
+                    ],
+                    "q": "incipere, #isse, #um;"
+                },
+                {
+                    "a": [
+                        "did",
+                        "dit"
+                    ],
+                    "q": "reddere, red#isse, red#um;"
+                },
+                {
+                    "a": [
+                        "repper",
+                        "repert"
+                    ],
+                    "q": "reperīre, #isse, #um;"
+                },
+                {
+                    "a": [
+                        "iuss",
+                        "iuss"
+                    ],
+                    "q": "iubēre, #isse, #um;"
+                },
+                {
+                    "a": [
+                        "gess",
+                        "gest"
+                    ],
+                    "q": "gerere, #isse, #um;"
+                },
+                {
+                    "a": [
+                        "iēc",
+                        "iact"
+                    ],
+                    "q": "iacere, #isse, #um;"
+                },
+                {
+                    "a": [
+                        "rēx",
+                        "rēct"
+                    ],
+                    "q": "regere, #isse, #um;"
+                },
+                {
+                    "a": [
+                        "scend"
+                    ],
+                    "q": "cōnscendere, cōn#isse;"
+                },
+                {
+                    "a": [
+                        "cess"
+                    ],
+                    "q": "accēdere, ac#isse;"
+                },
+                {
+                    "a": [
+                        "fect"
+                    ],
+                    "q": "proficīscī, pro#um esse;"
+                },
+                {
+                    "a": [
+                        "secūt"
+                    ],
+                    "q": "sequī, #um esse;"
+                },
+                {
+                    "a": [
+                        "līt"
+                    ],
+                    "q": "oblīvīscī, ob#um esse."
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "PENSVM B",
+            "info": "",
+            "questions": [
+                {
+                    "a": [
+                        "fābulam",
+                        "agnō",
+                        "interfēcit",
+                        "currum",
+                        "moenia",
+                        "trāxit"
+                    ],
+                    "q": "Quīntus # dē lupō et # audīre nōn vult nec fābulam dē Achille, quī Hectorem # et corpus eius mortuum post # suum circum # [= mūrōs] Trōiae #."
+                },
+                {
+                    "a": [
+                        "aedificium",
+                        "patet"
+                    ],
+                    "q": "Labyrinthus est magnum # unde nēmō exīre potest, etsī iānua #."
+                },
+                {
+                    "a": [
+                        "taurum",
+                        "necāre",
+                        "cōnstituit"
+                    ],
+                    "q": "Thēseus, quī patrem Mīnōtaurī, # album, iam necāverat, Mīnōtaurum ipsum quoque # [= interficere] #."
+                },
+                {
+                    "a": [
+                        "parātus",
+                        "rēgis",
+                        "fīlum"
+                    ],
+                    "q": "Antequam Thēseus, ad pugnam #, labyrinthum intrāvit, Ariadna, fīlia #, eī # longum dedit."
+                },
+                {
+                    "a": [
+                        "auxilium",
+                        "exitum"
+                    ],
+                    "q": "Ita Ariadna Thēseō # tulit, nam ille fīlum sequēns # labyrinthī repperit."
+                },
+                {
+                    "a": [
+                        "necem",
+                        "ibi",
+                        "dēseruit"
+                    ],
+                    "q": "Post # Mīnōtaurī Thēseus cum Ariadnā Naxum nāvigāvit atque # [= illīc] eam # [= relīquit]."
+                },
+                {
+                    "a": [
+                        "saxō",
+                        "brevī",
+                        "cōnspectū"
+                    ],
+                    "q": "Ariadna ab altō # prōspiciēbat, sed # [= mox] nāvis Thēseī ē # eius abiit."
+                },
+                {
+                    "a": [
+                        "lītus",
+                        "hūc",
+                        "illūc",
+                        "maerent"
+                    ],
+                    "q": "Puella misera in # dēscendit, ubi # et # currēns capillum scindēbat, ut faciunt eae quae #."
+                },
+                {
+                    "a": [
+                        "mortem",
+                        "rēxit"
+                    ],
+                    "q": "Thēseus post # patris multōs annōs Athēnās #."
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "PENSVM C",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Quid fēcit Achillēs? ",
+                    "a": []
+                },
+                {
+                    "q": "2. Quid fēcit Rōmulus? ",
+                    "a": []
+                },
+                {
+                    "q": "3. Quālem fābulam Quīntus audīre cupit? ",
+                    "a": []
+                },
+                {
+                    "q": "4. Ubi habitābat Mīnōtaurus? ",
+                    "a": []
+                },
+                {
+                    "q": "5. Quid est labyrinthus? ",
+                    "a": []
+                },
+                {
+                    "q": "6. Quid Mīnōtaurus edēbat? ",
+                    "a": []
+                },
+                {
+                    "q": "7. Cūr tot Athēniēnsēs ad eum mittēbantur? ",
+                    "a": []
+                },
+                {
+                    "q": "8. Quis Athēniēnsēs ā Mīnōtaurō servāvit? ",
+                    "a": []
+                },
+                {
+                    "q": "9. Quōmodo Thēseus exitum labyrinthī repperit? ",
+                    "a": []
+                },
+                {
+                    "q": "10. Sōlusne Thēseus ē Crētā profectus est? ",
+                    "a": []
+                },
+                {
+                    "q": "11. Ubi Thēseus Ariadnam relīquit? ",
+                    "a": []
+                },
+                {
+                    "q": "12. Ā quō mare Aegaeum nōmen habet? ",
+                    "a": []
+                }
+            ]
+        }
+    ]
+}

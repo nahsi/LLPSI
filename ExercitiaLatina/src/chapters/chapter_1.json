@@ -1,0 +1,1148 @@
+{
+    "id": 0,
+    "name": "CAPITVLVM I",
+    "exercises": [
+        {
+            "id": 0,
+            "name": "Exercise 1",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Italia in Eurōpā #.",
+                    "a": [
+                        "est"
+                    ]
+                },
+                {
+                    "q": "2. Gallia in Eurōpā #.",
+                    "a": [
+                        "est"
+                    ]
+                },
+                {
+                    "q": "3. Italia et Gallia in Eurōpā #.",
+                    "a": [
+                        "sunt"
+                    ]
+                },
+                {
+                    "q": "4. Arabia in Eurōpā nōn #.",
+                    "a": [
+                        "est"
+                    ]
+                },
+                {
+                    "q": "5. Arabia in Asiā #.",
+                    "a": [
+                        "est"
+                    ]
+                },
+                {
+                    "q": "6. Syria quoque in Asiā #.",
+                    "a": [
+                        "est"
+                    ]
+                },
+                {
+                    "q": "7. Syria et Arabia in Asiā #.",
+                    "a": [
+                        "sunt"
+                    ]
+                },
+                {
+                    "q": "8. Hispānia in Asiā nōn #.",
+                    "a": [
+                        "est"
+                    ]
+                },
+                {
+                    "q": "9. Hispānia et Gallia et Italia in Eurōpā #.",
+                    "a": [
+                        "sunt"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Exercise 2",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Italia # Eurōpā est; Graecia # in Eurōpā est.",
+                    "a": [
+                        "in",
+                        "quoque"
+                    ]
+                },
+                {
+                    "q": "2. Italia # Graecia in Eurōpā sunt.",
+                    "a": [
+                        "et"
+                    ]
+                },
+                {
+                    "q": "3. Est# Arabia in Eurōpā? Arabia in Eurōpā # est.",
+                    "a": [
+                        "ne",
+                        "nōn"
+                    ]
+                },
+                {
+                    "q": "4. # est Arabia? In Asiā est Arabia.",
+                    "a": [
+                        "Ubi"
+                    ]
+                },
+                {
+                    "q": "5. Arabia nōn est in Eurōpā, # in Asiā.",
+                    "a": [
+                        "sed"
+                    ]
+                },
+                {
+                    "q": "6. Germānia # in Asiā, # in Eurōpā est.",
+                    "a": [
+                        "nōn",
+                        "sed"
+                    ]
+                },
+                {
+                    "q": "7. Rhēnus est in Germāniā. Rhēnus # est.",
+                    "a": [
+                        "fluvius"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Exercise 3",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Ubi est Rōma? ...",
+                    "a": [
+                        "Rōma in Italiā est"
+                    ]
+                },
+                {
+                    "q": "2. Ubi est Italia? ...",
+                    "a": [
+                        "Italia in Eurōpā est"
+                    ]
+                },
+                {
+                    "q": "3. Estne Graecia in Eurōpā? ...",
+                    "a": [
+                        "Graecia in Eurōpā est"
+                    ]
+                },
+                {
+                    "q": "4. Ubi est Aegyptus? ...",
+                    "a": [
+                        "Aegyptus in Āfricā est"
+                    ]
+                },
+                {
+                    "q": "5. Estne Hispānia in Eurōpā? ...",
+                    "a": [
+                        "Hispānia in Eurōpā est"
+                    ]
+                },
+                {
+                    "q": "6. Estne Syria in Eurōpā? ...",
+                    "a": [
+                        "Syria in Eurōpā nōn est"
+                    ]
+                },
+                {
+                    "q": "7. Ubi est Syria? ...",
+                    "a": [
+                        "Syria in Asiā est"
+                    ]
+                },
+                {
+                    "q": "8. Estne Gallia in Asiā? ...",
+                    "a": [
+                        "Gallia in Asiā nōn est"
+                    ]
+                },
+                {
+                    "q": "9. Ubi est Gallia? ...",
+                    "a": [
+                        "Gallia est in Eurōpā"
+                    ]
+                },
+                {
+                    "q": "10. Estne Germānia in Eurōpā? ...",
+                    "a": [
+                        "Germānia in Eurōpā est"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Exercise 4",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Corsica īnsul# est. Corsica et Sardinia īnsul# sunt.",
+                    "a": [
+                        "a",
+                        "ae"
+                    ]
+                },
+                {
+                    "q": "2. Rhēnus fluvi# est. Rhēnus et Dānuvius fluvi# sunt.",
+                    "a": [
+                        "us",
+                        "ī"
+                    ]
+                },
+                {
+                    "q": "3. Brundisium oppid# est. Brundisium et Tūsculum oppid# sunt.",
+                    "a": [
+                        "um",
+                        "a"
+                    ]
+                },
+                {
+                    "q": "4. Sicilia īnsula magn# est.",
+                    "a": [
+                        "a"
+                    ]
+                },
+                {
+                    "q": "5. Nīlus est fluvius magn#.",
+                    "a": [
+                        "us"
+                    ]
+                },
+                {
+                    "q": "6. Brundisium oppidum magn# est.",
+                    "a": [
+                        "um"
+                    ]
+                },
+                {
+                    "q": "7. Tūsculum nōn oppid# magn#, sed oppid# parv# est.",
+                    "a": [
+                        "um",
+                        "um",
+                        "um",
+                        "um"
+                    ]
+                },
+                {
+                    "q": "8. Melita nōn est īnsul# magn#, sed īnsul# parv#.",
+                    "a": [
+                        "a",
+                        "a",
+                        "a",
+                        "a"
+                    ]
+                },
+                {
+                    "q": "9. Tiberis nōn fluvi# magn#, sed fluvi# parv# est.",
+                    "a": [
+                        "us",
+                        "us",
+                        "us",
+                        "us"
+                    ]
+                },
+                {
+                    "q": "10. Rhēnus et Nīlus fluviī magn# sunt.",
+                    "a": [
+                        "ī"
+                    ]
+                },
+                {
+                    "q": "11. Sicilia et Sardinia īnsulae magn# sunt.",
+                    "a": [
+                        "ae"
+                    ]
+                },
+                {
+                    "q": "12. Brundisium et Sparta oppida magn# sunt.",
+                    "a": [
+                        "a"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Exercise 5",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Sicilia īnsula est. Sicilia et Sardinia # sunt.",
+                    "a": [
+                        "īnsulae"
+                    ]
+                },
+                {
+                    "q": "2. Rhēnus fluvius est. Rhēnus et Dānuvius # #.",
+                    "a": [
+                        "fluviī",
+                        "sunt"
+                    ]
+                },
+                {
+                    "q": "3. Tūsculum oppidum est. Tūsculum et Brundisium # #.",
+                    "a": [
+                        "oppida",
+                        "sunt"
+                    ]
+                },
+                {
+                    "q": "4. Corsica et Sardinia īnsulae sunt. Sicilia quoque # est.",
+                    "a": [
+                        "īnsula"
+                    ]
+                },
+                {
+                    "q": "5. Nīlus et Tiberis fluviī sunt. Dānuvius quoque # #.",
+                    "a": [
+                        "fluvius",
+                        "est"
+                    ]
+                },
+                {
+                    "q": "6. Sparta et Delphī oppida sunt. Brundisium quoque # #.",
+                    "a": [
+                        "oppidum",
+                        "est"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Exercise 6",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Tūsculum nōn oppidum Graecum, sed oppidum # est.",
+                    "a": [
+                        "Rōmānum"
+                    ]
+                },
+                {
+                    "q": "2. Sparta est oppidum #.",
+                    "a": [
+                        "Graecum"
+                    ]
+                },
+                {
+                    "q": "3. # Nīlus oppidum est? Nīlus nōn est oppidum.",
+                    "a": [
+                        "Num"
+                    ]
+                },
+                {
+                    "q": "4. # est Nīlus? Nīlus fluvius est.",
+                    "a": [
+                        "Quid"
+                    ]
+                },
+                {
+                    "q": "5. In Arabiā nōn multī, sed # fluviī sunt.",
+                    "a": [
+                        "paucī"
+                    ]
+                },
+                {
+                    "q": "6. Quid est Gallia? Gallia est # Rōmāna.",
+                    "a": [
+                        "prōvincia"
+                    ]
+                },
+                {
+                    "q": "7. In imperiō Rōmānō nōn paucae, sed # prōvinciae sunt.",
+                    "a": [
+                        "multae"
+                    ]
+                },
+                {
+                    "q": "8. Magnum est # Rōmānum.",
+                    "a": [
+                        "imperium"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Exercise 7",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Estne Aegyptus in Āfricā? ...",
+                    "a": [
+                        "Aegyptus in Āfricā est"
+                    ]
+                },
+                {
+                    "q": "2. Estne Hispānia in Āfricā? ...",
+                    "a": [
+                        "Hispānia in Āfricā nōn est"
+                    ]
+                },
+                {
+                    "q": "3. Ubi est Hispānia? ...",
+                    "a": [
+                        "Hispānia in Eurōpā est"
+                    ]
+                },
+                {
+                    "q": "4. Num Arabia in Eurōpā est? ...",
+                    "a": [
+                        "Arabia nōn est in Eurōpā"
+                    ]
+                },
+                {
+                    "q": "5. Ubi est Arabia? ...",
+                    "a": [
+                        "Arabia in Asiā est"
+                    ]
+                },
+                {
+                    "q": "6. Ubi est Sparta? ...",
+                    "a": [
+                        "Sparta est in Graeciā"
+                    ]
+                },
+                {
+                    "q": "7. Num Sparta īnsula est? ...",
+                    "a": [
+                        "Sparta īnsula nōn est"
+                    ]
+                },
+                {
+                    "q": "8. Quid est Sparta? ...",
+                    "a": [
+                        "Sparta oppidum est"
+                    ]
+                },
+                {
+                    "q": "9. Num Euboea oppidum est? ...",
+                    "a": [
+                        "Euboea nōn est oppidum"
+                    ]
+                },
+                {
+                    "q": "10. Quid est Euboea? ...",
+                    "a": [
+                        "Euboea īnsula est"
+                    ]
+                },
+                {
+                    "q": "11. Quid est Tūsculum? ...",
+                    "a": [
+                        "Tūsculum oppidum est"
+                    ]
+                },
+                {
+                    "q": "12. Num Tūsculum oppidum Graecum est? ...",
+                    "a": [
+                        "Tūsculum nōn est oppidum Graecum"
+                    ]
+                },
+                {
+                    "q": "13. Num Nīlus fluvius parvus est? ...",
+                    "a": [
+                        "Nīlus fluvius parvus nōn est"
+                    ]
+                },
+                {
+                    "q": "14. Estne Crēta īnsula Graeca? ...",
+                    "a": [
+                        "Crēta īnsula Graeca est"
+                    ]
+                },
+                {
+                    "q": "15. Suntne Rhodus et Naxus īnsulae Graecae? ...",
+                    "a": [
+                        "Rhodus et Naxus īnsulae Graecae sunt"
+                    ]
+                },
+                {
+                    "q": "16. Suntne multae īnsulae in Graeciā? ...",
+                    "a": [
+                        "in Graeciā multae īnsulae sunt"
+                    ]
+                },
+                {
+                    "q": "17. Suntne multī fluviī in Arabiā? ...",
+                    "a": [
+                        "nōn multī fluviī sunt in Arabiā"
+                    ]
+                },
+                {
+                    "q": "18. Quid est Tiberis? ...",
+                    "a": [
+                        "Tiberis fluvius est"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Exercise 8",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. III # Rōmānus est. I et II # # sunt.",
+                    "a": [
+                        "numerus",
+                        "numerī",
+                        "Rōmānī"
+                    ]
+                },
+                {
+                    "q": "2. 'Nōn' # Latīnum est. 'Nōn' et 'sed' # # sunt.",
+                    "a": [
+                        "vocābulum",
+                        "vocābula",
+                        "Latīna"
+                    ]
+                },
+                {
+                    "q": "3. 'Gamma' # Graeca est. 'Gamma' et 'delta' # # sunt.",
+                    "a": [
+                        "littera",
+                        "litterae",
+                        "Graecae"
+                    ]
+                },
+                {
+                    "q": "4. A et B litterae # sunt. C quoque # # est.",
+                    "a": [
+                        "Latīnae",
+                        "littera",
+                        "Latīna"
+                    ]
+                },
+                {
+                    "q": "5. 'In' et 'num' # Latīna sunt. 'Et' quoque # # est.",
+                    "a": [
+                        "vocābula",
+                        "vocābulum",
+                        "Latīnum"
+                    ]
+                },
+                {
+                    "q": "6. # [I] et # [II] numerī sunt. # [III] quoque # est.",
+                    "a": [
+                        "Ūnus|Ūnum",
+                        "duo",
+                        "Trēs",
+                        "numerus"
+                    ]
+                },
+                {
+                    "q": "7. In vocābulō 'Latīna' sunt # [VI] litterae et # [III] #: syllaba # La-, # -tī-, # -na.",
+                    "a": [
+                        "sex",
+                        "trēs",
+                        "syllabae",
+                        "prīma",
+                        "secunda",
+                        "tertia"
+                    ]
+                },
+                {
+                    "q": "8. In capitulō prīmō sunt # [M] vocābula.",
+                    "a": [
+                        "mīlle"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Exercise 9",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Quid est B? ...",
+                    "a": [
+                        "B littera est"
+                    ]
+                },
+                {
+                    "q": "2. Quid est II? ...",
+                    "a": [
+                        "II numerus est"
+                    ]
+                },
+                {
+                    "q": "3. Quid est 'fluvius'? ...",
+                    "a": [
+                        "'Fluvius' vocābulum est"
+                    ]
+                },
+                {
+                    "q": "4. Num C littera Graeca est? ...",
+                    "a": [
+                        "C nōn est littera Graeca, sed littera Latīna"
+                    ]
+                },
+                {
+                    "q": "5. Num 'fluvius' vocābulum Graecum est? ...",
+                    "a": [
+                        "'Fluvius' nōn est vocābulum Graecum, sed Latīnum"
+                    ]
+                },
+                {
+                    "q": "6. Estne D littera Latīna? ...",
+                    "a": [
+                        "D est littera Latīna"
+                    ]
+                },
+                {
+                    "q": "7. Quid est 'delta'? ...",
+                    "a": [
+                        "'Delta' littera Graeca est."
+                    ]
+                },
+                {
+                    "q": "8. Suntne A et B litterae Latīnae? ...",
+                    "a": [
+                        "A et B litterae Latīnae sunt"
+                    ]
+                },
+                {
+                    "q": "9. Num 'gamma' et 'delta' litterae Latīnae sunt? ...",
+                    "a": [
+                        "'Gamma' et 'delta' nōn litterae Latīnae, sed litterae Graecae sunt"
+                    ]
+                },
+                {
+                    "q": "10. Num C littera prīma est? ...",
+                    "a": [
+                        "C nōn littera prīma, sed littera tertia est."
+                    ]
+                },
+                {
+                    "q": "11. Num A littera secunda est? ...",
+                    "a": [
+                        "A nōn littera secunda, sed littera prīma est"
+                    ]
+                },
+                {
+                    "q": "12. Estne B littera secunda? ...",
+                    "a": [
+                        "B littera secunda est"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Exercise 10",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Itali# in Eurōpā est.",
+                    "a": [
+                        "a"
+                    ]
+                },
+                {
+                    "q": "2. Rōma in Itali# est.",
+                    "a": [
+                        "ā"
+                    ]
+                },
+                {
+                    "q": "3. Itali# et Graeci# in Eurōp# sunt.",
+                    "a": [
+                        "a",
+                        "a",
+                        "ā"
+                    ]
+                },
+                {
+                    "q": "4. Rōma nōn in Graeci#, sed in Itali# est.",
+                    "a": [
+                        "ā",
+                        "ā"
+                    ]
+                },
+                {
+                    "q": "5. Imperi# Rōmān# magnum est.",
+                    "a": [
+                        "um",
+                        "um"
+                    ]
+                },
+                {
+                    "q": "6. In imperi# Rōmān# multae prōvinciae sunt.",
+                    "a": [
+                        "ō",
+                        "ō"
+                    ]
+                },
+                {
+                    "q": "7. Gallia est prōvinci# Rōmāna.",
+                    "a": [
+                        "a"
+                    ]
+                },
+                {
+                    "q": "8. In prōvinci# Galliā sunt multī fluviī.",
+                    "a": [
+                        "ā"
+                    ]
+                },
+                {
+                    "q": "9. 'Ubi' est vocābul# Latīnum.",
+                    "a": [
+                        "um"
+                    ]
+                },
+                {
+                    "q": "10. In vocābul# 'ubi' sunt trēs litterae.",
+                    "a": [
+                        "ō"
+                    ]
+                },
+                {
+                    "q": "11. Capitul# prīmum: IMPERIVM ROMANVM.",
+                    "a": [
+                        "um"
+                    ]
+                },
+                {
+                    "q": "12. In capitul# prīm# multa vocābula sunt.",
+                    "a": [
+                        "ō",
+                        "ō"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Exercise 11",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. 'Fluvi|us' singulāris est. 'Fluvi|ī' # est.",
+                    "a": [
+                        "plūrālis"
+                    ]
+                },
+                {
+                    "q": "2. 'Īnsul|ae' plūrālis est. 'Īnsul|a' # est.",
+                    "a": [
+                        "singulāris"
+                    ]
+                },
+                {
+                    "q": "3. 'Oppid|um' # est. 'Oppid|a' # est.",
+                    "a": [
+                        "singulāris",
+                        "plūrālis"
+                    ]
+                },
+                {
+                    "q": "4. Singulāris: fluvius; plūrālis: #.",
+                    "a": [
+                        "fluviī"
+                    ]
+                },
+                {
+                    "q": "5. Plūrālis: īnsulae; singulāris: #.",
+                    "a": [
+                        "īnsula"
+                    ]
+                },
+                {
+                    "q": "6. Singulāris: oppidum; plūrālis: #.",
+                    "a": [
+                        "oppida"
+                    ]
+                },
+                {
+                    "q": "7. Plūrālis: numerī; singulāris: #.",
+                    "a": [
+                        "numerus"
+                    ]
+                },
+                {
+                    "q": "8. Singulāris: littera; plūrālis: #.",
+                    "a": [
+                        "litterae"
+                    ]
+                },
+                {
+                    "q": "9. Plūrālis: vocābula; singulāris: #.",
+                    "a": [
+                        "vocābulum"
+                    ]
+                },
+                {
+                    "q": "10. Singulāris: īnsula magna; plūrālis: # #.",
+                    "a": [
+                        "īnsulae",
+                        "magnae"
+                    ]
+                },
+                {
+                    "q": "11. Plūrālis: oppida magna; singulāris: # #.",
+                    "a": [
+                        "oppidum",
+                        "magnum"
+                    ]
+                },
+                {
+                    "q": "12. Singulāris: numerus Rōmānus; plūrālis: # #.",
+                    "a": [
+                        "numerī",
+                        "Rōmānī"
+                    ]
+                },
+                {
+                    "q": "13. Plūrālis: litterae Graecae; singulāris: # #.",
+                    "a": [
+                        "littera",
+                        "Graeca"
+                    ]
+                },
+                {
+                    "q": "14. Singulāris: vocābulum Latīnum; plūrālis: # #.",
+                    "a": [
+                        "vocābula",
+                        "Latīna"
+                    ]
+                },
+                {
+                    "q": "15. Plūrālis: exempla; singulāris: #.",
+                    "a": [
+                        "exemplum"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "PENSVM A",
+            "info": "",
+            "questions": [
+                {
+                    "a": [
+                        "us",
+                        "ī",
+                        "sunt"
+                    ],
+                    "q": "Nīlus fluvi# est. Nīlus et Rhēnus fluvi# #."
+                },
+                {
+                    "a": [
+                        "a",
+                        "est",
+                        "ae"
+                    ],
+                    "q": "Crēta īnsul# #. Crēta et Rhodus īnsul# sunt."
+                },
+                {
+                    "a": [
+                        "um",
+                        "a",
+                        "sunt"
+                    ],
+                    "q": "Brundisium oppid# est. Brundisium et Tūsculum oppid# #."
+                },
+                {
+                    "a": [
+                        "us",
+                        "us",
+                        "us",
+                        "us"
+                    ],
+                    "q": "Rhēnus fluvi# magn# est. Tiberis est fluvi# parv#."
+                },
+                {
+                    "a": [
+                        "ī",
+                        "ī",
+                        "ī",
+                        "ī"
+                    ],
+                    "q": "Rhēnus et Dānuvius nōn fluvi# parv#, sed fluvi# magn# sunt."
+                },
+                {
+                    "a": [
+                        "a",
+                        "a",
+                        "a",
+                        "a"
+                    ],
+                    "q": "Sardinia īnsul# magn# est. Melita īnsul# parv# est."
+                },
+                {
+                    "a": [
+                        "ae",
+                        "ae",
+                        "ae",
+                        "ae"
+                    ],
+                    "q": "Sardinia et Sicilia nōn īnsul# parv#, sed īnsul# magn# sunt."
+                },
+                {
+                    "a": [
+                        "um",
+                        "um",
+                        "um",
+                        "um"
+                    ],
+                    "q": "Brundisium nōn oppid# parv#, sed oppid# magn# est."
+                },
+                {
+                    "a": [
+                        "a",
+                        "a",
+                        "a",
+                        "a"
+                    ],
+                    "q": "Tūsculum et Delphī nōn oppid# magn#, sed oppid# parv# sunt."
+                },
+                {
+                    "a": [
+                        "a",
+                        "a"
+                    ],
+                    "q": "Crēta īnsul# Graec# est."
+                },
+                {
+                    "a": [
+                        "ae",
+                        "ae"
+                    ],
+                    "q": "Lesbos et Chios et Naxus sunt īnsul# Graec#."
+                },
+                {
+                    "a": [
+                        "ae",
+                        "ae"
+                    ],
+                    "q": "In Graeciā mult# īnsul# sunt."
+                },
+                {
+                    "a": [
+                        "ī",
+                        "ī"
+                    ],
+                    "q": "In Galliā sunt mult# fluvi#."
+                },
+                {
+                    "a": [
+                        "a",
+                        "a"
+                    ],
+                    "q": "In Italiā mult# oppid# sunt."
+                },
+                {
+                    "a": [
+                        "ī",
+                        "ī",
+                        "a",
+                        "a"
+                    ],
+                    "q": "In Arabiā sunt pauc# fluvi# et pauc# oppid#."
+                },
+                {
+                    "a": [
+                        "ae",
+                        "ae",
+                        "a",
+                        "a"
+                    ],
+                    "q": "A et B litter# Latīn# sunt. C quoque litter# Latīn# est."
+                },
+                {
+                    "a": [
+                        "a",
+                        "a",
+                        "um",
+                        "um"
+                    ],
+                    "q": "'Multī' et 'paucī' vocābul# Latīn# sunt. 'Ubi' quoque vocābul# Latīn# est."
+                },
+                {
+                    "a": [
+                        "ī",
+                        "ī",
+                        "us",
+                        "us"
+                    ],
+                    "q": "I et II numer# Rōmān# sunt. III quoque numer# Rōmān# est."
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "PENSVM B",
+            "info": "",
+            "questions": [
+                {
+                    "a": [
+                        "īnsula",
+                        "nōn"
+                    ],
+                    "q": "Sicilia # est. Italia īnsula # est."
+                },
+                {
+                    "a": [
+                        "fluvius",
+                        "oppidum"
+                    ],
+                    "q": "Rhēnus # est. Brundisium # est."
+                },
+                {
+                    "a": [
+                        "īnsulae",
+                        "parva"
+                    ],
+                    "q": "Sicilia et Sardinia # magnae sunt. Melita īnsula # est."
+                },
+                {
+                    "a": [
+                        "īnsula",
+                        "īnsula",
+                        "magna"
+                    ],
+                    "q": "Britannia nōn # parva, sed # # est."
+                },
+                {
+                    "a": [
+                        "oppidum",
+                        "parvum",
+                        "oppidum"
+                    ],
+                    "q": "Brundisium nōn # #, sed # magnum est."
+                },
+                {
+                    "a": [
+                        "ne",
+                        "nōn",
+                        "sed"
+                    ],
+                    "q": "Est# Brundisium in Graeciā? Brundisium # est in Graeciā, # in Italiā."
+                },
+                {
+                    "a": [
+                        "Ubi",
+                        "Graecum",
+                        "quoque"
+                    ],
+                    "q": "# est Sparta? Sparta est in Graeciā. Sparta oppidum # est. Delphī # oppidum Graecum est."
+                },
+                {
+                    "a": [
+                        "īnsulae",
+                        "multae"
+                    ],
+                    "q": "Euboea, Naxus, Lesbos, Chios # Graecae sunt. In Graeciā sunt # īnsulae."
+                },
+                {
+                    "a": [
+                        "numerus",
+                        "Quid"
+                    ],
+                    "q": "Quid est III? III # est. # est A? A littera est."
+                },
+                {
+                    "a": [
+                        "litterae"
+                    ],
+                    "q": "A, B, C # Latīnae sunt."
+                },
+                {
+                    "a": [
+                        "Num",
+                        "nōn",
+                        "Latīna",
+                        "Graeca"
+                    ],
+                    "q": "# µ littera Latīna est? µ # littera #, sed littera # est."
+                },
+                {
+                    "a": [
+                        "vocābulum"
+                    ],
+                    "q": "'Īnsula' # Latīnum est."
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "PENSVM C",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Ubi est Rōma? ",
+                    "a": []
+                },
+                {
+                    "q": "2. Estne Sparta in Italiā? ",
+                    "a": []
+                },
+                {
+                    "q": "3. Ubi est Italia? ",
+                    "a": []
+                },
+                {
+                    "q": "4. Ubi sunt Syria et Arabia? ",
+                    "a": []
+                },
+                {
+                    "q": "5. Estne Aegyptus in Asiā? ",
+                    "a": []
+                },
+                {
+                    "q": "6. Ubi sunt Sparta et Delphī? ",
+                    "a": []
+                },
+                {
+                    "q": "7. Ubi est Brundisium? ",
+                    "a": []
+                },
+                {
+                    "q": "8. Quid est Brundisium? ",
+                    "a": []
+                },
+                {
+                    "q": "9. Num Crēta oppidum est? ",
+                    "a": []
+                },
+                {
+                    "q": "10. Estne Britannia īnsula parva? ",
+                    "a": []
+                },
+                {
+                    "q": "11. Quid est Tiberis? ",
+                    "a": []
+                },
+                {
+                    "q": "12. Quid est D? ",
+                    "a": []
+                },
+                {
+                    "q": "13. Num µ littera Latīna est? ",
+                    "a": []
+                },
+                {
+                    "q": "14. Estne II magnus numerus? ",
+                    "a": []
+                }
+            ]
+        }
+    ]
+}

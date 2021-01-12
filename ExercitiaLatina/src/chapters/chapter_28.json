@@ -1,0 +1,1307 @@
+{
+    "id": 27,
+    "name": "CAPITVLVM XXVIII",
+    "exercises": [
+        {
+            "id": 0,
+            "name": "Exercise 1",
+            "info": "Exemplum: \nvīgintī annīs post = vīcēsimō annō post.\n 20. vīcēsimus -a -um\t80. octōgēsimus\t\t500. quīngentēsimus\n 30. trīcēsimus\t\t90. nōnāgēsimus\t\t600. sescentēsimus\n 40. quadrāgēsimus\t100. centēsimus\t\t700. septingentēsimus\n 50. quīnquāgēsimus\t200. ducentēsimus\t\t800. octingentēsimus\n 60. sexāgēsimus\t300. trecentēsimus\t\t900. nōngentēsimus\n 70. septuāgēsimus\t400. quadringentēsimus\t1000. mīllēsimus\n",
+            "questions": [
+                {
+                    "q": "1. # [XXX] annīs post = # annō post.",
+                    "a": [
+                        "trīgintā",
+                        "trīcēsimō"
+                    ]
+                },
+                {
+                    "q": "2. # [XL] annīs post = # annō post.",
+                    "a": [
+                        "quadrāgintā",
+                        "quadrāgēsimō"
+                    ]
+                },
+                {
+                    "q": "3. # [L] annīs post = # annō post.",
+                    "a": [
+                        "quīnquāgintā",
+                        "quīnquāgēsimō"
+                    ]
+                },
+                {
+                    "q": "4. # [LX] annīs post = # annō post.",
+                    "a": [
+                        "sexāgintā",
+                        "sexāgēsimō"
+                    ]
+                },
+                {
+                    "q": "5. # [LXX] annīs post = # annō post.",
+                    "a": [
+                        "septuāgintā",
+                        "septuāgēsimō"
+                    ]
+                },
+                {
+                    "q": "6. # [LXXX] annīs post = # annō post.",
+                    "a": [
+                        "octōgintā",
+                        "octōgēsimō"
+                    ]
+                },
+                {
+                    "q": "7. # [XC] annīs post = # annō post.",
+                    "a": [
+                        "nōnāgintā",
+                        "nōnāgēsimō"
+                    ]
+                },
+                {
+                    "q": "8. # [C] annīs post = # annō post.",
+                    "a": [
+                        "centum",
+                        "centēsimō"
+                    ]
+                },
+                {
+                    "q": "9. # [CC] annīs post = # annō post.",
+                    "a": [
+                        "ducentīs",
+                        "ducentēsimō"
+                    ]
+                },
+                {
+                    "q": "10. # [CCC] annīs post = # annō post.",
+                    "a": [
+                        "trecentīs",
+                        "trecentēsimō"
+                    ]
+                },
+                {
+                    "q": "11. # [CCCC] annīs post = # annō post.",
+                    "a": [
+                        "quadringentīs",
+                        "quadringentēsimō"
+                    ]
+                },
+                {
+                    "q": "12. # [D] annīs post = # annō post",
+                    "a": [
+                        "quīngentīs",
+                        "quīngentēsimō"
+                    ]
+                },
+                {
+                    "q": "13. # [DC] annīs post = # annō post.",
+                    "a": [
+                        "sescentīs|sexcentīs",
+                        "sescentēsimō|sexcentēsimō"
+                    ]
+                },
+                {
+                    "q": "14. # [DCC] annīs post = # annō post.",
+                    "a": [
+                        "septingentīs",
+                        "septingentēsimō"
+                    ]
+                },
+                {
+                    "q": "15. # [DCCC] annīs post = # annō post.",
+                    "a": [
+                        "octingentīs",
+                        "octingentēsimō"
+                    ]
+                },
+                {
+                    "q": "16. # [CM] annīs post = # annō post.",
+                    "a": [
+                        "nōngentīs",
+                        "nōngentēsimō"
+                    ]
+                },
+                {
+                    "q": "17. # [M] annīs post = # annō post.",
+                    "a": [
+                        "mīlle",
+                        "mīllēsimō"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Exercise 2",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. # angustum Siciliam ab Italiā # [= dīvidit].",
+                    "a": [
+                        "Fretum",
+                        "disiungit"
+                    ]
+                },
+                {
+                    "q": "2. Tempestāte māximā necesse fuit mercēs ē nāve #.",
+                    "a": [
+                        "ēicere"
+                    ]
+                },
+                {
+                    "q": "3. # Mēdī verbīs Lȳdiae turbātus est.",
+                    "a": [
+                        "Animus"
+                    ]
+                },
+                {
+                    "q": "4. Mēdus: “# deus an homō est iste dominus tuus, cui ventī # [= pārēre] videntur?”",
+                    "a": [
+                        "Utrum",
+                        "oboedīre"
+                    ]
+                },
+                {
+                    "q": "5. Iēsūs Chrīstus # est in oppidō Bethlehem; # [= illūc] vēnērunt rēgēs ex oriente, quī īnfantem # [= sīcut] deum #.",
+                    "a": [
+                        "nātus",
+                        "eō",
+                        "velut",
+                        "adōrāvērunt"
+                    ]
+                },
+                {
+                    "q": "6. Magna # hominum Chrīstum docentem sequēbātur.",
+                    "a": [
+                        "turba"
+                    ]
+                },
+                {
+                    "q": "7. Ex # [= tōtā] Iūdaeā hominēs aegrī, quī # dē factīs eius mīrābilibus audīverant, ad Chrīstum conveniēbant.",
+                    "a": [
+                        "ūniversā",
+                        "fāmam"
+                    ]
+                },
+                {
+                    "q": "8. Deus, quī semper vīvit, nōn #, sed # est.",
+                    "a": [
+                        "mortālis",
+                        "immortālis"
+                    ]
+                },
+                {
+                    "q": "9. Hominēs, quī # ac #, mortālēs sunt.",
+                    "a": [
+                        "nāscuntur",
+                        "moriuntur"
+                    ]
+                },
+                {
+                    "q": "10. # est quī vidēre nōn potest, # quī audīre nōn potest, # quī loquī nōn potest, # quī ambulāre nōn potest.",
+                    "a": [
+                        "Caecus",
+                        "surdus",
+                        "mūtus",
+                        "claudus"
+                    ]
+                },
+                {
+                    "q": "11. Mēdus manum # et # [= parvum librum] Lȳdiae #.",
+                    "a": [
+                        "extendit",
+                        "libellum",
+                        "apprehendit"
+                    ]
+                },
+                {
+                    "q": "12. Matthaeus facta et # Chrīstī # [= nārrat].",
+                    "a": [
+                        "dicta",
+                        "memorat"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Exercise 3",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Quō nāvigant Mēdus et Lȳdia? ...",
+                    "a": [
+                        "Mēdus et Lȳdia ad Graeciam nāvigant"
+                    ]
+                },
+                {
+                    "q": "2. Estne mare adhūc turbidum? ...",
+                    "a": [
+                        "iam nōn turbidum est mare"
+                    ]
+                },
+                {
+                    "q": "3. Ubi est fretum Siculum? ...",
+                    "a": [
+                        "fretum Siculum est inter Italiam et Siciliam"
+                    ]
+                },
+                {
+                    "q": "4. Quā dē causā gaudent nautae? ...",
+                    "a": [
+                        "nautae gaudent quia tempestās cessāvit"
+                    ]
+                },
+                {
+                    "q": "5. Cūr nōn gaudet mercātor? ...",
+                    "a": [
+                        "mercātor trīstis est quod mercēs eius ē nāve ēiectae sunt"
+                    ]
+                },
+                {
+                    "q": "6. Dē quibus rēbus cōgitat Mēdus? ...",
+                    "a": [
+                        "Mēdus cōgitat dē verbīs Lȳdiae"
+                    ]
+                },
+                {
+                    "q": "7. Cūr Lȳdia Mēdum aegrōtāre putat? ...",
+                    "a": [
+                        "... quod Mēdum pallēre animadvertit"
+                    ]
+                },
+                {
+                    "q": "8. Ubi nātus est Chrīstus? ...",
+                    "a": [
+                        "Chrīstus in oppidō Bethlehem nātus est"
+                    ]
+                },
+                {
+                    "q": "9. Ubi sita est Iūdaea? ...",
+                    "a": [
+                        "Iūdaea in Asiā inter Syriam et Arabiam et Aegyptum sita est"
+                    ]
+                },
+                {
+                    "q": "10. Quī Chrīstum parvulum adōrāvērunt? ...",
+                    "a": [
+                        "rēgēs ex Oriente venientēs eum adōrāvērunt"
+                    ]
+                },
+                {
+                    "q": "11. Cūr hominēs aegrī ad Chrīstum conveniēbant? ...",
+                    "a": [
+                        "... quia Chrīstus aegrōs sānāre poterat"
+                    ]
+                },
+                {
+                    "q": "12. Quid Lȳdia Mēdō ostendit? ...",
+                    "a": [
+                        "Lȳdia Mēdō libellum suum ostendit"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Exercise 4",
+            "info": "Exempla:\nDominus servō imperāvit ut tacēret et audīret, tum eum monuit ut labōrāret \nnēve quiēsceret: ut industrius esset.\nDominus servīs imperāvit ut tacērent et audīrent, tum eōs monuit ut \nlabōrārent nēve quiēscerent: ut industriī essent.\nDominus imperāvit ut servus improbus vocārētur, prehenderētur, tenērētur, \npūnīrētur.\nDominus imperāvit ut servī improbī vocārentur, prehenderentur, tenērentur, \npūnīrentur.\n",
+            "questions": [
+                {
+                    "q": "1. Iēsūs virō claudō imperāvit ut surg# et ambul#.",
+                    "a": [
+                        "eret",
+                        "āret"
+                    ]
+                },
+                {
+                    "q": "2. Medicus Quīntō imperāvit ut ōs aper# et linguam ostend#.",
+                    "a": [
+                        "īret",
+                        "eret"
+                    ]
+                },
+                {
+                    "q": "3. Dux mīlitēs monuit ut fortiter pugn# nēve hostēs tim#.",
+                    "a": [
+                        "ārent",
+                        "ērent"
+                    ]
+                },
+                {
+                    "q": "4. Mīnōs postulāvit ut Athēniēnsēs ad Mīnōtaurum mitt#.",
+                    "a": [
+                        "erentur"
+                    ]
+                },
+                {
+                    "q": "5. Ariadna Thēseum monuit ut cav# nē ā mōnstrō occīd#.",
+                    "a": [
+                        "ēret",
+                        "erētur"
+                    ]
+                },
+                {
+                    "q": "6. Thēseus Ariadnam rogāvit ut sē ante iānuam opper#.",
+                    "a": [
+                        "īrētur"
+                    ]
+                },
+                {
+                    "q": "7. Mīnōs imperāvit ut Daedalus in labyrinthum inclūd#.",
+                    "a": [
+                        "erētur"
+                    ]
+                },
+                {
+                    "q": "8. Daedalus fīlium suum monuit ut cautus es# in volandō.",
+                    "a": [
+                        "set"
+                    ]
+                },
+                {
+                    "q": "9. Chrīstus efficere poterat ut hominēs caecī vid#, surdī aud#, mūtī loqu#, atque ut aegrī sānī es#. ",
+                    "a": [
+                        "ērent",
+                        "īrent",
+                        "erentur",
+                        "sent"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Exercise 5",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Mēdus Lȳdiam # [= ōrat] ut aliquid sibi legat.",
+                    "a": [
+                        "rogat"
+                    ]
+                },
+                {
+                    "q": "2. Lȳdia librum # [= aperit] et legit dē Iaīrō, # Iūdaeōrum, cuius fīliam mortuam Iēsūs # [= excitāvit].",
+                    "a": [
+                        "ēvolvit",
+                        "prīncipe",
+                        "suscitāvit"
+                    ]
+                },
+                {
+                    "q": "3. Mēdus: “# deōs immortālēs! Deus tuus māximam # habēre vidētur!”",
+                    "a": [
+                        "Per",
+                        "potestātem"
+                    ]
+                },
+                {
+                    "q": "4. Trēs diī ūniversum # inter sē dīvisisse dīcuntur.",
+                    "a": [
+                        "mundum"
+                    ]
+                },
+                {
+                    "q": "5. Iuppiter deus māximus # [= exīstimātur].",
+                    "a": [
+                        "habētur"
+                    ]
+                },
+                {
+                    "q": "6. Plūtō # [= rēx est] apud #, ubi # mortuōrum velut umbrae # dīcuntur.",
+                    "a": [
+                        "rēgnat",
+                        "Īnferōs",
+                        "animae",
+                        "versārī"
+                    ]
+                },
+                {
+                    "q": "7. Quārtā # noctis discipulī, quī in # [= parvā nāve] erant, Iēsum super mare ambulantem vīdērunt.",
+                    "a": [
+                        "vigiliā",
+                        "nāviculā"
+                    ]
+                },
+                {
+                    "q": "8. Discipulīs turbātīs Chrīstus “# estōte!” ait. ",
+                    "a": [
+                        "Cōnstantēs"
+                    ]
+                },
+                {
+                    "q": "9. Incipiēns mergī Petrus clāmāvit: “Domine, # mē fac!”",
+                    "a": [
+                        "salvum"
+                    ]
+                },
+                {
+                    "q": "10. Paulō post ventus #.",
+                    "a": [
+                        "cessāvit"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Exercise 6",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Cūr Mēdus Lȳdiae libellum reddit neque ipse legit? ...",
+                    "a": [
+                        "... quia Mēdus legere nescit"
+                    ]
+                },
+                {
+                    "q": "2. Quid Iēsūs virō claudō imperāvit? ...",
+                    "a": [
+                        "Iēsūs eī imperāvit ut tolleret lectum suum et domum ambulāret"
+                    ]
+                },
+                {
+                    "q": "3. Quid Iaīrus rogāvit Iēsum? ...",
+                    "a": [
+                        "Iaīrus Iēsum rogāvit ut fīliam suam mortuam suscitāret"
+                    ]
+                },
+                {
+                    "q": "4. Quid fēcit Iēsūs in domō Iaīrī? ...",
+                    "a": [
+                        "Iēsūs manum puellae tenuit eamque surgere iussit"
+                    ]
+                },
+                {
+                    "q": "5. Potestne Iuppiter hominēs mortuōs suscitāre? ...",
+                    "a": [
+                        "nē Iuppiter quidem id facere potest"
+                    ]
+                },
+                {
+                    "q": "6. Quī diī mundum inter sē dīvīsērunt? ...",
+                    "a": [
+                        "mundum inter sē dīvīsērunt trēs diī: Iuppiter, Neptūnus, Plūtō"
+                    ]
+                },
+                {
+                    "q": "7. Quis deus rēx maris est? ...",
+                    "a": [
+                        "Neptūnus deus maris est"
+                    ]
+                },
+                {
+                    "q": "8. Quis apud Īnferōs rēgnat? ...",
+                    "a": [
+                        "apud Īnferōs rēgnat Plūtō"
+                    ]
+                },
+                {
+                    "q": "9. Quōmodo Iēsūs ad nāviculam discipulōrum vēnit? ...",
+                    "a": [
+                        "Iēsūs ad nāviculam vēnit super mare ambulāns"
+                    ]
+                },
+                {
+                    "q": "10. Cūr turbātī sunt quī in nāviculā erant? ...",
+                    "a": [
+                        "... quia Iēsum phantasma esse putāvērunt"
+                    ]
+                },
+                {
+                    "q": "11. Quid Iēsūs Petrum facere iussit? ...",
+                    "a": [
+                        "Iēsūs iussit eum ad sē venīre super aquam"
+                    ]
+                },
+                {
+                    "q": "12. Num Petrus mersus est? ...",
+                    "a": [
+                        "Petrus servātus est, nam Iēsūs eum manū apprehendit"
+                    ]
+                },
+                {
+                    "q": "13. Quid dīxērunt discipulī postquam Iēsūs in nāviculam ascendit? ...",
+                    "a": [
+                        "discipulī ‘eum vērē fīlium Deī esse’ dīxērunt"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Exercise 7",
+            "info": "Exempla:\nMāter fīliam monuit ut cavēret nē in fluvium caderet ac mergerētur; nec \nopus erat monēre fīliōs ut cavērent nē in fluvium caderent ac mergerentur.\nFīlia: “Māter mē monuit ut cavērem nē in fluvium caderem ac mergerer; \nsed cūr nōn monuit vōs, puerī, ut cavērētis nē in fluvium caderētis ac \nmergerēminī?”\nFīliī: “Māter tē monuit ut cavērēs nē in fluvium caderēs ac mergerēris, \nquia cauta nōn es; nec vērō opus erat nōs monēre ut cavērēmus nē in \nfluvium caderēmus ac mergerēmur.”\n",
+            "questions": [
+                {
+                    "q": "1. Mēdus: “Dominus ā mē postulābat ut semper industrius es#.”",
+                    "a": [
+                        "sem"
+                    ]
+                },
+                {
+                    "q": "2. Lȳdia: “Amīcae meae mē ōrābant ut Rōmae sēcum manē#, sed tū mihi persuāsistī ut tēcum venī#.”",
+                    "a": [
+                        "rem",
+                        "rem"
+                    ]
+                },
+                {
+                    "q": "3. Mēdus: “Gaudeō quod amīcae tuae tibi persuādēre nōn potuērunt ut Rōmae manē# nēve mēcum venī#.”",
+                    "a": [
+                        "rēs",
+                        "rēs"
+                    ]
+                },
+                {
+                    "q": "4. Iūlius: “Nōnne vōs monueram, fīliī, nē arborem ascend#?”",
+                    "a": [
+                        "erētis"
+                    ]
+                },
+                {
+                    "q": "5. Quīntus: “Certē nōs monuerās ut cautī es# nēve arborem ascend#, sed Mārcus mihi persuāsit ut arborem ascend#.”",
+                    "a": [
+                        "sēmus",
+                        "erēmus",
+                        "erem"
+                    ]
+                },
+                {
+                    "q": "6. Iūlius: “Quōmodo Mārcus tibi persuādēre potuit ut arborem ascend#, sī ego tē monueram ut cautus es# nēve id fac#?”",
+                    "a": [
+                        "erēs",
+                        "sēs",
+                        "erēs"
+                    ]
+                },
+                {
+                    "q": "7. Lȳdia: “Laetāminī, nautae! Chrīstus cūrāvit ut vōs salvī es# atque ē māximō perīculō servā#.”",
+                    "a": [
+                        "sētis",
+                        "rēminī"
+                    ]
+                },
+                {
+                    "q": "8. Nauta: “Fortasse Chrīstus cūrāvit ut tū servā#, at certē Neptūnus cūrāvit ut ego servā#!”",
+                    "a": [
+                        "rēris",
+                        "rer"
+                    ]
+                },
+                {
+                    "q": "9. Lȳdia: “Chrīstus cūrāvit ut nōs omnēs servā#.”",
+                    "a": [
+                        "rēmur"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Exercise 8",
+            "info": "Exempla:\nQuārē Mēdus Rōmam venit? Rōmam venit, ut amīcam suam videat \n[= ...quia amīcam suam vidēre vult].\nQuārē Mēdus fugit? Mēdus fugit, nē serviat [= ...quia servīre nōn vult].\nQuārē Mēdus Rōmam vēnit? Rōmam vēnit, ut amīcam suam vidēret \n[= ...quia amīcam suam vidēre volēbat].\nQuārē Mēdus fūgit? Mēdus fūgit, nē servīret [= ...quia servīre nōlēbat].\n",
+            "questions": [
+                {
+                    "q": "1. Magister calamum prōmit, # scrīb# [= quia scrībere vult].",
+                    "a": [
+                        "ut",
+                        "at"
+                    ]
+                },
+                {
+                    "q": "2. Mercātōrēs mercēs vēndunt, # pecūniam faci# [= quia pecūniam facere volunt].",
+                    "a": [
+                        "ut",
+                        "ant"
+                    ]
+                },
+                {
+                    "q": "3. Pāstor umbram petit, # in sōle ambul# [= quia in sōle ambulāre nōn vult].",
+                    "a": [
+                        "nē",
+                        "et"
+                    ]
+                },
+                {
+                    "q": "4. Hominēs vestīmenta gerunt, # frīg# [= quia frīgēre nōlunt].",
+                    "a": [
+                        "nē",
+                        "eant"
+                    ]
+                },
+                {
+                    "q": "5. Ariadna Thēseō fīlum dedit, # eum serv# [= quia eum servāre volēbat].",
+                    "a": [
+                        "ut",
+                        "āret"
+                    ]
+                },
+                {
+                    "q": "6. Daedalus ālās cōnfēcit, # ē labyrinthō ēvol# [= quia ē labyrinthō ēvolāre volēbat].",
+                    "a": [
+                        "ut",
+                        "āret"
+                    ]
+                },
+                {
+                    "q": "7. Lȳdia oculōs clausit, # fulgura vid# [= quia fulgura vidēre nōlēbat].",
+                    "a": [
+                        "nē",
+                        "ēret"
+                    ]
+                },
+                {
+                    "q": "8. Multī hominēs aegrī ad Chrīstum conveniēbant, # ab eō sān# [= quia ab eō sānārī volēbant].",
+                    "a": [
+                        "ut",
+                        "ārentur"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Exercise 9",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Discipulī ad Iēsum accessērunt dīcentēs: “Domine, # [= salvōs fac] nōs! #!”",
+                    "a": [
+                        "salvā",
+                        "Perīmus"
+                    ]
+                },
+                {
+                    "q": "2. Iēsūs ventīs imperāvit et facta est # [<  tranquillus] magna.",
+                    "a": [
+                        "tranquillitās"
+                    ]
+                },
+                {
+                    "q": "3. Nōn sōlum tempestātēs, sed multa alia # nautīs #.",
+                    "a": [
+                        "perīcula",
+                        "impendent"
+                    ]
+                },
+                {
+                    "q": "4. # maritimī nāvēs persequuntur ut mercēs rapiant.",
+                    "a": [
+                        "Praedōnēs"
+                    ]
+                },
+                {
+                    "q": "5. Nūllum mare # est ā praedōnibus.",
+                    "a": [
+                        "tūtum"
+                    ]
+                },
+                {
+                    "q": "6. Scylla dīcitur saxum # [< perīculum] quō nāvēs franguntur.",
+                    "a": [
+                        "perīculōsum"
+                    ]
+                },
+                {
+                    "q": "7. # est locus quō nāvēs flūctibus vorantur.",
+                    "a": [
+                        "Vorāgō"
+                    ]
+                },
+                {
+                    "q": "8. Difficile est omnia maris perīcula #.",
+                    "a": [
+                        "vītāre"
+                    ]
+                },
+                {
+                    "q": "9. Mēdus # sē salvum in Graeciam perventūrum esse.",
+                    "a": [
+                        "spērat"
+                    ]
+                },
+                {
+                    "q": "10. Is enim in Graeciā līber vīvere # quam in Italiā dominō sevērō #; itaque cupidus est in Graeciam # [< īre].",
+                    "a": [
+                        "māvult",
+                        "servīre",
+                        "eundī"
+                    ]
+                },
+                {
+                    "q": "11. Gubernātor dīcit ‘sē morī # quam servīre’: “Ego morī # quam servīre.”",
+                    "a": [
+                        "mālle",
+                        "mālō"
+                    ]
+                },
+                {
+                    "q": "12. Intrā sex vel # octō diēs amīcī nostrī in Graeciam #.",
+                    "a": [
+                        "potius",
+                        "pervenient"
+                    ]
+                },
+                {
+                    "q": "13. Haud facile fuit Lȳdiae # ut Rōmā proficīscerētur.",
+                    "a": [
+                        "persuādēre"
+                    ]
+                },
+                {
+                    "q": "14. Gubernātor pulchritūdinem ānulī # [= mīrātur].",
+                    "a": [
+                        "admīrātur"
+                    ]
+                },
+                {
+                    "q": "15. Discipulus # est quī studiōsē audit.",
+                    "a": [
+                        "attentus"
+                    ]
+                },
+                {
+                    "q": "16. # est pecūnia dominī quae servō datur.",
+                    "a": [
+                        "Pecūlium"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Exercise 10",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Quem gubernātor putat potestātem maris habēre? ...",
+                    "a": [
+                        "gubernātor deum Neptūnum potestātem maris habēre crēdit"
+                    ]
+                },
+                {
+                    "q": "2. Iamne nāvis extrā perīculum est? ...",
+                    "a": [
+                        "alia multa perīcula nautīs impendent"
+                    ]
+                },
+                {
+                    "q": "3. Quārē praedōnēs maritimī nāvēs persequuntur? ...",
+                    "a": [
+                        "praedōnēs nāvēs persequuntur ut mercēs rapiant ac nautās occīdant"
+                    ]
+                },
+                {
+                    "q": "4. Quae perīcula in fretō Siculō nautīs impendent? ...",
+                    "a": [
+                        "in fretō Siculō Scylla et Charybdis nautīs impendent"
+                    ]
+                },
+                {
+                    "q": "5. Cūr Mēdus in Graeciā vīvere māvult quam in Italiā? ...",
+                    "a": [
+                        "... quia Graecia patria eius est"
+                    ]
+                },
+                {
+                    "q": "6. Cui dominō Mēdus serviēbat? ...",
+                    "a": [
+                        "Mēdus serviēbat dominō cui nōmen est Iūlius"
+                    ]
+                },
+                {
+                    "q": "7. Quid dominus Rōmānus ā Mēdō postulābat? ...",
+                    "a": [
+                        "dominus ā Mēdō postulābat ut opus sordidum faceret"
+                    ]
+                },
+                {
+                    "q": "8. Quārē Mēdus ē vīllā dominī Rōmam fūgit? ...",
+                    "a": [
+                        "Mēdus ē vīllā fūgit ut amīcam suam Rōmānam vidēret"
+                    ]
+                },
+                {
+                    "q": "9. Quōmodo Mēdus Lȳdiae persuāsit ut sēcum venīret? ...",
+                    "a": [
+                        "Mēdus amīcae suae ānulum aureum dedit"
+                    ]
+                },
+                {
+                    "q": "10. Quid Lȳdia gubernātōrī ostendit? ...",
+                    "a": [
+                        "Lȳdia gubernātōrī ānulum suum aureum ostendit"
+                    ]
+                },
+                {
+                    "q": "11. Cūr gubernātor Mēdum ānulum ēmisse mīrātur? ...",
+                    "a": [
+                        "... quia Mēdus servus pauper erat"
+                    ]
+                },
+                {
+                    "q": "12. Cūr Mēdus rubet neque respondet? ...",
+                    "a": [
+                        "Mēdus rubēns nescit quid respondeat                                                                                                                                                                                                                                                                                                                                                                                                                                                                     quia pecūniā dominī ānulum ēmit"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Exercise 11",
+            "info": "Āctīvum\n____________Sing.\t\tPlūr.\t\t\tSing.\t\tPlūr.\nPassīvum\n____________Sing.\t\tPlūr.\t\t\tSing.\t\tPlūr.\n",
+            "questions": [
+                {
+                    "q": "1. 'Amā|bat' est indicātīvus imperfectī; 'amā|ret' nōn indicātīvus, sed # imperfectī est.",
+                    "a": [
+                        "coniūnctīvus"
+                    ]
+                },
+                {
+                    "q": "2. 'Tacē|bat', 'leg|ēbat', 'dormi|ēbat' est indicātīvus imperfectī: 'tacē|ret', 'leg|eret', 'dormī|ret' # # est.",
+                    "a": [
+                        "coniūnctīvus",
+                        "imperfectī"
+                    ]
+                },
+                {
+                    "q": "3. Coniūnctīvus imperfectī: singulāris: pers. 1 -rem, 2 -#, 3 -#; plūrālis: 1 -#, 2 -#, 3 -#.",
+                    "a": [
+                        "rēs",
+                        "ret",
+                        "rēmus",
+                        "rētis",
+                        "rent"
+                    ]
+                },
+                {
+                    "q": "4. Pers.1\tvocā#\tvocā#\t\tvidē#\tvidē#",
+                    "a": [
+                        "rem",
+                        "rēmus",
+                        "rem",
+                        "rēmus"
+                    ]
+                },
+                {
+                    "q": "5. Pers.2\tvocā#\t\tvocā#\t\tvidē#\t\tvidē#",
+                    "a": [
+                        "rēs",
+                        "rētis",
+                        "rēs",
+                        "rētis"
+                    ]
+                },
+                {
+                    "q": "6. Pers.3\tvocā#\t\tvocā#\t\tvidē#\t\tvidē#",
+                    "a": [
+                        "ret",
+                        "rent",
+                        "ret",
+                        "rent"
+                    ]
+                },
+                {
+                    "q": "7. Pers.1\tdūc#\tdūc#\t\taudī#\taudī#",
+                    "a": [
+                        "erem",
+                        "erēmus",
+                        "rem",
+                        "rēmus"
+                    ]
+                },
+                {
+                    "q": "8. Pers.2\tdūc#\t\tdūc#\t\taudī#\t\taudī#",
+                    "a": [
+                        "erēs",
+                        "erētis",
+                        "rēs",
+                        "rētis"
+                    ]
+                },
+                {
+                    "q": "9. Pers.3\tdūc#\t\tdūc#\t\taudī#\t\taudī#",
+                    "a": [
+                        "eret",
+                        "erent",
+                        "ret",
+                        "rent"
+                    ]
+                },
+                {
+                    "q": "10. Coniūnctīvus imperfectī verbī 'esse': singulāris: pers. 1 essem, 2 es#, 3 es#; plūrālis: pers. 1 es#, 2 es#, 3 es#.",
+                    "a": [
+                        "sēs",
+                        "set",
+                        "sēmus",
+                        "sētis",
+                        "sent"
+                    ]
+                },
+                {
+                    "q": "11. 'Amā|bātur' est indicātīvus imperfectī passīvī; 'amā|rētur' # imperfectī passīvī est.",
+                    "a": [
+                        "coniūnctīvus"
+                    ]
+                },
+                {
+                    "q": "12. 'Tenē|bātur', 'leg|ēbātur', 'pūni|ēbātur' est indicātīvus imperfectī passīvī; 'tenē|rētur', 'leg|erētur', 'pūnī|rētur' # # # est.",
+                    "a": [
+                        "coniūnctīvus",
+                        "imperfectī",
+                        "passīvī"
+                    ]
+                },
+                {
+                    "q": "13. Coniūnctīvus imperfectī passīvī: singulāris: pers. 1 -rer, 2 -#, 3 -#; plūrālis: pers. 1 -#, 2 -#, 3 -#.",
+                    "a": [
+                        "rēris",
+                        "rētur",
+                        "rēmur",
+                        "rēminī",
+                        "rentur"
+                    ]
+                },
+                {
+                    "q": "14. Pers.1\tvocā#\t\tvocā#\t\tvidē#\t\tvidē#",
+                    "a": [
+                        "rer",
+                        "rēmur",
+                        "rer",
+                        "rēmur"
+                    ]
+                },
+                {
+                    "q": "15. Pers.2\tvocā#\tvocā#\t\tvidē#\tvidē#",
+                    "a": [
+                        "rēris",
+                        "rēminī",
+                        "rēris",
+                        "rēminī"
+                    ]
+                },
+                {
+                    "q": "16. Pers.3\tvocā#\tvocā#\t\tvidē#\tvidē#",
+                    "a": [
+                        "rētur",
+                        "rentur",
+                        "rētur",
+                        "rentur"
+                    ]
+                },
+                {
+                    "q": "17. Pers.1\tdūc#\t\tdūc#\t\taudī#\t\taudī#",
+                    "a": [
+                        "erer",
+                        "erēmur",
+                        "rer",
+                        "rēmur"
+                    ]
+                },
+                {
+                    "q": "18. Pers.2\tdūc#\tdūc#\t\taudī#\taudī#",
+                    "a": [
+                        "erēris",
+                        "erēminī",
+                        "rēris",
+                        "rēminī"
+                    ]
+                },
+                {
+                    "q": "19. Pers.3\tdūc#\tdūc#\t\taudī#\taudī#",
+                    "a": [
+                        "erētur",
+                        "erentur",
+                        "rētur",
+                        "rentur"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Exercise 12",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. discere, #isse",
+                    "a": [
+                        "didic"
+                    ]
+                },
+                {
+                    "q": "2. dīvidere, #isse, #um esse",
+                    "a": [
+                        "dīvīs",
+                        "dīvīs"
+                    ]
+                },
+                {
+                    "q": "3. ēicere, ē#isse, ē#um esse",
+                    "a": [
+                        "iēc",
+                        "iect"
+                    ]
+                },
+                {
+                    "q": "4. morī, #um esse",
+                    "a": [
+                        "mortu"
+                    ]
+                },
+                {
+                    "q": "5. nāscī, #um esse",
+                    "a": [
+                        "nāt"
+                    ]
+                },
+                {
+                    "q": "6. persuādēre, per#isse",
+                    "a": [
+                        "suās"
+                    ]
+                },
+                {
+                    "q": "7. prōmere, #isse, #um esse",
+                    "a": [
+                        "prōmps",
+                        "prōmpt"
+                    ]
+                },
+                {
+                    "q": "8. surgere, #isse",
+                    "a": [
+                        "surrēx"
+                    ]
+                },
+                {
+                    "q": "9. vīvere, #isse",
+                    "a": [
+                        "vīx"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "PENSVM A",
+            "info": "",
+            "questions": [
+                {
+                    "a": [
+                        "ret",
+                        "ret",
+                        "eret",
+                        "erent",
+                        "rent"
+                    ],
+                    "q": "Servus dominum ōrābat nē sē verberā#, sed dominus imperāvit ut tacē# et surg#, tum aliīs servīs imperāvit ut eum prehend# et tenē#."
+                },
+                {
+                    "a": [
+                        "ret",
+                        "set"
+                    ],
+                    "q": "Mēdus ā dominō fūgit, ut amīcam suam vidē# et semper cum eā es#."
+                },
+                {
+                    "a": [
+                        "rem",
+                        "sem"
+                    ],
+                    "q": "Mēdus: \"Ā dominō fūgī, ut amīcam meam vidē# et semper cum eā es#.\""
+                },
+                {
+                    "a": [
+                        "erentur"
+                    ],
+                    "q": "Mīnōs imperāvit ut Daedalus et Īcarus in labyrinthum inclūd#."
+                },
+                {
+                    "a": [
+                        "erēmur"
+                    ],
+                    "q": "Īcarus: \"Quis imperāvit ut nōs inclūd#?\""
+                },
+                {
+                    "a": [
+                        "erer",
+                        "erēris"
+                    ],
+                    "q": "Daedalus: \"Mīnōs imperāvit ut ego inclūd# et ut tū mēcum inclūd#.\""
+                },
+                {
+                    "a": [
+                        "dīvīs",
+                        "dīvīs"
+                    ],
+                    "q": "Verba: dīvidere, #isse, #um;"
+                },
+                {
+                    "a": [
+                        "iēc",
+                        "iect"
+                    ],
+                    "q": "ēicere, ē#isse, ē#um;"
+                },
+                {
+                    "a": [
+                        "prōmps",
+                        "prōmpt"
+                    ],
+                    "q": "prōmere, #isse, #um;"
+                },
+                {
+                    "a": [
+                        "vīx"
+                    ],
+                    "q": "vīvere, #isse;"
+                },
+                {
+                    "a": [
+                        "didic"
+                    ],
+                    "q": "discere, #isse;"
+                },
+                {
+                    "a": [
+                        "suās"
+                    ],
+                    "q": "persuādēre, per#isse;"
+                },
+                {
+                    "a": [
+                        "surrēx"
+                    ],
+                    "q": "surgere, #isse."
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "PENSVM B",
+            "info": "",
+            "questions": [
+                {
+                    "a": [
+                        "māvult",
+                        "persuāsit"
+                    ],
+                    "q": "Lȳdia Rōmae vīvere # quam in Graeciā, sed Mēdus multīs prōmissīs eī # ut sēcum proficīscerētur."
+                },
+                {
+                    "a": [
+                        "serviēbat"
+                    ],
+                    "q": "In Italiā Mēdus dominō sevērō #."
+                },
+                {
+                    "a": [
+                        "perīculum",
+                        "impendent"
+                    ],
+                    "q": "Nāvis nōndum extrā # est. Multa perīcula nautīs #."
+                },
+                {
+                    "a": [
+                        "Praedōnēs",
+                        "tūtum"
+                    ],
+                    "q": "# maritimī nāvēs persequuntur; nūllum mare # est ā praedōnibus."
+                },
+                {
+                    "a": [
+                        "moriuntur",
+                        "immortālēs"
+                    ],
+                    "q": "Hominēs mortālēs nāscuntur et #, diī vērō # sunt."
+                },
+                {
+                    "a": [
+                        "suscitāre",
+                        "potestātem",
+                        "habētur"
+                    ],
+                    "q": "Nūllus deus Rōmānus hominem mortuum ab Īnferīs # [= excitāre] potest, nē Iuppiter quidem tantam # habet, etsī ille deus māximus # [= exīstimātur]."
+                },
+                {
+                    "a": [
+                        "mundum"
+                    ],
+                    "q": "Trēs diī ūniversum # inter sē dīvīsērunt."
+                },
+                {
+                    "a": [
+                        "nātus"
+                    ],
+                    "q": "Chrīstus in oppidō Bethlehem # est."
+                },
+                {
+                    "a": [
+                        "caecī",
+                        "surdī",
+                        "mūtī",
+                        "claudī"
+                    ],
+                    "q": "Ille verbīs sōlīs efficiēbat ut hominēs # vidērent, # audīrent, # loquerentur, # ambulārent."
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "PENSVM C",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Fretum Siculum quid est? ",
+                    "a": []
+                },
+                {
+                    "q": "2. Ubi nātus est Chrīstus? ",
+                    "a": []
+                },
+                {
+                    "q": "3. Quid Iaīrus Chrīstum rogāvit? ",
+                    "a": []
+                },
+                {
+                    "q": "4. Quae perīcula nautīs impendent? ",
+                    "a": []
+                },
+                {
+                    "q": "5. Cūr nautae praedōnēs maritimōs metuunt? ",
+                    "a": []
+                },
+                {
+                    "q": "6. Quālī dominō Mēdus in Italiā serviēbat? ",
+                    "a": []
+                },
+                {
+                    "q": "7. Quārē Mēdus ā dominō suō fūgit? ",
+                    "a": []
+                },
+                {
+                    "q": "8. Num Lȳdia laetō animō Rōmā profecta est? ",
+                    "a": []
+                },
+                {
+                    "q": "9. Quōmodo Mēdus eī persuāsit ut sēcum venīret? ",
+                    "a": []
+                },
+                {
+                    "q": "10. Cūr Mēdus nescit quid respondeat? ",
+                    "a": []
+                },
+                {
+                    "q": "11. Quem Mēdus accēdere videt? ",
+                    "a": []
+                },
+                {
+                    "q": "12. Tūne in Graeciā vīvere māvīs quam in patriā tuā? ",
+                    "a": []
+                }
+            ]
+        }
+    ]
+}

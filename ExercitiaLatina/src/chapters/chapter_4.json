@@ -1,0 +1,1038 @@
+{
+    "id": 3,
+    "name": "CAPITVLVM IV",
+    "exercises": [
+        {
+            "id": 0,
+            "name": "Exercise 1",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. I = #.",
+                    "a": [
+                        "ūnus"
+                    ]
+                },
+                {
+                    "q": "2. II = #.",
+                    "a": [
+                        "duo"
+                    ]
+                },
+                {
+                    "q": "3. III = #.",
+                    "a": [
+                        "trēs"
+                    ]
+                },
+                {
+                    "q": "4. IV = #.",
+                    "a": [
+                        "quattuor"
+                    ]
+                },
+                {
+                    "q": "5. V = #.",
+                    "a": [
+                        "quīnque"
+                    ]
+                },
+                {
+                    "q": "6. VI = #.",
+                    "a": [
+                        "sex"
+                    ]
+                },
+                {
+                    "q": "7. VII = #.",
+                    "a": [
+                        "septem"
+                    ]
+                },
+                {
+                    "q": "8. VIII = #.",
+                    "a": [
+                        "octō"
+                    ]
+                },
+                {
+                    "q": "9. IX = #.",
+                    "a": [
+                        "novem"
+                    ]
+                },
+                {
+                    "q": "10. X = #.",
+                    "a": [
+                        "decem"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Exercise 2",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Quot sunt II et II? II et II sunt #.",
+                    "a": [
+                        "quattuor"
+                    ]
+                },
+                {
+                    "q": "2. Quot sunt III et III? III et III sunt #.",
+                    "a": [
+                        "sex"
+                    ]
+                },
+                {
+                    "q": "3. Quot sunt IV et IV? IV et IV sunt #.",
+                    "a": [
+                        "octō"
+                    ]
+                },
+                {
+                    "q": "4. Quot sunt V et V? V et V sunt #.",
+                    "a": [
+                        "decem"
+                    ]
+                },
+                {
+                    "q": "5. Quot sunt II et III? II et III sunt #.",
+                    "a": [
+                        "quīnque"
+                    ]
+                },
+                {
+                    "q": "6. Quot sunt III et IV? III et IV sunt #.",
+                    "a": [
+                        "septem"
+                    ]
+                },
+                {
+                    "q": "7. Quot sunt IV et V? IV et V sunt #.",
+                    "a": [
+                        "novem"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Exercise 3",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. In sacculō Iūliī # est.",
+                    "a": [
+                        "pecūnia"
+                    ]
+                },
+                {
+                    "q": "2. Iūlius pecūniam in sacculō #.",
+                    "a": [
+                        "habet"
+                    ]
+                },
+                {
+                    "q": "3. In sacculō # [: Iūliī] multī # sunt.",
+                    "a": [
+                        "eius",
+                        "nummī"
+                    ]
+                },
+                {
+                    "q": "4. Iūlius pecūniam #: \"I, II, III, IV, V, VI, VII, VIII, IX, X.\"",
+                    "a": [
+                        "numerat"
+                    ]
+                },
+                {
+                    "q": "5. Iūlius: \"Quid? Decem #?\"",
+                    "a": [
+                        "tantum"
+                    ]
+                },
+                {
+                    "q": "6. Iūlius # pecūniam suam numerat: \"I, II, III..... X.\"",
+                    "a": [
+                        "rūrsus"
+                    ]
+                },
+                {
+                    "q": "7. In # Iūliī nōn centum, sed # decem nummī sunt.",
+                    "a": [
+                        "sacculō",
+                        "tantum"
+                    ]
+                },
+                {
+                    "q": "8. Iūlius: \"Ubi est servus meus?\" Iūlius servum # Dāvum nōn videt. Dāvus #.",
+                    "a": [
+                        "suum",
+                        "abest"
+                    ]
+                },
+                {
+                    "q": "9. Mēdus nōn abest; Mēdus #.",
+                    "a": [
+                        "adest"
+                    ]
+                },
+                {
+                    "q": "10. Dāvus venit. Iam duo servī #; cēterī servī #.",
+                    "a": [
+                        "adsunt",
+                        "absunt"
+                    ]
+                },
+                {
+                    "q": "11. Dāvus dominum #: \"Salvē, domine!\"",
+                    "a": [
+                        "salūtat"
+                    ]
+                },
+                {
+                    "q": "12. Iūlius Dāvum salūtat: \"#, Dāve! Ubi est pecūnia mea?\"",
+                    "a": [
+                        "Salvē"
+                    ]
+                },
+                {
+                    "q": "13. Davus nōn respondet: Dāvus #.",
+                    "a": [
+                        "tacet"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Exercise 4",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Quot persōnae adsunt in scaenā prīmā? ...",
+                    "a": [
+                        "trēs persōnae adsunt"
+                    ]
+                },
+                {
+                    "q": "2. Quot virī et quot fēminae adsunt? ...",
+                    "a": [
+                        "duo virī et ūna fēmina adsunt"
+                    ]
+                },
+                {
+                    "q": "3. Quid Iūlius in sacculō habet? ...",
+                    "a": [
+                        "Iūlius pecūniam habet in sacculō"
+                    ]
+                },
+                {
+                    "q": "4. Centumne nummī in sacculō sunt? ...",
+                    "a": [
+                        "nōn centum, sed decem tantum nummī in sacculō sunt"
+                    ]
+                },
+                {
+                    "q": "5. Adestne Dāvus? ...",
+                    "a": [
+                        "Dāvus nōn adest"
+                    ]
+                },
+                {
+                    "q": "6. Quot servī adsunt? ...",
+                    "a": [
+                        "ūnus servus adest"
+                    ]
+                },
+                {
+                    "q": "7. Quis est servus quī adest? ...",
+                    "a": [
+                        "servus quī adest est Mēdus"
+                    ]
+                },
+                {
+                    "q": "8. Quem vocat Mēdus? ...",
+                    "a": [
+                        "Mēdus Dāvum vocat"
+                    ]
+                },
+                {
+                    "q": "9. Quem Dāvus salūtat? ...",
+                    "a": [
+                        "Dāvus Iūlium salūtat"
+                    ]
+                },
+                {
+                    "q": "10. Quot servī iam adsunt? ...",
+                    "a": [
+                        "iam duo servī adsunt"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Exercise 5",
+            "info": "Exempla: \nIūlius pecūniam suam numerat.\nMēdus pecūniam eius [: Iūliī] habet.\n",
+            "questions": [
+                {
+                    "q": "1. Ubi est pecūnia Iūliī? Pecūnia # in sacculō est.",
+                    "a": [
+                        "eius"
+                    ]
+                },
+                {
+                    "q": "2. Iūlius pecūniam # in mēnsā pōnit.",
+                    "a": [
+                        "suam"
+                    ]
+                },
+                {
+                    "q": "3. Aemilia pecūniam # [: Iūliī] videt.",
+                    "a": [
+                        "eius"
+                    ]
+                },
+                {
+                    "q": "4. Adestne servus Iūliī? Servus # adest.",
+                    "a": [
+                        "eius"
+                    ]
+                },
+                {
+                    "q": "5. Iūlius servum # videt.",
+                    "a": [
+                        "suum"
+                    ]
+                },
+                {
+                    "q": "6. Dāvus venit et dominum # salūtat.",
+                    "a": [
+                        "suum"
+                    ]
+                },
+                {
+                    "q": "7. Dāvus sacculum # in mēnsā pōnit.",
+                    "a": [
+                        "suum"
+                    ]
+                },
+                {
+                    "q": "8. In sacculō # pecūnia nōn est: sacculus # vacuus est.",
+                    "a": [
+                        "eius",
+                        "eius"
+                    ]
+                },
+                {
+                    "q": "9. Dāvus nūllam pecūniam in sacculō # habet.",
+                    "a": [
+                        "suō"
+                    ]
+                },
+                {
+                    "q": "10. Iūlius ūnum nummum in sacculō # [: Dāvī] pōnit.",
+                    "a": [
+                        "eius"
+                    ]
+                },
+                {
+                    "q": "11. Iūlius: \"Sūme sacculum tuum!\" Dāvus sacculum # sūmit.",
+                    "a": [
+                        "suum"
+                    ]
+                },
+                {
+                    "q": "12. Mēdus nōn # pecūniam, sed Iūliī in sacculō # habet.",
+                    "a": [
+                        "suam",
+                        "suō"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Exercise 6",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Mēdus Dāvum vocat: \"Dāv#!\"",
+                    "a": [
+                        "e"
+                    ]
+                },
+                {
+                    "q": "2. Dāvus Mēdum interrogat: \"Quid est, Mēd#?\"",
+                    "a": [
+                        "e"
+                    ]
+                },
+                {
+                    "q": "3. Mēdus: \"St! Tacē, Dāv#! Dominus adest.\"",
+                    "a": [
+                        "e"
+                    ]
+                },
+                {
+                    "q": "4. Servus dominum salūtat: \"Salvē, domin#!\"",
+                    "a": [
+                        "e"
+                    ]
+                },
+                {
+                    "q": "5. Dominus servum salūtat: \"Salvē, serv#!\"",
+                    "a": [
+                        "e"
+                    ]
+                },
+                {
+                    "q": "6. Iūlius: \"Ubi est pecūnia mea, Dāv#?\"",
+                    "a": [
+                        "e"
+                    ]
+                },
+                {
+                    "q": "7. Dāvus: \"Ecce sacculus meus, domin#.\"",
+                    "a": [
+                        "e"
+                    ]
+                },
+                {
+                    "q": "8. Iūlius: \"Discēde, bon# serv#!\"",
+                    "a": [
+                        "e",
+                        "e"
+                    ]
+                },
+                {
+                    "q": "9. Iūlius Mēdum vocat: \"Mēd#! Venī, improb# serv#!\"",
+                    "a": [
+                        "e",
+                        "e",
+                        "e"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Exercise 7",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Iūlius Mēdum interrogat: \"Ubi sunt nummī meī?\" Mēdus # verbum respondet.",
+                    "a": [
+                        "nūllum"
+                    ]
+                },
+                {
+                    "q": "2. Mēdus Dāvum #: \"In sacculō Dāvī sunt nummī tuī!\"",
+                    "a": [
+                        "accūsat"
+                    ]
+                },
+                {
+                    "q": "3. Dāvus: \"# sacculus meus.\" Dāvus sacculum suum in # pōnit.",
+                    "a": [
+                        "Ecce",
+                        "mēnsā"
+                    ]
+                },
+                {
+                    "q": "4. In sacculō Dāvī nūlla pecūnia est: sacculus # est.",
+                    "a": [
+                        "vacuus"
+                    ]
+                },
+                {
+                    "q": "5. Dāvus servus # [= probus] est.",
+                    "a": [
+                        "bonus"
+                    ]
+                },
+                {
+                    "q": "6. Iūlius ūnum nummum in sacculō Dāvī #.",
+                    "a": [
+                        "pōnit"
+                    ]
+                },
+                {
+                    "q": "7. Dāvus laetus sacculum suum # et #.",
+                    "a": [
+                        "sūmit",
+                        "discēdit"
+                    ]
+                },
+                {
+                    "q": "8. Quid Mēdus videt in mēnsā? Mēdus # Iūliī videt.",
+                    "a": [
+                        "baculum"
+                    ]
+                },
+                {
+                    "q": "9. Mēdus baculum, # in mēnsā est, videt et discēdit.",
+                    "a": [
+                        "quod"
+                    ]
+                },
+                {
+                    "q": "10. Mēdus discēdit, quia # pecūniam dominī habet.",
+                    "a": [
+                        "is"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Exercise 8",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Iūlius: \"Dāvum voc#, Mēde!\"",
+                    "a": [
+                        "ā"
+                    ]
+                },
+                {
+                    "q": "2. Mēdus Dāvum voc#: \"Dāve, ven#!\" Dāvus ven#.",
+                    "a": [
+                        "at",
+                        "ī",
+                        "it"
+                    ]
+                },
+                {
+                    "q": "3. Mēdus: \"Salūt# dominum!\" Dāvus dominum salūt#.",
+                    "a": [
+                        "ā",
+                        "at"
+                    ]
+                },
+                {
+                    "q": "4. Dominus: \"Tac# et aud#, serve!\" Servus tac# et aud#.",
+                    "a": [
+                        "ē",
+                        "ī",
+                        "et",
+                        "it"
+                    ]
+                },
+                {
+                    "q": "5. Dominus: \"Respond#, serve!\" Servus respond#.",
+                    "a": [
+                        "ē",
+                        "et"
+                    ]
+                },
+                {
+                    "q": "6. Dominus: \"Sacculum tuum in mēnsā pōn#!\" Servus sacculum suum in mēnsā pōn#.",
+                    "a": [
+                        "e",
+                        "it"
+                    ]
+                },
+                {
+                    "q": "7. Servus: \"Vid#, domine: sacculus meus vacuus est.\" Dominus sacculum vacuum vid#.",
+                    "a": [
+                        "ē",
+                        "et"
+                    ]
+                },
+                {
+                    "q": "6. Dominus: \"Sūm# sacculum tuum et discēd#!\" Servus sacculum suum sūm# et discēd#.",
+                    "a": [
+                        "e",
+                        "e",
+                        "it",
+                        "it"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Exercise 9",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Quot persōnae adsunt in scaenā secundā? ...",
+                    "a": [
+                        "quattuor persōnae adsunt"
+                    ]
+                },
+                {
+                    "q": "2. Quem Mēdus accūsat? ...",
+                    "a": [
+                        "Mēdus Dāvum accūsat"
+                    ]
+                },
+                {
+                    "q": "3. Quid Dāvus in mēnsā pōnit? ...",
+                    "a": [
+                        "sacculum suum in mēnsā pōnit"
+                    ]
+                },
+                {
+                    "q": "4. Quot nummī in sacculō Dāvī sunt? ...",
+                    "a": [
+                        "in sacculō eius nūllī nummī sunt"
+                    ]
+                },
+                {
+                    "q": "5. Estne Dāvus servus improbus? ...",
+                    "a": [
+                        "Dāvus servus probus est"
+                    ]
+                },
+                {
+                    "q": "6. Cūr Dāvus laetus discēdit? ...",
+                    "a": [
+                        "laetus est quia nummum habet"
+                    ]
+                },
+                {
+                    "q": "7. Quid Mēdus videt in mēnsā? ...",
+                    "a": [
+                        "Mēdus baculum dominī videt"
+                    ]
+                },
+                {
+                    "q": "8. Adestne Mēdus in scaenā tertiā? ...",
+                    "a": [
+                        "Mēdus nōn adest, sed abest"
+                    ]
+                },
+                {
+                    "q": "9. Cūr Mēdus abest? ...",
+                    "a": [
+                        "... quia pecūniam dominī habet"
+                    ]
+                },
+                {
+                    "q": "10. Num Mēdus servus probus est? ...",
+                    "a": [
+                        "Mēdus servus improbus est"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Exercise 10",
+            "info": "Exempla: \nMēdus Dāvum vocat: \"Dāv|e!\"\nServus dominum salūtat: \"Salvē, domin|e!\"\n",
+            "questions": [
+                {
+                    "q": "1. 'Dāv|e' nōn nōminātīvus, sed # est.",
+                    "a": [
+                        "vocātīvus"
+                    ]
+                },
+                {
+                    "q": "2. 'Domin|e' quoque # est.",
+                    "a": [
+                        "vocātīvus"
+                    ]
+                },
+                {
+                    "q": "3. Nōminātīvus: Dāvus. Vocātīvus: Dāv#.",
+                    "a": [
+                        "e"
+                    ]
+                },
+                {
+                    "q": "4. Nōminātīvus: dominus. Vocātīvus: domin#.",
+                    "a": [
+                        "e"
+                    ]
+                },
+                {
+                    "q": "5. Vocātīvus: Mēde. Nōminātīvus: Mēd#.",
+                    "a": [
+                        "us"
+                    ]
+                },
+                {
+                    "q": "6. Nōminātīvus: servus. Vocātīvus: serv#.",
+                    "a": [
+                        "e"
+                    ]
+                },
+                {
+                    "q": "7. Nōminātīvus: Mārcus. Vocātīvus: Mārc#.",
+                    "a": [
+                        "e"
+                    ]
+                },
+                {
+                    "q": "8. Vocātīvus: Quīnte. Nōminātīvus: Quīnt#.",
+                    "a": [
+                        "us"
+                    ]
+                },
+                {
+                    "q": "9. Nōminātīvus: -us. Vocātīvus: -#.",
+                    "a": [
+                        "e"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Exercise 11",
+            "info": "Exempla: \nDominus: \"Salūtā mē!\" Servus dominum salūtat.\nDominus: \"Tacē et audī!\" Servus tacet et audit.\nDominus: \"Discēde, serve!\" Servus discēdit.\n",
+            "questions": [
+                {
+                    "q": "1. 'Salūtat' indicātīvus est. 'Salūtā' est #.",
+                    "a": [
+                        "imperātīvus"
+                    ]
+                },
+                {
+                    "q": "2. 'Tacet' et 'audit' nōn imperātīvus, sed # est.",
+                    "a": [
+                        "indicātīvus"
+                    ]
+                },
+                {
+                    "q": "3. 'Tacē' et 'audī' nōn indicātīvus, sed # est.",
+                    "a": [
+                        "imperātīvus"
+                    ]
+                },
+                {
+                    "q": "4. 'Discēde' quoque # est. 'Discēdit' # est.",
+                    "a": [
+                        "imperātīvus",
+                        "indicātīvus"
+                    ]
+                },
+                {
+                    "q": "5. Indicātīvus: vocat. Imperātīvus: voc#.",
+                    "a": [
+                        "ā"
+                    ]
+                },
+                {
+                    "q": "6. Indicātīvus: videt. Imperātīvus: vid#.",
+                    "a": [
+                        "ē"
+                    ]
+                },
+                {
+                    "q": "7. Imperātīvus: pōne. Indicātīvus: pōn#.",
+                    "a": [
+                        "it"
+                    ]
+                },
+                {
+                    "q": "8. Imperātīvus: venī. Indicātīvus: ven#. ",
+                    "a": [
+                        "it"
+                    ]
+                },
+                {
+                    "q": "9. Indicātīvus: audit. Imperātīvus: aud#.",
+                    "a": [
+                        "ī"
+                    ]
+                },
+                {
+                    "q": "10. Indicātīvus: sūmit. Imperātīvus: sūm#.",
+                    "a": [
+                        "e"
+                    ]
+                },
+                {
+                    "q": "11. Indicātīvus: -at. Imperātīvus: -#.",
+                    "a": [
+                        "ā"
+                    ]
+                },
+                {
+                    "q": "12. Indicātīvus: -et. Imperātīvus: -#.",
+                    "a": [
+                        "ē"
+                    ]
+                },
+                {
+                    "q": "13. Imperātīvus: -e. Indicātīvus: -#.",
+                    "a": [
+                        "it"
+                    ]
+                },
+                {
+                    "q": "14. Imperātīvus. -ī. Indicātīvus: -#.",
+                    "a": [
+                        "it"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "PENSVM A",
+            "info": "",
+            "questions": [
+                {
+                    "a": [
+                        "est",
+                        "est"
+                    ],
+                    "q": "Mēdus ad#. Dāvus ab#."
+                },
+                {
+                    "a": [
+                        "at",
+                        "ā",
+                        "e"
+                    ],
+                    "q": "Iūlius imper# : \"Voc# Dāvum, Mēd#!\""
+                },
+                {
+                    "a": [
+                        "at",
+                        "e",
+                        "ī"
+                    ],
+                    "q": "Mēdus Dāvum voc# : \"Dāv#! Ven#!\""
+                },
+                {
+                    "a": [
+                        "it",
+                        "et"
+                    ],
+                    "q": "Dāvus ven# neque Iūlium vid#."
+                },
+                {
+                    "a": [
+                        "ā"
+                    ],
+                    "q": "Mēdus: \"Salūt# dominum!\""
+                },
+                {
+                    "a": [
+                        "at",
+                        "e"
+                    ],
+                    "q": "Dāvus dominum salūt# : \"Salvē, domin#! Quid est?\""
+                },
+                {
+                    "a": [
+                        "ē",
+                        "e"
+                    ],
+                    "q": "Dominus: \"Tac#, serv#! Nummī meī ubi sunt?\""
+                },
+                {
+                    "a": [
+                        "et",
+                        "et"
+                    ],
+                    "q": "Servus tac# neque respond#."
+                },
+                {
+                    "a": [
+                        "ē"
+                    ],
+                    "q": "Iūlius: \"Respond#!\""
+                },
+                {
+                    "a": [
+                        "ā"
+                    ],
+                    "q": "Dāvus: \"Interrog# Mēdum!\""
+                },
+                {
+                    "a": [
+                        "at",
+                        "e"
+                    ],
+                    "q": "Iūlius Mēdum interrog# : \"Ubi est pecūnia mea, Mēd#?\""
+                },
+                {
+                    "a": [
+                        "et"
+                    ],
+                    "q": "Mēdus: \"Dāvus pecūniam tuam hab#.\""
+                },
+                {
+                    "a": [
+                        "e",
+                        "e"
+                    ],
+                    "q": "Iūlius: \"Pōn# sacculum tuum in mēnsā, Dāv#!\""
+                },
+                {
+                    "a": [
+                        "et",
+                        "it"
+                    ],
+                    "q": "Dāvus pār# : sacculum suum in mēnsā pōn#."
+                },
+                {
+                    "a": [
+                        "ē",
+                        "e"
+                    ],
+                    "q": "Dāvus: \"Vid#, domin# : sacculus meus vacuus est.\""
+                },
+                {
+                    "a": [
+                        "e",
+                        "e",
+                        "e",
+                        "e"
+                    ],
+                    "q": "Iūlius: \"Sūm# sacculum tuum et discēd#, bon# serv#!\""
+                },
+                {
+                    "a": [
+                        "it",
+                        "it"
+                    ],
+                    "q": "Dāvus sacculum suum sūm# et discēd#."
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "PENSVM B",
+            "info": "",
+            "questions": [
+                {
+                    "a": [
+                        "pecūnia"
+                    ],
+                    "q": "In sacculō Iūliī # est."
+                },
+                {
+                    "a": [
+                        "numerat",
+                        "quattuor",
+                        "quīnque",
+                        "septem",
+                        "octō",
+                        "novem",
+                        "decem"
+                    ],
+                    "q": "Iūlius pecūniam suam # : \"Ūnus, duo, trēs, #, #, sex, #, #, #, #.\""
+                },
+                {
+                    "a": [
+                        "sacculō",
+                        "tantum"
+                    ],
+                    "q": "In # nōn centum, sed # decem nummī sunt."
+                },
+                {
+                    "a": [
+                        "salūtat"
+                    ],
+                    "q": "Dāvus dominum # : \"Salvē, domine!\""
+                },
+                {
+                    "a": [
+                        "imperat",
+                        "mēnsā"
+                    ],
+                    "q": "Iūlius #: \"Pōne sacculum tuum in #!\""
+                },
+                {
+                    "a": [
+                        "suum",
+                        "pōnit"
+                    ],
+                    "q": "Dāvus sacculum # in mēnsā #."
+                },
+                {
+                    "a": [
+                        "vacuus",
+                        "eius",
+                        "nūlla"
+                    ],
+                    "q": "Sacculus Dāvī # est, in sacculō # [: Dāvī] # pecūnia est."
+                },
+                {
+                    "a": [
+                        "sūmit"
+                    ],
+                    "q": "Dāvus sacculum suum # et discēdit."
+                },
+                {
+                    "a": [
+                        "is",
+                        "habet"
+                    ],
+                    "q": "Iūlius: \"Mēde! Venī!\" Mēdus nōn venit, quia # [: Mēdus] pecūniam Iūliī #."
+                },
+                {
+                    "a": [
+                        "quod",
+                        "discēdit"
+                    ],
+                    "q": "Iūlius baculum, # in mēnsā est, sūmit et #."
+                },
+                {
+                    "a": [
+                        "pāret"
+                    ],
+                    "q": "Dominus imperat, bonus servus #."
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "PENSVM C",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Quot nummī sunt in sacculō Iūliī? ",
+                    "a": []
+                },
+                {
+                    "q": "2. Adestne Dāvus in scaenā prīmā? ",
+                    "a": []
+                },
+                {
+                    "q": "3. Quis Dāvum vocat? ",
+                    "a": []
+                },
+                {
+                    "q": "4. Suntne nummī Iūliī in sacculō Dāvī? ",
+                    "a": []
+                },
+                {
+                    "q": "5. Quid Iūlius pōnit in sacculō Dāvī? ",
+                    "a": []
+                },
+                {
+                    "q": "6. Quot nummī iam in sacculō Iūliī sunt? ",
+                    "a": []
+                },
+                {
+                    "q": "7. Estne vacuus sacculus Mēdī? ",
+                    "a": []
+                },
+                {
+                    "q": "8. Cūr Mēdus discēdit? ",
+                    "a": []
+                },
+                {
+                    "q": "9. Quem Iūlius vocat? ",
+                    "a": []
+                },
+                {
+                    "q": "10. Cūr Mēdus Iūlium nōn audit? ",
+                    "a": []
+                }
+            ]
+        }
+    ]
+}

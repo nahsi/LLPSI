@@ -1,0 +1,531 @@
+{
+    "id": 34,
+    "name": "CAPITVLVM XXXV",
+    "exercises": [
+        {
+            "id": 0,
+            "name": "Exercise 1",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Partēs # sunt: nōmen, prōnōmen, verbum, adverbium, # [< coniungere], praepositiō, #.",
+                    "a": [
+                        "ōrātiōnis",
+                        "coniūnctiō",
+                        "interiectiō"
+                    ]
+                },
+                {
+                    "q": "2. 'Cornēlius', 'Capua', 'Aetna' sunt nōmina #, 'vir', 'oppidum', 'mōns' nōmina # sunt.",
+                    "a": [
+                        "propria",
+                        "appellātīva"
+                    ]
+                },
+                {
+                    "q": "3. # est vir quī - aut fēmina quae - diīs servit.",
+                    "a": [
+                        "Sacerdōs"
+                    ]
+                },
+                {
+                    "q": "4. Adiectīva quae # [< quālis] significant nōn modo dēclīnārī, sed etiam # possunt, ut 'celer', 'celerior', 'celerrimus' ",
+                    "a": [
+                        "quālitātem",
+                        "comparārī"
+                    ]
+                },
+                {
+                    "q": "5. # comparātiōnis sunt: #, comparātīvus, superlātīvus.",
+                    "a": [
+                        "Gradūs",
+                        "positīvus"
+                    ]
+                },
+                {
+                    "q": "6. # nōminum sunt masculīnum, fēminīnum, neutrum.",
+                    "a": [
+                        "Genera"
+                    ]
+                },
+                {
+                    "q": "7. Nōminātīvus, accūsātīvus, genetīvus, cēt. sunt # nōminum.",
+                    "a": [
+                        "cāsūs"
+                    ]
+                },
+                {
+                    "q": "8. 'Ego', 'tū', 'nōs', 'vōs' sunt prōnōmina #.",
+                    "a": [
+                        "persōnālia"
+                    ]
+                },
+                {
+                    "q": "9. 'Meus', 'tuus', 'suus', 'noster', 'vester' prōnōmina # sunt.",
+                    "a": [
+                        "possessīva"
+                    ]
+                },
+                {
+                    "q": "10. 'Hic', 'iste', 'ille', 'ipse' prōnōmina # sunt.",
+                    "a": [
+                        "dēmōnstrātīva"
+                    ]
+                },
+                {
+                    "q": "11. ... 'quī quae quod' est prōnōmen #.",
+                    "a": [
+                        "relātīvum"
+                    ]
+                },
+                {
+                    "q": "12. 'Quis?' et 'uter?' sunt prōnōmina #.",
+                    "a": [
+                        "interrogātīva"
+                    ]
+                },
+                {
+                    "q": "13. Difficile est prōnōmen 'hic haec hoc' # [= dēclīnāre].",
+                    "a": [
+                        "īnflectere"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Exercise 2",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. # verbōrum sunt indicātīvus, coniūnctīvus, imperātīvus, īnfīnītīvus.",
+                    "a": [
+                        "Modī"
+                    ]
+                },
+                {
+                    "q": "2. 'Loquor' est # prīma singulāris praesentis indicātīvī verbī dēpōnentis; sī -r # [<> additur], hoc verbum Latīnum nōn est.",
+                    "a": [
+                        "persōna",
+                        "dēmitur"
+                    ]
+                },
+                {
+                    "q": "3. Adverbium verbō adicitur et # [< significāre] eius # [= plānum facit].",
+                    "a": [
+                        "significātiōnem",
+                        "explānat"
+                    ]
+                },
+                {
+                    "q": "4. 'Et' coniūnctiō est # [< cōpulāre], 'aut' # [< disiungere], 'quia' # [< causa].",
+                    "a": [
+                        "cōpulātīva",
+                        "disiūnctīva",
+                        "causālis"
+                    ]
+                },
+                {
+                    "q": "5. 'Ab', 'cum', 'dē', 'ex', 'prae', 'prō', 'sine' sunt # casūs ablātīvī.",
+                    "a": [
+                        "praepositiōnēs"
+                    ]
+                },
+                {
+                    "q": "6. 'In' iungitur accūsātīvō # [= cum] ‘nōs in locum īre’ dīcimus.",
+                    "a": [
+                        "quandō"
+                    ]
+                },
+                {
+                    "q": "7. Cornēlius # Solōnis facit [= Solōnem memorat].",
+                    "a": [
+                        "mentiōnem"
+                    ]
+                },
+                {
+                    "q": "8. Odium et amor sunt mentis # contrāriī; # est affectus eius quī īrātus est, # eius quī admīrātur.",
+                    "a": [
+                        "affectūs",
+                        "īra",
+                        "admīrātiō"
+                    ]
+                },
+                {
+                    "q": "9. Numerō plūrālī cāsibus datīvō et ablātīvō fōrmae # sunt.",
+                    "a": [
+                        "similēs"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Exercise 3",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Nōmina dīviduntur in V #, quārum genetīvus singulāris dēsinit in [1] -#, [2] -#, [3] -#, [4] -#, [5] -#.  ",
+                    "a": [
+                        "dēclīnātiōnēs",
+                        "ae",
+                        "ī",
+                        "is",
+                        "ūs",
+                        "ēī"
+                    ]
+                },
+                {
+                    "q": "2. Dēclīnā haec nōmina: via, annus, ōvum, leō, pars, ōs, lacus, rēs!",
+                    "a": []
+                },
+                {
+                    "q": "3. Verba in IV # dīviduntur, quārum īnfīnītīvus (praes. āct.) dēsinit in [1] -#, [2] -#, [3] -#, [4] -#. ",
+                    "a": [
+                        "coniugātiōnēs",
+                        "āre",
+                        "ēre",
+                        "ere",
+                        "īre"
+                    ]
+                },
+                {
+                    "q": "4. Dēclīnā haec verba: laudō, claudō, audeō, audiō, nūntiō, rapiō!",
+                    "a": []
+                },
+                {
+                    "q": "5. Adverbia, praepositiōnēs, coniūnctiōnēs, interiectiōnēs sunt partēs ōrātiōnis # [= quae nōn dēclīnantur]; sed multa adverbia comparantur, ut celeriter, celer#, celer#.",
+                    "a": [
+                        "indēclīnābilēs",
+                        "ius",
+                        "rimē"
+                    ]
+                },
+                {
+                    "q": "6. Vocābula quae idem significant # vocantur, ut 'fēmina' et 'mulier', 'gladius' et 'ēnsis', 'ōrāre' et 'rogāre', 'fortasse' et ",
+                    "a": [
+                        "synōnyma"
+                    ]
+                },
+                {
+                    "q": "'#'.",
+                    "a": [
+                        "forsitan"
+                    ]
+                },
+                {
+                    "q": "7. Verba anōmala [= quae exemplīs nōn conveniunt]: dēmere, #isse, #um esse; adicere, ad#isse, ad#um esse.",
+                    "a": [
+                        "dēmps",
+                        "dēmpt",
+                        "iēc",
+                        "iect"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "PENSVM A",
+            "info": "",
+            "questions": [
+                {
+                    "a": [
+                        "a",
+                        "anc",
+                        "am",
+                        "uius",
+                        "ae",
+                        "uic",
+                        "ae",
+                        "āc",
+                        "ā"
+                    ],
+                    "q": "Dēclīnā haec vocābula: [1] āla, nōmen fēminīnum I dēclīnātiōnis: Singulāris: nōm. haec āl#, acc. h# āl#, gen. h# āl#, dat. h# āl#, abl. h# āl#. "
+                },
+                {
+                    "a": [
+                        "ae",
+                        "ae",
+                        "ās",
+                        "ās",
+                        "ārum",
+                        "ārum",
+                        "īs",
+                        "īs",
+                        "īs",
+                        "īs"
+                    ],
+                    "q": "Plūrālis: nōm. h# āl#, acc. h# āl#, gen. h# āl#, dat. h# āl#, abl. h# āl#. "
+                },
+                {
+                    "a": [
+                        "ic",
+                        "unc",
+                        "em",
+                        "uius",
+                        "is",
+                        "uic",
+                        "ī",
+                        "ōc",
+                        "e"
+                    ],
+                    "q": "[2] pēs, nōmen masculīnum III dēclīnātiōnis: Singulāris: nōm. h# pēs, acc. h# ped#, gen. h# ped#, dat. h# ped#, abl. h# ped#. "
+                },
+                {
+                    "a": [
+                        "ī",
+                        "ēs",
+                        "ōs",
+                        "ēs",
+                        "ōrum",
+                        "um",
+                        "īs",
+                        "ibus",
+                        "īs",
+                        "ibus"
+                    ],
+                    "q": "Plūrālis: nōm. h# ped#, acc. h# ped#, gen. h# ped#, dat. h# ped#, abl. h# ped#."
+                },
+                {
+                    "a": [
+                        "ō",
+                        "ābam",
+                        "ābō",
+                        "ī",
+                        "eram",
+                        "erō"
+                    ],
+                    "q": "[3] ōrāre, verbum āctīvum I coniugātiōnis (pers. I sing.): Indicātīvus: praes. ōr#, imperf. ōr#, fut. ōr#, perf. ōrāv#, plūsquamperf. ōrāv#, fut. perf. ōrāv#.  "
+                },
+                {
+                    "a": [
+                        "em",
+                        "ārem",
+                        "erim",
+                        "issem"
+                    ],
+                    "q": "Coniūnctīvus: praes. ōr#, imperf. ōr#, perf. ōrāv#, plūsquamperf. ōrāv#."
+                },
+                {
+                    "a": [
+                        "ō",
+                        "ēbam",
+                        "am",
+                        "ī",
+                        "eram",
+                        "erō"
+                    ],
+                    "q": "[4] dīcere, verbum āctīvum III coniugātiōnis (pers. I sing.): Indicātīvus: praes. dīc#, imperf. dīc#, fut. dīc#, perf. dīx#, plūsquamperf. dīx#, fut. perf. dīx#."
+                },
+                {
+                    "a": [
+                        "am",
+                        "erem",
+                        "erim",
+                        "issem"
+                    ],
+                    "q": "Coniūnctīvus: praes. dīc#, imperf. dīc#, perf. dīx#, plūsquamperf. dīx#."
+                },
+                {
+                    "a": [
+                        "laes",
+                        "laes"
+                    ],
+                    "q": "Verba: laedere, #isse, #um;"
+                },
+                {
+                    "a": [
+                        "plaus",
+                        "plaus"
+                    ],
+                    "q": "plaudere, #isse, #um;"
+                },
+                {
+                    "a": [
+                        "peper",
+                        "part"
+                    ],
+                    "q": "parere, #isse, #um; "
+                },
+                {
+                    "a": [
+                        "tinu",
+                        "tent"
+                    ],
+                    "q": "retinēre, re#isse, re#um;"
+                },
+                {
+                    "a": [
+                        "accend",
+                        "accēns"
+                    ],
+                    "q": "accendere, #isse, #um;"
+                },
+                {
+                    "a": [
+                        "dēmps",
+                        "dēmpt"
+                    ],
+                    "q": "dēmere, #isse, #um;"
+                },
+                {
+                    "a": [
+                        "iēc",
+                        "iect"
+                    ],
+                    "q": "adicere, ad#isse, ad#um;"
+                },
+                {
+                    "a": [
+                        "sēd"
+                    ],
+                    "q": "sedēre, #isse;"
+                },
+                {
+                    "a": [
+                        "nūps"
+                    ],
+                    "q": "nūbere, #isse;"
+                },
+                {
+                    "a": [
+                        "sapi"
+                    ],
+                    "q": "sapere, #isse."
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "PENSVM B",
+            "info": "",
+            "questions": [
+                {
+                    "a": [
+                        "ōrātiōnis"
+                    ],
+                    "q": "Nōmen est pars # quae corpus aut rem significat."
+                },
+                {
+                    "a": [
+                        "propria",
+                        "appellātīva"
+                    ],
+                    "q": "'Aemilia' et 'Iūlia' nōmina # sunt, 'māter' et 'fīlia' sunt nōmina #."
+                },
+                {
+                    "a": [
+                        "Cāsūs"
+                    ],
+                    "q": "# nōminum sunt nōminātīvus, genetīvus, cēt."
+                },
+                {
+                    "a": [
+                        "comparātiōnis",
+                        "positīvus"
+                    ],
+                    "q": "Gradūs # sunt trēs: #, comparātīvus, superlātīvus."
+                },
+                {
+                    "a": [
+                        "quālitātem"
+                    ],
+                    "q": "Adiectīva quae comparantur # aut quantitātem significant."
+                },
+                {
+                    "a": [
+                        "coniugātiōnis"
+                    ],
+                    "q": "'Amāre' est verbum prīmae #."
+                },
+                {
+                    "a": [
+                        "affectum"
+                    ],
+                    "q": "Interiectiō mentis #, ut laetitiam vel dolōrem, significat."
+                },
+                {
+                    "a": [
+                        "Īra"
+                    ],
+                    "q": "# est affectus eius quī īrātus est."
+                },
+                {
+                    "a": [
+                        "similēs"
+                    ],
+                    "q": "Frātrēs geminī tam # sunt quam ōva."
+                },
+                {
+                    "a": [
+                        "explānāre",
+                        "forsitan",
+                        "proptereā",
+                        "cis",
+                        "ēn"
+                    ],
+                    "q": "Synōnyma (vocābula quae idem ferē significant): plānum facere et #, fortasse et #, ideō et #, citrā et #, ecce et #."
+                },
+                {
+                    "a": [
+                        "proprius",
+                        "dēmere"
+                    ],
+                    "q": "Contrāria (vocābula quae rēs contrāriās significant): commūnis et #, addere et #."
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "PENSVM C",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Quae sunt partēs ōrātiōnis? ",
+                    "a": []
+                },
+                {
+                    "q": "2. Estne 'discipulus' nōmen proprium? ",
+                    "a": []
+                },
+                {
+                    "q": "3. Cāsūs nōminum quī sunt? ",
+                    "a": []
+                },
+                {
+                    "q": "4. Quī sunt gradūs comparātiōnis? ",
+                    "a": []
+                },
+                {
+                    "q": "5. Prōnōmen quid est? ",
+                    "a": []
+                },
+                {
+                    "q": "6. Quot sunt coniugātiōnēs verbōrum? ",
+                    "a": []
+                },
+                {
+                    "q": "7. Num 'intus' et 'forīs' adverbia temporis sunt? ",
+                    "a": []
+                },
+                {
+                    "q": "8. Cui cāsuī iungitur 'inter' praepositiō? ",
+                    "a": []
+                },
+                {
+                    "q": "9. Quae praepositiōnēs ablātīvō iunguntur? ",
+                    "a": []
+                },
+                {
+                    "q": "10. Quibus cāsibus iungitur 'in' praepositiō? ",
+                    "a": []
+                },
+                {
+                    "q": "11. Interiectiō quid significat? ",
+                    "a": []
+                }
+            ]
+        }
+    ]
+}

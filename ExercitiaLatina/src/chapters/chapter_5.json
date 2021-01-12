@@ -1,0 +1,1343 @@
+{
+    "id": 4,
+    "name": "CAPITVLVM V",
+    "exercises": [
+        {
+            "id": 0,
+            "name": "Exercise 1",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Serv# abest; dominus serv# vocat.",
+                    "a": [
+                        "us",
+                        "um"
+                    ]
+                },
+                {
+                    "q": "2. Serv# absunt; dominus serv# vocat.",
+                    "a": [
+                        "ī",
+                        "ōs"
+                    ]
+                },
+                {
+                    "q": "3. Ancill# abest; domina ancill# vocat.",
+                    "a": [
+                        "a",
+                        "am"
+                    ]
+                },
+                {
+                    "q": "4. Ancill# absunt; domina ancill# vocat.",
+                    "a": [
+                        "ae",
+                        "ās"
+                    ]
+                },
+                {
+                    "q": "5. Mārc# et Quīnt# fīli# Iūliī sunt.",
+                    "a": [
+                        "us",
+                        "us",
+                        "ī"
+                    ]
+                },
+                {
+                    "q": "6. Iūlius nōn ūn# fīli#, sed duōs fīli# habet.",
+                    "a": [
+                        "um",
+                        "um",
+                        "ōs"
+                    ]
+                },
+                {
+                    "q": "7. Iūlia fīli# Iūliī est.",
+                    "a": [
+                        "a"
+                    ]
+                },
+                {
+                    "q": "8. Iūlius nōn duās fīli#, sed ūn# fīli# habet.",
+                    "a": [
+                        "ās",
+                        "am",
+                        "am"
+                    ]
+                },
+                {
+                    "q": "9. Iūlius numm# su# numerat: in sacculō sunt decem numm#.",
+                    "a": [
+                        "ōs",
+                        "ōs",
+                        "ī"
+                    ]
+                },
+                {
+                    "q": "10. Iūlius ūn# numm# in sacculō Dāvī pōnit.",
+                    "a": [
+                        "um",
+                        "um"
+                    ]
+                },
+                {
+                    "q": "11. Iam ūn# numm# in sacculō Dāvī est.",
+                    "a": [
+                        "us",
+                        "us"
+                    ]
+                },
+                {
+                    "q": "12. Dāvus ūn# numm# habet. Iūlius mult# numm# habet.",
+                    "a": [
+                        "um",
+                        "um",
+                        "ōs",
+                        "ōs"
+                    ]
+                },
+                {
+                    "q": "13. Bacul# Iūliī in mēnsā est; Mēdus bacul# videt.",
+                    "a": [
+                        "um",
+                        "um"
+                    ]
+                },
+                {
+                    "q": "14. Iūlius interrogat. Mēdus nūll# verb# respondet.",
+                    "a": [
+                        "um",
+                        "um"
+                    ]
+                },
+                {
+                    "q": "15. In hortō sunt mult# ros# et mult# līli#.",
+                    "a": [
+                        "ae",
+                        "ae",
+                        "a",
+                        "a"
+                    ]
+                },
+                {
+                    "q": "16. Iūlia mult# ros# et mult# līli# videt in hortō.",
+                    "a": [
+                        "ās",
+                        "ās",
+                        "a",
+                        "a"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Exercise 2",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Iūlius in magnā # habitat.",
+                    "a": [
+                        "vīllā"
+                    ]
+                },
+                {
+                    "q": "2. Iūlius magnam vīllam cum magnō # habet.",
+                    "a": [
+                        "hortō"
+                    ]
+                },
+                {
+                    "q": "3. Iūlius # familiā suā in vīllā #.",
+                    "a": [
+                        "cum",
+                        "habitat"
+                    ]
+                },
+                {
+                    "q": "4. In hortō sunt multae # et multa #.",
+                    "a": [
+                        "rosae",
+                        "līlia"
+                    ]
+                },
+                {
+                    "q": "5. Hortus Iūliī est magnus et #.",
+                    "a": [
+                        "pulcher"
+                    ]
+                },
+                {
+                    "q": "6. Nāsus Syrae nōn pulcher, sed # est.",
+                    "a": [
+                        "foedus"
+                    ]
+                },
+                {
+                    "q": "7. Syra fēmina # nōn est, quia # magnum et foedum habet.",
+                    "a": [
+                        "pulchra",
+                        "nāsum"
+                    ]
+                },
+                {
+                    "q": "8. Iūlius Aemiliam #, quia # pulchra et proba fēmina est.",
+                    "a": [
+                        "amat",
+                        "ea"
+                    ]
+                },
+                {
+                    "q": "9. Iūlius nōn #, sed cum magnā familiā in vīllā habitat.",
+                    "a": [
+                        "sōlus"
+                    ]
+                },
+                {
+                    "q": "10. In vīllā duo # et multae fenestrae sunt.",
+                    "a": [
+                        "ōstia"
+                    ]
+                },
+                {
+                    "q": "11. In ātriō nūllae # sunt. ",
+                    "a": [
+                        "fenestrae"
+                    ]
+                },
+                {
+                    "q": "12. Impluvium in # est. In impluviō # est.",
+                    "a": [
+                        "ātriō",
+                        "aqua"
+                    ]
+                },
+                {
+                    "q": "13. In # est parvus hortus.",
+                    "a": [
+                        "peristȳlō|peristȳliō"
+                    ]
+                },
+                {
+                    "q": "14. Iūlia in parvō # dormit; # Mārcus [= Mārcus quoque] in parvō cubiculō dormit.",
+                    "a": [
+                        "cubiculō",
+                        "etiam"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Exercise 3",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Iūlius in vīllā habit#.",
+                    "a": [
+                        "at"
+                    ]
+                },
+                {
+                    "q": "2. Iūlius et Aemilia in vīllā habit#.",
+                    "a": [
+                        "ant"
+                    ]
+                },
+                {
+                    "q": "3. Aemilia trēs līberōs hab#.",
+                    "a": [
+                        "et"
+                    ]
+                },
+                {
+                    "q": "4. Iūlius et Aemilia trēs līberōs hab#.",
+                    "a": [
+                        "ent"
+                    ]
+                },
+                {
+                    "q": "5. Aemilia Iūlium am# et Iūlius Aemiliam am#.",
+                    "a": [
+                        "at",
+                        "at"
+                    ]
+                },
+                {
+                    "q": "6. Iūlius et Aemilia līberōs suōs am#.",
+                    "a": [
+                        "ant"
+                    ]
+                },
+                {
+                    "q": "7. Servī dominum salūt# et dominus servōs salūt#.",
+                    "a": [
+                        "ant",
+                        "at"
+                    ]
+                },
+                {
+                    "q": "8. Dominus imper#; servī pār#.",
+                    "a": [
+                        "at",
+                        "ent"
+                    ]
+                },
+                {
+                    "q": "9. Puella cant#. Puerī nōn cant#, sed rīd#.",
+                    "a": [
+                        "at",
+                        "ant",
+                        "ent"
+                    ]
+                },
+                {
+                    "q": "10. Mārcus in parvō cubiculō dorm#.",
+                    "a": [
+                        "it"
+                    ]
+                },
+                {
+                    "q": "11. Iūlius et Aemilia in magnō cubiculō dorm#.",
+                    "a": [
+                        "iunt"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Exercise 4",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Iūlius in magn# vīll# habitat cum Aemili# et cum līber# et serv#.",
+                    "a": [
+                        "ā",
+                        "ā",
+                        "ā",
+                        "īs",
+                        "īs"
+                    ]
+                },
+                {
+                    "q": "2. Iūlius et Aemilia cum Mārc# et Quīnt# et Iūli# in vīll# habitant.",
+                    "a": [
+                        "ō",
+                        "ō",
+                        "ā",
+                        "ā"
+                    ]
+                },
+                {
+                    "q": "3. Iūlius vīllam cum magn# hort# habet.",
+                    "a": [
+                        "ō",
+                        "ō"
+                    ]
+                },
+                {
+                    "q": "4. In hort# multae rosae sunt.",
+                    "a": [
+                        "ō"
+                    ]
+                },
+                {
+                    "q": "5. Iūlius hortum habet cum mult# ros#.",
+                    "a": [
+                        "īs",
+                        "īs"
+                    ]
+                },
+                {
+                    "q": "6. In Itali# multae vīllae cum magn# hort# sunt.",
+                    "a": [
+                        "ā",
+                        "īs",
+                        "īs"
+                    ]
+                },
+                {
+                    "q": "7. In hort# vīllārum sunt rosae.",
+                    "a": [
+                        "īs"
+                    ]
+                },
+                {
+                    "q": "8. In vīll# Italiae magna ātria sunt.",
+                    "a": [
+                        "īs"
+                    ]
+                },
+                {
+                    "q": "9. Iūlius vīllam cum magn# ātri# habet.",
+                    "a": [
+                        "ō",
+                        "ō"
+                    ]
+                },
+                {
+                    "q": "10. In ātri# impluvium est; in impluvi# est aqua.",
+                    "a": [
+                        "ō",
+                        "ō"
+                    ]
+                },
+                {
+                    "q": "11. Iūlius cum Aemili# in magn# cubicul# dormit.",
+                    "a": [
+                        "ā",
+                        "ō",
+                        "ō"
+                    ]
+                },
+                {
+                    "q": "12. Mārcus et Quīntus in parv# cubicul# dormiunt.",
+                    "a": [
+                        "īs",
+                        "īs"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Exercise 5",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Ubi habitat Iūlius? ...",
+                    "a": [
+                        "Iūlius in magnā vīllā habitat"
+                    ]
+                },
+                {
+                    "q": "2. Num Iūlius sōlus habitat? ...",
+                    "a": [
+                        "nōn sōlus, sed cum familiā habitat"
+                    ]
+                },
+                {
+                    "q": "3. Quot fīliōs et quot fīliās habet Iūlius? ...",
+                    "a": [
+                        "duōs fīliōs et ūnam fīliam habet"
+                    ]
+                },
+                {
+                    "q": "4. Quot servōs habet? ...",
+                    "a": [
+                        "centum servōs habet"
+                    ]
+                },
+                {
+                    "q": "5. Ubi sunt rosae et līlia? ...",
+                    "a": [
+                        "rosae et līlia in hortō sunt"
+                    ]
+                },
+                {
+                    "q": "6. Ubi est impluvium? ...",
+                    "a": [
+                        "impluvium in ātriō est"
+                    ]
+                },
+                {
+                    "q": "7. Quot fenestrae in ātriō sunt? ...",
+                    "a": [
+                        "in ātriō sunt nūllae fenestrae"
+                    ]
+                },
+                {
+                    "q": "8. Ubi dormit Quīntus? ...",
+                    "a": [
+                        "Quīntus in parvō cubiculō dormit"
+                    ]
+                },
+                {
+                    "q": "9. Servī ubi dormiunt? ...",
+                    "a": [
+                        "Servī in parvīs cubiculīs dormiunt"
+                    ]
+                },
+                {
+                    "q": "10. Estne Iūlius in vīllā? ...",
+                    "a": [
+                        "nōn est in vīllā, sed in oppidō"
+                    ]
+                },
+                {
+                    "q": "11. Estne Aemilia in oppidō cum virō suō? ...",
+                    "a": [
+                        "Aemilia cum virō suō nōn est"
+                    ]
+                },
+                {
+                    "q": "12. Sōlane est Aemilia in peristȳlō? ...",
+                    "a": [
+                        "nōn sōla, sed cum līberīs suīs est"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Exercise 6",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Mēdus servus est; dominus # est Iūlius.",
+                    "a": [
+                        "eius"
+                    ]
+                },
+                {
+                    "q": "2. Mēdus et Dāvus servī sunt; dominus # est Iūlius.",
+                    "a": [
+                        "eōrum"
+                    ]
+                },
+                {
+                    "q": "3. Servī dominum suum vident et # salūtant.",
+                    "a": [
+                        "eum"
+                    ]
+                },
+                {
+                    "q": "4. Dominus servōs suōs videt et # salūtat.",
+                    "a": [
+                        "eōs"
+                    ]
+                },
+                {
+                    "q": "5. Syra ancilla est; domina # est Aemilia.",
+                    "a": [
+                        "eius"
+                    ]
+                },
+                {
+                    "q": "6. Syra et Dēlia ancillae sunt; domina # est Aemilia.",
+                    "a": [
+                        "eārum"
+                    ]
+                },
+                {
+                    "q": "7. Ancillae dominam suam vident et # salūtant.",
+                    "a": [
+                        "eam"
+                    ]
+                },
+                {
+                    "q": "8. Domina ancillās suās videt et # salūtat.",
+                    "a": [
+                        "eās"
+                    ]
+                },
+                {
+                    "q": "9. Estne sōla Aemilia? # sōla nōn est, līberī cum # sunt.",
+                    "a": [
+                        "Ea",
+                        "eā"
+                    ]
+                },
+                {
+                    "q": "10. Estne sōlus Iūlius? Neque # sōlus est, servī cum # sunt.",
+                    "a": [
+                        "is",
+                        "eō"
+                    ]
+                },
+                {
+                    "q": "11. Suntne ancillae cum Aemiliā? # cum dominā nōn sunt.",
+                    "a": [
+                        "Eae"
+                    ]
+                },
+                {
+                    "q": "12. Iūlia in peristȳlō est; māter # cum # est.",
+                    "a": [
+                        "eius",
+                        "eā"
+                    ]
+                },
+                {
+                    "q": "13. Ubi sunt puerī? # quoque in peristȳlō sunt.",
+                    "a": [
+                        "Iī|Eī"
+                    ]
+                },
+                {
+                    "q": "14. Līberī sōlī nōn sunt: māter # cum # est neque # ab # discēdit. ",
+                    "a": [
+                        "eōrum",
+                        "iīs|eīs",
+                        "ea",
+                        "iīs|eīs"
+                    ]
+                },
+                {
+                    "q": "15. Hortus pulcher est, in # sunt multae rosae.",
+                    "a": [
+                        "eō"
+                    ]
+                },
+                {
+                    "q": "16. Estne pulchrum peristȳlum? # quoque pulchrum est; in # parvus hortus est. ",
+                    "a": [
+                        "Id",
+                        "eō"
+                    ]
+                },
+                {
+                    "q": "17. Vīlla magna est; in # sunt multa cubicula.",
+                    "a": [
+                        "eā"
+                    ]
+                },
+                {
+                    "q": "18. Servī in cubiculīs dormiunt; cubicula # nōn magna sunt.",
+                    "a": [
+                        "eōrum"
+                    ]
+                },
+                {
+                    "q": "19. Suntne parva cubicula līberōrum? # quoque parva sunt.",
+                    "a": [
+                        "Ea"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Exercise 7",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Iūlia ab Aemiliā discēd#; puerī nōn discēd#.",
+                    "a": [
+                        "it",
+                        "unt"
+                    ]
+                },
+                {
+                    "q": "2. Aemilia imperat: \"Iūliam voc#, puerī!\"",
+                    "a": [
+                        "āte"
+                    ]
+                },
+                {
+                    "q": "3. Puerī Iūliam voc#: \"Iūlia! Ven#!\"",
+                    "a": [
+                        "ant",
+                        "ī"
+                    ]
+                },
+                {
+                    "q": "4. Iūlia eōs nōn aud# neque ven#.",
+                    "a": [
+                        "it",
+                        "it"
+                    ]
+                },
+                {
+                    "q": "5. Iūlia puerōs voc#: \"Mārce et Quīnte! Ven#!\"",
+                    "a": [
+                        "at",
+                        "īte"
+                    ]
+                },
+                {
+                    "q": "6. Puerī Iūliam aud# neque ab Aemiliā discēd#.",
+                    "a": [
+                        "iunt",
+                        "unt"
+                    ]
+                },
+                {
+                    "q": "7. Quīntus: \"Carp# rosās, Iūlia!\" Iūlia rosās carp# et ex hortō ven# cum quīnque rosīs.",
+                    "a": [
+                        "e",
+                        "it",
+                        "it"
+                    ]
+                },
+                {
+                    "q": "8. Iūlia: \"Vid# rosās meās, mamma! Vid#, puerī!\"",
+                    "a": [
+                        "ē",
+                        "ēte"
+                    ]
+                },
+                {
+                    "q": "9. Puerī rosās vid#. Aemilia: \"Ecce puella pulchra!\"",
+                    "a": [
+                        "ent"
+                    ]
+                },
+                {
+                    "q": "10. Iūlia: \"Aud#, Mārce et Quīnte!\"",
+                    "a": [
+                        "īte"
+                    ]
+                },
+                {
+                    "q": "11. Mārcus: \"Māter nāsum tuum foedum nōn vid#!\"",
+                    "a": [
+                        "et"
+                    ]
+                },
+                {
+                    "q": "12. Iūlia plōr#. Mārcus rīd#. Aemilia: \"Tac#, Mārce!\"",
+                    "a": [
+                        "at",
+                        "et",
+                        "ē"
+                    ]
+                },
+                {
+                    "q": "13. Mārcus nōn tac#. Mārcus et Quīntus rīd#.",
+                    "a": [
+                        "et",
+                        "ent"
+                    ]
+                },
+                {
+                    "q": "14. Aemilia: \"Tac#, puerī improbī!\" Puerī tac#.",
+                    "a": [
+                        "ēte",
+                        "ent"
+                    ]
+                },
+                {
+                    "q": "15. Iūlia: \"Sūm# rosās, mamma, eāsque in aquā pōn#!\"",
+                    "a": [
+                        "e",
+                        "e"
+                    ]
+                },
+                {
+                    "q": "16. Quid ag# Iūlia? Ea ūnam rosam sūm# et discēd#.",
+                    "a": [
+                        "it",
+                        "it",
+                        "it"
+                    ]
+                },
+                {
+                    "q": "17. Aemilia: \"Discēd#, puerī! Ag#! Sūm# cēterās rosās eāsque in aquā pōn#!\"",
+                    "a": [
+                        "ite",
+                        "ite",
+                        "ite",
+                        "ite"
+                    ]
+                },
+                {
+                    "q": "18. Puerī rosās sūm#, discēd#, et rosās in aquā pōn#.",
+                    "a": [
+                        "unt",
+                        "unt",
+                        "unt"
+                    ]
+                },
+                {
+                    "q": "19. Aemilia: \"Ven#, ancillae!\" Ancillae ven#.",
+                    "a": [
+                        "īte",
+                        "iunt"
+                    ]
+                },
+                {
+                    "q": "20. Aemilia: \"Quid ag# puerī? Ag#, Dēlia! Discēd# et interrog# eōs!\"",
+                    "a": [
+                        "unt",
+                        "e",
+                        "e",
+                        "ā"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Exercise 8",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Aemilia # peristȳl# est # līber#, sed # vir# su#.",
+                    "a": [
+                        "in",
+                        "ō",
+                        "cum",
+                        "īs",
+                        "sine",
+                        "ō",
+                        "ō"
+                    ]
+                },
+                {
+                    "q": "2. Iūlia rosās # hort# videt et # Aemili# discēdit.",
+                    "a": [
+                        "in",
+                        "ō",
+                        "ab",
+                        "ā"
+                    ]
+                },
+                {
+                    "q": "3. Puerī # Aemili# sunt neque # e# discēdunt.",
+                    "a": [
+                        "cum",
+                        "ā",
+                        "ab",
+                        "ā"
+                    ]
+                },
+                {
+                    "q": "4. Iūlia # hort# venit # quīnque ros#.",
+                    "a": [
+                        "ex",
+                        "ō",
+                        "cum",
+                        "īs"
+                    ]
+                },
+                {
+                    "q": "5. Rīdent puerī. Iūlia # ūn# ros# # i# discēdit.",
+                    "a": [
+                        "cum",
+                        "ā",
+                        "ā",
+                        "ab",
+                        "īs"
+                    ]
+                },
+                {
+                    "q": "6. # vīll# magnum ātrium est # impluvi#.",
+                    "a": [
+                        "In",
+                        "ā",
+                        "cum",
+                        "ō"
+                    ]
+                },
+                {
+                    "q": "7. # ātri# puerī aquam sūmunt # impluvi# rosāsque # aqu# pōnunt. ",
+                    "a": [
+                        "In",
+                        "ō",
+                        "ex",
+                        "ō",
+                        "in",
+                        "ā"
+                    ]
+                },
+                {
+                    "q": "8. Iūlius # oppid# est # quattuor serv#, sed # Aemili#.",
+                    "a": [
+                        "in",
+                        "ō",
+                        "cum",
+                        "īs",
+                        "sine",
+                        "ā"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Exercise 9",
+            "info": "Exempla: \nIūlius nōn ūnum servum, sed multōs servōs habet.\nAemilia nōn ūnam ancillam, sed multās ancillās habet.\nVīlla nōn ūnum cubiculum, sed multa cubicula habet.\n",
+            "questions": [
+                {
+                    "q": "1. 'Serv|um' nōn nōminātīvus, sed # est. 'Serv|ōs' quoque # est.",
+                    "a": [
+                        "accūsātīvus",
+                        "accūsātīvus"
+                    ]
+                },
+                {
+                    "q": "2. 'Serv|ōs' nōn accūsātīvus singulāris, sed # # est.",
+                    "a": [
+                        "accūsātīvus",
+                        "plūrālis"
+                    ]
+                },
+                {
+                    "q": "3. 'Serv|um' est accūsātīvus #.",
+                    "a": [
+                        "singulāris"
+                    ]
+                },
+                {
+                    "q": "4. 'Ancill|am' accūsātīvus est. 'Ancill|ās' quoque # est.",
+                    "a": [
+                        "accūsātīvus"
+                    ]
+                },
+                {
+                    "q": "5. 'Ancill|am' # # est; 'ancill|ās' est # #.",
+                    "a": [
+                        "accūsātīvus",
+                        "singulāris",
+                        "accūsātīvus",
+                        "plūrālis"
+                    ]
+                },
+                {
+                    "q": "6. 'Cubicul|um' nōminātīvus et # est. 'Cubicul|a' quoque # et # est. \t",
+                    "a": [
+                        "accūsātīvus",
+                        "nōminātīvus",
+                        "accūsātīvus"
+                    ]
+                },
+                {
+                    "q": "7. 'Cubicul|um' nōminātīvus et accūsātīvus # est.",
+                    "a": [
+                        "singulāris"
+                    ]
+                },
+                {
+                    "q": "8. 'Cubicul|a' est # et # #.",
+                    "a": [
+                        "nōminātīvus",
+                        "accūsātīvus",
+                        "plūrālis"
+                    ]
+                },
+                {
+                    "q": "9. Singulāris: nōminātīvus: servus, accūsātīvus: serv#.",
+                    "a": [
+                        "um"
+                    ]
+                },
+                {
+                    "q": "10. Plūrālis: nōminātīvus: servī, accūsātīvus: serv#.",
+                    "a": [
+                        "ōs"
+                    ]
+                },
+                {
+                    "q": "11. Singulāris: nōminātīvus: ancilla, accūsātīvus: ancill#.",
+                    "a": [
+                        "am"
+                    ]
+                },
+                {
+                    "q": "12. Plūrālis: nōminātīvus: ancillae, accūsātīvus: ancill#.",
+                    "a": [
+                        "ās"
+                    ]
+                },
+                {
+                    "q": "13. Singulāris: nōminātīvus et accūsātīvus: cubicul#.",
+                    "a": [
+                        "um"
+                    ]
+                },
+                {
+                    "q": "14. Plūrālis: nōminātīvus et accusātīvus: cubicul#.",
+                    "a": [
+                        "a"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Exercise 10",
+            "info": "Exempla: \nCum ūnō servō. Cum multīs servīs.\nCum ūnā ancillā. Cum multīs ancillīs.\nCum ūnō cubiculō. Cum multīs cubiculīs.\n",
+            "questions": [
+                {
+                    "q": "1. 'Serv|ō' nōn nōminātīvus, sed # est.",
+                    "a": [
+                        "ablātīvus"
+                    ]
+                },
+                {
+                    "q": "2. 'Serv|ō' # singulāris est; 'serv|īs' # # est.",
+                    "a": [
+                        "ablātīvus",
+                        "ablātīvus",
+                        "plūrālis"
+                    ]
+                },
+                {
+                    "q": "3. 'Ancill|ā' ablātīvus # est; 'ancill|īs' # # est.",
+                    "a": [
+                        "singulāris",
+                        "ablātīvus",
+                        "plūrālis"
+                    ]
+                },
+                {
+                    "q": "4. 'Cubicul|ō' # # est; 'cubicul|īs' est # #.",
+                    "a": [
+                        "ablātīvus",
+                        "singulāris",
+                        "ablātīvus",
+                        "plūrālis"
+                    ]
+                },
+                {
+                    "q": "5. Singulāris: nōminātīvus: servus, ablātīvus: serv#.",
+                    "a": [
+                        "ō"
+                    ]
+                },
+                {
+                    "q": "6. Plūrālis: nōminātīvus: servī, ablātīvus: serv#.",
+                    "a": [
+                        "īs"
+                    ]
+                },
+                {
+                    "q": "7. Singulāris: nōminātīvus: ancilla, ablātīvus: ancill#.",
+                    "a": [
+                        "ā"
+                    ]
+                },
+                {
+                    "q": "8. Plūrālis: nōminātīvus: ancillae, ablātīvus: ancill#.",
+                    "a": [
+                        "īs"
+                    ]
+                },
+                {
+                    "q": "9. Singulāris: nōminātīvus: cubiculum, ablātīvus: cubicul#.",
+                    "a": [
+                        "ō"
+                    ]
+                },
+                {
+                    "q": "10. Plūrālis: nōminātīvus: cubicula, ablātīvus: cubicul#.",
+                    "a": [
+                        "īs"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Exercise 11",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. 'Vocā' imperātīvus singulāris est; 'vocā|te' # # est.",
+                    "a": [
+                        "imperātīvus",
+                        "plūrālis"
+                    ]
+                },
+                {
+                    "q": "2. 'Voca|t' indicātīvus # est; 'voca|nt' est # plūrālis.",
+                    "a": [
+                        "singulāris",
+                        "indicātīvus"
+                    ]
+                },
+                {
+                    "q": "3. 'Vidē', 'pōn|e', 'venī' # # est; 'vidē|te', 'pōn|ite', 'venī|te' # # est.",
+                    "a": [
+                        "imperātīvus",
+                        "singulāris",
+                        "imperātīvus",
+                        "plūrālis"
+                    ]
+                },
+                {
+                    "q": "4. 'Vide|t', 'pōn|it', 'veni|t' # # est; 'vide|nt', 'pōn|unt', 'veni|unt' # # est.",
+                    "a": [
+                        "indicātīvus",
+                        "singulāris",
+                        "indicātīvus",
+                        "plūrālis"
+                    ]
+                },
+                {
+                    "q": "5. Imperātīvus singulāris: cantā, tac#, ag#, aud#.",
+                    "a": [
+                        "ē",
+                        "e",
+                        "ī"
+                    ]
+                },
+                {
+                    "q": "6. Imperātīvus plūrālis: cant#, tac#, ag#, aud#.",
+                    "a": [
+                        "āte",
+                        "ēte",
+                        "ite",
+                        "īte"
+                    ]
+                },
+                {
+                    "q": "7. Indicātīvus singulāris: cantat, tac#, ag#, aud#.",
+                    "a": [
+                        "et",
+                        "it",
+                        "it"
+                    ]
+                },
+                {
+                    "q": "8. Indicātīvus plūrālis: cant#, tac#, ag#, aud#.",
+                    "a": [
+                        "ant",
+                        "ent",
+                        "unt",
+                        "iunt"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "PENSVM A",
+            "info": "",
+            "questions": [
+                {
+                    "a": [
+                        "ā",
+                        "ant",
+                        "īs",
+                        "īs"
+                    ],
+                    "q": "Iūlius et Aemilia in vīll# habit# cum liber# et serv#."
+                },
+                {
+                    "a": [
+                        "ōs",
+                        "ōs",
+                        "ās",
+                        "ās"
+                    ],
+                    "q": "Dominus mult# serv# et mult# ancill# habet."
+                },
+                {
+                    "a": [
+                        "ō",
+                        "ō",
+                        "ō",
+                        "ā"
+                    ],
+                    "q": "Aemilia in peristȳl# est cum Mārc# et Quīnt# et Iūli#."
+                },
+                {
+                    "a": [
+                        "ās",
+                        "ās",
+                        "ō",
+                        "et",
+                        "ā",
+                        "it"
+                    ],
+                    "q": "Iūlia mult# ros# in hort# vid# et ab Aemili# discēd#."
+                },
+                {
+                    "a": [
+                        "am",
+                        "et",
+                        "ent"
+                    ],
+                    "q": "Iam Aemilia puell# nōn vid#, neque puerī eam vid#."
+                },
+                {
+                    "a": [
+                        "āte"
+                    ],
+                    "q": "Aemilia: \"Mārce et Quīnte! Voc# Iūliam!\""
+                },
+                {
+                    "a": [
+                        "am",
+                        "ant",
+                        "ī",
+                        "ōs",
+                        "at",
+                        "īte"
+                    ],
+                    "q": "Puerī Iūli# voc# : \"Iūlia! Ven#!\" et Iūlia puer# voc# : \"Mārce et Quīnte! Ven# \""
+                },
+                {
+                    "a": [
+                        "it",
+                        "am",
+                        "iunt"
+                    ],
+                    "q": "Iūlia puerōs nōn aud#, sed puerī Iūli# aud#."
+                },
+                {
+                    "a": [
+                        "iunt",
+                        "ō",
+                        "īs",
+                        "īs"
+                    ],
+                    "q": "Iūlia: \"Cūr puerī nōn ven#?\" Iūlia ex hort# venit cum V ros# pulchr#."
+                },
+                {
+                    "a": [
+                        "ē",
+                        "ās",
+                        "ēte"
+                    ],
+                    "q": "Iūlia: \"Vid# ros# meās, māter! Vid#, puerī!\""
+                },
+                {
+                    "a": [
+                        "īs"
+                    ],
+                    "q": "Mārcus: \"Rosae pulchrae sunt, puella sine ros# pulchra nōn est!\""
+                },
+                {
+                    "a": [
+                        "ā",
+                        "ā",
+                        "it"
+                    ],
+                    "q": "Iūlia cum ūn# ros# discēd#."
+                },
+                {
+                    "a": [
+                        "ent"
+                    ],
+                    "q": "Puerī rīd#."
+                },
+                {
+                    "a": [
+                        "ēte",
+                        "ite",
+                        "ās",
+                        "ite"
+                    ],
+                    "q": "Aemilia: \"Tac#, puerī! Sūm# ros# et discēd#!\""
+                },
+                {
+                    "a": [
+                        "ās",
+                        "unt",
+                        "unt",
+                        "ō",
+                        "am",
+                        "unt",
+                        "ō",
+                        "ās",
+                        "ā",
+                        "unt"
+                    ],
+                    "q": "Puerī ros# sūm# et discēd# ; in ātri# aqu# sūm# ex impluvi# et ros# in aqu# pōn#."
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "PENSVM B",
+            "info": "",
+            "questions": [
+                {
+                    "a": [
+                        "vīllā",
+                        "habitat",
+                        "eō"
+                    ],
+                    "q": "Iūlius in magnā # #. Aemilia cum # [: Iūliō] habitat."
+                },
+                {
+                    "a": [
+                        "amat",
+                        "ea",
+                        "pulchra"
+                    ],
+                    "q": "Iūlius Aemiliam #, quia # [: Aemilia] bona et # fēmina est."
+                },
+                {
+                    "a": [
+                        "cum",
+                        "sine"
+                    ],
+                    "q": "Aemilia in peristȳlō est # līberīs suīs, sed # virō suō."
+                },
+                {
+                    "a": [
+                        "ab",
+                        "hortō"
+                    ],
+                    "q": "Iūlia # Aemiliā discēdit; iam puella in # est."
+                },
+                {
+                    "a": [
+                        "carpit",
+                        "ex",
+                        "rosīs"
+                    ],
+                    "q": "Iūlia rosās # et # hortō venit cum V #."
+                },
+                {
+                    "a": [
+                        "dēlectant"
+                    ],
+                    "q": "Puella laeta est: rosae eam #."
+                },
+                {
+                    "a": [
+                        "Id",
+                        "ātriō"
+                    ],
+                    "q": "Ubi est impluvium? # [: impluvium] est in #."
+                },
+                {
+                    "a": [
+                        "aqua",
+                        "fenestrae"
+                    ],
+                    "q": "In impluviō # est. In ātriō nūllae # sunt."
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "PENSVM C",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Num Iūlius sōlus in vīllā habitat? ",
+                    "a": []
+                },
+                {
+                    "q": "2. Quot fīliōs et quot fīliās habent Iūlius et Aemilia? ",
+                    "a": []
+                },
+                {
+                    "q": "3. Ubi est impluvium? ",
+                    "a": []
+                },
+                {
+                    "q": "4. Ubi dormiunt servī? ",
+                    "a": []
+                },
+                {
+                    "q": "5. Adestne Iūlius in peristȳlō cum Aemiliā? ",
+                    "a": []
+                },
+                {
+                    "q": "6. Ubi est Iūlius? ",
+                    "a": []
+                },
+                {
+                    "q": "7. Estne Aemilia sōla in peristȳlō? ",
+                    "a": []
+                },
+                {
+                    "q": "8. Quid agit Iūlia in hortō? ",
+                    "a": []
+                },
+                {
+                    "q": "9. Cūr puerī Iūliam rīdent? ",
+                    "a": []
+                }
+            ]
+        }
+    ]
+}

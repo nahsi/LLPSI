@@ -1,0 +1,1144 @@
+{
+    "id": 30,
+    "name": "CAPITVLVM XXXI",
+    "exercises": [
+        {
+            "id": 0,
+            "name": "Exercise 1",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. In #dam urbe Asiae vīvēbat rēx #dam.",
+                    "a": [
+                        "quā",
+                        "quī"
+                    ]
+                },
+                {
+                    "q": "2. #dam īnsula Graeca ab Īcarō appellāta esse dīcitur.",
+                    "a": [
+                        "Quae"
+                    ]
+                },
+                {
+                    "q": "3. Graecī putant #dam īnsulam ab Īcarō appellātam esse.",
+                    "a": [
+                        "quan"
+                    ]
+                },
+                {
+                    "q": "4. Etiam mare #dam ab Īcarō appellātum est.",
+                    "a": [
+                        "quod"
+                    ]
+                },
+                {
+                    "q": "5. Īcarus #dam marī et #dam īnsulae nōmen dedit.",
+                    "a": [
+                        "cui",
+                        "cui"
+                    ]
+                },
+                {
+                    "q": "6. Syra ōlim virum #dam īnfīdum amāvit.",
+                    "a": [
+                        "quen"
+                    ]
+                },
+                {
+                    "q": "7. Polycratēs est nōmen #dam tyrannī, quī ā #dam amīcō suō monitus est ut rem pretiōsissimam abiceret.",
+                    "a": [
+                        "cuius",
+                        "quō"
+                    ]
+                },
+                {
+                    "q": "8. Chrīstus in #dam oppidō Iūdaeae nātus est.",
+                    "a": [
+                        "quō"
+                    ]
+                },
+                {
+                    "q": "9. #dam mēnsēs ā #dam diīs Rōmānīs nōminantur.",
+                    "a": [
+                        "Quī",
+                        "quibus"
+                    ]
+                },
+                {
+                    "q": "10. #dam mēnsibus ā diīs nōmina sunt.",
+                    "a": [
+                        "Quibus"
+                    ]
+                },
+                {
+                    "q": "11. Rōmānī #dam stēllās ‘errantēs’ appellant.",
+                    "a": [
+                        "quās"
+                    ]
+                },
+                {
+                    "q": "12. In #dam vocābulīs cōnsonantēs dēsunt, ut 'ā', 'ē', 'iī', 'eō'.",
+                    "a": [
+                        "quibus"
+                    ]
+                },
+                {
+                    "q": "13. #dam verba ‘dēpōnentia’ dīcuntur.",
+                    "a": [
+                        "Quae"
+                    ]
+                },
+                {
+                    "q": "14. Nōmina #dam oppidōrum et #dam īnsulārum plūrālia sunt, ut 'Athēnae', 'Delphī', 'Pompēiī', 'Capreae'.",
+                    "a": [
+                        "quōrun",
+                        "quārun"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Exercise 2",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Cornēlius, cui mala # est, nōmen Mēdī oblītus est.",
+                    "a": [
+                        "memoria"
+                    ]
+                },
+                {
+                    "q": "2. Homō # nihil magis # [= cupit] quam dīvitiās.",
+                    "a": [
+                        "avārus",
+                        "optat"
+                    ]
+                },
+                {
+                    "q": "3. # ā rēge tāctum erat in aurum mūtābātur.",
+                    "a": [
+                        "Quidquid"
+                    ]
+                },
+                {
+                    "q": "4. Hoc # [= dōnum] mīrābile eī dederat deus Bacchus.",
+                    "a": [
+                        "mūnus"
+                    ]
+                },
+                {
+                    "q": "5. Etiam cibus et # ā rēge tācta aurum fīēbat.",
+                    "a": [
+                        "pōtiō"
+                    ]
+                },
+                {
+                    "q": "6. Iūlius # [<> patiēns], quia plūra dē Mēdō cognōscere cupit, Orontem dē Midae auribus # nārrantem interpellat.",
+                    "a": [
+                        "impatiēns",
+                        "asinīnīs"
+                    ]
+                },
+                {
+                    "q": "7. Mēdus, quī herī domō #, # pecūniae sēcum #.",
+                    "a": [
+                        "aufūgit",
+                        "aliquantum",
+                        "abstulit"
+                    ]
+                },
+                {
+                    "q": "8. # [= quam multum] pecūniae abstulit Mēdus? XC sēstertiōs.",
+                    "a": [
+                        "Quantum"
+                    ]
+                },
+                {
+                    "q": "9. Iūlius, quī frūstrā Mēdō # [= crēdēbat], ‘ūnum sibi servum # esse’ dīcit, ‘cēterōs omnēs # nec # suā dignōs!’",
+                    "a": [
+                        "fīdēbat",
+                        "fīdum",
+                        "infīdōs",
+                        "fidē"
+                    ]
+                },
+                {
+                    "q": "10. Posthāc Iūlius nūllī servō Graecō # [= fīdet].",
+                    "a": [
+                        "cōnfīdet"
+                    ]
+                },
+                {
+                    "q": "11. Dominus servum # [= quī adest] laudāre nōn vult.",
+                    "a": [
+                        "praesentem"
+                    ]
+                },
+                {
+                    "q": "12. # Mēdus pecūniam dominī surripuit? Ob amōrem Lȳdiae.",
+                    "a": [
+                        "Quamobrem"
+                    ]
+                },
+                {
+                    "q": "13. # # mīlitēs Rōmānī appāruērunt, hostēs fūgērunt.",
+                    "a": [
+                        "Simul",
+                        "atque|ac"
+                    ]
+                },
+                {
+                    "q": "14. Quī malā fortūnā afficitur # [<> fēlīx] est.",
+                    "a": [
+                        "īnfēlīx"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Exercise 3",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Dē quibus rēbus est sermō convīvārum? ...",
+                    "a": [
+                        "convīvae colloquuntur dē fugā Mēdī et dē poenīs servōrum"
+                    ]
+                },
+                {
+                    "q": "2. Quid Iūlius hospitēs suōs interrogat? ...",
+                    "a": [
+                        "hospitēs interrogat dē rēbus urbānīs"
+                    ]
+                },
+                {
+                    "q": "3. Cūr paucās epistulās accipit Iūlius? ...",
+                    "a": [
+                        "... quia ipse paucās epistulās scrībit"
+                    ]
+                },
+                {
+                    "q": "4. Quem Cornēlius in viā Latīnā vīdit? ...",
+                    "a": [
+                        "Mēdum vīdit in viā Latīnā"
+                    ]
+                },
+                {
+                    "q": "5. Quam fābulam nārrat Orontēs? ...",
+                    "a": [
+                        "Orontēs fābulam nārrat dē Midā rēge"
+                    ]
+                },
+                {
+                    "q": "6. Cūr Iūlius Orontem interpellat? ...",
+                    "a": [
+                        "Iūlius dē suō Mēdō servō loquī māvult"
+                    ]
+                },
+                {
+                    "q": "7. Quōmodo Midās rēs in aurum mūtāre poterat? ...",
+                    "a": [
+                        "Midās omnia manū tangendō in aurum mūtāre poterat"
+                    ]
+                },
+                {
+                    "q": "8. Quis rēgī hoc mūnus dederat? ...",
+                    "a": [
+                        "hoc mūnus illī dederat Bacchus"
+                    ]
+                },
+                {
+                    "q": "9.  Num Midās illō mūnere mīrābilī dēlectābātur? ...",
+                    "a": [
+                        "rēx miser fuit quod cibus eius in aurum mūtābātur"
+                    ]
+                },
+                {
+                    "q": "10. Quid Bacchus rēgī suāsit? ...",
+                    "a": [
+                        "Bacchus eī suāsit ut in quōdam flūmine lavārētur"
+                    ]
+                },
+                {
+                    "q": "11. Quid accidit cum rēx in flūmine lavārētur? ...",
+                    "a": [
+                        "color aquae aureus factus est"
+                    ]
+                },
+                {
+                    "q": "12. Quid Iūlius Mēdum fēcisse nārrat? ...",
+                    "a": [
+                        "Iūlius nārrat ‘Mēdum cum pecūniā dominī aufūgisse'"
+                    ]
+                },
+                {
+                    "q": "13. Omnēsne servī Iūliī īnfīdī sunt? ...",
+                    "a": [
+                        "Iūlius dīcit ‘omnēs servōs suōs īnfīdōs esse praeter ūnum’"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Exercise 4",
+            "info": "Exempla:\nBonus sermō mē tam dēlectat quam bonum vīnum.\nNumerus hostium tantus erat quantus Rōmānōrum.\nCornēlius nōn tantum bibit quantum Orontēs.\nTot ancillae sunt quot servī: quot servī, tot ancillae.\nTālis est fīlia quālis māter: quālis māter, tālis fīlia.\n",
+            "questions": [
+                {
+                    "q": "1. Pater fīliam suam tam amat # māter.",
+                    "a": [
+                        "quam"
+                    ]
+                },
+                {
+                    "q": "2. Aemilia tot ānulōs habet # digitōs.",
+                    "a": [
+                        "quot"
+                    ]
+                },
+                {
+                    "q": "3. Vīlla Cornēliī nōn tanta est # Iūliī.",
+                    "a": [
+                        "quanta"
+                    ]
+                },
+                {
+                    "q": "4. Iūlius tantum pecūniae prōmittit # Mēdus abstulit.",
+                    "a": [
+                        "quantum"
+                    ]
+                },
+                {
+                    "q": "5. Tot sententiae sunt # hominēs: # hominēs, # sententiae.",
+                    "a": [
+                        "quot",
+                        "quot",
+                        "tot"
+                    ]
+                },
+                {
+                    "q": "6. # dux, tālēs mīlitēs.",
+                    "a": [
+                        "Quālis"
+                    ]
+                },
+                {
+                    "q": "7. # caelum stēllās, # habet tua Rōma puellās.",
+                    "a": [
+                        "Quot",
+                        "tot"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Exercise 5",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Facile est Rōmae # [= occultārī].",
+                    "a": [
+                        "latēre"
+                    ]
+                },
+                {
+                    "q": "2. Iūlius magnum # dabit eī quī Mēdum ē fugā #, # [= antequam] Italiam relīquerit.",
+                    "a": [
+                        "praemium",
+                        "retrāxerit",
+                        "priusquam"
+                    ]
+                },
+                {
+                    "q": "3. Servus # [< fugere] sevērē pūnītur: in # fīgitur vel aliō modō #; # [= ob eam rem] paucī servī aufugiunt.",
+                    "a": [
+                        "fugitīvus",
+                        "cruce",
+                        "cruciātur",
+                        "ideō"
+                    ]
+                },
+                {
+                    "q": "4. Nōn sevērus, sed # est dominus quī servō improbō #.",
+                    "a": [
+                        "clēmēns",
+                        "ignōscit"
+                    ]
+                },
+                {
+                    "q": "5. Dominus # est quī numquam sine causā servum pūnit.",
+                    "a": [
+                        "iūstus"
+                    ]
+                },
+                {
+                    "q": "6. # [<> iūstus] est quī # facit.",
+                    "a": [
+                        "Iniūstus",
+                        "iniūriam"
+                    ]
+                },
+                {
+                    "q": "7. Servī dominum iniūstum nōn amant, sed #.",
+                    "a": [
+                        "ōdērunt"
+                    ]
+                },
+                {
+                    "q": "8. Nex hominis est # quod sevērē pūnītur, sed servum suum scelestum # [= poenā capitis] afficere est # dominī Rōmānī.",
+                    "a": [
+                        "scelus",
+                        "suppliciō",
+                        "iūs"
+                    ]
+                },
+                {
+                    "q": "9. Necesse est hominēs # [< scelus] sevērē pūnīre.",
+                    "a": [
+                        "scelestōs"
+                    ]
+                },
+                {
+                    "q": "10. Solō,  vir #,  quī Athēniēnsibus # scrīpsit, nūllam # in parricīdās #.",
+                    "a": [
+                        "sapiēns",
+                        "lēgēs",
+                        "poenam",
+                        "statuit"
+                    ]
+                },
+                {
+                    "q": "11. Pater # fuit Mānlius, quī fīlium # exercitū necārī iussit.",
+                    "a": [
+                        "crūdēlis",
+                        "cōram"
+                    ]
+                },
+                {
+                    "q": "12. Iūlius servōs clāmāre #: “Nōlīte clāmāre, servī!”",
+                    "a": [
+                        "vetat"
+                    ]
+                },
+                {
+                    "q": "13. Mēdus C sēstertiōs # [= nimis māgnum] pretium esse cēnsēbat.",
+                    "a": [
+                        "nimium"
+                    ]
+                },
+                {
+                    "q": "14. Vir quadrāgintā annōrum adhūc # est.",
+                    "a": [
+                        "iuvenis"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Exercise 6",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Quid Iūlius faciet Mēdō sī eum invēnerit? ...",
+                    "a": [
+                        "Iūlius servum suum fugitīvum sevērē pūniet"
+                    ]
+                },
+                {
+                    "q": "2. Ubi Cornēlius Mēdum latēre putat? ...",
+                    "a": [
+                        "Cornēlius eum Rōmae latēre putat"
+                    ]
+                },
+                {
+                    "q": "3. Estne facile servum fugitīvum Rōmae reperīre? ...",
+                    "a": [
+                        "difficile est in tantā urbe inter tot hominēs servum fugitīvum reperīre"
+                    ]
+                },
+                {
+                    "q": "4. Quid Iūlius dabit eī quī Mēdum retrāxerit? ...",
+                    "a": [
+                        "Iūlius praemium dabit eī quī eum servum retrāxerit"
+                    ]
+                },
+                {
+                    "q": "5. Quid Aemilia virō suō suādet? ...",
+                    "a": [
+                        "Aemilia Iūliō suādet ut clēmēns sit nēve Mēdum cruciet"
+                    ]
+                },
+                {
+                    "q": "6. Utrum clēmēns an sevērus dominus est Iūlius? ...",
+                    "a": [
+                        "dominus sevērus esse vidētur"
+                    ]
+                },
+                {
+                    "q": "7. Cūr dominō sevērō tot hostēs sunt quot servī? ...",
+                    "a": [
+                        "... quod servī dominum sevērum ōdērunt"
+                    ]
+                },
+                {
+                    "q": "8. Cūr Iūlius sē dominum iūstum esse cēnset? ...",
+                    "a": [
+                        "... quod numquam sine causā servum pūnīvit"
+                    ]
+                },
+                {
+                    "q": "9. Quārē servī fugitīvī sevērē pūniuntur? ...",
+                    "a": [
+                        "servī fugitīvi pūniuntur ut ā fugā dēterreantur"
+                    ]
+                },
+                {
+                    "q": "10. Cūr Solō nūllam poenam statuit in parricīdās? ...",
+                    "a": [
+                        "... quia exīstimābat nēminem patrem suum occīsūrum esse"
+                    ]
+                },
+                {
+                    "q": "11. Quid fēcit Titus Mānlius Torquātus? ...",
+                    "a": [
+                        "ille fīlium suum necārī iussit quod patrī nōn oboedīverat"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Exercise 7",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Servī probī laud# sunt, improbī sunt pūn#.",
+                    "a": [
+                        "andī",
+                        "iendī"
+                    ]
+                },
+                {
+                    "q": "2. Vir quī accūsātur dīligenter interrog# est.",
+                    "a": [
+                        "andus"
+                    ]
+                },
+                {
+                    "q": "3. Omnia menda corrig# sunt: stilus saepe vert# est.",
+                    "a": [
+                        "enda",
+                        "endus"
+                    ]
+                },
+                {
+                    "q": "4. Dēl# sunt omnēs litterae quae supersunt.",
+                    "a": [
+                        "endae"
+                    ]
+                },
+                {
+                    "q": "5. Dē mortuīs nihil nisi bene dīc# est.",
+                    "a": [
+                        "endum"
+                    ]
+                },
+                {
+                    "q": "6. Dolōrēs gravēs aequō animō fer# sunt.",
+                    "a": [
+                        "endī"
+                    ]
+                },
+                {
+                    "q": "7. Ad amīcum absentem frequentēs epistulae scrīb# sunt.",
+                    "a": [
+                        "endae"
+                    ]
+                },
+                {
+                    "q": "8. Dāvus ‘manūs sordidās lav# esse’ dīcit.",
+                    "a": [
+                        "andās"
+                    ]
+                },
+                {
+                    "q": "9. Orontēs Chrīstiānōs ad bēstiās mitt# esse cēnset.",
+                    "a": [
+                        "endōs"
+                    ]
+                },
+                {
+                    "q": "10. Aemilia putat pecūniam dēbitam ad diem solv# esse.",
+                    "a": [
+                        "endam"
+                    ]
+                },
+                {
+                    "q": "11. Nunc est bib#, dorm# nōn est!",
+                    "a": [
+                        "endum",
+                        "iendum"
+                    ]
+                },
+                {
+                    "q": "12. Tac# est cum dominus loquitur.",
+                    "a": [
+                        "endum"
+                    ]
+                },
+                {
+                    "q": "13. Puella plōrāns cōnsōl# est.",
+                    "a": [
+                        "anda"
+                    ]
+                },
+                {
+                    "q": "14. Malum exemplum sequ# nōn est.",
+                    "a": [
+                        "endum"
+                    ]
+                },
+                {
+                    "q": "15. Semper vērum dīc# est, numquam ment# est.",
+                    "a": [
+                        "endum",
+                        "iendum"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Exercise 8",
+            "info": "Exempla:\nOvēs pāstōrī [= ā pāstōre] cūstōdiendae sunt.\n“Cum dominus loquitur, tacendum est tibi, serve!”\n",
+            "questions": [
+                {
+                    "q": "1. Vīlla iānitōr# cūstōdienda est.",
+                    "a": [
+                        "ī"
+                    ]
+                },
+                {
+                    "q": "2. Quidquid dominus imperāvit serv# faciendum est.",
+                    "a": [
+                        "ō"
+                    ]
+                },
+                {
+                    "q": "3. Multa nova vocābula n# discenda sunt.",
+                    "a": [
+                        "ōbīs"
+                    ]
+                },
+                {
+                    "q": "4. Iūlius: “Laetor quod m# in agrīs labōrandum nōn est.”",
+                    "a": [
+                        "ihi"
+                    ]
+                },
+                {
+                    "q": "5. Mārcus: “Quid m# scrībendum est?” Magister: “Littera H t# scrībenda est deciēs.”",
+                    "a": [
+                        "ihi",
+                        "ibi"
+                    ]
+                },
+                {
+                    "q": "6. Servī: “Quid n# agendum est?” Dominus: “V# in hortō labōrandum est.”",
+                    "a": [
+                        "ōbīs",
+                        "ōbīs"
+                    ]
+                },
+                {
+                    "q": "7. Agricola est vir c# agrī colendī sunt.",
+                    "a": [
+                        "ui"
+                    ]
+                },
+                {
+                    "q": "8. Discipulus piger cēter# imitandus nōn est.",
+                    "a": [
+                        "īs"
+                    ]
+                },
+                {
+                    "q": "9. Omn# moriendum est. ",
+                    "a": [
+                        "ibus"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Exercise 9",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Īnfantēs # [= invalidōs] expōnere # inhūmānus erat.",
+                    "a": [
+                        "dēbilēs",
+                        "mōs"
+                    ]
+                },
+                {
+                    "q": "2. Quod # [= dē] convīviīs Chrīstiānōrum nārrātur # falsus est.",
+                    "a": [
+                        "super",
+                        "rūmor"
+                    ]
+                },
+                {
+                    "q": "3. Paris īnfāns inventus ā pāstōribus cum līberīs eōrum # est.",
+                    "a": [
+                        "ēducātus"
+                    ]
+                },
+                {
+                    "q": "4. Paris iuvenis Helenam ā marītō #, # [= nam] ea fēmina erat omnium pulcherrima.",
+                    "a": [
+                        "abdūxit",
+                        "namque"
+                    ]
+                },
+                {
+                    "q": "5. Nestor # [<> adulēscēns] ad # [XC] annum vīxit.",
+                    "a": [
+                        "senex",
+                        "nōnāgēsimum"
+                    ]
+                },
+                {
+                    "q": "6. Orontēs pōculum suum # [= ā fundō] exhausit.",
+                    "a": [
+                        "funditus"
+                    ]
+                },
+                {
+                    "q": "7. “# amat valeat!” cantat Orontēs.",
+                    "a": [
+                        "Quisquis"
+                    ]
+                },
+                {
+                    "q": "8. Orontēs # est, quia # [= nimis multum] vīnī bibit.",
+                    "a": [
+                        "ēbrius",
+                        "nimium"
+                    ]
+                },
+                {
+                    "q": "9. Itaque ab ōvō ūsque ad māla # [= loquitur].",
+                    "a": [
+                        "fābulātur"
+                    ]
+                },
+                {
+                    "q": "10. Aemilia tālēs # [= rēs stultās] audīre nōn vult.",
+                    "a": [
+                        "nūgās"
+                    ]
+                },
+                {
+                    "q": "11. Vīnum novum nōn tam bonum est quam vīnum #.",
+                    "a": [
+                        "vetus"
+                    ]
+                },
+                {
+                    "q": "12. # dux imperāvit mīlitibus faciendum est.",
+                    "a": [
+                        "Quidquid|Quicquid"
+                    ]
+                },
+                {
+                    "q": "13. Senex # [<> validus] pugnāre nōn potest.",
+                    "a": [
+                        "invalidus"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Exercise 10",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Quālēs īnfantēs ōlim ad bēstiās expōnēbantur? ...",
+                    "a": [
+                        "ōlim expōnēbantur multī īnfantēs dēbilēs"
+                    ]
+                },
+                {
+                    "q": "2. Quī hominēs ad bēstiās mittuntur? ...",
+                    "a": [
+                        "ad bēstiās mittuntur hominēs scelestī"
+                    ]
+                },
+                {
+                    "q": "3. Num omnēs īnfantēs expositī perībant? ...",
+                    "a": [
+                        "aliquī īnfantēs expositī ā pāstōribus servatī sunt"
+                    ]
+                },
+                {
+                    "q": "4. Cuius fīlius fuit Paris? ...",
+                    "a": [
+                        "Paris fīlius rēgis Priamī fuit"
+                    ]
+                },
+                {
+                    "q": "5. Quōmodo Paris īnfāns servātus est? ...",
+                    "a": [
+                        "Paris īnfāns in monte expositus ā pāstōribus inventus est"
+                    ]
+                },
+                {
+                    "q": "6. Quid fēcit Paris iuvenis? ...",
+                    "a": [
+                        "Paris Helenam, Menelāī uxōrem, abdūxit"
+                    ]
+                },
+                {
+                    "q": "7. Nestor quis fuit? ...",
+                    "a": [
+                        "Nestor fuit dux Graecōrum senex"
+                    ]
+                },
+                {
+                    "q": "8. Cūr cēterī convīvae Orontem tacēre iubent? ...",
+                    "a": [
+                        "... quia Orontēs ēbrius nimium fābulātur"
+                    ]
+                },
+                {
+                    "q": "9. Quid Orontēs dīcit Aemiliae? ...",
+                    "a": [
+                        "Orontēs dīcit ‘Aemiliam tam pulchram esse quam Helenam’"
+                    ]
+                },
+                {
+                    "q": "10. Quid Aemilia respondet? ...",
+                    "a": [
+                        "Aemilia respondet ‘eum ēbrium esse ac tam rūsticum quam Paridem’"
+                    ]
+                },
+                {
+                    "q": "11. Quid cantat Orontēs? ...",
+                    "a": [
+                        "Orontēs carmen dē amandō cantat"
+                    ]
+                },
+                {
+                    "q": "12. Cūr Orontēs carminis fīnem nōn facit? ...",
+                    "a": [
+                        "antequam fīnem facit, sub mēnsam lābitur"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Exercise 11",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. 'Lauda|nd|us -a -um' est #, quod est adiectīvum prīmae et secundae dēclīnātiōnis.",
+                    "a": [
+                        "gerundīvum"
+                    ]
+                },
+                {
+                    "q": "2. Gerundīvum (nōm. sing. masc.) dēsinit in -nd|us [1, 2] aut -end|us [3, 4], quod ad thema praesentis adicitur: lauda|#, mone|#, leg|#, audi|#.",
+                    "a": [
+                        "ndus",
+                        "ndus",
+                        "endus",
+                        "endus"
+                    ]
+                },
+                {
+                    "q": "3. Gerundīvum cum verbō 'esse' coniūnctum significat id quod fierī oportet: epistula scrīb# # = epistulam scrībī oportet.",
+                    "a": [
+                        "enda",
+                        "est"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Exercise 12",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. accipere, ac#isse, ac#um esse",
+                    "a": [
+                        "cēp",
+                        "cept"
+                    ]
+                },
+                {
+                    "q": "2. audēre, #um esse",
+                    "a": [
+                        "aus"
+                    ]
+                },
+                {
+                    "q": "3. auferre, #isse, #um esse",
+                    "a": [
+                        "abstul",
+                        "ablāt"
+                    ]
+                },
+                {
+                    "q": "4. bibere, #isse",
+                    "a": [
+                        "bib"
+                    ]
+                },
+                {
+                    "q": "5. statuere, #isse, #um esse",
+                    "a": [
+                        "statu",
+                        "statūt"
+                    ]
+                },
+                {
+                    "q": "6. tangere, #isse, #um esse",
+                    "a": [
+                        "tetig",
+                        "tāct"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "PENSVM A",
+            "info": "",
+            "questions": [
+                {
+                    "a": [
+                        "endae",
+                        "enda"
+                    ],
+                    "q": "In hīs exemplīs syllabae quae dēsunt add# sunt: Mercēs ad diem solv# est."
+                },
+                {
+                    "a": [
+                        "endus"
+                    ],
+                    "q": "Quī fūrtum fēcit pūni# est."
+                },
+                {
+                    "a": [
+                        "endum"
+                    ],
+                    "q": "Quidquid dux imperāvit mīlitibus faci# est."
+                },
+                {
+                    "a": [
+                        "andum",
+                        "endum"
+                    ],
+                    "q": "Quid magis opt# est quam vīta beāta? Ē malīs minimum ēlig# est."
+                },
+                {
+                    "a": [
+                        "andum"
+                    ],
+                    "q": "In perīculīs dēspēr# nōn est."
+                },
+                {
+                    "a": [
+                        "endum",
+                        "andum"
+                    ],
+                    "q": "Pater dīcit \"fīlium pūni# esse, nōn laud#.\""
+                },
+                {
+                    "a": [
+                        "tetig",
+                        "tāct"
+                    ],
+                    "q": "Verba: tangere, #isse, #um;"
+                },
+                {
+                    "a": [
+                        "cēp",
+                        "cept"
+                    ],
+                    "q": "accipere, ac#isse, ac#um;"
+                },
+                {
+                    "a": [
+                        "abstul",
+                        "ablāt"
+                    ],
+                    "q": "auferre, #isse, #um;"
+                },
+                {
+                    "a": [
+                        "statu",
+                        "statūt"
+                    ],
+                    "q": "statuere, #isse, #um;"
+                },
+                {
+                    "a": [
+                        "intellēx",
+                        "intellēct"
+                    ],
+                    "q": "intellegere, #isse, #um;"
+                },
+                {
+                    "a": [
+                        "bib"
+                    ],
+                    "q": "bibere, #isse;"
+                },
+                {
+                    "a": [
+                        "aus"
+                    ],
+                    "q": "audēre, #um esse."
+                },
+                {
+                    "a": [
+                        "enda"
+                    ],
+                    "q": "In exemplīs quae sequuntur vocābula add# sunt."
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "PENSVM B",
+            "info": "",
+            "questions": [
+                {
+                    "a": [
+                        "aufūgit",
+                        "auferēns"
+                    ],
+                    "q": "Herī Mēdus ā dominō # aliquantum pecūniae sēcum #."
+                },
+                {
+                    "a": [
+                        "ōdit"
+                    ],
+                    "q": "Mēdus dominum suum nōn amat, sed #."
+                },
+                {
+                    "a": [
+                        "latēre",
+                        "praemium",
+                        "priusquam"
+                    ],
+                    "q": "Iūlius, quī eum Rōmae # [= occultārī] putat, magnum # dabit eī quī eum invēnerit # [= antequam] Italiam relīquerit."
+                },
+                {
+                    "a": [
+                        "clēmentēs",
+                        "ignōscere"
+                    ],
+                    "q": "Iūlius dīcit \"mulierēs nimis # esse ac facile virīs nēquissimīs #.\""
+                },
+                {
+                    "a": [
+                        "Quidquid"
+                    ],
+                    "q": "# dominus imperāvit servō faciendum est."
+                },
+                {
+                    "a": [
+                        "sapiēns",
+                        "lēgēs"
+                    ],
+                    "q": "Solō, vir #, Athēniēnsibus # optimās scrīpsit."
+                },
+                {
+                    "a": [
+                        "scelus"
+                    ],
+                    "q": "Patrem suum necāre # inhūmānum est."
+                },
+                {
+                    "a": [
+                        "senex",
+                        "iuvenis",
+                        "abdūxit"
+                    ],
+                    "q": "Iūlius nōndum # est ut Nestor, sed adhūc # ut Paris ille quī Helenam ā marītō #."
+                },
+                {
+                    "a": [
+                        "Quisquis",
+                        "ēbrius",
+                        "nimium"
+                    ],
+                    "q": "\"# amat valeat!\" cantat Orontēs, quī # est quod # [= nimis multum] vīnī pōtāvit."
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "PENSVM C",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Quis fuit Midās? ",
+                    "a": []
+                },
+                {
+                    "q": "2. Quamobrem Midās fame et sitī cruciābātur? ",
+                    "a": []
+                },
+                {
+                    "q": "3. Cūr Iūlius illam fābulam audīre nōn vult? ",
+                    "a": []
+                },
+                {
+                    "q": "4. Ubi Cornēlius servum Iūliī vīdit? ",
+                    "a": []
+                },
+                {
+                    "q": "5. Quantum pecūniae Mēdus sēcum abstulit? ",
+                    "a": []
+                },
+                {
+                    "q": "6. Estne Mēdus adhūc Rōmae? ",
+                    "a": []
+                },
+                {
+                    "q": "7. Quid faciet Iūlius sī Mēdum invēnerit? ",
+                    "a": []
+                },
+                {
+                    "q": "8. Quōmodo hominēs ā maleficiīs dēterrentur? ",
+                    "a": []
+                },
+                {
+                    "q": "9. Quam fēminam Paris abdūxit? ",
+                    "a": []
+                },
+                {
+                    "q": "10. Quī hominēs ad bēstiās mittuntur? ",
+                    "a": []
+                },
+                {
+                    "q": "11. Cūr Orontēs pedibus stāre nōn potest? ",
+                    "a": []
+                }
+            ]
+        }
+    ]
+}

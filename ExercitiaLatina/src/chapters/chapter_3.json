@@ -1,0 +1,1082 @@
+{
+    "id": 2,
+    "name": "CAPITVLVM III",
+    "exercises": [
+        {
+            "id": 0,
+            "name": "Exercise 1",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. In # prīmā sunt trēs #: Iūlia, Mārcus, Quīntus.",
+                    "a": [
+                        "scaenā",
+                        "persōnae"
+                    ]
+                },
+                {
+                    "q": "2. Iūlia #: \"Lalla, lalla!\" Iūlia # est.",
+                    "a": [
+                        "cantat",
+                        "laeta"
+                    ]
+                },
+                {
+                    "q": "3. Mārcus laetus nōn est, Mārcus # est.",
+                    "a": [
+                        "īrātus"
+                    ]
+                },
+                {
+                    "q": "4. Mārcus Iūliam #.",
+                    "a": [
+                        "pulsat"
+                    ]
+                },
+                {
+                    "q": "5. # Iūlia nōn cantat, sed #.",
+                    "a": [
+                        "Iam",
+                        "plōrat"
+                    ]
+                },
+                {
+                    "q": "6. Mārcus #: \"Hahahae!\"",
+                    "a": [
+                        "rīdet"
+                    ]
+                },
+                {
+                    "q": "7. Iūlia: \"Ubi est māter?\" Iūlia Aemiliam nōn #.",
+                    "a": [
+                        "videt"
+                    ]
+                },
+                {
+                    "q": "8. Iūlia Aemiliam #: \"Mamma!\"",
+                    "a": [
+                        "vocat"
+                    ]
+                },
+                {
+                    "q": "9. Aemilia #.",
+                    "a": [
+                        "venit"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Exercise 2",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Mārcus Iūli# pulsat.",
+                    "a": [
+                        "am"
+                    ]
+                },
+                {
+                    "q": "2. Mārcus Quīnt# nōn videt, sed Quīntus Mārc# videt.",
+                    "a": [
+                        "um",
+                        "um"
+                    ]
+                },
+                {
+                    "q": "3. Quīntus: \"Quid? Mārcus puell# pulsat?\"",
+                    "a": [
+                        "am"
+                    ]
+                },
+                {
+                    "q": "4. Quīntus Mārc# pulsat, et Mārcus pulsat Quīnt#.",
+                    "a": [
+                        "um",
+                        "um"
+                    ]
+                },
+                {
+                    "q": "5. Iūlia nōn videt Aemili#.",
+                    "a": [
+                        "am"
+                    ]
+                },
+                {
+                    "q": "6. Iūlia Aemili# vocat: \"Mamma!\"",
+                    "a": [
+                        "am"
+                    ]
+                },
+                {
+                    "q": "7. Mārcus īrātus Iūli# pulsat.",
+                    "a": [
+                        "am"
+                    ]
+                },
+                {
+                    "q": "8. Iūlia: \"Mamma! Mārcus # pulsat!\"",
+                    "a": [
+                        "mē"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Exercise 3",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Iūlia cant#, et Mārcus eam puls#!",
+                    "a": [
+                        "at",
+                        "at"
+                    ]
+                },
+                {
+                    "q": "2. Iam Iūlia nōn cant#, sed plōr#.",
+                    "a": [
+                        "at",
+                        "at"
+                    ]
+                },
+                {
+                    "q": "3. Iūlia Aemiliam nōn vid#; Iūlia Aemiliam voc#.",
+                    "a": [
+                        "et",
+                        "at"
+                    ]
+                },
+                {
+                    "q": "4. Aemilia ven# et interrog#: \"Ubi est Iūlius?\"",
+                    "a": [
+                        "it",
+                        "at"
+                    ]
+                },
+                {
+                    "q": "5. Mārcus respond#: \"Pater dorm#.\"",
+                    "a": [
+                        "et",
+                        "it"
+                    ]
+                },
+                {
+                    "q": "6. Quīntus Iūlium voc#.",
+                    "a": [
+                        "at"
+                    ]
+                },
+                {
+                    "q": "7. Iūlius dorm# neque Quīntum aud#.",
+                    "a": [
+                        "it",
+                        "it"
+                    ]
+                },
+                {
+                    "q": "8. Mārcus rīd#, quia Iūlius nōn ven#.",
+                    "a": [
+                        "et",
+                        "it"
+                    ]
+                },
+                {
+                    "q": "9. Aemilia Mārcum verber#.",
+                    "a": [
+                        "at"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Exercise 4",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Aemilia Quīntum #: \"Quis mē vocat?\"",
+                    "a": [
+                        "interrogat"
+                    ]
+                },
+                {
+                    "q": "2. Quīntus #: \"Iūlia # vocat.\"",
+                    "a": [
+                        "respondet",
+                        "tē"
+                    ]
+                },
+                {
+                    "q": "3. Aemilia #: \"# Iūlia plōrat?\"",
+                    "a": [
+                        "interrogat",
+                        "Cūr"
+                    ]
+                },
+                {
+                    "q": "4. Quīntus #: \"Iūlia plōrat, # Mārcus # pulsat.\"",
+                    "a": [
+                        "respondet",
+                        "quia",
+                        "eam"
+                    ]
+                },
+                {
+                    "q": "5. Aemilia: \"Mārcus puer # est! Ubi est Iūlius?\"",
+                    "a": [
+                        "improbus"
+                    ]
+                },
+                {
+                    "q": "6. Quīntus: \"Pater nōn # est, sed Mārcus # est.\"",
+                    "a": [
+                        "hīc",
+                        "hīc"
+                    ]
+                },
+                {
+                    "q": "7. Quīntus Iūlium vocat; Iūlius # [: Quīntum] nōn #.",
+                    "a": [
+                        "eum",
+                        "audit"
+                    ]
+                },
+                {
+                    "q": "8. Mārcus: \"Pater # neque tē audit.\"",
+                    "a": [
+                        "dormit"
+                    ]
+                },
+                {
+                    "q": "9. Iūlius Quīntum nōn audit # venit.",
+                    "a": [
+                        "neque"
+                    ]
+                },
+                {
+                    "q": "10. Aemilia Mārcum #: tuxtax!",
+                    "a": [
+                        "verberat"
+                    ]
+                },
+                {
+                    "q": "11. Mārcus plōrat. Iūlius Mārcum #; iam Iūlius nōn #.",
+                    "a": [
+                        "audit",
+                        "dormit"
+                    ]
+                },
+                {
+                    "q": "12. Mārcus nōn puer #, sed puer improbus est.",
+                    "a": [
+                        "probus"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Exercise 5",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Cūr Mārcus Iūliam pulsat? Mārcus Iūliam pulsat # Iūlia cantat.",
+                    "a": [
+                        "quia"
+                    ]
+                },
+                {
+                    "q": "2. Cūr Iūlia plōrat? Iūlia plōrat # Mārcus eam pulsat.",
+                    "a": [
+                        "quia"
+                    ]
+                },
+                {
+                    "q": "3. # Mārcus rīdet? Mārcus rīdet quia Iūlia plōrat.",
+                    "a": [
+                        "Cūr"
+                    ]
+                },
+                {
+                    "q": "4. Cūr Iūlia nōn pulsat Mārcum? Iūlia Mārcum nōn pulsat # parva puella est.",
+                    "a": [
+                        "quia"
+                    ]
+                },
+                {
+                    "q": "5. # Aemilia venit? Aemilia venit # Iūlia eam vocat.",
+                    "a": [
+                        "Cūr",
+                        "quia"
+                    ]
+                },
+                {
+                    "q": "6. # Iūlius Quīntum nōn audit? Iūlius eum nōn audit # dormit.",
+                    "a": [
+                        "Cūr",
+                        "quia"
+                    ]
+                },
+                {
+                    "q": "7. Cūr Mārcum verberat Aemilia? Mārcum verberat # puer improbus est.",
+                    "a": [
+                        "quia"
+                    ]
+                },
+                {
+                    "q": "8. # Mārcus plōrat? Mārcus plōrat # Aemilia eum verberat.",
+                    "a": [
+                        "Cūr",
+                        "quia"
+                    ]
+                },
+                {
+                    "q": "9. Cūr venit Iūlius? Iūlius venit # Mārcum audit.",
+                    "a": [
+                        "quia"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Exercise 6",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Mārc# Iūli# pulsat, quia Iūli# cantat.",
+                    "a": [
+                        "us",
+                        "am",
+                        "a"
+                    ]
+                },
+                {
+                    "q": "2. Iūli# plōrat, quia Mārcus e# pulsat.",
+                    "a": [
+                        "a",
+                        "am"
+                    ]
+                },
+                {
+                    "q": "3. Iūlia Aemili# vocat. Aemili# venit.",
+                    "a": [
+                        "am",
+                        "a"
+                    ]
+                },
+                {
+                    "q": "4. Aemili# Quīnt# videt et e# interrogat: \"Quis # vocat?\"",
+                    "a": [
+                        "a",
+                        "um",
+                        "um",
+                        "mē"
+                    ]
+                },
+                {
+                    "q": "5. Quīnt# respondet: \"Iūli# # vocat.\"",
+                    "a": [
+                        "us",
+                        "a",
+                        "tē"
+                    ]
+                },
+                {
+                    "q": "6. Aemilia: \"Ubi est Iūlius?\" Aemili# Iūli# nōn videt.",
+                    "a": [
+                        "a",
+                        "um"
+                    ]
+                },
+                {
+                    "q": "7. Quīnt# Iūli# vocat: \"Pater!\"",
+                    "a": [
+                        "us",
+                        "um"
+                    ]
+                },
+                {
+                    "q": "8. Iūli# Quīnt# nōn audit.",
+                    "a": [
+                        "us",
+                        "um"
+                    ]
+                },
+                {
+                    "q": "9. Aemili# īrāta Mārc# verberat.",
+                    "a": [
+                        "a",
+                        "um"
+                    ]
+                },
+                {
+                    "q": "10. Mārc# plōrat, quia Aemili# e# verberat.",
+                    "a": [
+                        "us",
+                        "a",
+                        "um"
+                    ]
+                },
+                {
+                    "q": "11. Iūli# Mārc# audit, et venit.",
+                    "a": [
+                        "us",
+                        "um"
+                    ]
+                },
+                {
+                    "q": "12. Iūlius Aemili# et Mārc# et Quīnt# et Iūli# videt.",
+                    "a": [
+                        "am",
+                        "um",
+                        "um",
+                        "am"
+                    ]
+                },
+                {
+                    "q": "13. Aemilia: \"Mārc# puer improb# est.\"",
+                    "a": [
+                        "us",
+                        "us"
+                    ]
+                },
+                {
+                    "q": "14. Quīntus: \"Mārc# parv# puell# pulsat!\"",
+                    "a": [
+                        "us",
+                        "am",
+                        "am"
+                    ]
+                },
+                {
+                    "q": "15. Iūli# īrāt# puer# improb# verberat.",
+                    "a": [
+                        "us",
+                        "us",
+                        "um",
+                        "um"
+                    ]
+                },
+                {
+                    "q": "16. Iūli# est puell# prob#.",
+                    "a": [
+                        "a",
+                        "a",
+                        "a"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Exercise 7",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Puella # cantat laeta est.",
+                    "a": [
+                        "quae"
+                    ]
+                },
+                {
+                    "q": "2. Puer # puellam pulsat improbus est.",
+                    "a": [
+                        "quī"
+                    ]
+                },
+                {
+                    "q": "3. Iūlia, # cantat, puella proba est.",
+                    "a": [
+                        "quae"
+                    ]
+                },
+                {
+                    "q": "4. Mārcus, # puer improbus est, puellam et puerum pulsat.",
+                    "a": [
+                        "quī"
+                    ]
+                },
+                {
+                    "q": "5. Puella # Mārcus pulsat est Iūlia. \t",
+                    "a": [
+                        "quam"
+                    ]
+                },
+                {
+                    "q": "6. Puer # Mārcus pulsat est Quīntus.",
+                    "a": [
+                        "quem"
+                    ]
+                },
+                {
+                    "q": "7. Iūlia, # parva puella est, Aemiliam vocat.",
+                    "a": [
+                        "quae"
+                    ]
+                },
+                {
+                    "q": "8. Aemilia, # Iūlia vocat, venit.",
+                    "a": [
+                        "quam"
+                    ]
+                },
+                {
+                    "q": "9. Aemilia, # māter est līberōrum, fīlium improbum verberat.",
+                    "a": [
+                        "quae"
+                    ]
+                },
+                {
+                    "q": "10. Fīlius # Aemilia verberat est Mārcus.",
+                    "a": [
+                        "quem"
+                    ]
+                },
+                {
+                    "q": "11. Quīntus, # fīlius probus est, Iūlium vocat.",
+                    "a": [
+                        "quī"
+                    ]
+                },
+                {
+                    "q": "12. Iūlius, # Quīntus vocat, nōn venit.",
+                    "a": [
+                        "quem"
+                    ]
+                },
+                {
+                    "q": "13. Mārcus, # Aemilia verberat, plōrat.",
+                    "a": [
+                        "quem"
+                    ]
+                },
+                {
+                    "q": "14. Iūlius, # iam nōn dormit, puerum audit.",
+                    "a": [
+                        "quī"
+                    ]
+                },
+                {
+                    "q": "15. Puer # Iūlius audit est Mārcus.",
+                    "a": [
+                        "quem"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Exercise 8",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Quis Iūliam pulsat? ...",
+                    "a": [
+                        "Mārcus Iūliam pulsat"
+                    ]
+                },
+                {
+                    "q": "2. Quis plōrat? ...",
+                    "a": [
+                        "Iūlia plōrat"
+                    ]
+                },
+                {
+                    "q": "3. Quis rīdet? ...",
+                    "a": [
+                        "Mārcus rīdet"
+                    ]
+                },
+                {
+                    "q": "4. Quem Quīntus videt? ...",
+                    "a": [
+                        "Quīntus Mārcum videt"
+                    ]
+                },
+                {
+                    "q": "5. Quem Iūlia vocat? ...",
+                    "a": [
+                        "Iūlia Aemiliam vocat"
+                    ]
+                },
+                {
+                    "q": "6. Quis venit? ...",
+                    "a": [
+                        "Aemilia venit"
+                    ]
+                },
+                {
+                    "q": "7. Quem Aemilia interrogat? ...",
+                    "a": [
+                        "Aemilia Quīntum interrogat"
+                    ]
+                },
+                {
+                    "q": "8. Quis vocat Iūlium? ...",
+                    "a": [
+                        "Quīntus Iūlium vocat"
+                    ]
+                },
+                {
+                    "q": "9. Quem Aemilia verberat? ...",
+                    "a": [
+                        "Aemilia Mārcum verberat"
+                    ]
+                },
+                {
+                    "q": "10. Quis iam plōrat? ...",
+                    "a": [
+                        "iam plōrat Mārcus"
+                    ]
+                },
+                {
+                    "q": "11. Quem audit Iūlius? ...",
+                    "a": [
+                        "Iūlius Mārcum audit"
+                    ]
+                },
+                {
+                    "q": "12. Quem Iūlius verberat? ...",
+                    "a": [
+                        "Iūlius Mārcum verberat"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Exercise 9",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. # Iūliam pulsat? Mārcus Iūliam pulsat.",
+                    "a": [
+                        "Quis"
+                    ]
+                },
+                {
+                    "q": "2. # Mārcum videt? Quīntus Mārcum videt.",
+                    "a": [
+                        "Quis"
+                    ]
+                },
+                {
+                    "q": "3. # Quīntus pulsat? Mārcum Quīntus pulsat.",
+                    "a": [
+                        "Quem"
+                    ]
+                },
+                {
+                    "q": "4. # Aemiliam vocat? Iūlia Aemiliam vocat.",
+                    "a": [
+                        "Quis"
+                    ]
+                },
+                {
+                    "q": "5. # Aemilia interrogat? Quīntum Aemilia interrogat.",
+                    "a": [
+                        "Quem"
+                    ]
+                },
+                {
+                    "q": "6. # respondet? Quīntus respondet.",
+                    "a": [
+                        "Quis"
+                    ]
+                },
+                {
+                    "q": "7. # vocat Quīntus? Iūlium vocat Quīntus.",
+                    "a": [
+                        "Quem"
+                    ]
+                },
+                {
+                    "q": "8. # verberat Iūlius? Mārcum verberat Iūlius.",
+                    "a": [
+                        "Quem"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Exercise 10",
+            "info": "Exempla: \nQuīnt|us Mārc|um videt. Mārc|us Quīnt|um nōn videt.\nIūli|a Aemili|am vocat. Aemili|a Iūli|am audit.\n",
+            "questions": [
+                {
+                    "q": "1. 'Quīnt|us' nōminātīvus est. 'Mārc|um' est #.",
+                    "a": [
+                        "accūsātīvus"
+                    ]
+                },
+                {
+                    "q": "2. 'Quīnt|um' accūsātīvus est. 'Quīnt|us' est #.",
+                    "a": [
+                        "nōminātīvus"
+                    ]
+                },
+                {
+                    "q": "3. 'Iūli|a' # est. 'Aemili|am' # est.",
+                    "a": [
+                        "nōminātīvus",
+                        "accūsātīvus"
+                    ]
+                },
+                {
+                    "q": "4. 'Iūli|am' # est. 'Aemili|a' # est.",
+                    "a": [
+                        "accūsātīvus",
+                        "nōminātīvus"
+                    ]
+                },
+                {
+                    "q": "5. Nōminātīvus: Mārcus. Accūsātīvus: Mārc#.",
+                    "a": [
+                        "um"
+                    ]
+                },
+                {
+                    "q": "6. Nōminātīvus: Aemilia. Accūsātīvus: Aemili#.",
+                    "a": [
+                        "am"
+                    ]
+                },
+                {
+                    "q": "7. Accūsātīvus: Iūlium. Nōminātīvus: Iūli#.",
+                    "a": [
+                        "us"
+                    ]
+                },
+                {
+                    "q": "8. Accūsātīvus: Iūliam. Nōminātīvus: Iūli#.",
+                    "a": [
+                        "a"
+                    ]
+                },
+                {
+                    "q": "9. Nōminātīvus: puer improbus. Accūsātīvus: puer# improb#.",
+                    "a": [
+                        "um",
+                        "um"
+                    ]
+                },
+                {
+                    "q": "10. Nōminātīvus: parva puella. Accūsātīvus: parv# puell#.",
+                    "a": [
+                        "am",
+                        "am"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "PENSVM A",
+            "info": "",
+            "questions": [
+                {
+                    "a": [
+                        "us",
+                        "am",
+                        "a"
+                    ],
+                    "q": "Cūr Mārc# Iūliam pulsat? Mārcus Iūli# pulsat, quia Iūli# cantat."
+                },
+                {
+                    "a": [
+                        "a",
+                        "at",
+                        "am"
+                    ],
+                    "q": "Iūli# plōr#, quia Mārcus e# pulsat."
+                },
+                {
+                    "a": [
+                        "mē"
+                    ],
+                    "q": "Iūlia: \"Mamma! Mārcus # pulsat.\""
+                },
+                {
+                    "a": [
+                        "am",
+                        "it",
+                        "it"
+                    ],
+                    "q": "Aemilia puell# aud# et ven#."
+                },
+                {
+                    "a": [
+                        "um",
+                        "um",
+                        "at",
+                        "at"
+                    ],
+                    "q": "Māter Quīnt# videt et e# interrog# : \"Quis mē voc#?\""
+                },
+                {
+                    "a": [
+                        "us",
+                        "et",
+                        "tē"
+                    ],
+                    "q": "Quīnt# respond# : \"Iūlia # vocat.\""
+                },
+                {
+                    "a": [
+                        "it"
+                    ],
+                    "q": "Iūlius dorm#. "
+                },
+                {
+                    "a": [
+                        "um",
+                        "at"
+                    ],
+                    "q": "Quīntus Iūli# voc# : \"Pater!\""
+                },
+                {
+                    "a": [
+                        "et",
+                        "us"
+                    ],
+                    "q": "Mārcus rīd#, quia Iūli# nōn venit."
+                },
+                {
+                    "a": [
+                        "um",
+                        "at"
+                    ],
+                    "q": "Aemilia Mārc# verber#."
+                },
+                {
+                    "a": [
+                        "it",
+                        "us"
+                    ],
+                    "q": "Iūlius ven#, quia Mārc# plōrat."
+                },
+                {
+                    "a": [
+                        "am",
+                        "um",
+                        "um",
+                        "am"
+                    ],
+                    "q": "Iūlius Aemili# et Mārc# et Quīnt# et Iūli# videt."
+                },
+                {
+                    "a": [
+                        "am",
+                        "am"
+                    ],
+                    "q": "Iūlius: \"Puer quī parv# puell# pulsat improbus est.\""
+                },
+                {
+                    "a": [
+                        "um",
+                        "um"
+                    ],
+                    "q": "Iūlius puer# improb# verberat."
+                },
+                {
+                    "a": [
+                        "us",
+                        "em"
+                    ],
+                    "q": "Quem Iūli# verberat? Puer qu# Iūlius verberat est Mārcus."
+                },
+                {
+                    "a": [
+                        "at"
+                    ],
+                    "q": "Mārcus plōr#."
+                },
+                {
+                    "a": [
+                        "ī",
+                        "us"
+                    ],
+                    "q": "Puer qu# plōrat laet# nōn est."
+                },
+                {
+                    "a": [
+                        "ae",
+                        "a"
+                    ],
+                    "q": "Puella qu# cantat laet# est."
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "PENSVM B",
+            "info": "",
+            "questions": [
+                {
+                    "a": [
+                        "cantat",
+                        "quae",
+                        "laeta"
+                    ],
+                    "q": "Puella # : \"Lalla.\" Puella # cantat est Iūlia. Iūlia # est."
+                },
+                {
+                    "a": [
+                        "pulsat",
+                        "plōrat",
+                        "rīdet"
+                    ],
+                    "q": "Puer improbus puellam #. Puella # : \"Uhuhū!\" Puer # : \"Hahahae!\""
+                },
+                {
+                    "a": [
+                        "quī"
+                    ],
+                    "q": "Puer # rīdet est Mārcus."
+                },
+                {
+                    "a": [
+                        "vocat"
+                    ],
+                    "q": "Iūlia Aemiliam # : \"Mamma!\""
+                },
+                {
+                    "a": [
+                        "venit",
+                        "interrogat"
+                    ],
+                    "q": "Aemilia #, et Quīntum # : \"Cūr Iūlia plōrat?\""
+                },
+                {
+                    "a": [
+                        "respondet",
+                        "quia"
+                    ],
+                    "q": "Quīntus # : \"Iūlia plōrat, # Mārcus eam pulsat.\""
+                },
+                {
+                    "a": [
+                        "probus",
+                        "improbus",
+                        "videt"
+                    ],
+                    "q": "Aemilia: \"Mārcus puer # nōn est, puer # est! Ubi est pater?\" Aemilia Iūlium nōn #."
+                },
+                {
+                    "a": [
+                        "hīc"
+                    ],
+                    "q": "Quīntus: \"Pater nōn # est.\""
+                },
+                {
+                    "a": [
+                        "vocat",
+                        "audit"
+                    ],
+                    "q": "Quīntus Iūlium #: \"Pater!\" Iūlius Quīntum nōn #."
+                },
+                {
+                    "a": [
+                        "Cūr",
+                        "dormit"
+                    ],
+                    "q": "# Iūlius Quīntum nōn audit? Iūlius eum nōn audit, quia #."
+                },
+                {
+                    "a": [
+                        "quia"
+                    ],
+                    "q": "Mārcus plōrat, # Aemilia eum verberat."
+                },
+                {
+                    "a": [
+                        "iam"
+                    ],
+                    "q": "Iūlius Mārcum audit; # Iūlius nōn dormit."
+                },
+                {
+                    "a": [
+                        "Quem",
+                        "verberat"
+                    ],
+                    "q": "# Aemilia verberat? Aemilia Mārcum #."
+                },
+                {
+                    "a": [
+                        "quem"
+                    ],
+                    "q": "Puer # Aemilia verberat improbus est."
+                },
+                {
+                    "a": [
+                        "neque"
+                    ],
+                    "q": "Iūlia laeta nōn est # rīdet."
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "PENSVM C",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Quis Iūliam pulsat? ",
+                    "a": []
+                },
+                {
+                    "q": "2. Cūr Iūlia plōrat? ",
+                    "a": []
+                },
+                {
+                    "q": "3. Quīntusne quoque Iūliam pulsat? ",
+                    "a": []
+                },
+                {
+                    "q": "4. Quem Quīntus pulsat? ",
+                    "a": []
+                },
+                {
+                    "q": "5. Cūr Aemilia venit? ",
+                    "a": []
+                },
+                {
+                    "q": "6. Quis Iūlium vocat? ",
+                    "a": []
+                },
+                {
+                    "q": "7. Cūr Iūlius Quīntum nōn audit? ",
+                    "a": []
+                },
+                {
+                    "q": "8. Quem audit Iūlius? ",
+                    "a": []
+                },
+                {
+                    "q": "9. Cūr Mārcus plōrat? ",
+                    "a": []
+                },
+                {
+                    "q": "10. Rīdetne Iūlia? ",
+                    "a": []
+                },
+                {
+                    "q": "11. Num 'Mārcus' accūsātīvus est? ",
+                    "a": []
+                },
+                {
+                    "q": "12. Num 'Iūliam' nōminātīvus est? ",
+                    "a": []
+                },
+                {
+                    "q": "13. Quid est 'dormit'? ",
+                    "a": []
+                }
+            ]
+        }
+    ]
+}

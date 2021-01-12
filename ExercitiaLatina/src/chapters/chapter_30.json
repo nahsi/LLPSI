@@ -1,0 +1,1305 @@
+{
+    "id": 29,
+    "name": "CAPITVLVM XXX",
+    "exercises": [
+        {
+            "id": 0,
+            "name": "Exercise 1",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Vir prūdēns negōtia sua prūd# agit.",
+                    "a": [
+                        "enter"
+                    ]
+                },
+                {
+                    "q": "2. Agricola dīligēns agrōs dīlig# colit.",
+                    "a": [
+                        "enter"
+                    ]
+                },
+                {
+                    "q": "3. Pāstor neglegēns ovēs suās negleg# cūrat.",
+                    "a": [
+                        "enter"
+                    ]
+                },
+                {
+                    "q": "4. Sextus nōn rārō, sed frequ# laudātur.\t",
+                    "a": [
+                        "enter"
+                    ]
+                },
+                {
+                    "q": "5. Homō cōnstāns et patiēns dolōrēs cōnst# ac pati# fert.",
+                    "a": [
+                        "anter",
+                        "enter"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Exercise 2",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. # dīcitur cibus quī # hōrā decimā sūmitur.",
+                    "a": [
+                        "Cēna",
+                        "circiter"
+                    ]
+                },
+                {
+                    "q": "2. Cornēlius et Orontēs, amīcī et # Iūliī, ab Aemiliā # [= accipiuntur], dum Iūlius in # lavātur.",
+                    "a": [
+                        "hospitēs",
+                        "recipiuntur",
+                        "balneō"
+                    ]
+                },
+                {
+                    "q": "3. Aemilia marītum suum # excūsat: “Iūlius tardē revertit ex agrīs, quod nimis # ambulāvit.”",
+                    "a": [
+                        "tardum",
+                        "diū"
+                    ]
+                },
+                {
+                    "q": "4. Tum # [= dēnique] Iūlius intrat et amīcōs # iubet: “Salvēte, amīcī!”",
+                    "a": [
+                        "dēmum",
+                        "salvēre"
+                    ]
+                },
+                {
+                    "q": "5. Cornēlius Iūlium prius # nōn potuit prae negōtiīs urbānīs.",
+                    "a": [
+                        "vīsere"
+                    ]
+                },
+                {
+                    "q": "6. In vīllā suā dominus ōtiō # [= dēlectātur] atque post negōtia #.",
+                    "a": [
+                        "fruitur",
+                        "requiēscit"
+                    ]
+                },
+                {
+                    "q": "7. Iūlius, quī ipse in agrīs nōn labōrat, vītam rūsticam nōn #, sed # esse exīstimat.",
+                    "a": [
+                        "molestam",
+                        "iūcundam"
+                    ]
+                },
+                {
+                    "q": "8. Quī ex longō # revertit, rēs novās # [< nūntius] potest.",
+                    "a": [
+                        "itinere",
+                        "nūntiāre"
+                    ]
+                },
+                {
+                    "q": "9. Quī omnia negōtia sua bene cūrat homō # est.",
+                    "a": [
+                        "dīligēns"
+                    ]
+                },
+                {
+                    "q": "10. Dux magnī exercitūs multīs mīlitibus #.",
+                    "a": [
+                        "praeest"
+                    ]
+                },
+                {
+                    "q": "11. Quī īrātus est frontem #.",
+                    "a": [
+                        "contrahit"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Exercise 3",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Quid agit Iūlius ex agrīs reversus? ...",
+                    "a": [
+                        "ex agrīs reversus Iūlius balneum petit"
+                    ]
+                },
+                {
+                    "q": "2. Lavāturne Iūlius aquā frīgidā tantum? ...",
+                    "a": [
+                        "dominus et aquā calidā et aquā frīgidā lavātur"
+                    ]
+                },
+                {
+                    "q": "3. Quī adveniunt dum Iūlius vestem novam induit? ...",
+                    "a": [
+                        "amīci et hospitēs eius adveniunt"
+                    ]
+                },
+                {
+                    "q": "4. Quī sunt Cornēlius et Orontēs? ...",
+                    "a": [
+                        "Cornēlius et Orontēs sunt hospitēs Iūliī"
+                    ]
+                },
+                {
+                    "q": "5. Fabia et Paula quae sunt? ...",
+                    "a": [
+                        "Fabia est uxor Cornēliī et Paula uxor Orontis"
+                    ]
+                },
+                {
+                    "q": "6. Quārē hospitēs eā hōrā adveniunt? ...",
+                    "a": [
+                        "hospitēs adveniunt quia Iūlius eōs ad cēnam vocāvit"
+                    ]
+                },
+                {
+                    "q": "7. Quis hospitēs advenientēs recipit? ...",
+                    "a": [
+                        "hospitēs recipit Aemilia, quia Iūlius nōndum ē balneō exiit"
+                    ]
+                },
+                {
+                    "q": "8. Quōmodo Aemilia marītum suum tardum excūsat? ...",
+                    "a": [
+                        "Aemilia dīcit ‘marītum suum tardē ex agrīs revertisse’"
+                    ]
+                },
+                {
+                    "q": "9. Quid Iūlius intrāns Cornēlium interrogat? ...",
+                    "a": [
+                        "Cornēlium interrogat cūr tam rārō eum videat"
+                    ]
+                },
+                {
+                    "q": "10. Quid respondet Cornēlius? ...",
+                    "a": [
+                        "respondet ‘sē urbem prius relinquere nōn potuisse prae negōtiīs suīs’"
+                    ]
+                },
+                {
+                    "q": "11. Quandō Orontēs ex itinere revertit? ...",
+                    "a": [
+                        "īdibus Māiīs revertit"
+                    ]
+                },
+                {
+                    "q": "12. Quid Iūlius audīre cupit? ...",
+                    "a": [
+                        "Iūlius aliquid dē rēbus urbānīs audīre cupit"
+                    ]
+                },
+                {
+                    "q": "13. Num Iūlius ipse in agrīs labōrat? ...",
+                    "a": [
+                        "Iūliō necesse nōn est in agrīs labōrāre"
+                    ]
+                },
+                {
+                    "q": "14. Tūne vītam rūsticam molestam esse cēnsēs? ...",
+                    "a": [
+                        "ego vītam rūsticam iūcundam esse cēnseō"
+                    ]
+                },
+                {
+                    "q": "15. Utrum rūrī an in urbe vīvere māvīs? ...",
+                    "a": [
+                        "rūrī vīvere mālō quam in urbe"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Exercise 4",
+            "info": "Exempla:\nDiscipulus scrībit id quod magister dictāvit.\nDiscipulus scrībēbat id quod magister dictāverat.\nDiscipulus scrībet id quod magister dictāverit.\n",
+            "questions": [
+                {
+                    "q": "1. Dominus servum laudat quod industriē labōrāv#.",
+                    "a": [
+                        "it"
+                    ]
+                },
+                {
+                    "q": "2. Herī servus laudātus est quod industriē labōrāv#. ",
+                    "a": [
+                        "erat"
+                    ]
+                },
+                {
+                    "q": "3. Crās rūrsus laudābitur sī industriē labōrāv#.",
+                    "a": [
+                        "erit"
+                    ]
+                },
+                {
+                    "q": "4. Dominus servōs laudat quod industriē labōrāv#.",
+                    "a": [
+                        "ērunt"
+                    ]
+                },
+                {
+                    "q": "5. Herī servī laudātī sunt quod industriē labōrāv#.",
+                    "a": [
+                        "erant"
+                    ]
+                },
+                {
+                    "q": "6. Crās rūrsus laudābuntur sī industriē labōrāv#.",
+                    "a": [
+                        "erint"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Exercise 5",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Cēnābimus, cum prīmum cocus cēnam parāv# et servī triclīnium exōrnāv#.",
+                    "a": [
+                        "erit",
+                        "erint"
+                    ]
+                },
+                {
+                    "q": "2. Cēnābimus, cum prīmum triclīnium exōrnāt# #.",
+                    "a": [
+                        "um",
+                        "erit"
+                    ]
+                },
+                {
+                    "q": "3. Puerī ūmidī erunt, sī per imbrem ambulāv#.",
+                    "a": [
+                        "erint"
+                    ]
+                },
+                {
+                    "q": "4. Puellae plōrābunt, sī ā puerīs pulsāt# #.",
+                    "a": [
+                        "ae",
+                        "erunt"
+                    ]
+                },
+                {
+                    "q": "5. Cum Iūlius ūnam hōram dormīv#, ambulābit, cum satis diū ambulāv#, lavātum ībit.",
+                    "a": [
+                        "erit",
+                        "erit"
+                    ]
+                },
+                {
+                    "q": "6. Mīlitēs ā duce laudābuntur, sī fortiter pugnāv#.",
+                    "a": [
+                        "erint"
+                    ]
+                },
+                {
+                    "q": "7. Pater gaudēbit, sī fīlius industrius fu# et ā magistrō laudāt# #.",
+                    "a": [
+                        "erit",
+                        "us",
+                        "erit"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Exercise 6",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Rōmānī circiter hōrā decimā # [= cēnam sūmunt].",
+                    "a": [
+                        "cēnant"
+                    ]
+                },
+                {
+                    "q": "2. Sī quis nihil ēst nec bibit, # et # patitur.",
+                    "a": [
+                        "famem",
+                        "sitim"
+                    ]
+                },
+                {
+                    "q": "3. Sine aquā # [= paulum temporis] vīvere possumus.",
+                    "a": [
+                        "paulisper"
+                    ]
+                },
+                {
+                    "q": "4. Orontēs: “# [= ego quidem] sine vīnō vīvere nōn possum. Magnum # est vīnum.\"",
+                    "a": [
+                        "Equidem",
+                        "bonum"
+                    ]
+                },
+                {
+                    "q": "5. Ex malīs minimum # oportet.",
+                    "a": [
+                        "ēligere"
+                    ]
+                },
+                {
+                    "q": "6. # est locus ubi cibus # et cēna parātur.",
+                    "a": [
+                        "Culīna",
+                        "coquitur"
+                    ]
+                },
+                {
+                    "q": "7. Quī cibum coquit et cēnam # in culīnā, # dīcitur.",
+                    "a": [
+                        "parat",
+                        "cocus|coquus"
+                    ]
+                },
+                {
+                    "q": "8. # vocantur servī quī cibum et vīnum in triclīnium ferunt.",
+                    "a": [
+                        "Ministrī"
+                    ]
+                },
+                {
+                    "q": "9. Ante # triclīnium flōribus # [= ōrnātur] et vestis pretiōsa super lectōs #.",
+                    "a": [
+                        "convīvium",
+                        "exōrnātur",
+                        "sternitur"
+                    ]
+                },
+                {
+                    "q": "10. In # sunt trēs lectī: lectus summus, medius, #.",
+                    "a": [
+                        "triclīniō",
+                        "īmus"
+                    ]
+                },
+                {
+                    "q": "11. Quot # in singulīs lectīs #? # aut # aut #.",
+                    "a": [
+                        "convīvae",
+                        "accubant",
+                        "Singulī",
+                        "bīnī",
+                        "ternī"
+                    ]
+                },
+                {
+                    "q": "12. Iūlius: “Cēnam iam # parātam esse oportuit!”",
+                    "a": [
+                        "prīdem"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Exercise 7",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Utrum malum māius est, famēsne an sitis? ...",
+                    "a": [
+                        "sitis est malum māius quam famēs"
+                    ]
+                },
+                {
+                    "q": "2. Quid Orontēs bibere māvult quam aquam? ...",
+                    "a": [
+                        "Orontēs vīnum bibere māvult"
+                    ]
+                },
+                {
+                    "q": "3. Quārē hominēs edunt et bibunt? ...",
+                    "a": [
+                        "edimus et bibimus ut vīvāmus"
+                    ]
+                },
+                {
+                    "q": "4. Ubi coquitur cibus? ...",
+                    "a": [
+                        "in culīnā cibus coquitur"
+                    ]
+                },
+                {
+                    "q": "5. Cuius negōtium est cibum coquere? ...",
+                    "a": [
+                        "cibum coquere est negōtium cocī"
+                    ]
+                },
+                {
+                    "q": "6. Quot lectī et quot mēnsae sunt in triclīniō? ...",
+                    "a": [
+                        "in triclīniō sunt trēs lectī et ūna mēnsa"
+                    ]
+                },
+                {
+                    "q": "7. Quibus rēbus exōrnātur triclīnium? ...",
+                    "a": [
+                        "triclīnium exōrnātur flōribus et veste pulcherrimā"
+                    ]
+                },
+                {
+                    "q": "8. Num convīvae in sellīs sedentēs cēnant? ...",
+                    "a": [
+                        "convīvae nōn sedentēs, sed cubantēs cēnant"
+                    ]
+                },
+                {
+                    "q": "9. Quot convīvae in singulīs lectīs accubant? ...",
+                    "a": [
+                        "in singulīs lectīs singulī aut bīnī aut ternī convīvae accubant"
+                    ]
+                },
+                {
+                    "q": "10. Quandō convīvae in triclīnium intrābunt? ...",
+                    "a": [
+                        "convīvae intrābunt cum prīmum triclīnium ōrnātum erit"
+                    ]
+                },
+                {
+                    "q": "11. Quot sunt bis bīna? ...",
+                    "a": [
+                        "bis bīna sunt quattuor"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Exercise 8",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Discipulus verberābitur, sī piger fu#: sī male computāv#, foedē scrīps# atque in lūdō dormīv#.",
+                    "a": [
+                        "erit",
+                        "erit",
+                        "erit",
+                        "erit"
+                    ]
+                },
+                {
+                    "q": "2. Magister: “Tē verberābō, sī piger fu# ac dormīv#!”",
+                    "a": [
+                        "eris",
+                        "eris"
+                    ]
+                },
+                {
+                    "q": "3. Discipulus: “Quid mihi dabis, sī industrius fu#? sī bene computāv#, pulchrē scrīps# nec in lūdō dormīv#?”",
+                    "a": [
+                        "erō",
+                        "erō",
+                        "erō",
+                        "erō"
+                    ]
+                },
+                {
+                    "q": "4. Magister: “Nihil tibi dabō, sed laudābō tē, sī bene computāv# et pulchrē scrīps#.”",
+                    "a": [
+                        "eris",
+                        "eris"
+                    ]
+                },
+                {
+                    "q": "5. Discipulī verberābuntur, sī pigrī fu#: sī male computāv#, foedē scrīps# atque in lūdō dormīv#.",
+                    "a": [
+                        "erint",
+                        "erint",
+                        "erint",
+                        "erint"
+                    ]
+                },
+                {
+                    "q": "6. Magister: “Vōs verberābō, sī pigrī fu# ac dormīv#!”",
+                    "a": [
+                        "eritis",
+                        "eritis"
+                    ]
+                },
+                {
+                    "q": "7. Discipulī: “Quid nōbīs dabis, sī industriī fu#? sī bene computāv# et pulchrē scrīps#?”",
+                    "a": [
+                        "erimus",
+                        "erimus",
+                        "erimus"
+                    ]
+                },
+                {
+                    "q": "8. Magister: “Nihil vōbīs dabō, sed laudābō vōs, sī bene computāv# et pulchrē scrips#.”",
+                    "a": [
+                        "eritis",
+                        "eritis"
+                    ]
+                },
+                {
+                    "q": "9. Quīntus: “Quid tū faciēs, Mārce, sī ab aliō puerō pulsāt# #?”",
+                    "a": [
+                        "us",
+                        "eris"
+                    ]
+                },
+                {
+                    "q": "10. Mārcus: “Sī ego ab aliō puerō pulsāt# #, ipse eum puerum pulsābō.”",
+                    "a": [
+                        "us",
+                        "erō"
+                    ]
+                },
+                {
+                    "q": "11. Quīntus: “Quid vōs faciētis, Mārce et Tite, sī ab aliīs puerīs pulsāt# #?”",
+                    "a": [
+                        "ī",
+                        "eritis"
+                    ]
+                },
+                {
+                    "q": "12. Mārcus: “Sī ab aliīs puerīs pulsāt# #, ipsī eōs pulsābimus.”",
+                    "a": [
+                        "ī",
+                        "erimus"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Exercise 9",
+            "info": "Exemplum: \nDiscēdāmus! = Quīn discēdimus?\n",
+            "questions": [
+                {
+                    "q": "1. “Quīn ambulāmus?” = “Ambul#!”",
+                    "a": [
+                        "ēmus"
+                    ]
+                },
+                {
+                    "q": "2. “Quīn gaudēmus?” = “Gaud#!”",
+                    "a": [
+                        "eāmus"
+                    ]
+                },
+                {
+                    "q": "3. “Quīn bibimus atque canimus?” = “Bib# atque can#!”",
+                    "a": [
+                        "āmus",
+                        "āmus"
+                    ]
+                },
+                {
+                    "q": "4. “Quīn pōcula exhaurīmus?” = “Pōcula exhaur#!”",
+                    "a": [
+                        "iamus"
+                    ]
+                },
+                {
+                    "q": "5. “Quīn equōs cōnscendimus ac proficīscimur?” = “Equōs cōnscend# ac profiscīsc#!”",
+                    "a": [
+                        "āmus",
+                        "āmur"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Exercise 10",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Convīvae triclīnium intrant atque in lectīs #.",
+                    "a": [
+                        "accumbunt"
+                    ]
+                },
+                {
+                    "q": "2. In mēnsā sunt # et pōcula # (= ex # facta).",
+                    "a": [
+                        "vāsa",
+                        "argentea",
+                        "argentō"
+                    ]
+                },
+                {
+                    "q": "3. Ministrī optimum cibum #.",
+                    "a": [
+                        "apportant"
+                    ]
+                },
+                {
+                    "q": "4. Ōva, piscēs cum #, # porcī, varia # mālōrum convīvīs #. ",
+                    "a": [
+                        "holeribus|oleribus",
+                        "carō",
+                        "genera",
+                        "appōnuntur"
+                    ]
+                },
+                {
+                    "q": "5. Servus carnem secat cultrō #.",
+                    "a": [
+                        "acūtō"
+                    ]
+                },
+                {
+                    "q": "6. Orontēs, cum prīmum carnem #, salem #; nec enim carō sine # Orontī #.",
+                    "a": [
+                        "gustāvit",
+                        "aspergit",
+                        "sale",
+                        "placet"
+                    ]
+                },
+                {
+                    "q": "7. Rōmānī vīnum cum aquā # solent; Orontēs vērō vīnum # [= sine aquā] # [= bibit].",
+                    "a": [
+                        "miscēre",
+                        "merum",
+                        "pōtat"
+                    ]
+                },
+                {
+                    "q": "8. # est vir quī servus fuit et # [= līber factus] est.",
+                    "a": [
+                        "Lībertīnus",
+                        "līberātus"
+                    ]
+                },
+                {
+                    "q": "9. # est quod apēs ex flōribus quaerunt.",
+                    "a": [
+                        "Mel"
+                    ]
+                },
+                {
+                    "q": "10. Vīnum cum melle mixtum nōn #, sed # est.",
+                    "a": [
+                        "acerbum",
+                        "dulce"
+                    ]
+                },
+                {
+                    "q": "11. Iūlius ministrum Falernum # et in pōcula # iubet.",
+                    "a": [
+                        "prōferre",
+                        "fundere"
+                    ]
+                },
+                {
+                    "q": "12. Orontēs iam prīdem pōculum suum #.",
+                    "a": [
+                        "exhausit"
+                    ]
+                },
+                {
+                    "q": "13. Iam pōcula Falernō # [= implentur].",
+                    "a": [
+                        "complentur"
+                    ]
+                },
+                {
+                    "q": "14. Omnēs sentiunt vīnum Falernum # [= certē] melius esse Albānō, nec quisquam # suam dīcere audet.",
+                    "a": [
+                        "sānē",
+                        "sententiam"
+                    ]
+                },
+                {
+                    "q": "15. Quī dīvitiās suās ostendit et ipse sē laudat # est.",
+                    "a": [
+                        "glōriōsus"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Exercise 11",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Utrum pretiōsius est, aurumne an argentum? ...",
+                    "a": [
+                        "aurum pretiōsius est quam argentum"
+                    ]
+                },
+                {
+                    "q": "2. Num convīvae Iūliī ē vāsīs aureīs cēnant? ...",
+                    "a": [
+                        "nōn ē vāsīs aureīs, sed ē vāsīs argenteīs cēnant convīvae"
+                    ]
+                },
+                {
+                    "q": "3. In quō lectō accumbit dominus convīviī? ...",
+                    "a": [
+                        "dominus convīviī in lectō mediō accumbit"
+                    ]
+                },
+                {
+                    "q": "4. Quid convīvīs Iūliī appōnitur? ...",
+                    "a": [
+                        "convīvīs appōnuntur ōva, piscēs, holera, carō, cētera"
+                    ]
+                },
+                {
+                    "q": "5. Quid est caput cēnae? ...",
+                    "a": [
+                        "caput cēnae est porcus"
+                    ]
+                },
+                {
+                    "q": "6. Quārē Orontēs salem carnī aspergit? ...",
+                    "a": [
+                        "Orontēs salem carnī aspergit ut sitim augeat"
+                    ]
+                },
+                {
+                    "q": "7. Quid ministrī in pōcula fundunt? ...",
+                    "a": [
+                        "vīnum et calidam in pōcula fundunt ministrī"
+                    ]
+                },
+                {
+                    "q": "8. Quid pōtat Orontēs? ...",
+                    "a": [
+                        "Orontēs vīnum merum pōtat"
+                    ]
+                },
+                {
+                    "q": "9. In quō lectō accubant lībertīnī? ...",
+                    "a": [
+                        "lībertīnī in lectō īmō accubant"
+                    ]
+                },
+                {
+                    "q": "10. Quid est Falernum? ...",
+                    "a": [
+                        "Falernum est vīnum optimum ex agrō Falernō"
+                    ]
+                },
+                {
+                    "q": "11. Quōmodo Paula vīnum suum dulce facit? ...",
+                    "a": [
+                        "Paula vīnō suō mel miscet"
+                    ]
+                },
+                {
+                    "q": "12. Quid Iūlius Orontem interrogat? ...",
+                    "a": [
+                        "Iūlius Orontem interrogat ‘utrum vīnum melius sit, Falernum an Albānum?’"
+                    ]
+                },
+                {
+                    "q": "13. Cūr Orontēs sententiam suam dīcere nōn vult? ...",
+                    "a": [
+                        "Orontēs sententiam suam dīcere nōn vult antequam utrumque gustāverit"
+                    ]
+                },
+                {
+                    "q": "14. Quid tum Iūlius prōferrī iubet? ...",
+                    "a": [
+                        "Iūlius tum Falernum prōferrī iubet"
+                    ]
+                },
+                {
+                    "q": "15. Utrum vīnum convīvīs magis placet? ...",
+                    "a": [
+                        "vīnum Falernum convīvīs magis placet quam Albānum"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Exercise 12",
+            "info": "Āctīvum\n____________Sing.\t\tPlūr.\t\t\tSing.\t\tPlūr.\nPassīvum\n____________Sing.\t\tPlūr.\n",
+            "questions": [
+                {
+                    "q": "1. 'Laudā|bit' tempus # est; 'laudāv|erit' est tempus futūrum #.",
+                    "a": [
+                        "futūrum",
+                        "perfectum"
+                    ]
+                },
+                {
+                    "q": "2. Futūrum perfectum (pers. 3 sing.) dēsinit in ~erit, quod ad thema # (~) adicitur, ut 'scrīps|erit'.",
+                    "a": [
+                        "perfectī"
+                    ]
+                },
+                {
+                    "q": "3. Futūrum perfectum: singulāris: pers. 1 ~erō, 2 ~#, 3 ~#; plūrālis: pers. 1 ~#, 2 ~#, 3 ~#.",
+                    "a": [
+                        "eris",
+                        "erit",
+                        "erimus",
+                        "eritis",
+                        "erint"
+                    ]
+                },
+                {
+                    "q": "4. Pers.1\tamāv#\tamāv#\t\tmonu#\tmonu#",
+                    "a": [
+                        "erō",
+                        "erimus",
+                        "erō",
+                        "erimus"
+                    ]
+                },
+                {
+                    "q": "5. Pers.2\tamāv#\tamāv#\t\tmonu#\tmonu#",
+                    "a": [
+                        "eris",
+                        "eritis",
+                        "eris",
+                        "eritis"
+                    ]
+                },
+                {
+                    "q": "6. Pers.3\tamāv#\tamāv#\t\tmonu#\tmonu#",
+                    "a": [
+                        "erit",
+                        "erint",
+                        "erit",
+                        "erint"
+                    ]
+                },
+                {
+                    "q": "7. Pers.1\tdūx#\t\tdūx#\t\taudīv#\taudīv#",
+                    "a": [
+                        "erō",
+                        "erimus",
+                        "erō",
+                        "erimus"
+                    ]
+                },
+                {
+                    "q": "8. Pers.2\tdūx#\t\tdūx#\t\taudīv#\taudīv#",
+                    "a": [
+                        "eris",
+                        "eritis",
+                        "eris",
+                        "eritis"
+                    ]
+                },
+                {
+                    "q": "9. Pers.3\tdūx#\t\tdūx#\t\taudīv#\taudīv#",
+                    "a": [
+                        "erit",
+                        "erint",
+                        "erit",
+                        "erint"
+                    ]
+                },
+                {
+                    "q": "10. Futūrum perfectum verbī 'esse': singulāris: pers. 1 fu|erō, 2 fu#, 3 fu#, plūrālis: pers. 1 fu#, 2 fu#, 3 fu#.",
+                    "a": [
+                        "eris",
+                        "erit",
+                        "erimus",
+                        "eritis",
+                        "erint"
+                    ]
+                },
+                {
+                    "q": "11. 'Laudā|bitur' # passīvī est; 'laudāt|us erit' est futūrum # #. ",
+                    "a": [
+                        "futūrum",
+                        "perfectum",
+                        "passīvī"
+                    ]
+                },
+                {
+                    "q": "12. Futūrum perfectum passīvī cōnstat ex # perfectī et tempore # verbī 'esse' (erō, eris, erit...).",
+                    "a": [
+                        "participiō",
+                        "futūrō"
+                    ]
+                },
+                {
+                    "q": "13. Pers.1\tvocātus #\tvocāt# #",
+                    "a": [
+                        "erō",
+                        "ī",
+                        "erimus"
+                    ]
+                },
+                {
+                    "q": "14. Pers.2\tvocāt# #\tvocāt# #",
+                    "a": [
+                        "us",
+                        "eris",
+                        "ī",
+                        "eritis"
+                    ]
+                },
+                {
+                    "q": "15. Pers.3\tvocāt# # \tvocāt# #",
+                    "a": [
+                        "us",
+                        "erit",
+                        "ī",
+                        "erunt"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Exercise 13",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. coquere, #isse, #um esse",
+                    "a": [
+                        "cox",
+                        "coct"
+                    ]
+                },
+                {
+                    "q": "2. ēligere, #isse, #um esse",
+                    "a": [
+                        "ēlēg",
+                        "ēlēct"
+                    ]
+                },
+                {
+                    "q": "3. exhaurīre, ex#isse, ex#um esse",
+                    "a": [
+                        "haus",
+                        "haust"
+                    ]
+                },
+                {
+                    "q": "4. fundere, #isse, #um esse  ",
+                    "a": [
+                        "fūd",
+                        "fūs"
+                    ]
+                },
+                {
+                    "q": "5. induere, #isse, #um esse",
+                    "a": [
+                        "indu",
+                        "indūt"
+                    ]
+                },
+                {
+                    "q": "6. miscēre, #isse, #um esse",
+                    "a": [
+                        "miscu",
+                        "mixt"
+                    ]
+                },
+                {
+                    "q": "7. revertī, re#isse / re#um esse",
+                    "a": [
+                        "vert",
+                        "vers"
+                    ]
+                },
+                {
+                    "q": "8. sternere, #isse, #um esse",
+                    "a": [
+                        "strāv",
+                        "strāt"
+                    ]
+                },
+                {
+                    "q": "9. ūtī, #um esse",
+                    "a": [
+                        "ūs"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "PENSVM A",
+            "info": "",
+            "questions": [
+                {
+                    "a": [
+                        "eris"
+                    ],
+                    "q": "Syra: \"Iam dormī, Quīnte! Cum bene dormīv#, valēbis.\" "
+                },
+                {
+                    "a": [
+                        "eris",
+                        "erō"
+                    ],
+                    "q": "Quīntus: \"Nōn dormiam antequam tū mihi fābulam nārrāv#. Cum fābulam audīv#, bene dormiam."
+                },
+                {
+                    "a": [
+                        "erō",
+                        "erit"
+                    ],
+                    "q": "Cum bene dormīv#, brevī sānus erō, nisi medicus mē necāv#!\""
+                },
+                {
+                    "a": [
+                        "erint"
+                    ],
+                    "q": "Patria salva erit sī mīlitēs nostrī fortiter pugnāv#. "
+                },
+                {
+                    "a": [
+                        "eritis"
+                    ],
+                    "q": "Dux: \"Nisi vōs fortiter pugnāv#, mīlitēs, hostēs castra nostra expugnābunt.\""
+                },
+                {
+                    "a": [
+                        "erimus"
+                    ],
+                    "q": "Mīlitēs: \"Num quid nōbīs dabitur, sī fortiter pugnāv#?\""
+                },
+                {
+                    "a": [
+                        "indu",
+                        "indūt"
+                    ],
+                    "q": "Verba: induere, #isse, #um;"
+                },
+                {
+                    "a": [
+                        "lēg",
+                        "lēct"
+                    ],
+                    "q": "ēligere, ē#isse, ē#um;"
+                },
+                {
+                    "a": [
+                        "cox",
+                        "coct"
+                    ],
+                    "q": "coquere, #isse, #um;"
+                },
+                {
+                    "a": [
+                        "strāv",
+                        "strāt"
+                    ],
+                    "q": "sternere, #isse, #um;"
+                },
+                {
+                    "a": [
+                        "fūd",
+                        "fūs"
+                    ],
+                    "q": "fundere, #isse, #um;"
+                },
+                {
+                    "a": [
+                        "miscu",
+                        "mixt"
+                    ],
+                    "q": "miscēre, #isse, #um;"
+                },
+                {
+                    "a": [
+                        "haus",
+                        "haust"
+                    ],
+                    "q": "exhaurīre, ex#isse, ex#um;"
+                },
+                {
+                    "a": [
+                        "vert",
+                        "vers"
+                    ],
+                    "q": "revertī, re#isse/ re#um esse. "
+                },
+                {
+                    "a": [
+                        "ūs"
+                    ],
+                    "q": "ūtī, #um esse."
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "PENSVM B",
+            "info": "",
+            "questions": [
+                {
+                    "a": [
+                        "hospitēs",
+                        "cēnam"
+                    ],
+                    "q": "Iūlius Cornēlium et Orontem, amīcōs et # suōs, cum uxōribus ad # vocāvit."
+                },
+                {
+                    "a": [
+                        "balneō",
+                        "salvēre",
+                        "tardum"
+                    ],
+                    "q": "Cum hospitēs veniunt, Iūlius in # lavātur. Aemilia eōs # iubet [= salūtat] et marītum suum # excūsat."
+                },
+                {
+                    "a": [
+                        "fruitur"
+                    ],
+                    "q": "Cornēlius ad vīllam suam reversus ōtiō #."
+                },
+                {
+                    "a": [
+                        "itinere",
+                        "iūcundam",
+                        "molestam"
+                    ],
+                    "q": "Orontēs, quī ex longō # revertit, vītam rūsticam nōn #, sed # esse cēnset."
+                },
+                {
+                    "a": [
+                        "coquitur"
+                    ],
+                    "q": "Hospitēs in ātriō exspectant, dum cibus #."
+                },
+                {
+                    "a": [
+                        "culīnā",
+                        "cocus"
+                    ],
+                    "q": "Servus quī in # cibum coquit, # appellātur."
+                },
+                {
+                    "a": [
+                        "triclīniō",
+                        "īmus",
+                        "singulī",
+                        "bīnī",
+                        "convīvae"
+                    ],
+                    "q": "In # sunt trēs lectī: lectus summus, medius, #; in singulīs lectīs # aut # aut ternī # accubant."
+                },
+                {
+                    "a": [
+                        "cēnant"
+                    ],
+                    "q": "Rōmānī in lectīs cubantēs #."
+                },
+                {
+                    "a": [
+                        "nūntiat"
+                    ],
+                    "q": "Tandem puer \"cēnam parātam esse\" #."
+                },
+                {
+                    "a": [
+                        "vāsa",
+                        "argentō"
+                    ],
+                    "q": "In mēnsā sunt # et pōcula ex # facta."
+                },
+                {
+                    "a": [
+                        "placet",
+                        "carō"
+                    ],
+                    "q": "Cibus omnibus #, māximē autem # laudātur. "
+                },
+                {
+                    "a": [
+                        "Ministrī",
+                        "fundunt"
+                    ],
+                    "q": "# [= servī] vīnum in pōcula #. "
+                },
+                {
+                    "a": [
+                        "pōtat",
+                        "miscent"
+                    ],
+                    "q": "Orontēs vīnum merum # [= bibit], cēterī convīvae aquam vīnō #."
+                },
+                {
+                    "a": [
+                        "diū",
+                        "paulisper"
+                    ],
+                    "q": "Sine cibō homō # vīvere potest, sine aquā # tantum."
+                },
+                {
+                    "a": [
+                        "Famēs",
+                        "sitis"
+                    ],
+                    "q": "# mala rēs est, sed multō pēior est #."
+                },
+                {
+                    "a": [
+                        "ēligere"
+                    ],
+                    "q": "Ex malīs minimum # oportet."
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "PENSVM C",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Quī sunt Cornēlius et Orontēs? ",
+                    "a": []
+                },
+                {
+                    "q": "2. Ubi est Iūlius cum hospitēs adveniunt? ",
+                    "a": []
+                },
+                {
+                    "q": "3. Quid est balneum? ",
+                    "a": []
+                },
+                {
+                    "q": "4. Nōnne iūcunda est vīta rūstica? ",
+                    "a": []
+                },
+                {
+                    "q": "5. Quid est cocī negōtium? ",
+                    "a": []
+                },
+                {
+                    "q": "6. Num Rōmānī in sellīs sedentēs cēnant? ",
+                    "a": []
+                },
+                {
+                    "q": "7. Quot lectī sunt in triclīniō? ",
+                    "a": []
+                },
+                {
+                    "q": "8. Quot convīvae in singulīs lectīs accubant? ",
+                    "a": []
+                },
+                {
+                    "q": "9. Ex quā māteriā pōcula et vāsa facta sunt? ",
+                    "a": []
+                },
+                {
+                    "q": "10. Tūne vīnum aquā calidā mixtum bibis? ",
+                    "a": []
+                }
+            ]
+        }
+    ]
+}

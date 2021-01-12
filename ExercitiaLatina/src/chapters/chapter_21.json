@@ -1,0 +1,1645 @@
+{
+    "id": 20,
+    "name": "CAPITVLVM XXI",
+    "exercises": [
+        {
+            "id": 0,
+            "name": "Exercise 1",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Tergum Mārcō dolet: magister eum bis verber#.",
+                    "a": [
+                        "āvit"
+                    ]
+                },
+                {
+                    "q": "2. Oculī puellae rubrī sunt: puella lacrim#.",
+                    "a": [
+                        "āvit"
+                    ]
+                },
+                {
+                    "q": "3. Oculī puellārum rubrī sunt: puellae lacrim#.",
+                    "a": [
+                        "āvērunt"
+                    ]
+                },
+                {
+                    "q": "4. Sextus ūmidus est, quod per imbrem ambul#.",
+                    "a": [
+                        "āvit"
+                    ]
+                },
+                {
+                    "q": "5. Sextus sordidus est, quod humī iac#; Titus et Mārcus eum ten#, alter bracchium eius ten#, alter crūra.  ",
+                    "a": [
+                        "uit",
+                        "uērunt",
+                        "uit"
+                    ]
+                },
+                {
+                    "q": "6. Puerī ūmidī sunt, quod per imbrem ambul#, et sordidī, quod humī iac#.",
+                    "a": [
+                        "āvērunt",
+                        "uērunt"
+                    ]
+                },
+                {
+                    "q": "7. Puella iam nōn dormit: ancilla eam excit#.",
+                    "a": [
+                        "āvit"
+                    ]
+                },
+                {
+                    "q": "8. Neque puerī iam dormiunt: servī eōs excit#.",
+                    "a": [
+                        "āvērunt"
+                    ]
+                },
+                {
+                    "q": "9. Puella fessa nōn est, nam bene dorm#.",
+                    "a": [
+                        "īvit"
+                    ]
+                },
+                {
+                    "q": "10. Item puerī bene dorm# neque fessī sunt.",
+                    "a": [
+                        "īvērunt"
+                    ]
+                },
+                {
+                    "q": "11. Iūlia, quae puerōs iam voc#, iterum eōs vocat, nec enim puerī eam aud#.",
+                    "a": [
+                        "āvit",
+                        "īvērunt"
+                    ]
+                },
+                {
+                    "q": "12. Puerī, quī Iūliam iam voc#, iterum eam vocant, nec enim Iūlia eōs aud#.",
+                    "a": [
+                        "āvērunt",
+                        "īvit"
+                    ]
+                },
+                {
+                    "q": "13. Syra litterās nescit: nēmō eam litterās doc#.",
+                    "a": [
+                        "uit"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Exercise 2",
+            "info": "Exempla: \nPater fīlium vocāvit = fīlius ā patre vocātus est.\nPater fīliam vocāvit = fīlia ā patre vocāta est.\nPater fīliōs vocāvit = fīliī ā patre vocātī sunt.\nPater fīliās vocāvit = fīliae ā patre vocātae sunt.\nVentus mare turbāvit = mare ventō turbātum est.\nVentī maria turbāvērunt = maria ventīs turbāta sunt.\nFīlius ā patre vocātus est nec eum audīvit = pater fīlium \n vocāvit nec ab eō audītus est.\n",
+            "questions": [
+                {
+                    "q": "1. Servus puerum excitāvit = # # # # #",
+                    "a": [
+                        "puer",
+                        "ā|ab",
+                        "servō",
+                        "excitātus",
+                        "est"
+                    ]
+                },
+                {
+                    "q": "2. Mārcus Iūliam pulsāvit = # # # # #",
+                    "a": [
+                        "Iūlia",
+                        "ā|ab",
+                        "Mārcō",
+                        "pulsāta",
+                        "est"
+                    ]
+                },
+                {
+                    "q": "3. Domina ancillās vocāvit = # # # # #",
+                    "a": [
+                        "ancillae",
+                        "ā|ab",
+                        "dominā",
+                        "vocātae",
+                        "sunt"
+                    ]
+                },
+                {
+                    "q": "4. Dominus servōs interrogāvit = # # # # #",
+                    "a": [
+                        "servī",
+                        "ā|ab",
+                        "dominō",
+                        "interrogātī",
+                        "sunt"
+                    ]
+                },
+                {
+                    "q": "5. Mēdus Dāvum accūsāvit = # # # # #",
+                    "a": [
+                        "Dāvus",
+                        "ā|ab",
+                        "Mēdō",
+                        "accūsātus",
+                        "est"
+                    ]
+                },
+                {
+                    "q": "6. Mēdus vōcem dominī nōn audīvit = # # # # # # #",
+                    "a": [
+                        "vōx",
+                        "dominī",
+                        "ā|ab",
+                        "Mēdō",
+                        "audīta",
+                        "nōn",
+                        "est"
+                    ]
+                },
+                {
+                    "q": "7. Magister litterās Sextī laudāvit = # # # # # #",
+                    "a": [
+                        "litterae",
+                        "Sextī",
+                        "ā|ab",
+                        "magistrō",
+                        "laudātae",
+                        "sunt"
+                    ]
+                },
+                {
+                    "q": "8. Magister discipulum pigrum pūnīvit = # # # # # #",
+                    "a": [
+                        "discipulus",
+                        "piger",
+                        "ā|ab",
+                        "magistrō",
+                        "pūnītus",
+                        "est"
+                    ]
+                },
+                {
+                    "q": "9. Rōmānī oppidum hostium expugnāvērunt = # # # # # #",
+                    "a": [
+                        "oppidum",
+                        "hostium",
+                        "ā|ab",
+                        "Rōmānīs",
+                        "expugnātum",
+                        "est"
+                    ]
+                },
+                {
+                    "q": "10. Hostēs castra Rōmāna oppugnāvērunt = # # # # # #",
+                    "a": [
+                        "castra",
+                        "Rōmāna",
+                        "ab",
+                        "hostibus",
+                        "oppugnāta",
+                        "sunt"
+                    ]
+                },
+                {
+                    "q": "11. Verba Iūliī Aemiliam dēlectāvērunt = # # # # # ",
+                    "a": [
+                        "Aemilia",
+                        "verbīs",
+                        "Iūliī",
+                        "dēlectāta",
+                        "est"
+                    ]
+                },
+                {
+                    "q": "12. Fulgur caelum illūstrāvit = # # # #",
+                    "a": [
+                        "caelum",
+                        "fulgure",
+                        "illūstrātum",
+                        "est"
+                    ]
+                },
+                {
+                    "q": "13. Puerī Iūliam vocāvērunt nec ab eā audītī sunt = # # # # # # # #",
+                    "a": [
+                        "Iūlia",
+                        "ā|ab",
+                        "puerīs",
+                        "vocāta",
+                        "est",
+                        "nec|neque",
+                        "eōs",
+                        "audīvit"
+                    ]
+                },
+                {
+                    "q": "14. Puerī ā Iūliā vocātī sunt nec eam audīvērunt = # # # # # # # #",
+                    "a": [
+                        "Iūlia",
+                        "puerōs",
+                        "vocāvit",
+                        "nec|neque",
+                        "ab",
+                        "iīs|eīs",
+                        "audīta",
+                        "est"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Exercise 3",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Hodiē māne Mārcus nōn sordidus, sed # [= pūrus] erat.",
+                    "a": [
+                        "mundus"
+                    ]
+                },
+                {
+                    "q": "2. Vestīmenta eius tam # erant quam nix nova.",
+                    "a": [
+                        "candida"
+                    ]
+                },
+                {
+                    "q": "3. Nunc vērō # eius sordida est.",
+                    "a": [
+                        "vestis"
+                    ]
+                },
+                {
+                    "q": "4. Nōn modo vestis Mārcī, sed etiam faciēs et manūs et # sordida sunt, Mārcus enim # iacuit.",
+                    "a": [
+                        "genua",
+                        "humī"
+                    ]
+                },
+                {
+                    "q": "5. # [= terra] propter imbrem ūmida est. ",
+                    "a": [
+                        "Humus"
+                    ]
+                },
+                {
+                    "q": "6. Pater fīlium suum sordidum nōn statim #.",
+                    "a": [
+                        "cognōscit"
+                    ]
+                },
+                {
+                    "q": "7. Via quae ad vīllam # [= dūcit] nōn lāta, sed # est.",
+                    "a": [
+                        "fert",
+                        "angusta"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Exercise 4",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Unde Mārcus revertitur? ...",
+                    "a": [
+                        "Mārcus ē lūdō revertitur"
+                    ]
+                },
+                {
+                    "q": "2. Estne facile Mārcum cognōscere? ...",
+                    "a": [
+                        "difficile est eum cognōscere"
+                    ]
+                },
+                {
+                    "q": "3. Cūr vestis eius ūmida est? ...",
+                    "a": [
+                        "... quod puer per imbrem ambulāvit"
+                    ]
+                },
+                {
+                    "q": "4. Quid dē nāsō Mārcī fluit? ...",
+                    "a": [
+                        "dē nāsō puerī sanguis fluit"
+                    ]
+                },
+                {
+                    "q": "5. Quis nāsum eius pulsāvit? ...",
+                    "a": [
+                        "Sextus Mārcum pulsāvit"
+                    ]
+                },
+                {
+                    "q": "6. Nōnne Sextus ā Mārcō pulsātus est? ...",
+                    "a": [
+                        "Sextus pulsātus est ā Mārcō et Titō"
+                    ]
+                },
+                {
+                    "q": "7. Quis est māximus ex tribus discipulīs? ...",
+                    "a": [
+                        "Sextus est māximus discipulōrum"
+                    ]
+                },
+                {
+                    "q": "8. Ubi puerī pugnāvērunt? ...",
+                    "a": [
+                        "puerī pugnāvērunt in viā quae Tūsculō ad vīllam fert"
+                    ]
+                },
+                {
+                    "q": "9. Cūr tam sordidus est Mārcus? ...",
+                    "a": [
+                        "sordidus est quod humī iacuit"
+                    ]
+                },
+                {
+                    "q": "10. Quis Mārcum humī iacentem tenuit? ...",
+                    "a": [
+                        "Sextus eum tenuit"
+                    ]
+                },
+                {
+                    "q": "11. Quem Mārcus vocāvit? ...",
+                    "a": [
+                        "Mārcus Titum vocāvit"
+                    ]
+                },
+                {
+                    "q": "12. Ā quō Sextus oppugnātus est? ...",
+                    "a": [
+                        "Sextus ā Mārcō et Titō oppugnātus est"
+                    ]
+                },
+                {
+                    "q": "13. Quōs vocāvit Sextus? ...",
+                    "a": [
+                        "Sextus parentēs suōs vocāvit"
+                    ]
+                },
+                {
+                    "q": "14. Ā quibus vōx Sextī audīta est? ...",
+                    "a": [
+                        "vōx Sextī ā Mārcō et Titō audīta est"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Exercise 5",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. In fronte bovis nōn ūnum corn#, sed duo corn# sunt.",
+                    "a": [
+                        "ū",
+                        "ua"
+                    ]
+                },
+                {
+                    "q": "2. Bōs duo corn# in fronte gerit.",
+                    "a": [
+                        "ua"
+                    ]
+                },
+                {
+                    "q": "3. Bōs est animal duōrum corn#.",
+                    "a": [
+                        "uum"
+                    ]
+                },
+                {
+                    "q": "4. Animal ūnīus corn# rārissimum est.",
+                    "a": [
+                        "ūs"
+                    ]
+                },
+                {
+                    "q": "5. Ex corn# bovis pōculum efficī potest. ",
+                    "a": [
+                        "ū"
+                    ]
+                },
+                {
+                    "q": "6. Hominēs barbarī ē magnīs corn# bibunt.",
+                    "a": [
+                        "ibus"
+                    ]
+                },
+                {
+                    "q": "7. Gen# est pars crūris.",
+                    "a": [
+                        "ū"
+                    ]
+                },
+                {
+                    "q": "8. Gen# Mārcī sordida sunt: in gen# eius sunt sordēs.",
+                    "a": [
+                        "ua",
+                        "ibus"
+                    ]
+                },
+                {
+                    "q": "9. Mārcus gen# lavat, prīmum gen# dextrum, tum gen# sinistrum.",
+                    "a": [
+                        "ua",
+                        "ū",
+                        "ū"
+                    ]
+                },
+                {
+                    "q": "10. Color gen# sordidōrum est āter.",
+                    "a": [
+                        "uum"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Exercise 6",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Aemilia: “Vocā puerōs, Syra!” Iūlia: “Ego eōs iam vocāv#.”",
+                    "a": [
+                        "ī"
+                    ]
+                },
+                {
+                    "q": "2. Aemilia: “Tūne puerōs iam vocāv#, Iūlia? Ego tē nōn audīv# nec puerī tē audīv#.”",
+                    "a": [
+                        "istī",
+                        "ī",
+                        "ērunt"
+                    ]
+                },
+                {
+                    "q": "3. Puerī veniunt, quia Iūlia eōs vocāv#.",
+                    "a": [
+                        "it"
+                    ]
+                },
+                {
+                    "q": "4. Iūlia: “Nōnne vōs mē vocāre audīv#, puerī?”",
+                    "a": [
+                        "istis"
+                    ]
+                },
+                {
+                    "q": "5. Puerī: “Certē tē audīv#. Cūr nōs vocāv#?”",
+                    "a": [
+                        "imus",
+                        "istī"
+                    ]
+                },
+                {
+                    "q": "6. Aemilia: “Vocā Iūliam, Syra!” Puerī: “Nōs eam iam vocāv#.”",
+                    "a": [
+                        "imus"
+                    ]
+                },
+                {
+                    "q": "7. Aemilia: “Vōsne eam iam vocāv#? Ego vōs nōn audīv#, nec Iūlia vōs audīv#.”",
+                    "a": [
+                        "istis",
+                        "ī",
+                        "it"
+                    ]
+                },
+                {
+                    "q": "8. Iūlia venit, quia puerī eam vocāv#.",
+                    "a": [
+                        "ērunt"
+                    ]
+                },
+                {
+                    "q": "9. Puerī: “Nōnne tū nōs vocāre audīv#, Iūlia?”",
+                    "a": [
+                        "istī"
+                    ]
+                },
+                {
+                    "q": "10. Iūlia: “Certē vōs audīv#. Cūr mē vocāv#?”",
+                    "a": [
+                        "ī",
+                        "istis"
+                    ]
+                },
+                {
+                    "q": "11. Sextus Mārcum pulsāv# et ipse ā Mārcō et Titō pulsāt# #, neque iī deinde ā Sextō pulsāt# #.",
+                    "a": [
+                        "it",
+                        "us",
+                        "est",
+                        "ī",
+                        "sunt"
+                    ]
+                },
+                {
+                    "q": "12. Titus: “Ego et Mārcus Sextum pulsāv#, nec nōs deinde ab eō pulsāt# #.”",
+                    "a": [
+                        "imus",
+                        "ī",
+                        "sumus"
+                    ]
+                },
+                {
+                    "q": "13. Quīntus: “Vōsne Sextum pulsāv# nec ab eō pulsāt# #?”",
+                    "a": [
+                        "istis",
+                        "ī",
+                        "estis"
+                    ]
+                },
+                {
+                    "q": "14. Titus: “Ego sōlus pulsāt# nōn #.”",
+                    "a": [
+                        "us",
+                        "sum"
+                    ]
+                },
+                {
+                    "q": "15. Quīntus: “Cūr tū pulsāt# nōn #, Tite?”",
+                    "a": [
+                        "us",
+                        "es"
+                    ]
+                },
+                {
+                    "q": "16. Puella plōrat, quia ā puerō improbō pulsāt# #.",
+                    "a": [
+                        "a",
+                        "est"
+                    ]
+                },
+                {
+                    "q": "17. Māter fīliam interrogat: “Ā quō pulsāt# #?”",
+                    "a": [
+                        "a",
+                        "es"
+                    ]
+                },
+                {
+                    "q": "18. Fīlia respondet: “Ā puerō improbō pulsāt# #.”",
+                    "a": [
+                        "a",
+                        "sum"
+                    ]
+                },
+                {
+                    "q": "19. Puellae plōrant, quia ā puerīs improbīs pulsāt# #.",
+                    "a": [
+                        "ae",
+                        "sunt"
+                    ]
+                },
+                {
+                    "q": "20. Māter fīliās interrogat: “Ā quibus pulsāt# #?”",
+                    "a": [
+                        "ae",
+                        "estis"
+                    ]
+                },
+                {
+                    "q": "21. Fīliae respondent: “Ā puerīs improbīs pulsāt# #.”",
+                    "a": [
+                        "ae",
+                        "sumus"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Exercise 7",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Pater # [= sanguinem] in faciē fīliī # [= videt].",
+                    "a": [
+                        "cruōrem",
+                        "cōnspicit"
+                    ]
+                },
+                {
+                    "q": "2. Nōn sine # Sextus Mārcum pulsāvit.",
+                    "a": [
+                        "causā"
+                    ]
+                },
+                {
+                    "q": "3. Sextus, quī tam # est quam bōs, ā duōbus puerīs pulsātus est; neque enim Mārcus sōlus puerum validiōrem # potest.",
+                    "a": [
+                        "validus",
+                        "vincere"
+                    ]
+                },
+                {
+                    "q": "4. Mārcus sē # cōnātur: “Sextus est puer māior et validior.”",
+                    "a": [
+                        "excūsāre"
+                    ]
+                },
+                {
+                    "q": "5. # est animal quod # gerit in fronte.",
+                    "a": [
+                        "Bōs",
+                        "cornua"
+                    ]
+                },
+                {
+                    "q": "6. Mārcus tam sordidus est quam #.",
+                    "a": [
+                        "porcus"
+                    ]
+                },
+                {
+                    "q": "7. Iūlius iam satis audīvit dē # puerōrum.",
+                    "a": [
+                        "pugnā"
+                    ]
+                },
+                {
+                    "q": "8. Iūlius: “Nōlī mihi plūs # dē illā pugnā #!”",
+                    "a": [
+                        "nārrāre",
+                        "indignā"
+                    ]
+                },
+                {
+                    "q": "9. In cubiculō suō Mārcus vestem sordidam # et aliam vestem pūram induit: Mārcus vestīmenta #.",
+                    "a": [
+                        "pōnit",
+                        "mūtat"
+                    ]
+                },
+                {
+                    "q": "10. # [= dum haec aguntur] Aemilia ātrium intrat.",
+                    "a": [
+                        "Interim"
+                    ]
+                },
+                {
+                    "q": "11. Solum ātriī sordidum est; māter # in solō cōnspicit.",
+                    "a": [
+                        "sordēs"
+                    ]
+                },
+                {
+                    "q": "12. Aemilia: “# pedibus sordidīs in # mundō ambulāvit!”",
+                    "a": [
+                        "Aliquis",
+                        "solō"
+                    ]
+                },
+                {
+                    "q": "13. Iūlius ‘porcum ātrium intrāvisse’ # [= dīcit].",
+                    "a": [
+                        "ait"
+                    ]
+                },
+                {
+                    "q": "14. Aemilia: “Quid #?” Iūlius: “Porcum intrāvisse #.”",
+                    "a": [
+                        "ais",
+                        "āiō"
+                    ]
+                },
+                {
+                    "q": "15. Aemilia: “# tū?”",
+                    "a": [
+                        "Ain"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Exercise 8",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Quid Iūlius in faciē fīliī cōnspicit? ...",
+                    "a": [
+                        "Iūlius cruōrem in faciē fīliī cōnspicit"
+                    ]
+                },
+                {
+                    "q": "2. Num bōs Mārcum pulsāvit? ...",
+                    "a": [
+                        "nōn bōs, sed puer īrātus eum pulsāvit"
+                    ]
+                },
+                {
+                    "q": "3. Cūr Mārcus sōlus Sextum vincere nōn potest? ...",
+                    "a": [
+                        "... quia Sextus māior et validior est quam Mārcus"
+                    ]
+                },
+                {
+                    "q": "4. Quī Sextum humī iacentem tenuērunt? ...",
+                    "a": [
+                        "Mārcus et Titus Sextum tenuērunt"
+                    ]
+                },
+                {
+                    "q": "5. Cūr Iūlius pugnam puerōrum ‘indignam’ dīcit? ...",
+                    "a": [
+                        "... quod duo cum ūnō pugnāvērunt"
+                    ]
+                },
+                {
+                    "q": "6. Quō Iūlius Mārcum īre iubet? ...",
+                    "a": [
+                        "Iūlius eum in cubiculum eius īre iubet"
+                    ]
+                },
+                {
+                    "q": "7. Quid agit Mārcus in cubiculō suō? ...",
+                    "a": [
+                        "Mārcus lavātur et vestem mūtat"
+                    ]
+                },
+                {
+                    "q": "8. Quis puerō novam vestem dat? ...",
+                    "a": [
+                        "Dāvus eī novam vestem dat"
+                    ]
+                },
+                {
+                    "q": "9. Quid Aemilia in solō cōnspicit? ...",
+                    "a": [
+                        "Aemilia sordēs et vestīgia puerī in solō cōnspicit"
+                    ]
+                },
+                {
+                    "q": "10. Quid tum ait Iūlius? ...",
+                    "a": [
+                        "Iūlius ‘porcum ātrium intrāvisse’ ait"
+                    ]
+                },
+                {
+                    "q": "11. Cūr Iūlius fīlium suum ‘porcum’ appellat? ...",
+                    "a": [
+                        "... quia Mārcus tam sordidus est quam porcus"
+                    ]
+                },
+                {
+                    "q": "12. Tūne hāc nocte bene dormīvistī? ...",
+                    "a": [
+                        "ego hāc nocte bene/male dormīvī"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Exercise 9",
+            "info": "Exempla: \nDāvus: \"Fīlius/a dormīvit\"\t  Dāvus dīcit 'fīlium/am dormīvisse' \nDāvus: \"Fīliī/ae dormīvērunt\"\t  Dāvus dīcit 'fīliōs/ās dormīvisse'\nDāvus: \"Fīlius vocātus est\" \t  Dāvus dīcit 'fīlium vocātum esse'\nDāvus: \"Fīlia vocāta est\"      \t  Dāvus dīcit 'fīliam vocātam esse'\nDāvus: \"Fīliī vocātī sunt\"\t  Dāvus dīcit 'fīliōs vocātōs esse'\nDāvus: \"Fīliae vocātae sunt\"\t  Dāvus dīcit 'fīliās vocātās esse'\n",
+            "questions": [
+                {
+                    "q": "1. Iūlius: “Mārcus intrāvit.” Iūlius ‘Mārc# intrāv#’ dīcit.",
+                    "a": [
+                        "um",
+                        "isse"
+                    ]
+                },
+                {
+                    "q": "2. Iūlius: “Puerī in viā pugnāvērunt et humī iacuērunt.” Iūlius dīcit ‘puer#  in viā pugnāv# et humī iacu#.’",
+                    "a": [
+                        "ōs",
+                        "isse",
+                        "isse"
+                    ]
+                },
+                {
+                    "q": "3. Syra: “Iūlia ā Mārcō pulsāta est.” Syra dīcit ‘Iūli# ā Mārcō pulsāt# #.’",
+                    "a": [
+                        "am",
+                        "am",
+                        "esse"
+                    ]
+                },
+                {
+                    "q": "4. Sextus: “Magistrō pāruī.” Sextus dīcit ‘# magistrō pāru#.’   ",
+                    "a": [
+                        "sē",
+                        "isse"
+                    ]
+                },
+                {
+                    "q": "5. Sextus: “Ā magistrō laudātus sum.” Sextus ‘# ā magistrō laudāt# #’ dīcit.",
+                    "a": [
+                        "sē",
+                        "um",
+                        "esse"
+                    ]
+                },
+                {
+                    "q": "6. Dāvus: “Quīntus tōtam noctem vigilāvit nec hōram dormīvit.” Dāvus dīcit ‘Quīnt# tōtam noctem vigilāv# nec hōram dormīv#.’",
+                    "a": [
+                        "um",
+                        "isse",
+                        "isse"
+                    ]
+                },
+                {
+                    "q": "7. Mārcus: “Ego bene dormīvī, sed ā Dāvō excitātus sum.” Mārcus dīcit '# bene dormīv#, sed ā Dāvō excitāt# #.’",
+                    "a": [
+                        "sē",
+                        "isse",
+                        "um",
+                        "esse"
+                    ]
+                },
+                {
+                    "q": "8. Iūlia. “Ā Syrā excitāta sum.” Iūlia dīcit ‘# ā Syrā excitāt# #.’",
+                    "a": [
+                        "sē",
+                        "am",
+                        "esse"
+                    ]
+                },
+                {
+                    "q": "9. Aemilia: “Discipulī ā magistrō laudātī sunt.” Aemilia dīcit ‘discipul# ā magistrō laudāt# #.’ ",
+                    "a": [
+                        "ōs",
+                        "ōs",
+                        "esse"
+                    ]
+                },
+                {
+                    "q": "10. Iūlius: “Mārcus nōn laudātus, sed pūnītus est ā magistrō.” Iūlius dīcit ‘Mārc# nōn laudāt#, sed pūnīt# # ā magistrō.’",
+                    "a": [
+                        "um",
+                        "um",
+                        "um",
+                        "esse"
+                    ]
+                },
+                {
+                    "q": "11. Aemilia: “Mārcus pulchrē scrīpsit.” Aemilia ‘Mārc# pulchrē scrīps#’ dīcit.",
+                    "a": [
+                        "um",
+                        "isse"
+                    ]
+                },
+                {
+                    "q": "12. Iūlius: “Eae litterae nōn ā Mārcō scrīptae sunt.” Iūlius dīcit ‘e# litter# nōn ā Mārcō scrīpt# #.’",
+                    "a": [
+                        "ās",
+                        "ās",
+                        "ās",
+                        "esse"
+                    ]
+                },
+                {
+                    "q": "13. Iūlius: “Mārcus puer improbus fuit.” Iūlius ‘Mārc# puer# improb# fu#’ dīcit.",
+                    "a": [
+                        "um",
+                        "um",
+                        "um",
+                        "isse"
+                    ]
+                },
+                {
+                    "q": "14. Magister: “Epistula mea iam scrīpta et signāta est.” Magister dīcit ‘epistul# su# iam scrīpt# et signāt# esse.’",
+                    "a": [
+                        "am",
+                        "am",
+                        "am",
+                        "am"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Exercise 10",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Magister: “Scrībe M deciēs, Mārce!” Mārcus, postquam M M M M M M M \tM M scrīps#: “Iam tibi pār#: deciēs M scrīps#.”",
+                    "a": [
+                        "it",
+                        "uī",
+                        "ī"
+                    ]
+                },
+                {
+                    "q": "2. Magister, postquam litterās numer#: “Nōn pār#, puer pigerrime! Noviēs tantum M scrīps#, ego litterās numer#. Nōnne aud# quod dīx#?”",
+                    "a": [
+                        "āvit",
+                        "uistī",
+                        "istī",
+                        "āvī",
+                        "īvistī",
+                        "ī"
+                    ]
+                },
+                {
+                    "q": "3. Mārcus: “Certē aud# quod dīx#. At tū prāvē numer#!”",
+                    "a": [
+                        "īvī",
+                        "istī",
+                        "āvistī"
+                    ]
+                },
+                {
+                    "q": "4. Magister: “Vōs numerāte litterās, Tite et Sexte! ... Quid agitis? Nōn mē aud#?”",
+                    "a": [
+                        "īvistis"
+                    ]
+                },
+                {
+                    "q": "5. Titus et Sextus “Certē tē aud#” inquiunt, et postquam litterās numer#: “Litterās numer#: decem sunt.”",
+                    "a": [
+                        "īvimus",
+                        "āvērunt",
+                        "āvimus"
+                    ]
+                },
+                {
+                    "q": "6. Magister: “Prāvē numer#! Ipsī M deciēs scrībite!”",
+                    "a": [
+                        "āvistis"
+                    ]
+                },
+                {
+                    "q": "7. Uterque puer M M M M M scrībit. Titus: “Iam tibi pār#.”",
+                    "a": [
+                        "uimus"
+                    ]
+                },
+                {
+                    "q": "8. Magister: “Nōn pār#, puerī pigerrimī! Quīnquiēs tantum M scrīps#.”",
+                    "a": [
+                        "uistis",
+                        "istis"
+                    ]
+                },
+                {
+                    "q": "9. Titus: “At quīnque et quīnque sunt decem: ergō deciēs M scrīps#.”",
+                    "a": [
+                        "imus"
+                    ]
+                },
+                {
+                    "q": "10. Titus et Sextus magistrō pār#, quod bis quīnquiēs M scrīps#, nam bis quīnquiēs sunt deciēs.",
+                    "a": [
+                        "uērunt",
+                        "ērunt"
+                    ]
+                },
+                {
+                    "q": "11. Mārcus vērō magistrō nōn pār#, quod noviēs tantum M scrīps#.",
+                    "a": [
+                        "uit",
+                        "it"
+                    ]
+                },
+                {
+                    "q": "12. Sed tamen Mārcus dīcit ‘sē magistrō pār# et deciēs M scrīps#, at magistrum prāvē numer#!'",
+                    "a": [
+                        "uisse",
+                        "isse",
+                        "āvisse"
+                    ]
+                },
+                {
+                    "q": "13. Magister discipulōs verba sua nōn aud# putat, sed Titus et Sextus omnia aud#.",
+                    "a": [
+                        "īvisse",
+                        "īvērunt"
+                    ]
+                },
+                {
+                    "q": "14. Iūlius: “Hodiēne probus discipulus fu#, Mārce?\"",
+                    "a": [
+                        "istī"
+                    ]
+                },
+                {
+                    "q": "15. Mārcus: “Certē probus fu#. Nōs omnēs probī discipulī fu#.”",
+                    "a": [
+                        "ī",
+                        "imus"
+                    ]
+                },
+                {
+                    "q": "16. Iūlius: “Id nōn crēdō! Vōs omnēs discipulī improbī fu#!”",
+                    "a": [
+                        "istis"
+                    ]
+                },
+                {
+                    "q": "17. Iūlius ‘omnēs discipulōs improbōs fu#’ dīcit, sed Mārcus sōlus improbus fu#, cēterī probī fu#.",
+                    "a": [
+                        "isse",
+                        "it",
+                        "ērunt"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Exercise 11",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Mārcus in ātrium redit, # vestem mūtāvit.",
+                    "a": [
+                        "postquam"
+                    ]
+                },
+                {
+                    "q": "2. Mārcus: “Magister # [= multās rēs] nōs docuit; prīmum # recitāvit, nesciō quid.”",
+                    "a": [
+                        "multa",
+                        "aliquid"
+                    ]
+                },
+                {
+                    "q": "3. Mārcus parentibus # [= parvam tabulam] ostendit, quam ‘suam esse’ dīcit.",
+                    "a": [
+                        "tabellam"
+                    ]
+                },
+                {
+                    "q": "4. Tabella vērō Sextī est, Mārcus enim tabellās mūtāvit # pugnam.",
+                    "a": [
+                        "inter"
+                    ]
+                },
+                {
+                    "q": "5. Nōn vērum, sed # est id quod Mārcus dīcit: puer #.",
+                    "a": [
+                        "falsum",
+                        "mentītur"
+                    ]
+                },
+                {
+                    "q": "6. Māter fīliō suō #, sed pater dē verbīs eius #.",
+                    "a": [
+                        "crēdit",
+                        "dubitat"
+                    ]
+                },
+                {
+                    "q": "7. Mārcus patrem suum # nōn potest.",
+                    "a": [
+                        "fallere"
+                    ]
+                },
+                {
+                    "q": "8. Iūlius: “Falsa sunt # [= omnēs rēs] quae # nārrāvistī!”",
+                    "a": [
+                        "omnia",
+                        "nōbīs"
+                    ]
+                },
+                {
+                    "q": "9. Mārcus: “Omnia quae # nārrāvī, pater et māter, vēra sunt!”",
+                    "a": [
+                        "vōbīs"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Exercise 12",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Quō it Mārcus postquam vestem mūtāvit? ...",
+                    "a": [
+                        "Mārcus in ātrium redit"
+                    ]
+                },
+                {
+                    "q": "2. Quem Mārcus in ātriō salūtat? ...",
+                    "a": [
+                        "Mārcus mātrem suam salūtat"
+                    ]
+                },
+                {
+                    "q": "3. Cūr Aemilia fīlium suum laudat? ...",
+                    "a": [
+                        "... quod statim vestem mūtāvit"
+                    ]
+                },
+                {
+                    "q": "4. Num Mārcus dīcit ‘sē malum discipulum fuisse’? ...",
+                    "a": [
+                        "Mārcus dīcit ‘sē bonum puerum fuisse’"
+                    ]
+                },
+                {
+                    "q": "5. Estne vērum id quod dīcit Mārcus? ...",
+                    "a": [
+                        "id quod dīcit vērum nōn est"
+                    ]
+                },
+                {
+                    "q": "6. Cūr puerī magistrum recitantem nōn audīvērunt? ...",
+                    "a": [
+                        "... quia dormīvērunt"
+                    ]
+                },
+                {
+                    "q": "7. Cūr tergum dolet Mārcō? ...",
+                    "a": [
+                        "... quod Mārcus verberātus est ā magistrō"
+                    ]
+                },
+                {
+                    "q": "8. Quōmodo Mārcus mātrem fallit? ...",
+                    "a": [
+                        "Mārcus mātrī tabellam ostendit quam ‘suam esse’ dīcit"
+                    ]
+                },
+                {
+                    "q": "9. Cuius est tabella quam Mārcus ostendit? ...",
+                    "a": [
+                        "ea tabella Sextī est"
+                    ]
+                },
+                {
+                    "q": "10. Quis eās litterās pulcherrimās scrīpsit? ...",
+                    "a": [
+                        "Sextus eās litterās scrīpsit"
+                    ]
+                },
+                {
+                    "q": "11. Quid Mārcus dīcit mātrī? ...",
+                    "a": [
+                        "Mārcus dīcit ‘sē ipsum eās litterās pulcherrimās scrīpsisse’"
+                    ]
+                },
+                {
+                    "q": "12. Num magister litterās Mārcī laudāvit? ...",
+                    "a": [
+                        "Magister litterās eius nōn laudāvit, sed ‘litterās foedās esse’ dīxit"
+                    ]
+                },
+                {
+                    "q": "13. Quid Mārcus dīcit dē cēterīs discipulīs? ...",
+                    "a": [
+                        "dīcit ‘cēterōs prāvē scrīpsisse et malōs discipulōs fuisse’"
+                    ]
+                },
+                {
+                    "q": "14. Iūliusne fīliō suō crēdit? ...",
+                    "a": [
+                        "Iūlius Mārcō nōn crēdit, sed dē verbīs eius dubitat"
+                    ]
+                },
+                {
+                    "q": "15. Cūr Iūlius Aemiliae interrogantī nōn respondet? ...",
+                    "a": [
+                        "... quia aliquis iānuam pulsat"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Exercise 13",
+            "info": "Praeteritum perfectum et imperfectum\nExempla: \nLȳdia trīstis domī sedēbat nec Mēdum exspectābat. Tum Mēdus \nōstium pulsāvit et intrāvit. Lȳdia laeta amīcum salūtāvit et ab eō \nsalūtāta est.\nIūlius adulēscēns saepe Aemiliam salūtābat nec ab eā salūtābātur. \n",
+            "questions": [
+                {
+                    "q": "1. 'Salūtābat' nōn tempus praesēns, sed tempus # est; 'salūtāvit' quoque tempus # est.",
+                    "a": [
+                        "praeteritum",
+                        "praeteritum"
+                    ]
+                },
+                {
+                    "q": "2. 'Sedēbat', 'exspectābat', 'salūtābat', 'salūtābātur' nōn est praeteritum perfectum, sed #.",
+                    "a": [
+                        "imperfectum"
+                    ]
+                },
+                {
+                    "q": "3. 'Pulsāvit', 'intrāvit', 'salūtāvit', 'salūtāta est' nōn praeteritum imperfectum, sed # est.",
+                    "a": [
+                        "perfectum"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Exercise 14",
+            "info": "Āctīvum\n____________Sing.\t\tPlūr.\t\t\tSing.\t\tPlūr.\nPassīvum \n____________Sing.\t\tPlūr.\t\tSing.\t\tPlūr.\n",
+            "questions": [
+                {
+                    "q": "1. Īnfīnītīvus: praesēns: vocā|re, perfectum: #|isse;",
+                    "a": [
+                        "vocāv"
+                    ]
+                },
+                {
+                    "q": "praesēns: pārē|re, perfectum: #|isse;",
+                    "a": [
+                        "pāru"
+                    ]
+                },
+                {
+                    "q": "praesēns: scrīb|ere, perfectum: #|isse;",
+                    "a": [
+                        "scrīps"
+                    ]
+                },
+                {
+                    "q": "praesēns: audī|re, perfectum: #|isse.",
+                    "a": [
+                        "audīv"
+                    ]
+                },
+                {
+                    "q": "2. Persōnae perfectī: singulāris: pers. 1 ~ī, 2 ~#, 3 ~#; plūrālis: pers. 1 ~#, 2 ~#, 3 ~#.",
+                    "a": [
+                        "istī",
+                        "it",
+                        "imus",
+                        "istis",
+                        "ērunt"
+                    ]
+                },
+                {
+                    "q": "3. Pers.1  \tvocāv#\t\tvocāv#\t\tpāru#\t\tpāru#",
+                    "a": [
+                        "ī",
+                        "imus",
+                        "ī",
+                        "imus"
+                    ]
+                },
+                {
+                    "q": "4. Pers.2\tvocāv#\tvocāv#\t\tpāru#\t\tpāru#",
+                    "a": [
+                        "istī",
+                        "istis",
+                        "istī",
+                        "istis"
+                    ]
+                },
+                {
+                    "q": "5. Pers.3\tvocāv#\t\tvocāv#\t\tpāru#\t\tpāru#",
+                    "a": [
+                        "it",
+                        "ērunt",
+                        "it",
+                        "ērunt"
+                    ]
+                },
+                {
+                    "q": "6. Pers.1\tscrīps#\t\tscrīps#\t\taudīv#\t\taudīv#",
+                    "a": [
+                        "ī",
+                        "imus",
+                        "ī",
+                        "imus"
+                    ]
+                },
+                {
+                    "q": "7. Pers.2\tscrīps#\tscrīps#\t\taudīv#\taudīv#",
+                    "a": [
+                        "istī",
+                        "istis",
+                        "istī",
+                        "istis"
+                    ]
+                },
+                {
+                    "q": "8. Pers.3\tscrīps#\t\tscrīps#\t\taudīv#\t\taudīv#",
+                    "a": [
+                        "it",
+                        "ērunt",
+                        "it",
+                        "ērunt"
+                    ]
+                },
+                {
+                    "q": "9. Īnfīnītīvus: praesēns: vocā|rī, perfectum: #um esse;",
+                    "a": [
+                        "vocāt"
+                    ]
+                },
+                {
+                    "q": "praesēns: audī|rī, perfectum: #um esse.",
+                    "a": [
+                        "audīt"
+                    ]
+                },
+                {
+                    "q": "10. Pers.1\tvocātus #\tvocāt# #\taudīt# #\taudīt# #\t\t\t",
+                    "a": [
+                        "sum",
+                        "ī",
+                        "sumus",
+                        "us",
+                        "sum",
+                        "ī",
+                        "sumus"
+                    ]
+                },
+                {
+                    "q": "11. Pers.2\tvocāt# #\tvocāt# #\taudīt# #\taudīt# #\t",
+                    "a": [
+                        "us",
+                        "es",
+                        "ī",
+                        "estis",
+                        "us",
+                        "es",
+                        "ī",
+                        "estis"
+                    ]
+                },
+                {
+                    "q": "12. Pers.3\tvocāt# #\tvocāt# #\taudīt# #\taudīt# #",
+                    "a": [
+                        "us",
+                        "est",
+                        "ī",
+                        "sunt",
+                        "us",
+                        "est",
+                        "ī",
+                        "sunt"
+                    ]
+                },
+                {
+                    "q": "13. Participium perfectī: nōm. sing.: masc. voc#, aud#, fēm. voc#, aud#, neutr. voc#, aud#.",
+                    "a": [
+                        "ātus",
+                        "ītus",
+                        "āta",
+                        "īta",
+                        "ātum",
+                        "ītum"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "PENSVM A",
+            "info": "",
+            "questions": [
+                {
+                    "a": [
+                        "āvit",
+                        "uit"
+                    ],
+                    "q": "Mārcus ūmidus est, quod per imbrem ambul#, ac sordidus, quod humī iac#."
+                },
+                {
+                    "a": [
+                        "āvērunt",
+                        "uērunt"
+                    ],
+                    "q": "Discipulī ūmidī sunt, quod per imbrem ambul#, ac sordidī, quod humī iac#."
+                },
+                {
+                    "a": [
+                        "ātus"
+                    ],
+                    "q": "Mārcus: \"Ā Sextō puls# sum.\""
+                },
+                {
+                    "a": [
+                        "āvistī"
+                    ],
+                    "q": "Iūlius: \"Nōnne tū Sextum puls#?\""
+                },
+                {
+                    "a": [
+                        "āvit",
+                        "āvī",
+                        "āvimus"
+                    ],
+                    "q": "Mārcus: \"Prīmum Sextus mē puls#, tum ego illum puls#. Ego et Titus Sextum puls#.\""
+                },
+                {
+                    "a": [
+                        "āvistis",
+                        "uistī"
+                    ],
+                    "q": "Iūlius: \"Quid? Vōs duo ūnum puls#? Et cūr sordida est vestis tua? Humīne iac#?\""
+                },
+                {
+                    "a": [
+                        "uī",
+                        "uit"
+                    ],
+                    "q": "Mārcus: \"Humī iac#: Sextus mē ten#.\""
+                },
+                {
+                    "a": [
+                        "uit"
+                    ],
+                    "q": "Aemilia: \"Quid magister vōs doc# hodiē?\""
+                },
+                {
+                    "a": [
+                        "āvit",
+                        "īvī"
+                    ],
+                    "q": "Mārcus: \"Magister aliquid recit#, sed ego initium tantum aud#.\""
+                },
+                {
+                    "a": [
+                        "īvistī"
+                    ],
+                    "q": "Aemilia: \"Cūr nōn omnia aud#?\" "
+                },
+                {
+                    "a": [
+                        "īvit"
+                    ],
+                    "q": "Iūlius: \"Mārcus in lūdō dorm#!\""
+                },
+                {
+                    "a": [
+                        "īvisse",
+                        "īvistī"
+                    ],
+                    "q": "Aemilia: \"Audīsne? Pater dīcit 'tē in lūdō dorm#.' Tūne vērē dorm#?\""
+                },
+                {
+                    "a": [
+                        "īvī",
+                        "īvimus",
+                        "āvit"
+                    ],
+                    "q": "Mārcus: \"Certē dorm#, māter. Omnēs dorm#! Sed paulō post magister laud# litterās meās.\""
+                },
+                {
+                    "a": [
+                        "it"
+                    ],
+                    "q": "Mārcus mātrī litterās quās Sextus scrīps# ostendit."
+                },
+                {
+                    "a": [
+                        "istī"
+                    ],
+                    "q": "Aemilia: \"Tūne ipse hoc scrīps#?\""
+                },
+                {
+                    "a": [
+                        "ī",
+                        "ērunt"
+                    ],
+                    "q": "Mārcus: \"Ipse scrīps#. Cēterī puerī prāvē scrīps#.\""
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "PENSVM B",
+            "info": "",
+            "questions": [
+                {
+                    "a": [
+                        "mundus",
+                        "candida"
+                    ],
+                    "q": "Hodiē māne Mārcus # erat, vestīmenta eius tam # erant quam nix."
+                },
+                {
+                    "a": [
+                        "vestis",
+                        "genua",
+                        "cruor"
+                    ],
+                    "q": "Nunc nōn modo # [= vestīmenta] eius, sed etiam faciēs et manūs et # sordida sunt, atque # [= sanguis] eī dē nāsō fluit. "
+                },
+                {
+                    "a": [
+                        "validus",
+                        "causā"
+                    ],
+                    "q": "Nam Sextus, quī tam # est quam bōs, Mārcum pulsāvit sine # (ut ait Marcus)."
+                },
+                {
+                    "a": [
+                        "humī",
+                        "porcus",
+                        "cognōscere"
+                    ],
+                    "q": "Mārcus, quī # iacuit, tam sordidus est quam #. Difficile est eum #."
+                },
+                {
+                    "a": [
+                        "mūtat"
+                    ],
+                    "q": "In cubiculō suō Mārcus lavātur et vestem #. "
+                },
+                {
+                    "a": [
+                        "Interim",
+                        "cōnspicit"
+                    ],
+                    "q": "# [= dum haec aguntur] Aemilia ātrium intrat et vestīgia puerī #."
+                },
+                {
+                    "a": [
+                        "Aliquis",
+                        "solō"
+                    ],
+                    "q": "Aemilia: \"Quid hoc est? # pedibus sordidīs in # mundō ambulāvit!\" "
+                },
+                {
+                    "a": [
+                        "postquam"
+                    ],
+                    "q": "Mārcus, # vestem mūtāvit, in ātrium redit. "
+                },
+                {
+                    "a": [
+                        "tabellam",
+                        "scrīpsisse"
+                    ],
+                    "q": "Puer mātrī # [= parvam tabulam] Sextī ostendit et 'sē ipsum eās litterās #' dīcit."
+                },
+                {
+                    "a": [
+                        "falsum",
+                        "mentītur",
+                        "crēdit"
+                    ],
+                    "q": "Id quod Mārcus dīcit nōn vērum, sed # est; Mārcus #, sed Aemilia fīliō suō #. "
+                },
+                {
+                    "a": [
+                        "dubitat",
+                        "fallere"
+                    ],
+                    "q": "Iūlius vērō dē verbīs eius #; Mārcus patrem suum # nōn potest."
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "name": "PENSVM C",
+            "info": "",
+            "questions": [
+                {
+                    "q": "1. Cūr Mārcus rediēns ūmidus et sordidus est? ",
+                    "a": []
+                },
+                {
+                    "q": "2. Ā quō pulsātus est? ",
+                    "a": []
+                },
+                {
+                    "q": "3. Cūr Mārcus sōlus Sextum vincere nōn potest? ",
+                    "a": []
+                },
+                {
+                    "q": "4. Quōmodo Mārcus sē excūsāre cōnātur? ",
+                    "a": []
+                },
+                {
+                    "q": "5. Quid agit Mārcus in cubiculō suō? ",
+                    "a": []
+                },
+                {
+                    "q": "6. Quid Aemilia in solō cōnspicit? ",
+                    "a": []
+                },
+                {
+                    "q": "7. Quid tum Iūlius dīcit uxōrī? ",
+                    "a": []
+                },
+                {
+                    "q": "8. Quid Mārcus parentibus suīs ostendit? ",
+                    "a": []
+                },
+                {
+                    "q": "9. Quis litterās quae in eā tabulā sunt scrīpsit? ",
+                    "a": []
+                },
+                {
+                    "q": "10. Cūr Iūlius fīlium suum nōn laudat? ",
+                    "a": []
+                }
+            ]
+        }
+    ]
+}
