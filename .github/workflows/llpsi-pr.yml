@@ -15,6 +15,9 @@ concurrency:
 
 jobs:
   yarn-test:
+    name: "Run yarn test"
+    runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v2
 
