@@ -40,12 +40,12 @@ export default class Input extends React.Component {
             let answers__ = answer_.split("|");
             let answer_1 = answers__[0];
             let answer_2 = answers__[1];
-            if (answer_1 == text_ || answer_2 == text_) {
+            if (answer_1 === text_ || answer_2 === text_) {
                 return true;
             }
             return false
         }
-        return text_ == answer_;
+        return text_ === answer_;
     }
 
     handleChange = (ev) => {
@@ -54,8 +54,8 @@ export default class Input extends React.Component {
 
     render = () => {
         let class_ = "";
-        if (this.state.value != "") {
-            if (this.props.checkAnswers && this.props.answer != undefined) {
+        if (this.state.value !== "") {
+            if (this.props.checkAnswers && this.props.answer !== undefined) {
                 if (this.isCorrect(this.state.value, this.props.answer)) {
                     class_ = "correct";
                 } else {
@@ -72,7 +72,7 @@ export default class Input extends React.Component {
                     autoCapitalize="off"
                     spellCheck="false"
                     style={{ marginLeft: this.props.marginLeft }}
-                    size={this.props.answer != undefined ? this.props.answer.length : this.state.value.length}
+                    size={this.props.answer !== undefined ? this.props.answer.length : this.state.value.length}
                     type="text"
                     value={this.state.value}
                     onChange={this.handleChange}

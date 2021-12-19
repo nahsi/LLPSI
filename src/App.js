@@ -6,7 +6,6 @@ import Chapters from "./pages/Chapters.js"
 import Exercise from './pages/Exercise.js';
 import Chapter from './pages/Chapter.js';
 import Header from "./components/Header.js";
-import Footer from "./components/Footer.js";
 import ScrollToTop from './components/ScrollToTop';
 
 export default class App extends React.Component {
@@ -29,7 +28,6 @@ export default class App extends React.Component {
             <Home />
           </Route>
         </Switch>
-        <Footer />
       </Router>
     );
   }

@@ -1,0 +1,36 @@
+name: LLPSI RELEASE
+
+on:
+  push:
+    branches:
+      - "master"
+    paths-ignore:
+      - "**.md"
+      - ".gitignore"
+      - ".github/**"
+
+concurrency:
+  group: "llpsi-${{ github.ref }}"
+
+jobs:
+  yarn-build:
+    name: "Build with yarn"
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Login to docker registry
+        uses: docker/login-action@v1
+        with:
+          username: "${{ secrets.DOCKER_USERNAME }}"
+          password: "${{ secrets.DOCKER_PASSWORD }}"
+
+      - name: Push LLPSI docker image
+        uses: docker/build-push-action@v2
+        with:
+          context: .
+          file: docker/Dockerfile
+          tags: nahsihub/llpsi:latest
+          push: true
+

@@ -1,0 +1,5 @@
+:{$LISTEN_PORT} {
+  encode gzip
+  file_server
+  root * /srv
+}
