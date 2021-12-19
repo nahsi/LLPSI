@@ -3,7 +3,7 @@ name: LLPSI PR
 on:
   pull_request:
     branches:
-      - "main"
+      - "master"
     paths-ignore:
       - "**.md"
       - ".gitignore"
