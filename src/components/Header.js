@@ -19,7 +19,7 @@ export default class Header extends React.Component {
     }
     
     closeMenu = (ev) => {
-        if (!ev || ev.target.id != "chapters-menu") {
+        if (!ev || ev.target.id !== "chapters-menu") {
             this.setState({ showMenu: false }, () => {
                 document.removeEventListener('click', this.closeMenu);
             });
