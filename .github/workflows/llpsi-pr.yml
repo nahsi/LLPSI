@@ -1,0 +1,38 @@
+name: LLPSI PR
+
+on:
+  pull_request:
+    branches:
+      - "main"
+    paths-ignore:
+      - "**.md"
+      - ".gitignore"
+      - ".github/**"
+
+concurrency:
+  group: "llpsi-${{ github.ref }}"
+  cancel-in-progress: true
+
+jobs:
+  yarn-test:
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Setup node
+        uses: actions/setup-node@v2
+        with:
+          node-version: 12.x
+
+      - name: Setup python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 2.x
+
+      - name: Install dependencies
+        run: yarn
+
+      - name: Run yarn lint
+        run: yarn lint
+
+      - name: Run yarn test
+        run: yarn test
