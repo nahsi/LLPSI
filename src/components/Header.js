@@ -44,7 +44,6 @@ export default class Header extends React.Component {
                             {dropDownItems}
                         </div> : null}
                 </div>
-                <div className="github-btn" onClick={() => window.open('https://github.com/nktfh100/ExercitiaLatina','_blank')}>GitHub</div>
             </nav>
         );
     }
